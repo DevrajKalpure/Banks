@@ -1,0 +1,10 @@
+{
+  "inputFiles": 30,
+  "inputRows": 47935,
+  "outputRows": 47935,
+  "duplicatesDropped": 0,
+  "states": 53,
+  "missingPhone": 7124,
+  "stdCodeMissingOrZero": 15832,
+  "invalidIfsc": 0
+}
