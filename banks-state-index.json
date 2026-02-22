@@ -1,62 +1,92 @@
 [
   {
     "stateSlug": "andaman-and-nicobar",
-    "count": 1,
+    "count": 7,
     "file": "by-state/andaman-and-nicobar.json"
   },
   {
     "stateSlug": "andaman-and-nicobar-island",
-    "count": 20,
+    "count": 63,
     "file": "by-state/andaman-and-nicobar-island.json"
   },
   {
     "stateSlug": "andaman-and-nicobar-islands",
-    "count": 7,
+    "count": 12,
     "file": "by-state/andaman-and-nicobar-islands.json"
   },
   {
+    "stateSlug": "andamanandnicobar",
+    "count": 2,
+    "file": "by-state/andamanandnicobar.json"
+  },
+  {
     "stateSlug": "andhra-pradesh",
-    "count": 2208,
+    "count": 10325,
     "file": "by-state/andhra-pradesh.json"
   },
   {
     "stateSlug": "andhrapradesh",
-    "count": 1,
+    "count": 8,
     "file": "by-state/andhrapradesh.json"
   },
   {
+    "stateSlug": "ap",
+    "count": 1,
+    "file": "by-state/ap.json"
+  },
+  {
     "stateSlug": "arunachal-pradesh",
-    "count": 54,
+    "count": 207,
     "file": "by-state/arunachal-pradesh.json"
   },
   {
     "stateSlug": "assam",
-    "count": 701,
+    "count": 2626,
     "file": "by-state/assam.json"
   },
   {
+    "stateSlug": "bangalore-urban",
+    "count": 1,
+    "file": "by-state/bangalore-urban.json"
+  },
+  {
     "stateSlug": "bihar",
-    "count": 1945,
+    "count": 5934,
     "file": "by-state/bihar.json"
   },
   {
     "stateSlug": "chandigarh",
-    "count": 218,
+    "count": 694,
     "file": "by-state/chandigarh.json"
   },
   {
+    "stateSlug": "chandigarh-ut",
+    "count": 3,
+    "file": "by-state/chandigarh-ut.json"
+  },
+  {
     "stateSlug": "chattisgarh",
-    "count": 35,
+    "count": 420,
     "file": "by-state/chattisgarh.json"
   },
   {
+    "stateSlug": "chhatisgarh",
+    "count": 10,
+    "file": "by-state/chhatisgarh.json"
+  },
+  {
+    "stateSlug": "chhatishgarh",
+    "count": 55,
+    "file": "by-state/chhatishgarh.json"
+  },
+  {
     "stateSlug": "chhattisgarh",
-    "count": 1346,
+    "count": 2693,
     "file": "by-state/chhattisgarh.json"
   },
   {
     "stateSlug": "dadar-and-nagar-haveli",
-    "count": 7,
+    "count": 13,
     "file": "by-state/dadar-and-nagar-haveli.json"
   },
   {
@@ -65,49 +95,99 @@
     "file": "by-state/dadara-and-nagar-haveli-and-daman-and-diu.json"
   },
   {
+    "stateSlug": "dadra",
+    "count": 1,
+    "file": "by-state/dadra.json"
+  },
+  {
     "stateSlug": "dadra-and-nagar-haveli",
-    "count": 18,
+    "count": 49,
     "file": "by-state/dadra-and-nagar-haveli.json"
   },
   {
     "stateSlug": "dadra-and-nagar-haveli-and-daman-and-diu",
-    "count": 2,
+    "count": 3,
     "file": "by-state/dadra-and-nagar-haveli-and-daman-and-diu.json"
   },
   {
+    "stateSlug": "dakshin-kannad",
+    "count": 1,
+    "file": "by-state/dakshin-kannad.json"
+  },
+  {
+    "stateSlug": "daman",
+    "count": 1,
+    "file": "by-state/daman.json"
+  },
+  {
     "stateSlug": "daman-and-diu",
-    "count": 16,
+    "count": 62,
     "file": "by-state/daman-and-diu.json"
   },
   {
     "stateSlug": "delhi",
-    "count": 1175,
+    "count": 4559,
     "file": "by-state/delhi.json"
   },
   {
     "stateSlug": "goa",
-    "count": 294,
+    "count": 909,
     "file": "by-state/goa.json"
   },
   {
     "stateSlug": "gujarat",
-    "count": 3761,
+    "count": 11982,
     "file": "by-state/gujarat.json"
   },
   {
+    "stateSlug": "gujrat",
+    "count": 13,
+    "file": "by-state/gujrat.json"
+  },
+  {
+    "stateSlug": "harkhand",
+    "count": 1,
+    "file": "by-state/harkhand.json"
+  },
+  {
     "stateSlug": "haryana",
-    "count": 1478,
+    "count": 5512,
     "file": "by-state/haryana.json"
   },
   {
     "stateSlug": "himachal-pradesh",
-    "count": 257,
+    "count": 2093,
     "file": "by-state/himachal-pradesh.json"
   },
   {
+    "stateSlug": "himachalpradesh",
+    "count": 8,
+    "file": "by-state/himachalpradesh.json"
+  },
+  {
+    "stateSlug": "himanchal-pradesh",
+    "count": 1,
+    "file": "by-state/himanchal-pradesh.json"
+  },
+  {
+    "stateSlug": "hp",
+    "count": 4,
+    "file": "by-state/hp.json"
+  },
+  {
     "stateSlug": "jammu-and-kashmir",
-    "count": 180,
+    "count": 2009,
     "file": "by-state/jammu-and-kashmir.json"
+  },
+  {
+    "stateSlug": "jammuandkashmir",
+    "count": 2,
+    "file": "by-state/jammuandkashmir.json"
+  },
+  {
+    "stateSlug": "jh",
+    "count": 1,
+    "file": "by-state/jh.json"
   },
   {
     "stateSlug": "jhagrakhand-colliery",
@@ -116,17 +196,27 @@
   },
   {
     "stateSlug": "jharkhand",
-    "count": 1227,
+    "count": 3259,
     "file": "by-state/jharkhand.json"
   },
   {
+    "stateSlug": "ka",
+    "count": 2,
+    "file": "by-state/ka.json"
+  },
+  {
+    "stateSlug": "karanataka",
+    "count": 4,
+    "file": "by-state/karanataka.json"
+  },
+  {
     "stateSlug": "karnataka",
-    "count": 3955,
+    "count": 13213,
     "file": "by-state/karnataka.json"
   },
   {
     "stateSlug": "kerala",
-    "count": 1631,
+    "count": 8984,
     "file": "by-state/kerala.json"
   },
   {
@@ -136,8 +226,13 @@
   },
   {
     "stateSlug": "lakshadweep",
-    "count": 18,
+    "count": 27,
     "file": "by-state/lakshadweep.json"
+  },
+  {
+    "stateSlug": "ludhiana",
+    "count": 1,
+    "file": "by-state/ludhiana.json"
   },
   {
     "stateSlug": "madhy-pradesh",
@@ -146,27 +241,37 @@
   },
   {
     "stateSlug": "madhya-pradesh",
-    "count": 3734,
+    "count": 8269,
     "file": "by-state/madhya-pradesh.json"
   },
   {
+    "stateSlug": "madhyapradesh",
+    "count": 7,
+    "file": "by-state/madhyapradesh.json"
+  },
+  {
     "stateSlug": "maharashtra",
-    "count": 6138,
+    "count": 22835,
     "file": "by-state/maharashtra.json"
   },
   {
     "stateSlug": "manipur",
-    "count": 58,
+    "count": 269,
     "file": "by-state/manipur.json"
   },
   {
     "stateSlug": "meghalaya",
-    "count": 54,
+    "count": 429,
     "file": "by-state/meghalaya.json"
   },
   {
+    "stateSlug": "mh",
+    "count": 17,
+    "file": "by-state/mh.json"
+  },
+  {
     "stateSlug": "mizoram",
-    "count": 32,
+    "count": 168,
     "file": "by-state/mizoram.json"
   },
   {
@@ -176,17 +281,17 @@
   },
   {
     "stateSlug": "nagaland",
-    "count": 60,
+    "count": 229,
     "file": "by-state/nagaland.json"
   },
   {
     "stateSlug": "nct-of-delhi",
-    "count": 104,
+    "count": 105,
     "file": "by-state/nct-of-delhi.json"
   },
   {
     "stateSlug": "new-delhi",
-    "count": 1,
+    "count": 2,
     "file": "by-state/new-delhi.json"
   },
   {
@@ -196,72 +301,127 @@
   },
   {
     "stateSlug": "odisha",
-    "count": 1376,
+    "count": 6096,
     "file": "by-state/odisha.json"
   },
   {
+    "stateSlug": "orissa",
+    "count": 13,
+    "file": "by-state/orissa.json"
+  },
+  {
     "stateSlug": "pondicherry",
-    "count": 11,
+    "count": 45,
     "file": "by-state/pondicherry.json"
   },
   {
     "stateSlug": "puducherry",
-    "count": 39,
+    "count": 192,
     "file": "by-state/puducherry.json"
   },
   {
+    "stateSlug": "pune",
+    "count": 1,
+    "file": "by-state/pune.json"
+  },
+  {
     "stateSlug": "punjab",
-    "count": 1657,
+    "count": 7102,
     "file": "by-state/punjab.json"
   },
   {
+    "stateSlug": "rajastan",
+    "count": 1,
+    "file": "by-state/rajastan.json"
+  },
+  {
     "stateSlug": "rajasthan",
-    "count": 2053,
+    "count": 9731,
     "file": "by-state/rajasthan.json"
   },
   {
     "stateSlug": "sikkim",
-    "count": 60,
+    "count": 201,
     "file": "by-state/sikkim.json"
   },
   {
     "stateSlug": "tamil-nadu",
-    "count": 2866,
+    "count": 13145,
     "file": "by-state/tamil-nadu.json"
   },
   {
     "stateSlug": "tamilnadu",
-    "count": 19,
+    "count": 50,
     "file": "by-state/tamilnadu.json"
   },
   {
     "stateSlug": "telangana",
-    "count": 780,
+    "count": 5073,
     "file": "by-state/telangana.json"
   },
   {
     "stateSlug": "telengana",
-    "count": 1,
+    "count": 2,
     "file": "by-state/telengana.json"
   },
   {
+    "stateSlug": "tn",
+    "count": 2,
+    "file": "by-state/tn.json"
+  },
+  {
     "stateSlug": "tripura",
-    "count": 102,
+    "count": 431,
     "file": "by-state/tripura.json"
   },
   {
+    "stateSlug": "up",
+    "count": 1,
+    "file": "by-state/up.json"
+  },
+  {
+    "stateSlug": "ut-of-daman-and-diu",
+    "count": 1,
+    "file": "by-state/ut-of-daman-and-diu.json"
+  },
+  {
     "stateSlug": "uttar-pradesh",
-    "count": 4907,
+    "count": 16089,
     "file": "by-state/uttar-pradesh.json"
   },
   {
     "stateSlug": "uttarakhand",
-    "count": 631,
+    "count": 2539,
     "file": "by-state/uttarakhand.json"
   },
   {
+    "stateSlug": "uttaranchal",
+    "count": 3,
+    "file": "by-state/uttaranchal.json"
+  },
+  {
+    "stateSlug": "uttarkhand",
+    "count": 2,
+    "file": "by-state/uttarkhand.json"
+  },
+  {
+    "stateSlug": "uttarpradesh",
+    "count": 54,
+    "file": "by-state/uttarpradesh.json"
+  },
+  {
+    "stateSlug": "vpo-khandwa-patta-churu-dist-churu",
+    "count": 1,
+    "file": "by-state/vpo-khandwa-patta-churu-dist-churu.json"
+  },
+  {
     "stateSlug": "west-bengal",
-    "count": 2681,
+    "count": 8994,
     "file": "by-state/west-bengal.json"
+  },
+  {
+    "stateSlug": "westbengal",
+    "count": 26,
+    "file": "by-state/westbengal.json"
   }
 ]

@@ -1,10 +1,14 @@
 {
-  "inputFiles": 30,
-  "inputRows": 47935,
-  "outputRows": 47935,
-  "duplicatesDropped": 0,
-  "states": 53,
-  "missingPhone": 7124,
-  "stdCodeMissingOrZero": 15832,
-  "invalidIfsc": 0
+  "inputFiles": 234,
+  "inputRows": 179682,
+  "outputRows": 177916,
+  "duplicatesDropped": 1727,
+  "states": 85,
+  "uniqueBanks": 233,
+  "missingPhone": 37014,
+  "stdCodeMissingOrZero": 68230,
+  "invalidIfsc": 0,
+  "errors": 0,
+  "includedFiles": 229,
+  "notIncludedFiles": 5
 }
