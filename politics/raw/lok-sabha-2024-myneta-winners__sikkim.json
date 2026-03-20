@@ -1,0 +1,27 @@
+[
+  {
+    "office": "mp",
+    "electionYear": 2024,
+    "state": "Sikkim",
+    "stateSlug": "sikkim",
+    "constituencyName": "SIKKIM",
+    "constituencySlug": "sikkim",
+    "constituencyType": "parliamentary",
+    "candidateName": "INDRA HANG SUBBA",
+    "candidateSlug": "indra-hang-subba",
+    "partyName": "Sikkim Krantikari Morcha",
+    "partySlug": "sikkim-krantikari-morcha",
+    "position": 1,
+    "result": "won",
+    "age": 35,
+    "education": "Doctorate",
+    "profession": "Politician",
+    "assets": 14845772,
+    "liabilities": 5000000,
+    "criminalCases": 0,
+    "sourceType": "myneta-manual-import",
+    "sourceUrl": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=484",
+    "sourceFile": "lok-sabha-2024-myneta-winners__sikkim.json",
+    "lastUpdated": "2026-03-19"
+  }
+]

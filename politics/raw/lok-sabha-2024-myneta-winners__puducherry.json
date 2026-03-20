@@ -1,0 +1,27 @@
+[
+  {
+    "office": "mp",
+    "electionYear": 2024,
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "constituencyName": "PUDUCHERRY",
+    "constituencySlug": "puducherry",
+    "constituencyType": "parliamentary",
+    "candidateName": "VE VAITHILINGAM",
+    "candidateSlug": "ve-vaithilingam",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "position": 1,
+    "result": "won",
+    "age": 73,
+    "education": "Graduate",
+    "profession": "Agriculture",
+    "assets": 157249699,
+    "liabilities": 0,
+    "criminalCases": 0,
+    "sourceType": "myneta-manual-import",
+    "sourceUrl": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=531",
+    "sourceFile": "lok-sabha-2024-myneta-winners__puducherry.json",
+    "lastUpdated": "2026-03-19"
+  }
+]

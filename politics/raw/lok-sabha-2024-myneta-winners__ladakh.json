@@ -1,0 +1,27 @@
+[
+  {
+    "office": "mp",
+    "electionYear": 2024,
+    "state": "Ladakh",
+    "stateSlug": "ladakh",
+    "constituencyName": "LADAKH",
+    "constituencySlug": "ladakh",
+    "constituencyType": "parliamentary",
+    "candidateName": "MOHMAD HANEEFA",
+    "candidateSlug": "mohmad-haneefa",
+    "partyName": "Independent",
+    "partySlug": "independent",
+    "position": 1,
+    "result": "won",
+    "age": 55,
+    "education": "10th Pass",
+    "profession": "Self Employed",
+    "assets": 32761570,
+    "liabilities": 150000,
+    "criminalCases": 0,
+    "sourceType": "myneta-manual-import",
+    "sourceUrl": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=7512",
+    "sourceFile": "lok-sabha-2024-myneta-winners__ladakh.json",
+    "lastUpdated": "2026-03-19"
+  }
+]

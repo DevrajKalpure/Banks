@@ -1,0 +1,42 @@
+[
+  {
+    "state": "Assam",
+    "stateSlug": "assam",
+    "count": 222,
+    "constituencies": 126,
+    "electionYears": [
+      2026
+    ],
+    "file": "by-state/assam.json"
+  },
+  {
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "count": 2,
+    "constituencies": 2,
+    "electionYears": [
+      2026
+    ],
+    "file": "by-state/kerala.json"
+  },
+  {
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "count": 9,
+    "constituencies": 9,
+    "electionYears": [
+      2026
+    ],
+    "file": "by-state/puducherry.json"
+  },
+  {
+    "state": "West Bengal",
+    "stateSlug": "west-bengal",
+    "count": 775,
+    "constituencies": 291,
+    "electionYears": [
+      2026
+    ],
+    "file": "by-state/west-bengal.json"
+  }
+]

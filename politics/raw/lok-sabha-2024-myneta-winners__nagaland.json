@@ -1,0 +1,27 @@
+[
+  {
+    "office": "mp",
+    "electionYear": 2024,
+    "state": "Nagaland",
+    "stateSlug": "nagaland",
+    "constituencyName": "NAGALAND",
+    "constituencySlug": "nagaland",
+    "constituencyType": "parliamentary",
+    "candidateName": "S SUPONGMEREN JAMIR",
+    "candidateSlug": "s-supongmeren-jamir",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "position": 1,
+    "result": "won",
+    "age": 61,
+    "education": "Graduate Professional",
+    "profession": "Politician, Social worker",
+    "assets": 2100868,
+    "liabilities": 556528,
+    "criminalCases": 0,
+    "sourceType": "myneta-manual-import",
+    "sourceUrl": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=356",
+    "sourceFile": "lok-sabha-2024-myneta-winners__nagaland.json",
+    "lastUpdated": "2026-03-19"
+  }
+]

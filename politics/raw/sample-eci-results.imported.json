@@ -1,0 +1,32 @@
+[
+  {
+    "candidateName": "Sample Candidate",
+    "partyName": "Sample Party",
+    "constituencyName": "Gajwel",
+    "position": 1,
+    "votes": 123456,
+    "voteShare": 54.21,
+    "margin": 23456,
+    "runnerUp": "Sample Opponent",
+    "runnerUpParty": "Example Party",
+    "office": "mla",
+    "state": "Telangana",
+    "electionYear": 2023,
+    "sourceType": "csv-import"
+  },
+  {
+    "candidateName": "Sample MP Candidate",
+    "partyName": "Sample Party",
+    "constituencyName": "Malkajgiri",
+    "position": 1,
+    "votes": 654321,
+    "voteShare": 48.77,
+    "margin": 50234,
+    "runnerUp": "Sample Opponent",
+    "runnerUpParty": "Example Party",
+    "office": "mla",
+    "state": "Telangana",
+    "electionYear": 2023,
+    "sourceType": "csv-import"
+  }
+]

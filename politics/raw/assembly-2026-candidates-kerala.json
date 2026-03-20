@@ -1,0 +1,36 @@
+[
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "Dharmadam",
+    "constituencySlug": "dharmadam",
+    "constituencyType": "assembly",
+    "candidateName": "PINARAYI VIJAYAN",
+    "candidateSlug": "pinarayi-vijayan",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "result": "participating",
+    "sourceType": "news-announcement",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2026_Kerala_Legislative_Assembly_election",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "Puthuppally",
+    "constituencySlug": "puthuppally",
+    "constituencyType": "assembly",
+    "candidateName": "OOMMEN CHANDY",
+    "candidateSlug": "oommen-chandy",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "result": "participating",
+    "sourceType": "news-announcement",
+    "sourceUrl": "https://en.wikipedia.org/wiki/2026_Kerala_Legislative_Assembly_election",
+    "lastUpdated": "2026-03-20"
+  }
+]

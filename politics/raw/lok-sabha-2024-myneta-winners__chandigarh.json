@@ -1,0 +1,27 @@
+[
+  {
+    "office": "mp",
+    "electionYear": 2024,
+    "state": "Chandigarh",
+    "stateSlug": "chandigarh",
+    "constituencyName": "CHANDIGARH",
+    "constituencySlug": "chandigarh",
+    "constituencyType": "parliamentary",
+    "candidateName": "MANISH TEWARI",
+    "candidateSlug": "manish-tewari",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "position": 1,
+    "result": "won",
+    "age": 58,
+    "education": "Graduate Professional",
+    "profession": "Advocate",
+    "assets": 296842688,
+    "liabilities": 25778359,
+    "criminalCases": 0,
+    "sourceType": "myneta-manual-import",
+    "sourceUrl": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=8819",
+    "sourceFile": "lok-sabha-2024-myneta-winners__chandigarh.json",
+    "lastUpdated": "2026-03-19"
+  }
+]

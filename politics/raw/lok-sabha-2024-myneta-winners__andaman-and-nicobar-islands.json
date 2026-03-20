@@ -1,0 +1,27 @@
+[
+  {
+    "office": "mp",
+    "electionYear": 2024,
+    "state": "Andaman and Nicobar Islands",
+    "stateSlug": "andaman-and-nicobar-islands",
+    "constituencyName": "ANDAMAN&NICOBARISLANDS",
+    "constituencySlug": "andaman-and-nicobarislands",
+    "constituencyType": "parliamentary",
+    "candidateName": "BISHNU PADA RAY",
+    "candidateSlug": "bishnu-pada-ray",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "position": 1,
+    "result": "won",
+    "age": 73,
+    "education": "Graduate",
+    "profession": "Social Service",
+    "assets": 27439170,
+    "liabilities": 302788,
+    "criminalCases": 0,
+    "sourceType": "myneta-manual-import",
+    "sourceUrl": "https://www.myneta.info/LokSabha2024/candidate.php?candidate_id=17",
+    "sourceFile": "lok-sabha-2024-myneta-winners__andaman-and-nicobar-islands.json",
+    "lastUpdated": "2026-03-19"
+  }
+]

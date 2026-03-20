@@ -1,0 +1,27 @@
+[
+  {
+    "office": "mp",
+    "electionYear": 2024,
+    "state": "Lakshadweep",
+    "stateSlug": "lakshadweep",
+    "constituencyName": "LAKSHADWEEP",
+    "constituencySlug": "lakshadweep",
+    "constituencyType": "parliamentary",
+    "candidateName": "MUHAMMED HAMDULLAH SAYEED",
+    "candidateSlug": "muhammed-hamdullah-sayeed",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "position": 1,
+    "result": "won",
+    "age": 41,
+    "education": "Graduate Professional",
+    "profession": "Advocate",
+    "assets": 148548173,
+    "liabilities": 0,
+    "criminalCases": 0,
+    "sourceType": "myneta-manual-import",
+    "sourceUrl": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=764",
+    "sourceFile": "lok-sabha-2024-myneta-winners__lakshadweep.json",
+    "lastUpdated": "2026-03-19"
+  }
+]

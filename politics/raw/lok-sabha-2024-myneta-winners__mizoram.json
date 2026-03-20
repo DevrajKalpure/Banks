@@ -1,0 +1,27 @@
+[
+  {
+    "office": "mp",
+    "electionYear": 2024,
+    "state": "Mizoram",
+    "stateSlug": "mizoram",
+    "constituencyName": "MIZORAM",
+    "constituencySlug": "mizoram",
+    "constituencyType": "parliamentary",
+    "candidateName": "RICHARD VANLALHMANGAIHA",
+    "candidateSlug": "richard-vanlalhmangaiha",
+    "partyName": "Zoram People’s Movement",
+    "partySlug": "zoram-peoples-movement",
+    "position": 1,
+    "result": "won",
+    "age": 46,
+    "education": "Graduate",
+    "profession": "",
+    "assets": 16919233,
+    "liabilities": 0,
+    "criminalCases": 0,
+    "sourceType": "myneta-manual-import",
+    "sourceUrl": "https://www.myneta.info/LokSabha2024/index.php?action=show_candidates&constituency_id=314",
+    "sourceFile": "lok-sabha-2024-myneta-winners__mizoram.json",
+    "lastUpdated": "2026-03-19"
+  }
+]
