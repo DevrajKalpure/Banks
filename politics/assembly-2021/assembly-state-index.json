@@ -1,0 +1,12 @@
+[
+  {
+    "state": "Assam",
+    "stateSlug": "assam",
+    "count": 126,
+    "constituencies": 126,
+    "electionYears": [
+      2021
+    ],
+    "file": "by-state/assam.json"
+  }
+]
