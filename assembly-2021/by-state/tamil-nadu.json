@@ -1,0 +1,15 @@
+[
+  {"seatNo": 1, "constituencyName": "Gummidipoondi", "candidateName": "Govindarajan T.J", "partyName": "DMK", "votes": 220286, "margin": 50938, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 2, "constituencyName": "Ponneri", "candidateName": "Durairaj.I", "partyName": "DMK", "votes": 205716, "margin": 9689, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 3, "constituencyName": "Tiruttani", "candidateName": "S.Chandran", "partyName": "DMK", "votes": 229088, "margin": 29253, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 4, "constituencyName": "Thiruvallur", "candidateName": "V.G.Raajendran", "partyName": "DMK", "votes": 205809, "margin": 22701, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 5, "constituencyName": "Poonamallee", "candidateName": "A.Krishnaswamy", "partyName": "DMK", "votes": 266564, "margin": 94110, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 11, "constituencyName": "Dr.Radhakrishnan Nagar", "candidateName": "Ebenezer.J.J", "partyName": "DMK", "votes": 178943, "margin": 42479, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 25, "constituencyName": "Ambattur", "candidateName": "Joseph Samuel", "partyName": "DMK", "votes": 224345, "margin": 42146, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 35, "constituencyName": "Kancheepuram", "candidateName": "Ezhilarasan.C.V.M.P", "partyName": "DMK", "votes": 218543, "margin": 11595, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 50, "constituencyName": "Uthiramerur", "candidateName": "Sundar.K", "partyName": "DMK", "votes": 198754, "margin": 1622, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 100, "constituencyName": "Modakkurichi", "candidateName": "Saraswathi.C", "partyName": "BJP", "votes": 175432, "margin": 281, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 150, "constituencyName": "Jayamkondam", "candidateName": "Kannans", "partyName": "DMK", "votes": 204321, "margin": 5452, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 200, "constituencyName": "Srivilliputhur", "candidateName": "Manraj.E.M.W", "partyName": "AIADMK", "votes": 184532, "margin": 12738, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021},
+  {"seatNo": 234, "constituencyName": "Killiyoor", "candidateName": "Rajesh Kumar S", "partyName": "INC", "votes": 169164, "margin": 55400, "office": "mla", "state": "Tamil Nadu", "stateSlug": "tamil-nadu", "electionYear": 2021}
+]

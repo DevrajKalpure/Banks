@@ -16,5 +16,14 @@
     "pollDates": ["Mar 27", "Apr 1", "Apr 6", "Apr 10", "Apr 17", "Apr 22", "Apr 26", "Apr 29"],
     "countingDate": "May 2, 2021",
     "notes": "Assembly Elections 2021 results."
+  },
+  {
+    "state": "Tamil Nadu",
+    "stateSlug": "tamil-nadu",
+    "seatCount": 234,
+    "phaseCount": 1,
+    "pollDates": ["Apr 6"],
+    "countingDate": "May 2, 2021",
+    "notes": "Assembly Elections 2021 results."
   }
 ]

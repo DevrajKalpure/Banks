@@ -14,5 +14,13 @@
     "constituencies": 294,
     "electionYears": [2021],
     "file": "by-state/west-bengal.json"
+  },
+  {
+    "state": "Tamil Nadu",
+    "stateSlug": "tamil-nadu",
+    "count": 234,
+    "constituencies": 234,
+    "electionYears": [2021],
+    "file": "by-state/tamil-nadu.json"
   }
 ]
