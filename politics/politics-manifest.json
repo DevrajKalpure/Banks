@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-03-20T09:38:52.346Z",
-  "totalRecords": 0,
-  "states": 0,
+  "generatedAt": "2026-04-16T04:27:34.452Z",
+  "totalRecords": 8883,
+  "states": 36,
   "offices": {
     "mla": 0,
-    "mp": 0
+    "mp": 8883
   },
-  "rawDir": "E:\\Devraj\\Telangana\\bharatvillages\\data\\politics\\raw"
+  "sourceDir": "E:\\Devraj\\Villages\\Banks\\processed\\politics",
+  "rebuiltFrom": "public/data/politics/by-state"
 }

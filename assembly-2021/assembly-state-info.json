@@ -1,0 +1,11 @@
+[
+  {
+    "state": "Assam",
+    "stateSlug": "assam",
+    "seatCount": 126,
+    "phaseCount": 3,
+    "pollDates": ["Mar 27", "Apr 1", "Apr 6"],
+    "countingDate": "May 2, 2021",
+    "notes": "Assembly Elections 2021 results."
+  }
+]

@@ -1,1 +1,470 @@
-[]
+[
+  {
+    "state": "Andaman & Nicobar Islands",
+    "stateSlug": "andaman-and-nicobar-islands",
+    "count": 13,
+    "constituencyCount": 1,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/andaman-and-nicobar-islands.json"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "stateSlug": "andhra-pradesh",
+    "count": 479,
+    "constituencyCount": 25,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/andhra-pradesh.json"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "stateSlug": "arunachal-pradesh",
+    "count": 16,
+    "constituencyCount": 2,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/arunachal-pradesh.json"
+  },
+  {
+    "state": "Assam",
+    "stateSlug": "assam",
+    "count": 157,
+    "constituencyCount": 14,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/assam.json"
+  },
+  {
+    "state": "Bihar",
+    "stateSlug": "bihar",
+    "count": 534,
+    "constituencyCount": 40,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/bihar.json"
+  },
+  {
+    "state": "Chandigarh",
+    "stateSlug": "chandigarh",
+    "count": 20,
+    "constituencyCount": 1,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/chandigarh.json"
+  },
+  {
+    "state": "Chhattisgarh",
+    "stateSlug": "chhattisgarh",
+    "count": 231,
+    "constituencyCount": 11,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/chhattisgarh.json"
+  },
+  {
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "stateSlug": "dadra-and-nagar-haveli-and-daman-and-diu",
+    "count": 14,
+    "constituencyCount": 2,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/dadra-and-nagar-haveli-and-daman-and-diu.json"
+  },
+  {
+    "state": "Delhi",
+    "stateSlug": "delhi",
+    "count": 168,
+    "constituencyCount": 7,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/delhi.json"
+  },
+  {
+    "state": "Goa",
+    "stateSlug": "goa",
+    "count": 18,
+    "constituencyCount": 2,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/goa.json"
+  },
+  {
+    "state": "Gujarat",
+    "stateSlug": "gujarat",
+    "count": 291,
+    "constituencyCount": 26,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/gujarat.json"
+  },
+  {
+    "state": "Haryana",
+    "stateSlug": "haryana",
+    "count": 232,
+    "constituencyCount": 10,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/haryana.json"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "stateSlug": "himachal-pradesh",
+    "count": 41,
+    "constituencyCount": 4,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/himachal-pradesh.json"
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "stateSlug": "jammu-and-kashmir",
+    "count": 105,
+    "constituencyCount": 5,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/jammu-and-kashmir.json"
+  },
+  {
+    "state": "Jharkhand",
+    "stateSlug": "jharkhand",
+    "count": 258,
+    "constituencyCount": 14,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/jharkhand.json"
+  },
+  {
+    "state": "Karnataka",
+    "stateSlug": "karnataka",
+    "count": 502,
+    "constituencyCount": 28,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/karnataka.json"
+  },
+  {
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "count": 214,
+    "constituencyCount": 20,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/kerala.json"
+  },
+  {
+    "state": "Ladakh",
+    "stateSlug": "ladakh",
+    "count": 4,
+    "constituencyCount": 1,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/ladakh.json"
+  },
+  {
+    "state": "Lakshadweep",
+    "stateSlug": "lakshadweep",
+    "count": 5,
+    "constituencyCount": 1,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/lakshadweep.json"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "stateSlug": "madhya-pradesh",
+    "count": 395,
+    "constituencyCount": 29,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/madhya-pradesh.json"
+  },
+  {
+    "state": "Maharashtra",
+    "stateSlug": "maharashtra",
+    "count": 1169,
+    "constituencyCount": 48,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/maharashtra.json"
+  },
+  {
+    "state": "Manipur",
+    "stateSlug": "manipur",
+    "count": 12,
+    "constituencyCount": 2,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/manipur.json"
+  },
+  {
+    "state": "Meghalaya",
+    "stateSlug": "meghalaya",
+    "count": 12,
+    "constituencyCount": 2,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/meghalaya.json"
+  },
+  {
+    "state": "Mizoram",
+    "stateSlug": "mizoram",
+    "count": 7,
+    "constituencyCount": 1,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/mizoram.json"
+  },
+  {
+    "state": "Nagaland",
+    "stateSlug": "nagaland",
+    "count": 4,
+    "constituencyCount": 1,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/nagaland.json"
+  },
+  {
+    "state": "Odisha",
+    "stateSlug": "odisha",
+    "count": 228,
+    "constituencyCount": 21,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/odisha.json"
+  },
+  {
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "count": 27,
+    "constituencyCount": 1,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/puducherry.json"
+  },
+  {
+    "state": "Punjab",
+    "stateSlug": "punjab",
+    "count": 341,
+    "constituencyCount": 13,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/punjab.json"
+  },
+  {
+    "state": "Rajasthan",
+    "stateSlug": "rajasthan",
+    "count": 291,
+    "constituencyCount": 25,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/rajasthan.json"
+  },
+  {
+    "state": "Sikkim",
+    "stateSlug": "sikkim",
+    "count": 15,
+    "constituencyCount": 1,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/sikkim.json"
+  },
+  {
+    "state": "Tamil Nadu",
+    "stateSlug": "tamil-nadu",
+    "count": 982,
+    "constituencyCount": 39,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/tamil-nadu.json"
+  },
+  {
+    "state": "Telangana",
+    "stateSlug": "telangana",
+    "count": 542,
+    "constituencyCount": 17,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/telangana.json"
+  },
+  {
+    "state": "Tripura",
+    "stateSlug": "tripura",
+    "count": 20,
+    "constituencyCount": 2,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/tripura.json"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "stateSlug": "uttar-pradesh",
+    "count": 930,
+    "constituencyCount": 80,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/uttar-pradesh.json"
+  },
+  {
+    "state": "Uttarakhand",
+    "stateSlug": "uttarakhand",
+    "count": 60,
+    "constituencyCount": 5,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/uttarakhand.json"
+  },
+  {
+    "state": "West Bengal",
+    "stateSlug": "west-bengal",
+    "count": 546,
+    "constituencyCount": 42,
+    "offices": [
+      "mp"
+    ],
+    "electionYears": [
+      2024
+    ],
+    "file": "by-state/west-bengal.json"
+  }
+]

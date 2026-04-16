@@ -1,0 +1,18 @@
+[
+  {
+    "state": "Assam",
+    "stateSlug": "assam",
+    "count": 126,
+    "constituencies": 126,
+    "electionYears": [2021],
+    "file": "by-state/assam.json"
+  },
+  {
+    "state": "West Bengal",
+    "stateSlug": "west-bengal",
+    "count": 294,
+    "constituencies": 294,
+    "electionYears": [2021],
+    "file": "by-state/west-bengal.json"
+  }
+]

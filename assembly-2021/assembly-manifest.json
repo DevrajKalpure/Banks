@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-04-12T08:05:53.318Z",
+  "dataset": "assembly-2021",
+  "totalRecords": 126,
+  "states": 1,
+  "offices": {
+    "mla": 126,
+    "mp": 0
+  },
+  "rawDir": "E:\\Devraj\\Villages\\Banks\\processed\\politics\\raw"
+}

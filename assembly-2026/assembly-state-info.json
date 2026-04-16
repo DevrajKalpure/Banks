@@ -1,0 +1,58 @@
+[
+  {
+    "state": "Assam",
+    "stateSlug": "assam",
+    "seatCount": 126,
+    "phaseCount": 1,
+    "pollDates": [
+      "2026-04-09"
+    ],
+    "countingDate": "",
+    "notes": "Assembly election scheduled; candidate data can be added constituency by constituency."
+  },
+  {
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "seatCount": 140,
+    "phaseCount": 1,
+    "pollDates": [
+      "2026-04-09"
+    ],
+    "countingDate": "",
+    "notes": "Assembly election scheduled; partial candidate announcement data already added."
+  },
+  {
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "seatCount": 30,
+    "phaseCount": 1,
+    "pollDates": [
+      "2026-04-09"
+    ],
+    "countingDate": "",
+    "notes": "Assembly election scheduled; final constituency candidate files can be added when announcements firm up."
+  },
+  {
+    "state": "Tamil Nadu",
+    "stateSlug": "tamil-nadu",
+    "seatCount": 234,
+    "phaseCount": 1,
+    "pollDates": [
+      "2026-04-23"
+    ],
+    "countingDate": "",
+    "notes": "Assembly election scheduled; constituency candidate files are pending."
+  },
+  {
+    "state": "West Bengal",
+    "stateSlug": "west-bengal",
+    "seatCount": 294,
+    "phaseCount": 2,
+    "pollDates": [
+      "2026-04-23",
+      "2026-04-29"
+    ],
+    "countingDate": "",
+    "notes": "Assembly election scheduled; party-announcement candidate data is already added."
+  }
+]
