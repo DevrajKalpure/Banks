@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-04-16T13:30:00.000Z",
-  "dataset": "assembly-2021",
-  "totalRecords": 654,
-  "states": 3,
-  "offices": {
-    "mla": 654,
-    "mp": 0
-  },
-  "rawDir": "E:\\Devraj\\Villages\\Banks\\processed\\politics\\raw"
+  "totalRecords": 200,
+  "lastUpdated": "2026-04-17",
+  "states": [
+    {
+      "name": "West Bengal",
+      "slug": "west-bengal",
+      "count": 11
+    },
+    {
+      "name": "Tamil Nadu",
+      "slug": "tamil-nadu",
+      "count": 58
+    },
+    {
+       "name": "Assam",
+       "slug": "assam",
+       "count": 126
+    }
+  ]
 }
