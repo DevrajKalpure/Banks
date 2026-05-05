@@ -103,9 +103,12 @@
     "education": "Post Graduate",
     "assets": "9125093",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
+    "rank": 1,
+    "votes": 72431,
+    "isWinner": true,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=11",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05"
   },
   {
     "office": "mla",
