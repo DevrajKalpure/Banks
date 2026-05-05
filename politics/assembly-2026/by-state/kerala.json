@@ -175,9 +175,12 @@
     "education": "Post Graduate",
     "assets": "1119907627",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
+    "rank": 1,
+    "votes": 57192,
+    "isWinner": true,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=188",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05"
   },
   {
     "office": "mla",
@@ -193,9 +196,11 @@
     "education": "Post Graduate",
     "assets": "47558542",
     "criminalCases": 7,
-    "result": "participating",
+    "result": "lost",
+    "rank": 2,
+    "votes": 52214,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=189",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05"
   },
   {
     "office": "mla",
@@ -211,9 +216,11 @@
     "education": "Graduate Professional",
     "assets": "39370929",
     "criminalCases": 35,
-    "result": "participating",
+    "result": "lost",
+    "rank": 3,
+    "votes": 29730,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=731",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05"
   },
   {
     "office": "mla",

@@ -1,0 +1,34 @@
+[
+  {
+    "constituency": "ADOOR",
+    "results": [
+      {"candidateName": "ADVOCATE C V SANTHAKUMAR", "partyName": "Indian National Congress", "votes": 66153, "rank": 1},
+      {"candidateName": "PRIJI KANNAN", "partyName": "Communist Party of India", "votes": 55821, "rank": 2},
+      {"candidateName": "ADV. PANDALAM PRATHAPAN", "partyName": "Bharatiya Janata Party", "votes": 26337, "rank": 3}
+    ]
+  },
+  {
+    "constituency": "ALAPPUZHA",
+    "results": [
+      {"candidateName": "A.D THOMAS", "partyName": "Indian National Congress", "votes": 81065, "rank": 1},
+      {"candidateName": "P.P.CHITHARANJAN", "partyName": "Communist Party of India (Marxist)", "votes": 60050, "rank": 2},
+      {"candidateName": "M.J JOB", "partyName": "Bharatiya Janata Party", "votes": 15373, "rank": 3}
+    ]
+  },
+  {
+    "constituency": "DHARMADAM",
+    "results": [
+      {"candidateName": "PINARAYI VIJAYAN", "partyName": "Communist Party of India (Marxist)", "votes": 85614, "rank": 1},
+      {"candidateName": "ADV. V.P ABDUL RASHEED", "partyName": "Indian National Congress", "votes": 66367, "rank": 2},
+      {"candidateName": "K. RANJITH", "partyName": "Bharatiya Janata Party", "votes": 18555, "rank": 3}
+    ]
+  },
+  {
+    "constituency": "NEMOM",
+    "results": [
+      {"candidateName": "RAJEEV CHANDRASEKHAR", "partyName": "Bharatiya Janata Party", "votes": 57192, "rank": 1},
+      {"candidateName": "V SIVANKUTTY", "partyName": "Communist Party of India (Marxist)", "votes": 52214, "rank": 2},
+      {"candidateName": "ADV K S SABARINADHAN", "partyName": "Indian National Congress", "votes": 29730, "rank": 3}
+    ]
+  }
+]
