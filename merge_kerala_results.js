@@ -22,10 +22,16 @@ function runMerge() {
 
         scrapedData.forEach(constEntry => {
             const constituencyName = constEntry.constituency.toLowerCase().trim();
-            const results = constEntry.results;
+            
+            // Map the flat entries to a results array
+            const results = [
+                { name: constEntry.winner, rank: 1, votes: constEntry.winnerVotes },
+                { name: constEntry.runnerUp1, rank: 2, votes: constEntry.runnerUp1Votes },
+                { name: constEntry.runnerUp2, rank: 3, votes: constEntry.runnerUp2Votes }
+            ].filter(r => r.name); // Remove if runnerUp2 is missing
 
             results.forEach(result => {
-                const normalizedRemoteName = normalizeName(result.candidateName);
+                const normalizedRemoteName = normalizeName(result.name);
                 
                 // Find matching candidate in local data for this constituency
                 const localIndex = localData.findIndex(c => 
@@ -39,12 +45,18 @@ function runMerge() {
                     localData[localIndex].rank = result.rank;
                     localData[localIndex].isWinner = result.rank === 1;
                     localData[localIndex].result = result.rank === 1 ? "won" : "lost";
+                    localData[localIndex].lastUpdated = "2026-05-05";
                     updatedCount++;
-                } else {
-                    // If candidate doesn't exist, we could add them, but for now we just log
-                    // console.log(`⚠️ Match not found for ${result.candidateName} in ${constituencyName}`);
                 }
             });
+        });
+
+        // For all other candidates in the file, if they aren't in the top 3, mark as participating or lost?
+        // Actually, better to mark them as "lost" if they didn't make the top 3 but are in the file.
+        localData.forEach(c => {
+            if (c.result === "participating") {
+                c.result = "lost";
+            }
         });
 
         fs.writeFileSync(KERALA_JSON_PATH, JSON.stringify(localData, null, 2));
