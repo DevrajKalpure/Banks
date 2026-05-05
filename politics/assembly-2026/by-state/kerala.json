@@ -98,10 +98,11 @@
     "assets": "11082346",
     "criminalCases": 0,
     "result": "lost",
-    "rank": 3,
-    "votes": 5432,
+    "rank": 4,
+    "votes": 386,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=518",
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -140,7 +141,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=405",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 318,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -195,10 +199,10 @@
     "education": "Post Graduate",
     "assets": "1119907627",
     "criminalCases": 2,
-    "result": "won",
-    "rank": 1,
-    "votes": 57192,
-    "isWinner": true,
+    "result": "lost",
+    "rank": 6,
+    "votes": 84,
+    "isWinner": false,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=188",
     "lastUpdated": "2026-05-05"
   },
@@ -302,7 +306,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=873",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1444,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -341,7 +348,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=707",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1035,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -422,7 +432,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=413",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 228,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -482,7 +495,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=806",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 79,
+    "rank": 8,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -542,7 +558,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=784",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 197,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -602,7 +621,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=613",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1578,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -641,7 +663,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=898",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 237,
+    "rank": 8,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -659,7 +684,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=894",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 463,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -698,7 +726,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=764",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 542,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -716,7 +747,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=768",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 55,
+    "rank": 10,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -797,7 +831,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=192",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 18107,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -813,9 +850,12 @@
     "education": "10th Pass",
     "assets": "8200826",
     "criminalCases": 1,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=191",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 66521,
+    "rank": 1,
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -833,7 +873,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=739",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 289,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -872,7 +915,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=310",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 98,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -890,7 +936,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=306",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 163,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -950,7 +999,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=795",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 692,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -989,7 +1041,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=94",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 653,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1007,7 +1062,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=609",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 335,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1067,7 +1125,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=448",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1267,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1085,7 +1146,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=436",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 190,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1122,12 +1186,12 @@
     "education": "Graduate",
     "assets": "2610582",
     "criminalCases": 1,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=60",
     "lastUpdated": "2026-05-05",
-    "votes": 83216,
-    "rank": 1,
-    "isWinner": true
+    "votes": 366,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1187,7 +1251,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=904",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 77,
+    "rank": 8,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1227,8 +1294,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=146",
     "lastUpdated": "2026-05-05",
-    "votes": 78285,
-    "rank": 2,
+    "votes": 2110,
+    "rank": 4,
     "isWinner": false
   },
   {
@@ -1247,7 +1314,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=665",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 227,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1287,8 +1357,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=471",
     "lastUpdated": "2026-05-05",
-    "votes": 49429,
-    "rank": 2,
+    "votes": 3698,
+    "rank": 4,
     "isWinner": false
   },
   {
@@ -1346,7 +1416,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=789",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 712,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1364,7 +1437,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=786",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 2060,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1446,8 +1522,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=398",
     "lastUpdated": "2026-05-05",
-    "votes": 64602,
-    "rank": 2,
+    "votes": 115,
+    "rank": 7,
     "isWinner": false
   },
   {
@@ -1550,7 +1626,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=486",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 441,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1568,7 +1647,10 @@
     "criminalCases": 10,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=1",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 113,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1586,7 +1668,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=219",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 7240,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1604,7 +1689,10 @@
     "criminalCases": 4,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=218",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 205,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1620,12 +1708,12 @@
     "education": "12th Pass",
     "assets": "38193491",
     "criminalCases": 5,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=326",
     "lastUpdated": "2026-05-05",
-    "votes": 95863,
-    "rank": 1,
-    "isWinner": true
+    "votes": 305,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1643,7 +1731,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=323",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1145,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1661,7 +1752,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=325",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 141,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1679,7 +1773,10 @@
     "criminalCases": 2,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=244",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 78788,
+    "rank": 2,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1697,7 +1794,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=245",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 198,
+    "rank": 10,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1715,7 +1815,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=866",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 16089,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1755,8 +1858,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=127",
     "lastUpdated": "2026-05-05",
-    "votes": 58482,
-    "rank": 2,
+    "votes": 121,
+    "rank": 11,
     "isWinner": false
   },
   {
@@ -1775,7 +1878,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=504",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 88,
+    "rank": 13,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1791,12 +1897,12 @@
     "education": "8th Pass",
     "assets": "74519741",
     "criminalCases": 7,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=779",
     "lastUpdated": "2026-05-05",
-    "votes": 88197,
-    "rank": 1,
-    "isWinner": true
+    "votes": 95,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1895,7 +2001,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=344",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 130,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1934,7 +2043,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=400",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 272,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1952,7 +2064,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=399",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 230,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -1971,8 +2086,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=183",
     "lastUpdated": "2026-05-05",
-    "votes": 76163,
-    "rank": 2,
+    "votes": 314,
+    "rank": 4,
     "isWinner": false
   },
   {
@@ -2010,12 +2125,12 @@
     "education": "Post Graduate",
     "assets": "11032300",
     "criminalCases": 61,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=182",
     "lastUpdated": "2026-05-05",
-    "votes": 99763,
-    "rank": 1,
-    "isWinner": true
+    "votes": 207,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2033,7 +2148,10 @@
     "criminalCases": 2,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=226",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 50207,
+    "rank": 2,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2069,7 +2187,10 @@
     "criminalCases": 13,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=227",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 36172,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2108,7 +2229,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=379",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 95,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2126,7 +2250,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=380",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 347,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2144,7 +2271,10 @@
     "criminalCases": 2,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=239",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 54066,
+    "rank": 2,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2162,7 +2292,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=240",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 33264,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2180,7 +2313,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=863",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1263,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2303,7 +2439,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=490",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 400,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2444,7 +2583,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=58",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 429,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2690,7 +2832,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=879",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 122,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2706,9 +2851,12 @@
     "education": "Post Graduate",
     "assets": "2321480",
     "criminalCases": 6,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=233",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 84031,
+    "rank": 1,
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -2726,7 +2874,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=880",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 83,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2765,7 +2916,10 @@
     "criminalCases": 2,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=544",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 318,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2783,7 +2937,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=545",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 340,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2799,12 +2956,12 @@
     "education": "Post Graduate",
     "assets": "3344996",
     "criminalCases": 3,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=817",
     "lastUpdated": "2026-05-05",
-    "votes": 81429,
-    "rank": 1,
-    "isWinner": true
+    "votes": 140,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -2969,7 +3126,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=388",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 118,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3027,12 +3187,12 @@
     "education": "Graduate Professional",
     "assets": "16405823",
     "criminalCases": 1,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=215",
     "lastUpdated": "2026-05-05",
-    "votes": 76140,
-    "rank": 1,
-    "isWinner": true
+    "votes": 66,
+    "rank": 9,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3071,7 +3231,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=114",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 262,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3131,7 +3294,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=50",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 57,
+    "rank": 9,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3323,7 +3489,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=528",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1025,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3341,7 +3510,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=487",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 859,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3485,7 +3657,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=801",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 2222,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3545,7 +3720,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=679",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 677,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3623,7 +3801,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=741",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 417,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3683,7 +3864,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=887",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 144,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3806,7 +3990,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=126",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 488,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3845,7 +4032,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=476",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 158,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3864,8 +4054,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=285",
     "lastUpdated": "2026-05-05",
-    "votes": 51584,
-    "rank": 2,
+    "votes": 123,
+    "rank": 6,
     "isWinner": false
   },
   {
@@ -3926,7 +4116,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=921",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 905,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3965,7 +4158,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=714",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 104,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -3981,12 +4177,12 @@
     "education": "12th Pass",
     "assets": "8500",
     "criminalCases": 0,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=712",
     "lastUpdated": "2026-05-05",
-    "votes": 80062,
-    "rank": 1,
-    "isWinner": true
+    "votes": 152,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4025,7 +4221,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=702",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 380,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4043,7 +4242,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=705",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 212,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4187,7 +4389,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=237",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 50308,
+    "rank": 2,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4205,7 +4410,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=693",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 17993,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4221,9 +4429,12 @@
     "education": "Post Graduate",
     "assets": "18714369",
     "criminalCases": 3,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=692",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 54652,
+    "rank": 1,
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -4241,7 +4452,10 @@
     "criminalCases": 4,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=220",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 46654,
+    "rank": 2,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4259,7 +4473,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=837",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 657,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4277,7 +4494,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=840",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1562,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4419,8 +4639,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=616",
     "lastUpdated": "2026-05-05",
-    "votes": 62995,
-    "rank": 2,
+    "votes": 160,
+    "rank": 5,
     "isWinner": false
   },
   {
@@ -4481,7 +4701,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=851",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1538,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4497,9 +4720,12 @@
     "education": "10th Pass",
     "assets": "5847000",
     "criminalCases": 1,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=229",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 71944,
+    "rank": 1,
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -4517,7 +4743,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=228",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 560,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4662,8 +4891,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=645",
     "lastUpdated": "2026-05-05",
-    "votes": 69162,
-    "rank": 2,
+    "votes": 671,
+    "rank": 4,
     "isWinner": false
   },
   {
@@ -4682,7 +4911,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=649",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 560,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4716,12 +4948,12 @@
     "education": "Graduate Professional",
     "assets": "50697027",
     "criminalCases": 16,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=65",
     "lastUpdated": "2026-05-05",
-    "votes": 65325,
-    "rank": 1,
-    "isWinner": true
+    "votes": 261,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4883,7 +5115,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=748",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 446,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4922,7 +5157,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=297",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 368,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -4961,7 +5199,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=605",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 579,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5063,7 +5304,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=454",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 299,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5123,7 +5367,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=445",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 117,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5225,7 +5472,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=519",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 137,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5243,7 +5493,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=136",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 171,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5297,7 +5550,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=658",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 324,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5462,7 +5718,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=574",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 628,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5499,9 +5758,12 @@
     "education": "10th Pass",
     "assets": "71329481",
     "criminalCases": 3,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=76",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 98547,
+    "rank": 1,
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -5519,7 +5781,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=75",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 467,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5537,7 +5802,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=800",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 166,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5594,7 +5862,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=425",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 428,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5735,7 +6006,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=621",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 255,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5754,8 +6028,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=110",
     "lastUpdated": "2026-05-05",
-    "votes": 52069,
-    "rank": 2,
+    "votes": 216,
+    "rank": 7,
     "isWinner": false
   },
   {
@@ -5774,7 +6048,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=623",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 281,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5834,7 +6111,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=673",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 171,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5873,7 +6153,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=637",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 597,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5912,7 +6195,10 @@
     "criminalCases": 6,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=316",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 403,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -5993,7 +6279,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=44",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 381,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6011,7 +6300,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=412",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 277,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6113,7 +6405,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=910",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 2650,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6234,12 +6529,12 @@
     "education": "Graduate Professional",
     "assets": "51226966",
     "criminalCases": 11,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=207",
     "lastUpdated": "2026-05-05",
-    "votes": 68275,
-    "rank": 1,
-    "isWinner": true
+    "votes": 266,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6278,7 +6573,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=560",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 118,
+    "rank": 8,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6296,7 +6594,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=167",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 330,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6332,7 +6633,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=230",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 60283,
+    "rank": 2,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6348,9 +6652,12 @@
     "education": "10th Pass",
     "assets": "9768387",
     "criminalCases": 2,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=231",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 63136,
+    "rank": 1,
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -6368,7 +6675,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=232",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 359,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6407,7 +6717,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=263",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 544,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6425,7 +6738,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=583",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 424,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6485,7 +6801,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=62",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 617,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6503,7 +6822,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=842",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 44870,
+    "rank": 2,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6521,7 +6843,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=222",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 14861,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6539,7 +6864,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=841",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1004,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6579,8 +6907,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=724",
     "lastUpdated": "2026-05-05",
-    "votes": 47623,
-    "rank": 2,
+    "votes": 93,
+    "rank": 9,
     "isWinner": false
   },
   {
@@ -6641,7 +6969,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=28",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1020,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6722,7 +7053,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=763",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1942,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6782,7 +7116,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=698",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 455,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -6882,8 +7219,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=641",
     "lastUpdated": "2026-05-05",
-    "votes": 36678,
-    "rank": 3,
+    "votes": 893,
+    "rank": 4,
     "isWinner": false
   },
   {
@@ -6962,7 +7299,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=314",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 585,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7043,7 +7383,10 @@
     "criminalCases": 4,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=241",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 62339,
+    "rank": 2,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7061,7 +7404,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=864",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 275,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7079,7 +7425,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=371",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 1781,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7095,12 +7444,12 @@
     "education": "Post Graduate",
     "assets": "12360866",
     "criminalCases": 1,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=178",
     "lastUpdated": "2026-05-05",
-    "votes": 81456,
-    "rank": 1,
-    "isWinner": true
+    "votes": 210,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7119,8 +7468,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=363",
     "lastUpdated": "2026-05-05",
-    "votes": 67288,
-    "rank": 2,
+    "votes": 147,
+    "rank": 6,
     "isWinner": false
   },
   {
@@ -7139,7 +7488,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=361",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 2171,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7178,7 +7530,10 @@
     "criminalCases": 3,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=691",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 157,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7301,7 +7656,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=891",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 164,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7319,7 +7677,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=888",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 812,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7337,7 +7698,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=627",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 298,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7355,7 +7719,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=117",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 260,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7373,7 +7740,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=629",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 97,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7389,9 +7759,12 @@
     "education": "Post Graduate",
     "assets": "29609077",
     "criminalCases": 10,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=347",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 91992,
+    "rank": 1,
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -7409,7 +7782,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=351",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 373,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7427,7 +7803,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=350",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 13642,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7706,7 +8085,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=157",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 231,
+    "rank": 8,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7724,7 +8106,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=777",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 471,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -7847,7 +8232,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=551",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 425,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -8009,7 +8397,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=538",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 191,
+    "rank": 7,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -8027,7 +8418,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=536",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 193,
+    "rank": 6,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -8088,8 +8482,8 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=175",
     "lastUpdated": "2026-05-05",
-    "votes": 65083,
-    "rank": 2,
+    "votes": 663,
+    "rank": 4,
     "isWinner": false
   },
   {
@@ -8129,7 +8523,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=465",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 734,
+    "rank": 4,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -8147,7 +8544,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=288",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 275,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -8181,9 +8581,12 @@
     "education": "Post Graduate",
     "assets": "5616761",
     "criminalCases": 5,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=246",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 60557,
+    "rank": 1,
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -8201,7 +8604,10 @@
     "criminalCases": 3,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=555",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 21162,
+    "rank": 3,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -8324,7 +8730,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=603",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-05-05",
+    "votes": 69,
+    "rank": 5,
+    "isWinner": false
   },
   {
     "office": "mla",
@@ -8481,8 +8890,8 @@
     "assets": "0",
     "criminalCases": 0,
     "result": "lost",
-    "rank": 2,
-    "votes": 59064,
+    "rank": 5,
+    "votes": 303,
     "isWinner": false,
     "lastUpdated": "2026-05-05"
   },
@@ -9161,8 +9570,8 @@
     "assets": "0",
     "criminalCases": 0,
     "result": "lost",
-    "rank": 2,
-    "votes": 52348,
+    "rank": 8,
+    "votes": 347,
     "isWinner": false,
     "lastUpdated": "2026-05-05"
   },
@@ -9441,8 +9850,8 @@
     "assets": "0",
     "criminalCases": 0,
     "result": "lost",
-    "rank": 2,
-    "votes": 55473,
+    "rank": 5,
+    "votes": 674,
     "isWinner": false,
     "lastUpdated": "2026-05-05"
   },
@@ -10441,8 +10850,8 @@
     "assets": "0",
     "criminalCases": 0,
     "result": "lost",
-    "rank": 2,
-    "votes": 81971,
+    "rank": 9,
+    "votes": 57,
     "isWinner": false,
     "lastUpdated": "2026-05-05"
   },
@@ -10601,8 +11010,8 @@
     "assets": "0",
     "criminalCases": 0,
     "result": "lost",
-    "rank": 2,
-    "votes": 61405,
+    "rank": 6,
+    "votes": 173,
     "isWinner": false,
     "lastUpdated": "2026-05-05"
   },
@@ -10723,6 +11132,1746 @@
     "result": "lost",
     "rank": 2,
     "votes": 73135,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KANHANGAD",
+    "constituencySlug": "kanhangad",
+    "candidateName": "Shyji Ottapalli",
+    "candidateSlug": "shyji-ottapalli",
+    "partyName": "Kerala Congress",
+    "partySlug": "kerala-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 64604,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "THRIKARIPUR",
+    "constituencySlug": "thrikaripur",
+    "candidateName": "Sandeep Varier",
+    "candidateSlug": "sandeep-varier",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 4,
+    "votes": 258,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "THRIKARIPUR",
+    "constituencySlug": "thrikaripur",
+    "candidateName": "Dr. V. P. P. Mustafa",
+    "candidateSlug": "v-p-p-mustafa",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 78678,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "THRIKARIPUR",
+    "constituencySlug": "thrikaripur",
+    "candidateName": "Ravi Kulangara",
+    "candidateSlug": "ravi-kulangara",
+    "partyName": "Twenty 20 Party",
+    "partySlug": "twenty-20-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 7837,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PAYYANUR",
+    "constituencySlug": "payyanur",
+    "candidateName": "V. Kunjikrishnan",
+    "candidateSlug": "v-kunjikrishnan",
+    "partyName": "Independent",
+    "partySlug": "independent",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 76640,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KALLIASSERI",
+    "constituencySlug": "kalliasseri",
+    "candidateName": "A.V. Sanil Kumar",
+    "candidateSlug": "a-v-sanil-kumar",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 13110,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "TALIPARAMBA",
+    "constituencySlug": "taliparamba",
+    "candidateName": "T K Govindan Master",
+    "candidateSlug": "t-k-govindan-master",
+    "partyName": "Independent",
+    "partySlug": "independent",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 6,
+    "votes": 735,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KANNUR",
+    "constituencySlug": "kannur",
+    "candidateName": "Kadannappalli Ramachandran",
+    "candidateSlug": "kadannappalli-ramachandran",
+    "partyName": "Congress (Secular)",
+    "partySlug": "congress-secular",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 52069,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "THALASSERY",
+    "constituencySlug": "thalassery",
+    "candidateName": "K. P. Saju",
+    "candidateSlug": "k-p-saju",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 49220,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "MANANTHAVADY",
+    "constituencySlug": "mananthavady",
+    "candidateName": "Usha M A",
+    "candidateSlug": "usha-m-a",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 77425,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "SULTHAN BATHERY",
+    "constituencySlug": "sulthan-bathery",
+    "candidateName": "I. C. Balakrishnan",
+    "candidateSlug": "i-c-balakrishnan",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 78936,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "SULTHAN BATHERY",
+    "constituencySlug": "sulthan-bathery",
+    "candidateName": "A. S. Kavitha",
+    "candidateSlug": "a-s-kavitha",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 31308,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VATAKARA",
+    "constituencySlug": "vatakara",
+    "candidateName": "K. K. Rema",
+    "candidateSlug": "k-k-rema",
+    "partyName": "Revolutionary Marxist Party of India",
+    "partySlug": "revolutionary-marxist-party-of-india",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 70117,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VATAKARA",
+    "constituencySlug": "vatakara",
+    "candidateName": "M. K. Bhaskaran",
+    "candidateSlug": "m-k-bhaskaran",
+    "partyName": "Rashtriya Janata Dal",
+    "partySlug": "rashtriya-janata-dal",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 55255,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VATAKARA",
+    "constituencySlug": "vatakara",
+    "candidateName": "Adv. K. Dileep",
+    "candidateSlug": "k-dileep",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 14295,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOYILANDY",
+    "constituencySlug": "koyilandy",
+    "candidateName": "K. Praveen Kumar",
+    "candidateSlug": "k-praveen-kumar",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 6,
+    "votes": 192,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOYILANDY",
+    "constituencySlug": "koyilandy",
+    "candidateName": "K. Dasan",
+    "candidateSlug": "k-dasan",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 7,
+    "votes": 99,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOYILANDY",
+    "constituencySlug": "koyilandy",
+    "candidateName": "C. R. Praphul Krishnan",
+    "candidateSlug": "c-r-praphul-krishnan",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 23545,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "BALUSSERY",
+    "constituencySlug": "balussery",
+    "candidateName": "C. P. Sateeshan",
+    "candidateSlug": "c-p-sateeshan",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 17669,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "ELATHUR",
+    "constituencySlug": "elathur",
+    "candidateName": "T. Devadas",
+    "candidateSlug": "t-devadas",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 31510,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOZHIKODE SOUTH",
+    "constituencySlug": "kozhikode-south",
+    "candidateName": "Ahamed Devarkovil",
+    "candidateSlug": "ahamed-devarkovil",
+    "partyName": "Indian National League",
+    "partySlug": "indian-national-league",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 41885,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "BEYPORE",
+    "constituencySlug": "beypore",
+    "candidateName": "Muhammad Riyas",
+    "candidateSlug": "muhammad-riyas",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 7,
+    "votes": 308,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "ERANAD",
+    "constituencySlug": "eranad",
+    "candidateName": "Adv. Shafeer Kizhisseri",
+    "candidateSlug": "shafeer-kizhisseri",
+    "partyName": "Communist Party of India",
+    "partySlug": "communist-party-of-india",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 57258,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "ERANAD",
+    "constituencySlug": "eranad",
+    "candidateName": "Adv. N. Sreeprakash",
+    "candidateSlug": "n-sreeprakash",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 8728,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "NILAMBUR",
+    "constituencySlug": "nilambur",
+    "candidateName": "Gireesh Mekkad",
+    "candidateSlug": "gireesh-mekkad",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 12660,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "MANJERI",
+    "constituencySlug": "manjeri",
+    "candidateName": "Pathmasree M.",
+    "candidateSlug": "pathmasree-m",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 13423,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PERINTHALMANNA",
+    "constituencySlug": "perinthalmanna",
+    "candidateName": "V. P. Muhammad Haneefa",
+    "candidateSlug": "v-p-muhammad-haneefa",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 72457,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "MANKADA",
+    "constituencySlug": "mankada",
+    "candidateName": "Lijoy Paul",
+    "candidateSlug": "lijoy-paul",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 9933,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "MALAPPURAM",
+    "constituencySlug": "malappuram",
+    "candidateName": "Ashwathy Gupatha Kumar",
+    "candidateSlug": "ashwathy-gupatha-kumar",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 9127,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VALLIKKUNNU",
+    "constituencySlug": "vallikkunnu",
+    "candidateName": "M. Preman Master",
+    "candidateSlug": "m-preman-master",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 23283,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "TIRURANGADI",
+    "constituencySlug": "tirurangadi",
+    "candidateName": "Ajit Koladi",
+    "candidateSlug": "ajit-koladi",
+    "partyName": "Communist Party of India",
+    "partySlug": "communist-party-of-india",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 48482,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOTTAKKAL",
+    "constituencySlug": "kottakkal",
+    "candidateName": "Prof. K. K. Abid Hussain Thangal",
+    "candidateSlug": "prof-k-k-abid-hussain-thangal",
+    "partyName": "Indian Union Muslim League",
+    "partySlug": "indian-union-muslim-league",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 118111,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOTTAKKAL",
+    "constituencySlug": "kottakkal",
+    "candidateName": "K. Preethi",
+    "candidateSlug": "k-preethi",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 55473,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOTTAKKAL",
+    "constituencySlug": "kottakkal",
+    "candidateName": "Subrahmanian Chunkapally",
+    "candidateSlug": "subrahmanian-chunkapally",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 10558,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PONNANI",
+    "constituencySlug": "ponnani",
+    "candidateName": "Adv. M. K. Sakeer",
+    "candidateSlug": "m-k-sakeer",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 67407,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PONNANI",
+    "constituencySlug": "ponnani",
+    "candidateName": "E. Maneesh",
+    "candidateSlug": "e-maneesh",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 10210,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "SHORNUR",
+    "constituencySlug": "shornur",
+    "candidateName": "P. Mammikkutty",
+    "candidateSlug": "p-mammikkutty",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 70583,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KONGAD ",
+    "constituencySlug": "kongad",
+    "candidateName": "K. A. Thulasi",
+    "candidateSlug": "k-a-thulasi",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 62734,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KONGAD ",
+    "constituencySlug": "kongad",
+    "candidateName": "K. Shanthakumari",
+    "candidateSlug": "k-shanthakumari",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 59028,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "MANNARKKAD",
+    "constituencySlug": "mannarkkad",
+    "candidateName": "Isaac Varghese",
+    "candidateSlug": "isaac-varghese",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 10671,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "TARUR ",
+    "constituencySlug": "tarur",
+    "candidateName": "K. C. Subramanian",
+    "candidateSlug": "k-c-subramanian",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 48647,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "NENMARA",
+    "constituencySlug": "nenmara",
+    "candidateName": "A. Thankappan",
+    "candidateSlug": "a-thankappan",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 63216,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "CHELAKKARA ",
+    "constituencySlug": "chelakkara",
+    "candidateName": "Sivan Veettikkunnu",
+    "candidateSlug": "sivan-veettikkunnu",
+    "partyName": "Independent",
+    "partySlug": "independent",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 46687,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KUNNAMKULAM",
+    "constituencySlug": "kunnamkulam",
+    "candidateName": "A. C. Moytheen",
+    "candidateSlug": "a-c-moytheen",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 69522,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KUNNAMKULAM",
+    "constituencySlug": "kunnamkulam",
+    "candidateName": "Rijil K. R.",
+    "candidateSlug": "rijil-k-r",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 17104,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "WADAKKANCHERY",
+    "constituencySlug": "wadakkanchery",
+    "candidateName": "Xeviyar Chittilappally",
+    "candidateSlug": "xeviyar-chittilappally",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 70725,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "THRISSUR",
+    "constituencySlug": "thrissur",
+    "candidateName": "Rajan Pallan",
+    "candidateSlug": "rajan-pallan",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 60290,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KAIPAMANGALAM",
+    "constituencySlug": "kaipamangalam",
+    "candidateName": "Athulya Ghosh",
+    "candidateSlug": "athulya-ghosh",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 19688,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PUTHUKKAD",
+    "constituencySlug": "puthukkad",
+    "candidateName": "A. Nagesh",
+    "candidateSlug": "a-nagesh",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 28018,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "CHALAKUDY",
+    "constituencySlug": "chalakudy",
+    "candidateName": "Adv Biju Chirayath",
+    "candidateSlug": "adv-biju-chirayath",
+    "partyName": "Kerala Congress (M)",
+    "partySlug": "kerala-congress-m",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 48046,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PERUMBAVOOR",
+    "constituencySlug": "perumbavoor",
+    "candidateName": "Manoj Moothedan",
+    "candidateSlug": "manoj-moothedan",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 75088,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PERUMBAVOOR",
+    "constituencySlug": "perumbavoor",
+    "candidateName": "Jibi Pathikkal",
+    "candidateSlug": "jibi-pathikkal",
+    "partyName": "Twenty 20 Party",
+    "partySlug": "twenty-20-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 22497,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PARAVUR",
+    "constituencySlug": "paravur",
+    "candidateName": "Vathsala Prasanna Kumar",
+    "candidateSlug": "vathsala-prasanna-kumar",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 20377,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VYPIN",
+    "constituencySlug": "vypin",
+    "candidateName": "Tony Chammany",
+    "candidateSlug": "tony-chammany",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 66112,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VYPIN",
+    "constituencySlug": "vypin",
+    "candidateName": "Adv. M. B. Shyni",
+    "candidateSlug": "m-b-shyni",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 50464,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VYPIN",
+    "constituencySlug": "vypin",
+    "candidateName": "Anitha Thomas",
+    "candidateSlug": "anitha-thomas",
+    "partyName": "Twenty 20 Party",
+    "partySlug": "twenty-20-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 13637,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOCHI",
+    "constituencySlug": "kochi",
+    "candidateName": "K. J. Maxi",
+    "candidateSlug": "k-j-maxi",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 56130,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "ERNAKULAM",
+    "constituencySlug": "ernakulam",
+    "candidateName": "T. J. Vinod",
+    "candidateSlug": "t-j-vinod",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 61296,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "ERNAKULAM",
+    "constituencySlug": "ernakulam",
+    "candidateName": "Sabu George",
+    "candidateSlug": "sabu-george",
+    "partyName": "Independent",
+    "partySlug": "independent",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 25133,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "ERNAKULAM",
+    "constituencySlug": "ernakulam",
+    "candidateName": "P.R. Sivasankar",
+    "candidateSlug": "p-r-sivasankar",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 19154,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PIRAVOM",
+    "constituencySlug": "piravom",
+    "candidateName": "Anoop Jacob",
+    "candidateSlug": "anoop-jacob",
+    "partyName": "Kerala Congress (Jacob)",
+    "partySlug": "kerala-congress-jacob",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 89551,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "THODUPUZHA",
+    "constituencySlug": "thodupuzha",
+    "candidateName": "Adv. Roy A. Varikkad",
+    "candidateSlug": "roy-a-varikkad",
+    "partyName": "Twenty 20 Party",
+    "partySlug": "twenty-20-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 12679,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "IDUKKI",
+    "constituencySlug": "idukki",
+    "candidateName": "Roshi Augustine",
+    "candidateSlug": "roshi-augustine",
+    "partyName": "Kerala Congress (M)",
+    "partySlug": "kerala-congress-m",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 46740,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "IDUKKI",
+    "constituencySlug": "idukki",
+    "candidateName": "Adv. Pradeesh Prabha",
+    "candidateSlug": "pradeesh-prabha",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 9410,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PEERUMADE",
+    "constituencySlug": "peerumade",
+    "candidateName": "Adv. Syriac Thomas",
+    "candidateSlug": "syriac-thomas",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 69672,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PEERUMADE",
+    "constituencySlug": "peerumade",
+    "candidateName": "V. Ratheesh",
+    "candidateSlug": "v-ratheesh",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 9218,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PUTHUPPALLY",
+    "constituencySlug": "puthuppally",
+    "candidateName": "K. M. Radhakrishnan",
+    "candidateSlug": "k-m-radhakrishnan",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 31124,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PUTHUPPALLY",
+    "constituencySlug": "puthuppally",
+    "candidateName": "Raveendranath Vakathanam",
+    "candidateSlug": "raveendranath-vakathanam",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 11544,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "CHERTHALA",
+    "constituencySlug": "cherthala",
+    "candidateName": "Adv. Anandaraj T. P",
+    "candidateSlug": "anandaraj-t-p",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 17997,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "HARIPAD",
+    "constituencySlug": "haripad",
+    "candidateName": "Sandeep Vachaspati",
+    "candidateSlug": "sandeep-vachaspati",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 31022,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KAYAMKULAM",
+    "constituencySlug": "kayamkulam",
+    "candidateName": "Thambi Mettuthara",
+    "candidateSlug": "thambi-mettuthara",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 16973,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KONNI",
+    "constituencySlug": "konni",
+    "candidateName": "T. P. Sundareshan",
+    "candidateSlug": "t-p-sundareshan",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 15278,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "ADOOR ",
+    "constituencySlug": "adoor",
+    "candidateName": "Priji Sasidharan",
+    "candidateSlug": "priji-sasidharan",
+    "partyName": "Communist Party of India",
+    "partySlug": "communist-party-of-india",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 55821,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOTTARAKKARA",
+    "constituencySlug": "kottarakkara",
+    "candidateName": "R. Reshmi",
+    "candidateSlug": "r-reshmi",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 20664,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PUNALUR",
+    "constituencySlug": "punalur",
+    "candidateName": "Noushad Yusuf",
+    "candidateSlug": "noushad-yusuf",
+    "partyName": "Indian Union Muslim League",
+    "partySlug": "indian-union-muslim-league",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 50415,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "PUNALUR",
+    "constituencySlug": "punalur",
+    "candidateName": "Adv. B. Raghunathan Pillai",
+    "candidateSlug": "b-raghunathan-pillai",
+    "partyName": "Twenty 20 Party",
+    "partySlug": "twenty-20-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 15393,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "KOLLAM",
+    "constituencySlug": "kollam",
+    "candidateName": "Dr. N. Prathap Kumar",
+    "candidateSlug": "n-prathap-kumar",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 18537,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "ERAVIPURAM",
+    "constituencySlug": "eravipuram",
+    "candidateName": "Saji D. Anand",
+    "candidateSlug": "saji-d-anand",
+    "partyName": "Bharath Dharma Jana Sena",
+    "partySlug": "bharath-dharma-jana-sena",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 10469,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "CHIRAYINKEEZHU",
+    "constituencySlug": "chirayinkeezhu",
+    "candidateName": "Manoj B Edamana",
+    "candidateSlug": "manoj-b-edamana",
+    "partyName": "Communist Party of India",
+    "partySlug": "communist-party-of-india",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 55411,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "NEDUMANGAD",
+    "constituencySlug": "nedumangad",
+    "candidateName": "Yuvaraj Gokul",
+    "candidateSlug": "yuvaraj-gokul",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 38999,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VAMANAPURAM",
+    "constituencySlug": "vamanapuram",
+    "candidateName": "Sudheer Sha Palode",
+    "candidateSlug": "sudheer-sha-palode",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 73590,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "VAMANAPURAM",
+    "constituencySlug": "vamanapuram",
+    "candidateName": "D. K. Murali",
+    "candidateSlug": "d-k-murali",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 61405,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "THIRUVANANTHAPURAM",
+    "constituencySlug": "thiruvananthapuram",
+    "candidateName": "Sudheer Karamana",
+    "candidateSlug": "sudheer-karamana",
+    "partyName": "Independent",
+    "partySlug": "independent",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 35723,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "NEMOM",
+    "constituencySlug": "nemom",
+    "candidateName": "V. Shivankutty",
+    "candidateSlug": "v-shivankutty",
+    "partyName": "Communist Party of India (Marxist)",
+    "partySlug": "communist-party-of-india-marxist",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 2,
+    "votes": 52214,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "NEMOM",
+    "constituencySlug": "nemom",
+    "candidateName": "Adv. KS Sabarinathan",
+    "candidateSlug": "ks-sabarinathan",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 29730,
+    "isWinner": false,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "NEYYATTINKARA",
+    "constituencySlug": "neyyattinkara",
+    "candidateName": "N. Sakthan",
+    "candidateSlug": "n-sakthan",
+    "partyName": "Indian National Congress",
+    "partySlug": "indian-national-congress",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "won",
+    "rank": 1,
+    "votes": 58760,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05"
+  },
+  {
+    "office": "mla",
+    "electionYear": 2026,
+    "state": "Kerala",
+    "stateSlug": "kerala",
+    "constituencyName": "NEYYATTINKARA",
+    "constituencySlug": "neyyattinkara",
+    "candidateName": "S. Rajasekharan Nair",
+    "candidateSlug": "s-rajasekharan-nair",
+    "partyName": "Bharatiya Janata Party",
+    "partySlug": "bharatiya-janata-party",
+    "education": "N/A",
+    "assets": "0",
+    "criminalCases": 0,
+    "result": "lost",
+    "rank": 3,
+    "votes": 21858,
     "isWinner": false,
     "lastUpdated": "2026-05-05"
   }
