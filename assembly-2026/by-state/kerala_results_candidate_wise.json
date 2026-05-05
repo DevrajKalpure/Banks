@@ -1,0 +1,7066 @@
+[
+  {
+    "constituency": "ADOOR - 115",
+    "candidate_name": "ADVOCATE C V SANTHAKUMAR",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 66153,
+    "margin": "10332"
+  },
+  {
+    "constituency": "ADOOR - 115",
+    "candidate_name": "PRIJI KANNAN",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 55821,
+    "margin": "-10332"
+  },
+  {
+    "constituency": "ADOOR - 115",
+    "candidate_name": "ADV. PANDALAM PRATHAPAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 26337,
+    "margin": "-39816"
+  },
+  {
+    "constituency": "ADOOR - 115",
+    "candidate_name": "SIVAKUMAR C S",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 576,
+    "margin": "-65577"
+  },
+  {
+    "constituency": "ALAPPUZHA - 104",
+    "candidate_name": "A.D THOMAS",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 81065,
+    "margin": "21015"
+  },
+  {
+    "constituency": "ALAPPUZHA - 104",
+    "candidate_name": "P.P.CHITHARANJAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 60050,
+    "margin": "-21015"
+  },
+  {
+    "constituency": "ALAPPUZHA - 104",
+    "candidate_name": "M.J JOB",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 15373,
+    "margin": "-65692"
+  },
+  {
+    "constituency": "ALAPPUZHA - 104",
+    "candidate_name": "JOSEPH CHACKO",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 163,
+    "margin": "-80902"
+  },
+  {
+    "constituency": "ALAPPUZHA - 104",
+    "candidate_name": "ALLEPPEY SUGUNAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 117,
+    "margin": "-80948"
+  },
+  {
+    "constituency": "ALAPPUZHA - 104",
+    "candidate_name": "JYOTHI ABRAHAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 98,
+    "margin": "-80967"
+  },
+  {
+    "constituency": "ALATHUR - 60",
+    "candidate_name": "T M SASI",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 61564,
+    "margin": "8553"
+  },
+  {
+    "constituency": "ALATHUR - 60",
+    "candidate_name": "K M FEBIN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 53011,
+    "margin": "-8553"
+  },
+  {
+    "constituency": "ALATHUR - 60",
+    "candidate_name": "K V PRASANNAKUMAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 17347,
+    "margin": "-44217"
+  },
+  {
+    "constituency": "ALATHUR - 60",
+    "candidate_name": "M T CHANDRAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 651,
+    "margin": "-60913"
+  },
+  {
+    "constituency": "ALATHUR - 60",
+    "candidate_name": "B FEBIN S/O BALAN K.C.",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 585,
+    "margin": "-60979"
+  },
+  {
+    "constituency": "ALUVA - 76",
+    "candidate_name": "ANWAR SADATH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 83899,
+    "margin": "29143"
+  },
+  {
+    "constituency": "ALUVA - 76",
+    "candidate_name": "ADVOCATE A.M.ARIFF",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 54756,
+    "margin": "-29143"
+  },
+  {
+    "constituency": "ALUVA - 76",
+    "candidate_name": "M.A.BRAHMARAJ",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 18732,
+    "margin": "-65167"
+  },
+  {
+    "constituency": "ALUVA - 76",
+    "candidate_name": "HAKHIKHATH HAMEED",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 403,
+    "margin": "-83496"
+  },
+  {
+    "constituency": "AMBALAPPUZHA - 105",
+    "candidate_name": "G.SUDHAKARAN",
+    "party_name": "Independent",
+    "status": "Won",
+    "total_votes": 75184,
+    "margin": "27935"
+  },
+  {
+    "constituency": "AMBALAPPUZHA - 105",
+    "candidate_name": "H. SALAM",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 47249,
+    "margin": "-27935"
+  },
+  {
+    "constituency": "AMBALAPPUZHA - 105",
+    "candidate_name": "ARUN ANIRUDHAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 16348,
+    "margin": "-58836"
+  },
+  {
+    "constituency": "AMBALAPPUZHA - 105",
+    "candidate_name": "JOHNSON MATHEW",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1020,
+    "margin": "-74164"
+  },
+  {
+    "constituency": "ANGAMALY - 75",
+    "candidate_name": "ROJI M JOHN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 78331,
+    "margin": "37008"
+  },
+  {
+    "constituency": "ANGAMALY - 75",
+    "candidate_name": "SAJU PAUL",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 41323,
+    "margin": "-37008"
+  },
+  {
+    "constituency": "ANGAMALY - 75",
+    "candidate_name": "PROMY KURIAKOSE",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 9893,
+    "margin": "-68438"
+  },
+  {
+    "constituency": "ANGAMALY - 75",
+    "candidate_name": "P V RAJEESH",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 220,
+    "margin": "-78111"
+  },
+  {
+    "constituency": "ANGAMALY - 75",
+    "candidate_name": "JOBY PAUL UPPAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 163,
+    "margin": "-78168"
+  },
+  {
+    "constituency": "ANGAMALY - 75",
+    "candidate_name": "SUPHIL SEBASTIAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 156,
+    "margin": "-78175"
+  },
+  {
+    "constituency": "ANGAMALY - 75",
+    "candidate_name": "SUBRAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 96,
+    "margin": "-78235"
+  },
+  {
+    "constituency": "ARANMULA - 113",
+    "candidate_name": "ABIN VARKEY KODIYATTU",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 70083,
+    "margin": "18985"
+  },
+  {
+    "constituency": "ARANMULA - 113",
+    "candidate_name": "VEENA GEORGE",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 51098,
+    "margin": "-18985"
+  },
+  {
+    "constituency": "ARANMULA - 113",
+    "candidate_name": "KUMMANAM RAJASEKHARAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 34983,
+    "margin": "-35100"
+  },
+  {
+    "constituency": "ARANMULA - 113",
+    "candidate_name": "PRABHAKARAN V. R",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 347,
+    "margin": "-69736"
+  },
+  {
+    "constituency": "ARANMULA - 113",
+    "candidate_name": "RADHAMANI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 229,
+    "margin": "-69854"
+  },
+  {
+    "constituency": "ARANMULA - 113",
+    "candidate_name": "OMALLOOR RAMACHANDRAN",
+    "party_name": "Ambedkarite Party of India",
+    "status": "Lost",
+    "total_votes": 95,
+    "margin": "-69988"
+  },
+  {
+    "constituency": "AROOR - 102",
+    "candidate_name": "ADV. SHANIMOL OSMAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 74469,
+    "margin": "9324"
+  },
+  {
+    "constituency": "AROOR - 102",
+    "candidate_name": "DALEEMA",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 65145,
+    "margin": "-9324"
+  },
+  {
+    "constituency": "AROOR - 102",
+    "candidate_name": "ADV. P.S. JYOTHIS",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 20334,
+    "margin": "-54135"
+  },
+  {
+    "constituency": "AROOR - 102",
+    "candidate_name": "N.K. SASIKUMAR",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 317,
+    "margin": "-74152"
+  },
+  {
+    "constituency": "AROOR - 102",
+    "candidate_name": "VAYALAR RAJEEVAN",
+    "party_name": "Bahujan Dravida Party",
+    "status": "Lost",
+    "total_votes": 297,
+    "margin": "-74172"
+  },
+  {
+    "constituency": "AROOR - 102",
+    "candidate_name": "VIPIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 238,
+    "margin": "-74231"
+  },
+  {
+    "constituency": "ARUVIKKARA - 136",
+    "candidate_name": "ADV. G. STEEPHEN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 61907,
+    "margin": "2843"
+  },
+  {
+    "constituency": "ARUVIKKARA - 136",
+    "candidate_name": "V. S. SIVAKUMAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 59064,
+    "margin": "-2843"
+  },
+  {
+    "constituency": "ARUVIKKARA - 136",
+    "candidate_name": "VIVEK GOPAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 23760,
+    "margin": "-38147"
+  },
+  {
+    "constituency": "ARUVIKKARA - 136",
+    "candidate_name": "SANTHOSH KUMAR. S",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 687,
+    "margin": "-61220"
+  },
+  {
+    "constituency": "ARUVIKKARA - 136",
+    "candidate_name": "V. S. SIVAKUMAR S/O SIVADASAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 303,
+    "margin": "-61604"
+  },
+  {
+    "constituency": "ARUVIKKARA - 136",
+    "candidate_name": "R. STEEPHEN S/O RAFI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 264,
+    "margin": "-61643"
+  },
+  {
+    "constituency": "ARUVIKKARA - 136",
+    "candidate_name": "ADV. S. SIVAKUMAR S/O SADASIVAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 118,
+    "margin": "-61789"
+  },
+  {
+    "constituency": "ATTINGAL - 128",
+    "candidate_name": "O.S AMBIKA",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 59163,
+    "margin": "13375"
+  },
+  {
+    "constituency": "ATTINGAL - 128",
+    "candidate_name": "ADV. P SUDHEER",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 45788,
+    "margin": "-13375"
+  },
+  {
+    "constituency": "ATTINGAL - 128",
+    "candidate_name": "SANTHOSH BHADRAN",
+    "party_name": "Revolutionary Socialist Party",
+    "status": "Lost",
+    "total_votes": 41372,
+    "margin": "-17791"
+  },
+  {
+    "constituency": "ATTINGAL - 128",
+    "candidate_name": "JAYARAJAN M",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1019,
+    "margin": "-58144"
+  },
+  {
+    "constituency": "ATTINGAL - 128",
+    "candidate_name": "S. SUJITHRA",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 905,
+    "margin": "-58258"
+  },
+  {
+    "constituency": "ATTINGAL - 128",
+    "candidate_name": "SUNITHA KILIMANOOR",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 397,
+    "margin": "-58766"
+  },
+  {
+    "constituency": "AZHIKODE - 10",
+    "candidate_name": "K. V. SUMESH",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 64951,
+    "margin": "349"
+  },
+  {
+    "constituency": "AZHIKODE - 10",
+    "candidate_name": "ADV. KAREEM CHELERI",
+    "party_name": "Indian Union Muslim League",
+    "status": "Lost",
+    "total_votes": 64602,
+    "margin": "-349"
+  },
+  {
+    "constituency": "AZHIKODE - 10",
+    "candidate_name": "K. K. VINODKUMAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 17476,
+    "margin": "-47475"
+  },
+  {
+    "constituency": "AZHIKODE - 10",
+    "candidate_name": "ABDUL KAREEM. V. V",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 235,
+    "margin": "-64716"
+  },
+  {
+    "constituency": "AZHIKODE - 10",
+    "candidate_name": "RESHMI RAVI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 227,
+    "margin": "-64724"
+  },
+  {
+    "constituency": "AZHIKODE - 10",
+    "candidate_name": "SUMESH. T. P S/O GOVINDAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 124,
+    "margin": "-64827"
+  },
+  {
+    "constituency": "AZHIKODE - 10",
+    "candidate_name": "KAREEM CHANDROTH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 115,
+    "margin": "-64836"
+  },
+  {
+    "constituency": "AZHIKODE - 10",
+    "candidate_name": "SUMESH KUMAR. K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 106,
+    "margin": "-64845"
+  },
+  {
+    "constituency": "BALUSSERI - 25",
+    "candidate_name": "V.T. SOORAJ",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 94804,
+    "margin": "16980"
+  },
+  {
+    "constituency": "BALUSSERI - 25",
+    "candidate_name": "ADV. K.M. SACHINDEV",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 77824,
+    "margin": "-16980"
+  },
+  {
+    "constituency": "BALUSSERI - 25",
+    "candidate_name": "C.P. SATHEESH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 17669,
+    "margin": "-77135"
+  },
+  {
+    "constituency": "BALUSSERI - 25",
+    "candidate_name": "SOORAJ K S/O ASOKAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 272,
+    "margin": "-94532"
+  },
+  {
+    "constituency": "BALUSSERI - 25",
+    "candidate_name": "ABHIJITH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 230,
+    "margin": "-94574"
+  },
+  {
+    "constituency": "BEYPORE - 29",
+    "candidate_name": "P.A MOHAMED RIYAS",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 81849,
+    "margin": "7487"
+  },
+  {
+    "constituency": "BEYPORE - 29",
+    "candidate_name": "P V ANVAR S/O SHOUKATHALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 74362,
+    "margin": "-7487"
+  },
+  {
+    "constituency": "BEYPORE - 29",
+    "candidate_name": "ADV. PRAKASHBABU",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 26543,
+    "margin": "-55306"
+  },
+  {
+    "constituency": "BEYPORE - 29",
+    "candidate_name": "ANVER S/O MOIDEENKOYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 538,
+    "margin": "-81311"
+  },
+  {
+    "constituency": "BEYPORE - 29",
+    "candidate_name": "ANVER S/O ENUNNI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 448,
+    "margin": "-81401"
+  },
+  {
+    "constituency": "BEYPORE - 29",
+    "candidate_name": "ANVER S/O SULAIKHA K P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 318,
+    "margin": "-81531"
+  },
+  {
+    "constituency": "BEYPORE - 29",
+    "candidate_name": "MUHAMMED RIYAS P.C S/O AHAMMEDKUTTY P. C",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 308,
+    "margin": "-81541"
+  },
+  {
+    "constituency": "BEYPORE - 29",
+    "candidate_name": "ANWAR ALI HASSAN S/O KUTTYHASSAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 201,
+    "margin": "-81648"
+  },
+  {
+    "constituency": "CHADAYAMANGALAM - 122",
+    "candidate_name": "M. M. NASEER",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 68281,
+    "margin": "7486"
+  },
+  {
+    "constituency": "CHADAYAMANGALAM - 122",
+    "candidate_name": "J. CHINCHURANI",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 60795,
+    "margin": "-7486"
+  },
+  {
+    "constituency": "CHADAYAMANGALAM - 122",
+    "candidate_name": "R.S. ARUNRAJ",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 20971,
+    "margin": "-47310"
+  },
+  {
+    "constituency": "CHADAYAMANGALAM - 122",
+    "candidate_name": "SHARAFATH MALLAM",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1674,
+    "margin": "-66607"
+  },
+  {
+    "constituency": "CHADAYAMANGALAM - 122",
+    "candidate_name": "AJI KADASSERY",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 381,
+    "margin": "-67900"
+  },
+  {
+    "constituency": "CHADAYAMANGALAM - 122",
+    "candidate_name": "G. JAYAN MOONLIGHT CHITHARA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 277,
+    "margin": "-68004"
+  },
+  {
+    "constituency": "CHALAKUDY - 72",
+    "candidate_name": "SANEESHKUMAR JOSEPH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 71202,
+    "margin": "23156"
+  },
+  {
+    "constituency": "CHALAKUDY - 72",
+    "candidate_name": "ADV. BIJU S CHIRAYATH",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 48046,
+    "margin": "-23156"
+  },
+  {
+    "constituency": "CHALAKUDY - 72",
+    "candidate_name": "ADV. CHARLYPAUL",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 16030,
+    "margin": "-55172"
+  },
+  {
+    "constituency": "CHALAKUDY - 72",
+    "candidate_name": "M S ASOKAN MANGALAPPILLY",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 663,
+    "margin": "-70539"
+  },
+  {
+    "constituency": "CHALAKUDY - 72",
+    "candidate_name": "WILSON KALLEN",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 519,
+    "margin": "-70683"
+  },
+  {
+    "constituency": "CHALAKUDY - 72",
+    "candidate_name": "ARUN EDATHADAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 311,
+    "margin": "-70891"
+  },
+  {
+    "constituency": "CHALAKUDY - 72",
+    "candidate_name": "A D BIJU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 228,
+    "margin": "-70974"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "VINU JOB KUZHIMANNIL",
+    "party_name": "Kerala Congress",
+    "status": "Won",
+    "total_votes": 55991,
+    "margin": "8368"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "ADV. JOB MAICHIL",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 47623,
+    "margin": "-8368"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "B RADHAKRISHNA MENON",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 14803,
+    "margin": "-41188"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "USHA JOHNSON",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 883,
+    "margin": "-55108"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "ALTHAF HASSAN",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 564,
+    "margin": "-55427"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "ARAVIND V",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 331,
+    "margin": "-55660"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "PROF.DR.SAJU KANNANTHARA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 256,
+    "margin": "-55735"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "DR.KALKI P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 67,
+    "margin": "-55924"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "JOEMON JOSEPH SRAMPICKAL A P J JUMAN V S",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 57,
+    "margin": "-55934"
+  },
+  {
+    "constituency": "CHANGANASSERY - 99",
+    "candidate_name": "JOSE JOSEPH",
+    "party_name": "Janam Rashtriya Party",
+    "status": "Lost",
+    "total_votes": 43,
+    "margin": "-55948"
+  },
+  {
+    "constituency": "CHATHANNOOR - 126",
+    "candidate_name": "B.B.GOPAKUMAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 51923,
+    "margin": "4398"
+  },
+  {
+    "constituency": "CHATHANNOOR - 126",
+    "candidate_name": "ADV.R.RAJENDRAN",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 47525,
+    "margin": "-4398"
+  },
+  {
+    "constituency": "CHATHANNOOR - 126",
+    "candidate_name": "SOORAJ RAVI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 35276,
+    "margin": "-16647"
+  },
+  {
+    "constituency": "CHATHANNOOR - 126",
+    "candidate_name": "ARUN CHATHANNOOR",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 627,
+    "margin": "-51296"
+  },
+  {
+    "constituency": "CHATHANNOOR - 126",
+    "candidate_name": "SINDHU PUTHENKULAM",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 428,
+    "margin": "-51495"
+  },
+  {
+    "constituency": "CHAVARA - 117",
+    "candidate_name": "SHIBU BABY JOHN",
+    "party_name": "Revolutionary Socialist Party",
+    "status": "Won",
+    "total_votes": 74308,
+    "margin": "18573"
+  },
+  {
+    "constituency": "CHAVARA - 117",
+    "candidate_name": "DR.SUJITH VIJAYANPILLAI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 55735,
+    "margin": "-18573"
+  },
+  {
+    "constituency": "CHAVARA - 117",
+    "candidate_name": "K.R.RAJESH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 11012,
+    "margin": "-63296"
+  },
+  {
+    "constituency": "CHELAKKARA - 61",
+    "candidate_name": "U R PRADEEP",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 76073,
+    "margin": "29386"
+  },
+  {
+    "constituency": "CHELAKKARA - 61",
+    "candidate_name": "SIVADASAN (SIVAN VEETTIKUNNU)",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 46687,
+    "margin": "-29386"
+  },
+  {
+    "constituency": "CHELAKKARA - 61",
+    "candidate_name": "K BALAKRISHNAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 37286,
+    "margin": "-38787"
+  },
+  {
+    "constituency": "CHELAKKARA - 61",
+    "candidate_name": "VINODKUMAR",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1204,
+    "margin": "-74869"
+  },
+  {
+    "constituency": "CHELAKKARA - 61",
+    "candidate_name": "SUBRAMANIAN K V",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 669,
+    "margin": "-75404"
+  },
+  {
+    "constituency": "CHENGANNUR - 110",
+    "candidate_name": "SAJI CHERIAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 57859,
+    "margin": "10292"
+  },
+  {
+    "constituency": "CHENGANNUR - 110",
+    "candidate_name": "ADV. ABI KURIAKOSE",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 47567,
+    "margin": "-10292"
+  },
+  {
+    "constituency": "CHENGANNUR - 110",
+    "candidate_name": "M. V .GOPAKUMAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 30942,
+    "margin": "-26917"
+  },
+  {
+    "constituency": "CHENGANNUR - 110",
+    "candidate_name": "B. PRANEESH",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 429,
+    "margin": "-57430"
+  },
+  {
+    "constituency": "CHERTHALA - 103",
+    "candidate_name": "P. PRASAD",
+    "party_name": "Communist Party of India",
+    "status": "Won",
+    "total_votes": 83216,
+    "margin": "14489"
+  },
+  {
+    "constituency": "CHERTHALA - 103",
+    "candidate_name": "K.R. RAJENDRA PRASAD",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 68727,
+    "margin": "-14489"
+  },
+  {
+    "constituency": "CHERTHALA - 103",
+    "candidate_name": "ADV. T.P. ANANTHARAJ",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 17997,
+    "margin": "-65219"
+  },
+  {
+    "constituency": "CHERTHALA - 103",
+    "candidate_name": "NANDAKUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 455,
+    "margin": "-82761"
+  },
+  {
+    "constituency": "CHERTHALA - 103",
+    "candidate_name": "A.P. PRASAD S/O PURUSHOTHAMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 366,
+    "margin": "-82850"
+  },
+  {
+    "constituency": "CHERTHALA - 103",
+    "candidate_name": "RAJENDRA PRASAD S/O PRABHAKARAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 249,
+    "margin": "-82967"
+  },
+  {
+    "constituency": "CHERTHALA - 103",
+    "candidate_name": "ADV. SONNYMON K .MATHEW",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 190,
+    "margin": "-83026"
+  },
+  {
+    "constituency": "CHIRAYINKEEZHU - 129",
+    "candidate_name": "RAMYA HARIDAS",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 56833,
+    "margin": "1422"
+  },
+  {
+    "constituency": "CHIRAYINKEEZHU - 129",
+    "candidate_name": "MANOJ EDAMANA",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 55411,
+    "margin": "-1422"
+  },
+  {
+    "constituency": "CHIRAYINKEEZHU - 129",
+    "candidate_name": "B. S. ANOOP",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 32920,
+    "margin": "-23913"
+  },
+  {
+    "constituency": "CHIRAYINKEEZHU - 129",
+    "candidate_name": "R. SASI",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 743,
+    "margin": "-56090"
+  },
+  {
+    "constituency": "CHIRAYINKEEZHU - 129",
+    "candidate_name": "ANOOP ALAPPURAMKUNNU",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 617,
+    "margin": "-56216"
+  },
+  {
+    "constituency": "CHITTUR - 58",
+    "candidate_name": "ADV. SUMESH ACHUTHAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 65325,
+    "margin": "6510"
+  },
+  {
+    "constituency": "CHITTUR - 58",
+    "candidate_name": "ADV. V. MURUGADAS",
+    "party_name": "Indian Socialist Janata Dal",
+    "status": "Lost",
+    "total_votes": 58815,
+    "margin": "-6510"
+  },
+  {
+    "constituency": "CHITTUR - 58",
+    "candidate_name": "PRANESH RAJENDRAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 14697,
+    "margin": "-50628"
+  },
+  {
+    "constituency": "CHITTUR - 58",
+    "candidate_name": "MURUGADAS. P. S/O PAZHANIAPPA MUDALIYAAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 6984,
+    "margin": "-58341"
+  },
+  {
+    "constituency": "CHITTUR - 58",
+    "candidate_name": "N S K PURAM SASIKUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 408,
+    "margin": "-64917"
+  },
+  {
+    "constituency": "CHITTUR - 58",
+    "candidate_name": "SUMESH C",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 261,
+    "margin": "-65064"
+  },
+  {
+    "constituency": "DEVIKULAM - 88",
+    "candidate_name": "F. RAJA",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 50590,
+    "margin": "5233"
+  },
+  {
+    "constituency": "DEVIKULAM - 88",
+    "candidate_name": "ADV. A. RAJA",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 45357,
+    "margin": "-5233"
+  },
+  {
+    "constituency": "DEVIKULAM - 88",
+    "candidate_name": "S.RAJENDRAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 15032,
+    "margin": "-35558"
+  },
+  {
+    "constituency": "DEVIKULAM - 88",
+    "candidate_name": "RAJENDRAN .V. B",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 206,
+    "margin": "-50384"
+  },
+  {
+    "constituency": "DEVIKULAM - 88",
+    "candidate_name": "SELVI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 194,
+    "margin": "-50396"
+  },
+  {
+    "constituency": "DEVIKULAM - 88",
+    "candidate_name": "CHELLADURAI .M",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 89,
+    "margin": "-50501"
+  },
+  {
+    "constituency": "DHARMADAM - 12",
+    "candidate_name": "PINARAYI VIJAYAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 85614,
+    "margin": "19247"
+  },
+  {
+    "constituency": "DHARMADAM - 12",
+    "candidate_name": "ADV. V.P ABDUL RASHEED",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 66367,
+    "margin": "-19247"
+  },
+  {
+    "constituency": "DHARMADAM - 12",
+    "candidate_name": "K. RANJITH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 18555,
+    "margin": "-67059"
+  },
+  {
+    "constituency": "DHARMADAM - 12",
+    "candidate_name": "VADI HAREENDRAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 193,
+    "margin": "-85421"
+  },
+  {
+    "constituency": "DHARMADAM - 12",
+    "candidate_name": "VIJAYAN A.M S/O KUNHIRAMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 117,
+    "margin": "-85497"
+  },
+  {
+    "constituency": "ELATHUR - 26",
+    "candidate_name": "ADV.VIDYA BALAKRISHNAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 77662,
+    "margin": "12162"
+  },
+  {
+    "constituency": "ELATHUR - 26",
+    "candidate_name": "A.K.SASEENDRAN S/O KUNJAMBU",
+    "party_name": "Nationalist Congress Party - Sharadchandra Pawar",
+    "status": "Lost",
+    "total_votes": 65500,
+    "margin": "-12162"
+  },
+  {
+    "constituency": "ELATHUR - 26",
+    "candidate_name": "DEVADAS T",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 31510,
+    "margin": "-46152"
+  },
+  {
+    "constituency": "ELATHUR - 26",
+    "candidate_name": "V.K.SASEENDRAN S/O RAMAKRISHNAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 726,
+    "margin": "-76936"
+  },
+  {
+    "constituency": "ELATHUR - 26",
+    "candidate_name": "P.K.SASEENDRAN S/O SABUDASAN",
+    "party_name": "Nationalist Congress Party",
+    "status": "Lost",
+    "total_votes": 692,
+    "margin": "-76970"
+  },
+  {
+    "constituency": "ELATHUR - 26",
+    "candidate_name": "P.M.SREEKUMAR",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 481,
+    "margin": "-77181"
+  },
+  {
+    "constituency": "ELATHUR - 26",
+    "candidate_name": "ABDUL BASITH ATHOLI",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 348,
+    "margin": "-77314"
+  },
+  {
+    "constituency": "ELATHUR - 26",
+    "candidate_name": "ADV.SUMIN.S.NEDUNGADAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 117,
+    "margin": "-77545"
+  },
+  {
+    "constituency": "ERANAKULAM - 82",
+    "candidate_name": "T.J VINOD",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 61296,
+    "margin": "36163"
+  },
+  {
+    "constituency": "ERANAKULAM - 82",
+    "candidate_name": "SABU GEORGE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 25133,
+    "margin": "-36163"
+  },
+  {
+    "constituency": "ERANAKULAM - 82",
+    "candidate_name": "P.R. SIVASANKAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 19154,
+    "margin": "-42142"
+  },
+  {
+    "constituency": "ERANAKULAM - 82",
+    "candidate_name": "MOSES HENRY MOTHA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 783,
+    "margin": "-60513"
+  },
+  {
+    "constituency": "ERANAKULAM - 82",
+    "candidate_name": "ASHOKAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 287,
+    "margin": "-61009"
+  },
+  {
+    "constituency": "ERAVIPURAM - 125",
+    "candidate_name": "ADV.VISHNU MOHAN",
+    "party_name": "Revolutionary Socialist Party",
+    "status": "Won",
+    "total_votes": 64383,
+    "margin": "8803"
+  },
+  {
+    "constituency": "ERAVIPURAM - 125",
+    "candidate_name": "M.NOUSHAD",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 55580,
+    "margin": "-8803"
+  },
+  {
+    "constituency": "ERAVIPURAM - 125",
+    "candidate_name": "SAJEE D ANAND",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 10469,
+    "margin": "-53914"
+  },
+  {
+    "constituency": "ERAVIPURAM - 125",
+    "candidate_name": "FIROZ S R",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 597,
+    "margin": "-63786"
+  },
+  {
+    "constituency": "ERAVIPURAM - 125",
+    "candidate_name": "NOUSHAD A S/O.ALIYARU KUNJU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 443,
+    "margin": "-63940"
+  },
+  {
+    "constituency": "ERNAD - 34",
+    "candidate_name": "P.K.BASHEER",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 98547,
+    "margin": "41289"
+  },
+  {
+    "constituency": "ERNAD - 34",
+    "candidate_name": "ADV.SHAFEER KIZHISSERI",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 57258,
+    "margin": "-41289"
+  },
+  {
+    "constituency": "ERNAD - 34",
+    "candidate_name": "ADV.N.SREEPRAKASH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 8728,
+    "margin": "-89819"
+  },
+  {
+    "constituency": "ERNAD - 34",
+    "candidate_name": "CHEMMALA YOOSUF ALI",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 2530,
+    "margin": "-96017"
+  },
+  {
+    "constituency": "ERNAD - 34",
+    "candidate_name": "KRISHNAN THACHANNAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 467,
+    "margin": "-98080"
+  },
+  {
+    "constituency": "ERNAD - 34",
+    "candidate_name": "MUJEEB RAHMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 166,
+    "margin": "-98381"
+  },
+  {
+    "constituency": "ETTUMANOOR - 96",
+    "candidate_name": "NATTAKOM SURESH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 64077,
+    "margin": "19752"
+  },
+  {
+    "constituency": "ETTUMANOOR - 96",
+    "candidate_name": "V. N. VASAVAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 44325,
+    "margin": "-19752"
+  },
+  {
+    "constituency": "ETTUMANOOR - 96",
+    "candidate_name": "ATHIRA D NAIR",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 12975,
+    "margin": "-51102"
+  },
+  {
+    "constituency": "ETTUMANOOR - 96",
+    "candidate_name": "BINOY JOSEPH KULATHUNKAL",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 455,
+    "margin": "-63622"
+  },
+  {
+    "constituency": "ETTUMANOOR - 96",
+    "candidate_name": "ASHNA THAMBI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 277,
+    "margin": "-63800"
+  },
+  {
+    "constituency": "ETTUMANOOR - 96",
+    "candidate_name": "RAJMOHAN VETTIKULANGARA UNNI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 205,
+    "margin": "-63872"
+  },
+  {
+    "constituency": "GURUVAYOOR - 63",
+    "candidate_name": "N. K. AKBAR",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 66069,
+    "margin": "1998"
+  },
+  {
+    "constituency": "GURUVAYOOR - 63",
+    "candidate_name": "C. H. RASHEED",
+    "party_name": "Indian Union Muslim League",
+    "status": "Lost",
+    "total_votes": 64071,
+    "margin": "-1998"
+  },
+  {
+    "constituency": "GURUVAYOOR - 63",
+    "candidate_name": "ADV. B. GOPALAKRISHNAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 28947,
+    "margin": "-37122"
+  },
+  {
+    "constituency": "GURUVAYOOR - 63",
+    "candidate_name": "K. V. ABDUL NASAR",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1610,
+    "margin": "-64459"
+  },
+  {
+    "constituency": "GURUVAYOOR - 63",
+    "candidate_name": "PAULY GURUVAYUR",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 466,
+    "margin": "-65603"
+  },
+  {
+    "constituency": "GURUVAYOOR - 63",
+    "candidate_name": "C. R. UNNIKRISHNAN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 218,
+    "margin": "-65851"
+  },
+  {
+    "constituency": "HARIPAD - 107",
+    "candidate_name": "RAMESH CHENNITHALA",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 68184,
+    "margin": "23377"
+  },
+  {
+    "constituency": "HARIPAD - 107",
+    "candidate_name": "T.T.JISMON",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 44807,
+    "margin": "-23377"
+  },
+  {
+    "constituency": "HARIPAD - 107",
+    "candidate_name": "SANDHEEP VAACHASPATHI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 31022,
+    "margin": "-37162"
+  },
+  {
+    "constituency": "HARIPAD - 107",
+    "candidate_name": "VIDHYA V.P",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 231,
+    "margin": "-67953"
+  },
+  {
+    "constituency": "HARIPAD - 107",
+    "candidate_name": "SOUMYA V.SASIDHARAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 69,
+    "margin": "-68115"
+  },
+  {
+    "constituency": "HARIPAD - 107",
+    "candidate_name": "RAMESH C",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 59,
+    "margin": "-68125"
+  },
+  {
+    "constituency": "IDUKKI - 91",
+    "candidate_name": "ROY K PAULOSE",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 70562,
+    "margin": "23822"
+  },
+  {
+    "constituency": "IDUKKI - 91",
+    "candidate_name": "ROSHY AUGUSTINE",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 46740,
+    "margin": "-23822"
+  },
+  {
+    "constituency": "IDUKKI - 91",
+    "candidate_name": "ADV. PRATHEESH PRABHA",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 9410,
+    "margin": "-61152"
+  },
+  {
+    "constituency": "IDUKKI - 91",
+    "candidate_name": "SHIJO ANTONY",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 977,
+    "margin": "-69585"
+  },
+  {
+    "constituency": "IRIKKUR - 9",
+    "candidate_name": "ADV. SAJEEV JOSEPH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 90895,
+    "margin": "42426"
+  },
+  {
+    "constituency": "IRIKKUR - 9",
+    "candidate_name": "ADV. MATHEW KUNNAPPALLY",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 48469,
+    "margin": "-42426"
+  },
+  {
+    "constituency": "IRIKKUR - 9",
+    "candidate_name": "SREENATH PADMANABHAN",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 9617,
+    "margin": "-81278"
+  },
+  {
+    "constituency": "IRIKKUR - 9",
+    "candidate_name": "P V JOSEPH PARIKKAPPALLIL",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1151,
+    "margin": "-89744"
+  },
+  {
+    "constituency": "IRIKKUR - 9",
+    "candidate_name": "M J MATHEW",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 417,
+    "margin": "-90478"
+  },
+  {
+    "constituency": "IRIKKUR - 9",
+    "candidate_name": "AMAL K T",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 299,
+    "margin": "-90596"
+  },
+  {
+    "constituency": "IRINJALAKUDA - 70",
+    "candidate_name": "ADV. THOMAS UNNIYADAN",
+    "party_name": "Kerala Congress",
+    "status": "Won",
+    "total_votes": 66282,
+    "margin": "10212"
+  },
+  {
+    "constituency": "IRINJALAKUDA - 70",
+    "candidate_name": "DR.R.BINDU",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 56070,
+    "margin": "-10212"
+  },
+  {
+    "constituency": "IRINJALAKUDA - 70",
+    "candidate_name": "SANTHOSH CHERAKULAM",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 27167,
+    "margin": "-39115"
+  },
+  {
+    "constituency": "IRINJALAKUDA - 70",
+    "candidate_name": "THANKAMANY THARAYIL",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 921,
+    "margin": "-65361"
+  },
+  {
+    "constituency": "IRINJALAKUDA - 70",
+    "candidate_name": "DR. SHAJU KAVUNGAL",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 579,
+    "margin": "-65703"
+  },
+  {
+    "constituency": "IRINJALAKUDA - 70",
+    "candidate_name": "DR. ANISH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 259,
+    "margin": "-66023"
+  },
+  {
+    "constituency": "IRINJALAKUDA - 70",
+    "candidate_name": "AYYAPPAN MANAKKAL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 100,
+    "margin": "-66182"
+  },
+  {
+    "constituency": "KADUTHURUTHY - 94",
+    "candidate_name": "ADV.MONS JOSEPH",
+    "party_name": "Kerala Congress",
+    "status": "Won",
+    "total_votes": 70353,
+    "margin": "31300"
+  },
+  {
+    "constituency": "KADUTHURUTHY - 94",
+    "candidate_name": "NIRMALA JIMMY",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 39053,
+    "margin": "-31300"
+  },
+  {
+    "constituency": "KADUTHURUTHY - 94",
+    "candidate_name": "SURESH ETTIKUNNEL",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 12228,
+    "margin": "-58125"
+  },
+  {
+    "constituency": "KADUTHURUTHY - 94",
+    "candidate_name": "JIJITH K JOY",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 1324,
+    "margin": "-69029"
+  },
+  {
+    "constituency": "KADUTHURUTHY - 94",
+    "candidate_name": "DOMINIC SIMON",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 628,
+    "margin": "-69725"
+  },
+  {
+    "constituency": "KADUTHURUTHY - 94",
+    "candidate_name": "INDU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 134,
+    "margin": "-70219"
+  },
+  {
+    "constituency": "KADUTHURUTHY - 94",
+    "candidate_name": "M.M.SCARIA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 134,
+    "margin": "-70219"
+  },
+  {
+    "constituency": "KAIPAMANGALAM - 69",
+    "candidate_name": "K.K. VALSARAJ",
+    "party_name": "Communist Party of India",
+    "status": "Won",
+    "total_votes": 65448,
+    "margin": "9944"
+  },
+  {
+    "constituency": "KAIPAMANGALAM - 69",
+    "candidate_name": "T.M. NAZAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 55504,
+    "margin": "-9944"
+  },
+  {
+    "constituency": "KAIPAMANGALAM - 69",
+    "candidate_name": "ATHULLIAGHOSH VETTIYATTIL",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 19688,
+    "margin": "-45760"
+  },
+  {
+    "constituency": "KAIPAMANGALAM - 69",
+    "candidate_name": "JAYAN ERATT",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 653,
+    "margin": "-64795"
+  },
+  {
+    "constituency": "KAIPAMANGALAM - 69",
+    "candidate_name": "A.M. MUHAMMED RIYAS",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 536,
+    "margin": "-64912"
+  },
+  {
+    "constituency": "KAIPAMANGALAM - 69",
+    "candidate_name": "MANOJ M.M.",
+    "party_name": "Communist Party of India (Marxist-Leninist) Red Star",
+    "status": "Lost",
+    "total_votes": 335,
+    "margin": "-65113"
+  },
+  {
+    "constituency": "KALAMASSERY - 77",
+    "candidate_name": "ADV. V E ABDUL GAFOOR",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 80606,
+    "margin": "16312"
+  },
+  {
+    "constituency": "KALAMASSERY - 77",
+    "candidate_name": "P RAJEEVE",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 64294,
+    "margin": "-16312"
+  },
+  {
+    "constituency": "KALAMASSERY - 77",
+    "candidate_name": "BINU",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 14130,
+    "margin": "-66476"
+  },
+  {
+    "constituency": "KALAMASSERY - 77",
+    "candidate_name": "AJMAL K MUJEEB",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1578,
+    "margin": "-79028"
+  },
+  {
+    "constituency": "KALAMASSERY - 77",
+    "candidate_name": "SHAMSU T K",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 553,
+    "margin": "-80053"
+  },
+  {
+    "constituency": "KALAMASSERY - 77",
+    "candidate_name": "SIYAD V A",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 331,
+    "margin": "-80275"
+  },
+  {
+    "constituency": "KALAMASSERY - 77",
+    "candidate_name": "A RAJEENA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 301,
+    "margin": "-80305"
+  },
+  {
+    "constituency": "KALAMASSERY - 77",
+    "candidate_name": "RAJEEV S/O VAREED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 233,
+    "margin": "-80373"
+  },
+  {
+    "constituency": "KALLIASSERI - 7",
+    "candidate_name": "M.VIJIN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 81428,
+    "margin": "18433"
+  },
+  {
+    "constituency": "KALLIASSERI - 7",
+    "candidate_name": "ADV. RAJEEVAN KAPPACHERI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 62995,
+    "margin": "-18433"
+  },
+  {
+    "constituency": "KALLIASSERI - 7",
+    "candidate_name": "SANIL.A.V",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 13110,
+    "margin": "-68318"
+  },
+  {
+    "constituency": "KALLIASSERI - 7",
+    "candidate_name": "K.K. ABDUL JABBAR",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1281,
+    "margin": "-80147"
+  },
+  {
+    "constituency": "KALLIASSERI - 7",
+    "candidate_name": "RAJEEVAN KANNOTH S/O KAMMARAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 160,
+    "margin": "-81268"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "ADV. T SIDDIQUE",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 97379,
+    "margin": "45031"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "P K ANIL KUMAR",
+    "party_name": "Rashtriya Janata Dal",
+    "status": "Lost",
+    "total_votes": 52348,
+    "margin": "-45031"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "PRASANTH MALAVAYAL",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 19175,
+    "margin": "-78204"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "RAFEEK C A",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 867,
+    "margin": "-96512"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "N HAMZA",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 801,
+    "margin": "-96578"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "RADHAKRISHNAN M",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 446,
+    "margin": "-96933"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "SIDHEEQUE S/O KUNJAMMAD",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 360,
+    "margin": "-97019"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "ANILKUMAR S/O UNNI NAIR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 347,
+    "margin": "-97032"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "K V PRAKASH",
+    "party_name": "Communist Party of India (Marxist-Leninist) Red Star",
+    "status": "Lost",
+    "total_votes": 325,
+    "margin": "-97054"
+  },
+  {
+    "constituency": "KALPETTA - 19",
+    "candidate_name": "T K UMMER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 256,
+    "margin": "-97123"
+  },
+  {
+    "constituency": "KANHANGAD - 4",
+    "candidate_name": "ADV. GOVINDAN PALLIKAPPIL",
+    "party_name": "Communist Party of India",
+    "status": "Won",
+    "total_votes": 79920,
+    "margin": "15316"
+  },
+  {
+    "constituency": "KANHANGAD - 4",
+    "candidate_name": "SHAIJI OTTAPALLI",
+    "party_name": "Kerala Congress",
+    "status": "Lost",
+    "total_votes": 64604,
+    "margin": "-15316"
+  },
+  {
+    "constituency": "KANHANGAD - 4",
+    "candidate_name": "M BALRAJ",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 27063,
+    "margin": "-52857"
+  },
+  {
+    "constituency": "KANHANGAD - 4",
+    "candidate_name": "VIJAYAKUMAR B",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 3132,
+    "margin": "-76788"
+  },
+  {
+    "constituency": "KANJIRAPPALLY - 100",
+    "candidate_name": "RONY K BABY",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 56646,
+    "margin": "5772"
+  },
+  {
+    "constituency": "KANJIRAPPALLY - 100",
+    "candidate_name": "DR. N. JAYARAJ",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 50874,
+    "margin": "-5772"
+  },
+  {
+    "constituency": "KANJIRAPPALLY - 100",
+    "candidate_name": "ADV. GEORGE KURIAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 26984,
+    "margin": "-29662"
+  },
+  {
+    "constituency": "KANJIRAPPALLY - 100",
+    "candidate_name": "THAMPI KAVUMPADAM",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 696,
+    "margin": "-55950"
+  },
+  {
+    "constituency": "KANNUR - 11",
+    "candidate_name": "ADV.T.O. MOHANAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 70620,
+    "margin": "18551"
+  },
+  {
+    "constituency": "KANNUR - 11",
+    "candidate_name": "RAMACHANDRAN KADANNAPPALLI",
+    "party_name": "Congress (Secular)",
+    "status": "Lost",
+    "total_votes": 52069,
+    "margin": "-18551"
+  },
+  {
+    "constituency": "KANNUR - 11",
+    "candidate_name": "C. RAGHUNATH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 16144,
+    "margin": "-54476"
+  },
+  {
+    "constituency": "KANNUR - 11",
+    "candidate_name": "T.K. MOHANAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 281,
+    "margin": "-70339"
+  },
+  {
+    "constituency": "KANNUR - 11",
+    "candidate_name": "SURESH KUMAR",
+    "party_name": "Bharatheeya Jawan Kisan Party",
+    "status": "Lost",
+    "total_votes": 255,
+    "margin": "-70365"
+  },
+  {
+    "constituency": "KANNUR - 11",
+    "candidate_name": "M.K. SHAHAZAD",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 229,
+    "margin": "-70391"
+  },
+  {
+    "constituency": "KANNUR - 11",
+    "candidate_name": "RAMACHANDRAN KUNIYIL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 216,
+    "margin": "-70404"
+  },
+  {
+    "constituency": "KARUNAGAPPALLY - 116",
+    "candidate_name": "C.R. MAHESH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 82593,
+    "margin": "26618"
+  },
+  {
+    "constituency": "KARUNAGAPPALLY - 116",
+    "candidate_name": "ADV.M.S. THARA",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 55975,
+    "margin": "-26618"
+  },
+  {
+    "constituency": "KARUNAGAPPALLY - 116",
+    "candidate_name": "V.S. JITHIN DEV",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 32121,
+    "margin": "-50472"
+  },
+  {
+    "constituency": "KARUNAGAPPALLY - 116",
+    "candidate_name": "LATHEEF",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1227,
+    "margin": "-81366"
+  },
+  {
+    "constituency": "KARUNAGAPPALLY - 116",
+    "candidate_name": "TWINKLE PRABHAKARAN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 295,
+    "margin": "-82298"
+  },
+  {
+    "constituency": "KASARAGOD - 2",
+    "candidate_name": "KALLATRA MAHIN",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 76396,
+    "margin": "22698"
+  },
+  {
+    "constituency": "KASARAGOD - 2",
+    "candidate_name": "ASHWINI M L",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 53698,
+    "margin": "-22698"
+  },
+  {
+    "constituency": "KASARAGOD - 2",
+    "candidate_name": "SHANAVAS PADHOOR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 36678,
+    "margin": "-39718"
+  },
+  {
+    "constituency": "KASARAGOD - 2",
+    "candidate_name": "SHANAVAS A A",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 893,
+    "margin": "-75503"
+  },
+  {
+    "constituency": "KASARAGOD - 2",
+    "candidate_name": "MOHAMMED ALI FATHAH B M",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 824,
+    "margin": "-75572"
+  },
+  {
+    "constituency": "KATTAKKADA - 138",
+    "candidate_name": "M. R. BAIJU",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 56846,
+    "margin": "7136"
+  },
+  {
+    "constituency": "KATTAKKADA - 138",
+    "candidate_name": "ADV. I. B. SATHEESH",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 49710,
+    "margin": "-7136"
+  },
+  {
+    "constituency": "KATTAKKADA - 138",
+    "candidate_name": "P. K. KRISHNADAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 38231,
+    "margin": "-18615"
+  },
+  {
+    "constituency": "KATTAKKADA - 138",
+    "candidate_name": "NOBIL M. D",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 433,
+    "margin": "-56413"
+  },
+  {
+    "constituency": "KATTAKKADA - 138",
+    "candidate_name": "ADV. JAYAKUMAR THEERTHAM",
+    "party_name": "Communist Party of India (Marxist-Leninist) (Liberation)",
+    "status": "Lost",
+    "total_votes": 262,
+    "margin": "-56584"
+  },
+  {
+    "constituency": "KAYAMKULAM - 108",
+    "candidate_name": "ADV.M.LIJU",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 76651,
+    "margin": "15572"
+  },
+  {
+    "constituency": "KAYAMKULAM - 108",
+    "candidate_name": "ADV.U.PRATHIBHA",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 61079,
+    "margin": "-15572"
+  },
+  {
+    "constituency": "KAYAMKULAM - 108",
+    "candidate_name": "THAMPI METTUTHARA",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 16973,
+    "margin": "-59678"
+  },
+  {
+    "constituency": "KAZHAKOOTTAM - 132",
+    "candidate_name": "V. MURALEEDHARAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 46564,
+    "margin": "428"
+  },
+  {
+    "constituency": "KAZHAKOOTTAM - 132",
+    "candidate_name": "KADAKAMPALLY SURENDRAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 46136,
+    "margin": "-428"
+  },
+  {
+    "constituency": "KAZHAKOOTTAM - 132",
+    "candidate_name": "ADVOCATE T. SARATHCHANDRA PRASAD",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 37183,
+    "margin": "-9381"
+  },
+  {
+    "constituency": "KAZHAKOOTTAM - 132",
+    "candidate_name": "T. S. RAJAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 298,
+    "margin": "-46266"
+  },
+  {
+    "constituency": "KAZHAKOOTTAM - 132",
+    "candidate_name": "DEEBIKA KARIMANAL",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 260,
+    "margin": "-46304"
+  },
+  {
+    "constituency": "KAZHAKOOTTAM - 132",
+    "candidate_name": "K. SURENDRAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 97,
+    "margin": "-46467"
+  },
+  {
+    "constituency": "KAZHAKOOTTAM - 132",
+    "candidate_name": "SREEKANTAN NAIR V.",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 68,
+    "margin": "-46496"
+  },
+  {
+    "constituency": "KOCHI - 80",
+    "candidate_name": "MOHAMMED SHIYAS",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 64318,
+    "margin": "8188"
+  },
+  {
+    "constituency": "KOCHI - 80",
+    "candidate_name": "K.J. MAXY",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 56130,
+    "margin": "-8188"
+  },
+  {
+    "constituency": "KOCHI - 80",
+    "candidate_name": "ADV. XAVIER JULAPPAN",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 11854,
+    "margin": "-52464"
+  },
+  {
+    "constituency": "KOCHI - 80",
+    "candidate_name": "ANEESH MATTANCHERRY",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 803,
+    "margin": "-63515"
+  },
+  {
+    "constituency": "KOCHI - 80",
+    "candidate_name": "AJEESH P.E",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 318,
+    "margin": "-64000"
+  },
+  {
+    "constituency": "KODUNGALLUR - 73",
+    "candidate_name": "ADV. O J JANEESH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 65162,
+    "margin": "8308"
+  },
+  {
+    "constituency": "KODUNGALLUR - 73",
+    "candidate_name": "ADV. V R SUNIL KUMAR",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 56854,
+    "margin": "-8308"
+  },
+  {
+    "constituency": "KODUNGALLUR - 73",
+    "candidate_name": "DR. VARGHESE GEORGE",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 23933,
+    "margin": "-41229"
+  },
+  {
+    "constituency": "KODUNGALLUR - 73",
+    "candidate_name": "RAVI A K",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 488,
+    "margin": "-64674"
+  },
+  {
+    "constituency": "KODUNGALLUR - 73",
+    "candidate_name": "DR. K M FRANCIS ROY",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 447,
+    "margin": "-64715"
+  },
+  {
+    "constituency": "KODUNGALLUR - 73",
+    "candidate_name": "NANDAGOPAN VELLATHADI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 284,
+    "margin": "-64878"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "P K FIROS",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 95164,
+    "margin": "36682"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "SALEEM MADAVOOR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 58482,
+    "margin": "-36682"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "GIRI PAMBANAL",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 9832,
+    "margin": "-85332"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "SUNIL MANNATH",
+    "party_name": "Republican Party of India (Athawale)",
+    "status": "Lost",
+    "total_votes": 397,
+    "margin": "-94767"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "FIROSE K C S/O MOITHEENKUTTY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 298,
+    "margin": "-94866"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "BAVANKUTTY",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 286,
+    "margin": "-94878"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "ABDUL SHUKOOR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 212,
+    "margin": "-94952"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "FIROSE S/O ABOOBACKER MUSALIAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 185,
+    "margin": "-94979"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "LAKSHMANAN K P THAMARASSERY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 184,
+    "margin": "-94980"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "SALEEM MUTTANCHERY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 142,
+    "margin": "-95022"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "SALEEM C K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 121,
+    "margin": "-95043"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "SAJIR K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 107,
+    "margin": "-95057"
+  },
+  {
+    "constituency": "KODUVALLY - 31",
+    "candidate_name": "SHAHEEDA C P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 88,
+    "margin": "-95076"
+  },
+  {
+    "constituency": "KOLLAM - 124",
+    "candidate_name": "ADV. BINDHU KRISHNA",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 63416,
+    "margin": "16830"
+  },
+  {
+    "constituency": "KOLLAM - 124",
+    "candidate_name": "S. JAYAMOHAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 46586,
+    "margin": "-16830"
+  },
+  {
+    "constituency": "KOLLAM - 124",
+    "candidate_name": "DR. PRATHAP KUMAR N",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 18537,
+    "margin": "-44879"
+  },
+  {
+    "constituency": "KOLLAM - 124",
+    "candidate_name": "ADV. SINU.L.R",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 290,
+    "margin": "-63126"
+  },
+  {
+    "constituency": "KOLLAM - 124",
+    "candidate_name": "MYLODE SUDHAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 146,
+    "margin": "-63270"
+  },
+  {
+    "constituency": "KONDOTTY - 33",
+    "candidate_name": "T.P. ASHRAFALI",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 114997,
+    "margin": "56017"
+  },
+  {
+    "constituency": "KONDOTTY - 33",
+    "candidate_name": "DR. P. JIJI",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 58980,
+    "margin": "-56017"
+  },
+  {
+    "constituency": "KONDOTTY - 33",
+    "candidate_name": "P. SUBRAHMANNIAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 13994,
+    "margin": "-101003"
+  },
+  {
+    "constituency": "KONDOTTY - 33",
+    "candidate_name": "ABDUL KHADAR BICHAVA",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 2231,
+    "margin": "-112766"
+  },
+  {
+    "constituency": "KONDOTTY - 33",
+    "candidate_name": "KEERAN N.K",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 441,
+    "margin": "-114556"
+  },
+  {
+    "constituency": "KONGAD - 53",
+    "candidate_name": "THULASI TEACHER",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 62734,
+    "margin": "3706"
+  },
+  {
+    "constituency": "KONGAD - 53",
+    "candidate_name": "ADV. K.SANTHAKUMARI",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 59028,
+    "margin": "-3706"
+  },
+  {
+    "constituency": "KONGAD - 53",
+    "candidate_name": "DR. RENU SURESH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 24925,
+    "margin": "-37809"
+  },
+  {
+    "constituency": "KONGAD - 53",
+    "candidate_name": "GURUVAYOORAPPAN P E",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 859,
+    "margin": "-61875"
+  },
+  {
+    "constituency": "KONNI - 114",
+    "candidate_name": "ADV K U JENISH KUMAR",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 60380,
+    "margin": "1838"
+  },
+  {
+    "constituency": "KONNI - 114",
+    "candidate_name": "PROF SATHEESH KOCHUPARAMBIL",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 58542,
+    "margin": "-1838"
+  },
+  {
+    "constituency": "KONNI - 114",
+    "candidate_name": "SUNDARESAN T P",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 15278,
+    "margin": "-45102"
+  },
+  {
+    "constituency": "KONNI - 114",
+    "candidate_name": "ADV VARUGHESE OOMMEN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 400,
+    "margin": "-59980"
+  },
+  {
+    "constituency": "KOTHAMANGALAM - 87",
+    "candidate_name": "SHIBU THECKUMPURAM",
+    "party_name": "Kerala Congress",
+    "status": "Won",
+    "total_votes": 73479,
+    "margin": "16859"
+  },
+  {
+    "constituency": "KOTHAMANGALAM - 87",
+    "candidate_name": "ANTONY JOHN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 56620,
+    "margin": "-16859"
+  },
+  {
+    "constituency": "KOTHAMANGALAM - 87",
+    "candidate_name": "AJI NARAYANAN",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 7046,
+    "margin": "-66433"
+  },
+  {
+    "constituency": "KOTHAMANGALAM - 87",
+    "candidate_name": "ROY ARACKAL",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 703,
+    "margin": "-72776"
+  },
+  {
+    "constituency": "KOTHAMANGALAM - 87",
+    "candidate_name": "SHIBU KALLEKKATTU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 297,
+    "margin": "-73182"
+  },
+  {
+    "constituency": "KOTHAMANGALAM - 87",
+    "candidate_name": "SHIBU CHALAKATTU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 192,
+    "margin": "-73287"
+  },
+  {
+    "constituency": "KOTHAMANGALAM - 87",
+    "candidate_name": "FINTO XAVIER",
+    "party_name": "Rashtravadi Janata Party",
+    "status": "Lost",
+    "total_votes": 137,
+    "margin": "-73342"
+  },
+  {
+    "constituency": "KOTTAKKAL - 46",
+    "candidate_name": "PROF. ABID HUSSAIN THANGAL",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 118111,
+    "margin": "62638"
+  },
+  {
+    "constituency": "KOTTAKKAL - 46",
+    "candidate_name": "PREETHI KONCHATH",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 55473,
+    "margin": "-62638"
+  },
+  {
+    "constituency": "KOTTAKKAL - 46",
+    "candidate_name": "SUBRAMANNIAN C",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 10558,
+    "margin": "-107553"
+  },
+  {
+    "constituency": "KOTTAKKAL - 46",
+    "candidate_name": "ADV. ABDUL MAJEED",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 4557,
+    "margin": "-113554"
+  },
+  {
+    "constituency": "KOTTAKKAL - 46",
+    "candidate_name": "PREETHI KP",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 674,
+    "margin": "-117437"
+  },
+  {
+    "constituency": "KOTTAKKAL - 46",
+    "candidate_name": "MOHAMED RAFI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 545,
+    "margin": "-117566"
+  },
+  {
+    "constituency": "KOTTARAKKARA - 119",
+    "candidate_name": "K.N. BALAGOPAL",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 63926,
+    "margin": "1012"
+  },
+  {
+    "constituency": "KOTTARAKKARA - 119",
+    "candidate_name": "ADV.P. AISHA POTTY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 62914,
+    "margin": "-1012"
+  },
+  {
+    "constituency": "KOTTARAKKARA - 119",
+    "candidate_name": "R. RESMI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 20664,
+    "margin": "-43262"
+  },
+  {
+    "constituency": "KOTTARAKKARA - 119",
+    "candidate_name": "MAMACHAN DANIEL",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 386,
+    "margin": "-63540"
+  },
+  {
+    "constituency": "KOTTARAKKARA - 119",
+    "candidate_name": "WILFRED ZACHARIAS",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 236,
+    "margin": "-63690"
+  },
+  {
+    "constituency": "KOTTARAKKARA - 119",
+    "candidate_name": "SURESH. G",
+    "party_name": "Equality Party of India",
+    "status": "Lost",
+    "total_votes": 117,
+    "margin": "-63809"
+  },
+  {
+    "constituency": "KOTTAYAM - 97",
+    "candidate_name": "THIRUVANCHOOR RADHAKRISHNAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 68893,
+    "margin": "35986"
+  },
+  {
+    "constituency": "KOTTAYAM - 97",
+    "candidate_name": "ADV.K. ANILKUMAR",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 32907,
+    "margin": "-35986"
+  },
+  {
+    "constituency": "KOTTAYAM - 97",
+    "candidate_name": "P ANILKUMAR",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 9726,
+    "margin": "-59167"
+  },
+  {
+    "constituency": "KOTTAYAM - 97",
+    "candidate_name": "DR .CELINE PHILIP",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1202,
+    "margin": "-67691"
+  },
+  {
+    "constituency": "KOTTAYAM - 97",
+    "candidate_name": "RALESH CHANDRAN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 171,
+    "margin": "-68722"
+  },
+  {
+    "constituency": "KOTTAYAM - 97",
+    "candidate_name": "SHAIJU KURIAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 137,
+    "margin": "-68756"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "ADV. M.VINCENT",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 79661,
+    "margin": "32709"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "BHAGATH RUFUS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 46952,
+    "margin": "-32709"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "KOVALAM.T.N.SURESH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 25380,
+    "margin": "-54281"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "MANOJ.S.P",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 677,
+    "margin": "-78984"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "KATTACHALKUZHI.M.SUGATHAN",
+    "party_name": "Socialist Republican Party",
+    "status": "Lost",
+    "total_votes": 469,
+    "margin": "-79192"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "N.JAYARAJAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 459,
+    "margin": "-79202"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "ADV.SABU.S.PHILIP",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 372,
+    "margin": "-79289"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "VENGANOOR ASOKAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 169,
+    "margin": "-79492"
+  },
+  {
+    "constituency": "KOVALAM - 139",
+    "candidate_name": "KIRAN S PILLAI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 122,
+    "margin": "-79539"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "ADV.K JAYANTH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 50636,
+    "margin": "1483"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "THOTTATHIL RAVINDRAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 49153,
+    "margin": "-1483"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "NAVYA HARIDAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 39899,
+    "margin": "-10737"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "DR. ALPHONSA MATHEW TEACHER",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 542,
+    "margin": "-50094"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "JAYANTH S S/O SADANANDAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 174,
+    "margin": "-50462"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "JAYANTH KUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 160,
+    "margin": "-50476"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "A SAJEENA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 124,
+    "margin": "-50512"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "RAVEENDRANATHAN NAIR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 68,
+    "margin": "-50568"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "RAVEENDRAN S/O ARUMUGHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 57,
+    "margin": "-50579"
+  },
+  {
+    "constituency": "KOZHIKODE NORTH - 27",
+    "candidate_name": "RAVEENDRAN S/O THEYYATHIRA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 55,
+    "margin": "-50581"
+  },
+  {
+    "constituency": "KOZHIKODE SOUTH - 28",
+    "candidate_name": "ADV. FYZAL BABU",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 52680,
+    "margin": "10795"
+  },
+  {
+    "constituency": "KOZHIKODE SOUTH - 28",
+    "candidate_name": "AHAMMAD DEVARKOVIL",
+    "party_name": "Indian National League",
+    "status": "Lost",
+    "total_votes": 41885,
+    "margin": "-10795"
+  },
+  {
+    "constituency": "KOZHIKODE SOUTH - 28",
+    "candidate_name": "T. RANEESH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 32463,
+    "margin": "-20217"
+  },
+  {
+    "constituency": "KUNDARA - 123",
+    "candidate_name": "P. C. VISHNUNADH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 87862,
+    "margin": "32564"
+  },
+  {
+    "constituency": "KUNDARA - 123",
+    "candidate_name": "S. L. SAJIKUMAR",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 55298,
+    "margin": "-32564"
+  },
+  {
+    "constituency": "KUNDARA - 123",
+    "candidate_name": "DR. ROBIN RADHAKRISHNAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 18996,
+    "margin": "-68866"
+  },
+  {
+    "constituency": "KUNDARA - 123",
+    "candidate_name": "RIYAS KANNANALLOOR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 722,
+    "margin": "-87140"
+  },
+  {
+    "constituency": "KUNDARA - 123",
+    "candidate_name": "LATHIKA BALAKRISHNAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 572,
+    "margin": "-87290"
+  },
+  {
+    "constituency": "KUNDARA - 123",
+    "candidate_name": "RAHUL R.",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 269,
+    "margin": "-87593"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "M.A. RAZAK MASTER",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 91598,
+    "margin": "13313"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "ADV. P T A RAHIM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 78285,
+    "margin": "-13313"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "ADV.V. K. SAJEEVAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 34435,
+    "margin": "-57163"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "RAHIM S/O MUHAMMED KOYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2110,
+    "margin": "-89488"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "ABDU RASAK S/O MUHAMMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 567,
+    "margin": "-91031"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "SANTHOSH P. T",
+    "party_name": "All India Hindustan Congress Party",
+    "status": "Lost",
+    "total_votes": 276,
+    "margin": "-91322"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "ABDUL RAZAK S/O KOYAKUTTY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 227,
+    "margin": "-91371"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "MAVOOR MUHAMMED ALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 205,
+    "margin": "-91393"
+  },
+  {
+    "constituency": "KUNNAMANGALAM - 30",
+    "candidate_name": "RAHEEM P S/O MOIDHEEN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 202,
+    "margin": "-91396"
+  },
+  {
+    "constituency": "KUNNAMKULAM - 62",
+    "candidate_name": "A C MOIDEEN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 69522,
+    "margin": "4563"
+  },
+  {
+    "constituency": "KUNNAMKULAM - 62",
+    "candidate_name": "P T AJAY MOHAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 64959,
+    "margin": "-4563"
+  },
+  {
+    "constituency": "KUNNAMKULAM - 62",
+    "candidate_name": "K R RAJIN",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 17104,
+    "margin": "-52418"
+  },
+  {
+    "constituency": "KUNNAMKULAM - 62",
+    "candidate_name": "RAJEEV K S",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1035,
+    "margin": "-68487"
+  },
+  {
+    "constituency": "KUNNATHUNAD - 84",
+    "candidate_name": "V. P. SAJEENDRAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 70292,
+    "margin": "21283"
+  },
+  {
+    "constituency": "KUNNATHUNAD - 84",
+    "candidate_name": "ADV. P. V. SREENIJIN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 49009,
+    "margin": "-21283"
+  },
+  {
+    "constituency": "KUNNATHUNAD - 84",
+    "candidate_name": "BABU DIVAKARAN",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 40221,
+    "margin": "-30071"
+  },
+  {
+    "constituency": "KUNNATHUNAD - 84",
+    "candidate_name": "MANIKUTTAN A. T.",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 380,
+    "margin": "-69912"
+  },
+  {
+    "constituency": "KUNNATHUNAD - 84",
+    "candidate_name": "VAZHAKULAM BHASI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 212,
+    "margin": "-70080"
+  },
+  {
+    "constituency": "KUNNATHUR - 118",
+    "candidate_name": "ULLAS KOVUR",
+    "party_name": "Revolutionary Socialist Party",
+    "status": "Won",
+    "total_votes": 81488,
+    "margin": "25314"
+  },
+  {
+    "constituency": "KUNNATHUR - 118",
+    "candidate_name": "KOVOOR KUNJUMON",
+    "party_name": "Kerala Revolutionary Socialist Party (Leninist- Marxist)",
+    "status": "Lost",
+    "total_votes": 56174,
+    "margin": "-25314"
+  },
+  {
+    "constituency": "KUNNATHUR - 118",
+    "candidate_name": "RAJI PRASAD",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 24841,
+    "margin": "-56647"
+  },
+  {
+    "constituency": "KUNNATHUR - 118",
+    "candidate_name": "MANTHARA VELAYUDHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 404,
+    "margin": "-81084"
+  },
+  {
+    "constituency": "KUNNATHUR - 118",
+    "candidate_name": "T. SASIDHARAN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 366,
+    "margin": "-81122"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "P K PRAVEEN",
+    "party_name": "Rashtriya Janata Dal",
+    "status": "Won",
+    "total_votes": 70448,
+    "margin": "1286"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "JAYANTHI RAJAN",
+    "party_name": "Indian Union Muslim League",
+    "status": "Lost",
+    "total_votes": 69162,
+    "margin": "-1286"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "ADV. SHIJILAL",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 22195,
+    "margin": "-48253"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "JAYANTHI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 671,
+    "margin": "-69777"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "PRAVEEN KUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 560,
+    "margin": "-69888"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "RAFEED A P",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 254,
+    "margin": "-70194"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "MOHANAN K P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 169,
+    "margin": "-70279"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "SHYLAJA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 133,
+    "margin": "-70315"
+  },
+  {
+    "constituency": "KUTHUPARAMBA - 14",
+    "candidate_name": "SHAHUL HAMEED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 115,
+    "margin": "-70333"
+  },
+  {
+    "constituency": "KUTTANAD - 106",
+    "candidate_name": "REJI CHERIYAN",
+    "party_name": "Kerala Congress",
+    "status": "Won",
+    "total_votes": 56594,
+    "margin": "20600"
+  },
+  {
+    "constituency": "KUTTANAD - 106",
+    "candidate_name": "THOMAS K. THOMAS",
+    "party_name": "Nationalist Congress Party - Sharadchandra Pawar",
+    "status": "Lost",
+    "total_votes": 35994,
+    "margin": "-20600"
+  },
+  {
+    "constituency": "KUTTANAD - 106",
+    "candidate_name": "SANTHOSH SANTHI",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 16932,
+    "margin": "-39662"
+  },
+  {
+    "constituency": "KUTTANAD - 106",
+    "candidate_name": "ROY MUTTAR",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 689,
+    "margin": "-55905"
+  },
+  {
+    "constituency": "KUTTANAD - 106",
+    "candidate_name": "P.K. SASI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 656,
+    "margin": "-55938"
+  },
+  {
+    "constituency": "KUTTANAD - 106",
+    "candidate_name": "JAISAPPAN MATHAI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 471,
+    "margin": "-56123"
+  },
+  {
+    "constituency": "KUTTANAD - 106",
+    "candidate_name": "JOEMON JOSEPH SRAMPICKAL A. P. J. JUMAN V. S.",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 280,
+    "margin": "-56314"
+  },
+  {
+    "constituency": "KUTTANAD - 106",
+    "candidate_name": "RENJU T. R.",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 231,
+    "margin": "-56363"
+  },
+  {
+    "constituency": "KUTTIADI - 21",
+    "candidate_name": "PARAKKAL ABDULLA",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 88197,
+    "margin": "10922"
+  },
+  {
+    "constituency": "KUTTIADI - 21",
+    "candidate_name": "K. P. KUNHAMMEDKUTTY MASTER",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 77275,
+    "margin": "-10922"
+  },
+  {
+    "constituency": "KUTTIADI - 21",
+    "candidate_name": "RAMADAS MANALERI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 12035,
+    "margin": "-76162"
+  },
+  {
+    "constituency": "KUTTIADI - 21",
+    "candidate_name": "KUNHAMMADKUTTY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 114,
+    "margin": "-88083"
+  },
+  {
+    "constituency": "KUTTIADI - 21",
+    "candidate_name": "ABDULLA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 95,
+    "margin": "-88102"
+  },
+  {
+    "constituency": "MALAMPUZHA - 55",
+    "candidate_name": "A PRABHAKARAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 68629,
+    "margin": "19721"
+  },
+  {
+    "constituency": "MALAMPUZHA - 55",
+    "candidate_name": "C KRISHNAKUMAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 48908,
+    "margin": "-19721"
+  },
+  {
+    "constituency": "MALAMPUZHA - 55",
+    "candidate_name": "A SURESH",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 42262,
+    "margin": "-26367"
+  },
+  {
+    "constituency": "MALAMPUZHA - 55",
+    "candidate_name": "RAMNATH C",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 448,
+    "margin": "-68181"
+  },
+  {
+    "constituency": "MALAMPUZHA - 55",
+    "candidate_name": "K PRASAD",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 355,
+    "margin": "-68274"
+  },
+  {
+    "constituency": "MALAMPUZHA - 55",
+    "candidate_name": "SAJI PJ",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 197,
+    "margin": "-68432"
+  },
+  {
+    "constituency": "MALAPPURAM - 40",
+    "candidate_name": "P.K KUNHALIKUTTY",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 131632,
+    "margin": "85327"
+  },
+  {
+    "constituency": "MALAPPURAM - 40",
+    "candidate_name": "K.T. MUJEEB RAHMAN",
+    "party_name": "Nationalist Congress Party - Sharadchandra Pawar",
+    "status": "Lost",
+    "total_votes": 46305,
+    "margin": "-85327"
+  },
+  {
+    "constituency": "MALAPPURAM - 40",
+    "candidate_name": "ASWATHI GUPTHAKUMAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 9127,
+    "margin": "-122505"
+  },
+  {
+    "constituency": "MALAPPURAM - 40",
+    "candidate_name": "ADV.SADIK NADUTHODI",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 5124,
+    "margin": "-126508"
+  },
+  {
+    "constituency": "MALAPPURAM - 40",
+    "candidate_name": "ABOOBACKER BACKER KUNDUPUZHAKKAL",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 2060,
+    "margin": "-129572"
+  },
+  {
+    "constituency": "MALAPPURAM - 40",
+    "candidate_name": "ABDUL GAFOOR MASTER O.P.K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 712,
+    "margin": "-130920"
+  },
+  {
+    "constituency": "MALAPPURAM - 40",
+    "candidate_name": "ABDULSALAM.K.P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 315,
+    "margin": "-131317"
+  },
+  {
+    "constituency": "MALAPPURAM - 40",
+    "candidate_name": "SREEDHARAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 231,
+    "margin": "-131401"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "PROF C RAVINDRANATH",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 65337,
+    "margin": "126"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "T N PRATHAPAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 65211,
+    "margin": "-126"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "ADV K K ANEESHKUMAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 38125,
+    "margin": "-27212"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "JILEEF (DILEEF ABDUL KHADAR)",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1031,
+    "margin": "-64306"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "DR UNNIKRISHNAN CHIRAYATH",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 330,
+    "margin": "-65007"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "RAVINDRANATH K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 234,
+    "margin": "-65103"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "PRATHAPAN(S/O AYYAPPAN)",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 184,
+    "margin": "-65153"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "SIVAPRASAD GANDHI K M",
+    "party_name": "Indian Gandhiyan Party",
+    "status": "Lost",
+    "total_votes": 118,
+    "margin": "-65219"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "P V CHANDRAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 71,
+    "margin": "-65266"
+  },
+  {
+    "constituency": "MANALUR - 64",
+    "candidate_name": "SUJITH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 70,
+    "margin": "-65267"
+  },
+  {
+    "constituency": "MANANTHAVADY - 17",
+    "candidate_name": "USHA VIJAYAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 77425,
+    "margin": "10543"
+  },
+  {
+    "constituency": "MANANTHAVADY - 17",
+    "candidate_name": "O R KELU",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 66882,
+    "margin": "-10543"
+  },
+  {
+    "constituency": "MANANTHAVADY - 17",
+    "candidate_name": "P SHYAMRAJ",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 19681,
+    "margin": "-57744"
+  },
+  {
+    "constituency": "MANJERI - 37",
+    "candidate_name": "ADV. M. RAHMATHULLA",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 113622,
+    "margin": "57887"
+  },
+  {
+    "constituency": "MANJERI - 37",
+    "candidate_name": "V.M. MUSTHAFA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 55735,
+    "margin": "-57887"
+  },
+  {
+    "constituency": "MANJERI - 37",
+    "candidate_name": "PADMASREE AJITH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 13423,
+    "margin": "-100199"
+  },
+  {
+    "constituency": "MANJERI - 37",
+    "candidate_name": "ADV. P.P.A. SAGEER",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 2222,
+    "margin": "-111400"
+  },
+  {
+    "constituency": "MANJERI - 37",
+    "candidate_name": "BIPIN BENSON JOSEPH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1698,
+    "margin": "-111924"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "A K M ASHRAF",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 96948,
+    "margin": "29252"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "K SURENDRAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 67696,
+    "margin": "-29252"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "K R JAYANANDA",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 21212,
+    "margin": "-75736"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "GEAN LAVINA MONTEIRO",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 523,
+    "margin": "-96425"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "KANNUR ABDULLA MASTER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 285,
+    "margin": "-96663"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "SANJEEVA",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 212,
+    "margin": "-96736"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "D SURENDRAN NAIR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 203,
+    "margin": "-96745"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "ABDUL LATHEEF I",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 79,
+    "margin": "-96869"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "MOHAMMAD ASHRAF, PAPPIYAR HOUSE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 78,
+    "margin": "-96870"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "MOHAMMED ASHRAF K A, C. M. HOUSE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 64,
+    "margin": "-96884"
+  },
+  {
+    "constituency": "MANJESHWAR - 1",
+    "candidate_name": "JOHN D' SOUZA I",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 46,
+    "margin": "-96902"
+  },
+  {
+    "constituency": "MANKADA - 39",
+    "candidate_name": "MANJALAMKUZHI ALI",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 110692,
+    "margin": "45609"
+  },
+  {
+    "constituency": "MANKADA - 39",
+    "candidate_name": "KUNNATH MOHAMED S/O ALI HAJI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 65083,
+    "margin": "-45609"
+  },
+  {
+    "constituency": "MANKADA - 39",
+    "candidate_name": "LEJOY MASH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 9933,
+    "margin": "-100759"
+  },
+  {
+    "constituency": "MANKADA - 39",
+    "candidate_name": "MOHAMMED KUNNATH S/O MOIDEEN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 663,
+    "margin": "-110029"
+  },
+  {
+    "constituency": "MANNARKKAD - 54",
+    "candidate_name": "ADV. N. SAMSUDHEEN",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 90606,
+    "margin": "25903"
+  },
+  {
+    "constituency": "MANNARKKAD - 54",
+    "candidate_name": "MANZIL ABOOBACKER",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 64703,
+    "margin": "-25903"
+  },
+  {
+    "constituency": "MANNARKKAD - 54",
+    "candidate_name": "ISSAC VARGHESE",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 10671,
+    "margin": "-79935"
+  },
+  {
+    "constituency": "MANNARKKAD - 54",
+    "candidate_name": "ASHITHA NAJEEB",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 939,
+    "margin": "-89667"
+  },
+  {
+    "constituency": "MANNARKKAD - 54",
+    "candidate_name": "SHAMSUDHEEN S/O MUHAMMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 358,
+    "margin": "-90248"
+  },
+  {
+    "constituency": "MANNARKKAD - 54",
+    "candidate_name": "ABOOBACKER S/O AYISHA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 289,
+    "margin": "-90317"
+  },
+  {
+    "constituency": "MANNARKKAD - 54",
+    "candidate_name": "SHAMSUDHEEN S/O UMMER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 257,
+    "margin": "-90349"
+  },
+  {
+    "constituency": "MATTANNUR - 15",
+    "candidate_name": "V K SANOJ",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 81456,
+    "margin": "14168"
+  },
+  {
+    "constituency": "MATTANNUR - 15",
+    "candidate_name": "CHANDRAN THILLANKERI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 67288,
+    "margin": "-14168"
+  },
+  {
+    "constituency": "MATTANNUR - 15",
+    "candidate_name": "BIJU ELAKKUZHI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 17815,
+    "margin": "-63641"
+  },
+  {
+    "constituency": "MATTANNUR - 15",
+    "candidate_name": "BASHEER PUNNAD",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 2171,
+    "margin": "-79285"
+  },
+  {
+    "constituency": "MATTANNUR - 15",
+    "candidate_name": "SANOJ S/O KUNHIRAMAN K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 210,
+    "margin": "-81246"
+  },
+  {
+    "constituency": "MATTANNUR - 15",
+    "candidate_name": "CHANDRAN THENGALATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 147,
+    "margin": "-81309"
+  },
+  {
+    "constituency": "MAVELIKKARA - 109",
+    "candidate_name": "M.S. ARUN KUMAR",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 67180,
+    "margin": "15736"
+  },
+  {
+    "constituency": "MAVELIKKARA - 109",
+    "candidate_name": "ADV. MUTHARA RAJ",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 51444,
+    "margin": "-15736"
+  },
+  {
+    "constituency": "MAVELIKKARA - 109",
+    "candidate_name": "K. AJIMON",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 23200,
+    "margin": "-43980"
+  },
+  {
+    "constituency": "MAVELIKKARA - 109",
+    "candidate_name": "SURESH NOORANAD",
+    "party_name": "Ambedkarite Party of India",
+    "status": "Lost",
+    "total_votes": 278,
+    "margin": "-66902"
+  },
+  {
+    "constituency": "MUVATTUPUZHA - 86",
+    "candidate_name": "DR. MATHEW KUZHALNADAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 89914,
+    "margin": "42829"
+  },
+  {
+    "constituency": "MUVATTUPUZHA - 86",
+    "candidate_name": "N ARUN",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 47085,
+    "margin": "-42829"
+  },
+  {
+    "constituency": "MUVATTUPUZHA - 86",
+    "candidate_name": "SUNNY KADOOTHAZHE",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 9840,
+    "margin": "-80074"
+  },
+  {
+    "constituency": "MUVATTUPUZHA - 86",
+    "candidate_name": "BABU MATHEW",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 609,
+    "margin": "-89305"
+  },
+  {
+    "constituency": "NADAPURAM - 22",
+    "candidate_name": "K.M. ABHIJITH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 99763,
+    "margin": "23600"
+  },
+  {
+    "constituency": "NADAPURAM - 22",
+    "candidate_name": "ADV.P. VASANTHAM",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 76163,
+    "margin": "-23600"
+  },
+  {
+    "constituency": "NADAPURAM - 22",
+    "candidate_name": "C.P. VIPIN CHANDRAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 11506,
+    "margin": "-88257"
+  },
+  {
+    "constituency": "NADAPURAM - 22",
+    "candidate_name": "VASANTHA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 314,
+    "margin": "-99449"
+  },
+  {
+    "constituency": "NADAPURAM - 22",
+    "candidate_name": "PADMAKUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 269,
+    "margin": "-99494"
+  },
+  {
+    "constituency": "NADAPURAM - 22",
+    "candidate_name": "ABHIJITH S/O BALAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 218,
+    "margin": "-99545"
+  },
+  {
+    "constituency": "NADAPURAM - 22",
+    "candidate_name": "K.M. ABHIJITH S/O ASHOKAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 207,
+    "margin": "-99556"
+  },
+  {
+    "constituency": "NATTIKA - 68",
+    "candidate_name": "GEETHAGOPI",
+    "party_name": "Communist Party of India",
+    "status": "Won",
+    "total_votes": 58979,
+    "margin": "7093"
+  },
+  {
+    "constituency": "NATTIKA - 68",
+    "candidate_name": "ADV. SUNIL LALOOR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 51886,
+    "margin": "-7093"
+  },
+  {
+    "constituency": "NATTIKA - 68",
+    "candidate_name": "C.C. MUKUNDAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 45216,
+    "margin": "-13763"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "G R ANIL",
+    "party_name": "Communist Party of India",
+    "status": "Won",
+    "total_votes": 69206,
+    "margin": "21583"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "MEENANKAL KUMAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 47623,
+    "margin": "-21583"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "YUVRAJ GOKUL",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 38999,
+    "margin": "-30207"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "BATHERUTHEEN A (ZIAD KANDALA)",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1191,
+    "margin": "-68015"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "SUJILAL B G",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 408,
+    "margin": "-68798"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "SHIBU G",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 171,
+    "margin": "-69035"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "VEMBAYAM YESUDAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 129,
+    "margin": "-69077"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "ANVAR SADATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 95,
+    "margin": "-69111"
+  },
+  {
+    "constituency": "NEDUMANGAD - 130",
+    "candidate_name": "KUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 93,
+    "margin": "-69113"
+  },
+  {
+    "constituency": "NEMMARA - 59",
+    "candidate_name": "K PREMAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 66521,
+    "margin": "3305"
+  },
+  {
+    "constituency": "NEMMARA - 59",
+    "candidate_name": "A. THANKAPPAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 63216,
+    "margin": "-3305"
+  },
+  {
+    "constituency": "NEMMARA - 59",
+    "candidate_name": "A.N.ANURAG",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 18107,
+    "margin": "-48414"
+  },
+  {
+    "constituency": "NEMMARA - 59",
+    "candidate_name": "ANVAR SADIK",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 793,
+    "margin": "-65728"
+  },
+  {
+    "constituency": "NEMMARA - 59",
+    "candidate_name": "SANKARANARAYANAN R",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 330,
+    "margin": "-66191"
+  },
+  {
+    "constituency": "NEMMARA - 59",
+    "candidate_name": "RADHAKRISHNAN K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 289,
+    "margin": "-66232"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "RAJEEV CHANDRASEKHAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 57192,
+    "margin": "4978"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "V SIVANKUTTY",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 52214,
+    "margin": "-4978"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "ADV K S SABARINADHAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 29730,
+    "margin": "-27462"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "KARAMANA PRASAD",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 163,
+    "margin": "-57029"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "VINU K",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 146,
+    "margin": "-57046"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "RAJEEV KUMAR G S",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 84,
+    "margin": "-57108"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "KAMALESWARAM HARI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 64,
+    "margin": "-57128"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "SASIKALA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 57,
+    "margin": "-57135"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "SUBI S M",
+    "party_name": "The Future India Party",
+    "status": "Lost",
+    "total_votes": 53,
+    "margin": "-57139"
+  },
+  {
+    "constituency": "NEMOM - 135",
+    "candidate_name": "MADANAN S",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 48,
+    "margin": "-57144"
+  },
+  {
+    "constituency": "NEYYATTINKARA - 140",
+    "candidate_name": "N. SHAKTHAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 58760,
+    "margin": "6966"
+  },
+  {
+    "constituency": "NEYYATTINKARA - 140",
+    "candidate_name": "K. ANSALAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 51794,
+    "margin": "-6966"
+  },
+  {
+    "constituency": "NEYYATTINKARA - 140",
+    "candidate_name": "CHENKAL RAJASEKHARAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 21858,
+    "margin": "-36902"
+  },
+  {
+    "constituency": "NEYYATTINKARA - 140",
+    "candidate_name": "SURENDRANATHAN. K",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 327,
+    "margin": "-58433"
+  },
+  {
+    "constituency": "NEYYATTINKARA - 140",
+    "candidate_name": "BIBIN S.B",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 157,
+    "margin": "-58603"
+  },
+  {
+    "constituency": "NILAMBUR - 35",
+    "candidate_name": "ARYADAN SHOUKATH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 113586,
+    "margin": "54851"
+  },
+  {
+    "constituency": "NILAMBUR - 35",
+    "candidate_name": "U SHARAFALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 58735,
+    "margin": "-54851"
+  },
+  {
+    "constituency": "NILAMBUR - 35",
+    "candidate_name": "GIRISH MEKKATTU",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 12660,
+    "margin": "-100926"
+  },
+  {
+    "constituency": "NILAMBUR - 35",
+    "candidate_name": "JAISAL MALIYEKKAL",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1942,
+    "margin": "-111644"
+  },
+  {
+    "constituency": "OLLUR - 66",
+    "candidate_name": "K RAJAN",
+    "party_name": "Communist Party of India",
+    "status": "Won",
+    "total_votes": 69703,
+    "margin": "8884"
+  },
+  {
+    "constituency": "OLLUR - 66",
+    "candidate_name": "ADV. SHAJI J KODANKANDATH",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 60819,
+    "margin": "-8884"
+  },
+  {
+    "constituency": "OLLUR - 66",
+    "candidate_name": "BIJOY THOMAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 19737,
+    "margin": "-49966"
+  },
+  {
+    "constituency": "OLLUR - 66",
+    "candidate_name": "PRINSON AVINISSERY",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 594,
+    "margin": "-69109"
+  },
+  {
+    "constituency": "OLLUR - 66",
+    "candidate_name": "EDWIN BABU ALAPAT",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 275,
+    "margin": "-69428"
+  },
+  {
+    "constituency": "OTTAPPALAM - 52",
+    "candidate_name": "ADV. K. PREMKUMAR",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 75362,
+    "margin": "26777"
+  },
+  {
+    "constituency": "OTTAPPALAM - 52",
+    "candidate_name": "P.K SASI P.K.S S/O PADMINI AMMA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 48585,
+    "margin": "-26777"
+  },
+  {
+    "constituency": "OTTAPPALAM - 52",
+    "candidate_name": "MAJOR RAVI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 42476,
+    "margin": "-32886"
+  },
+  {
+    "constituency": "OTTAPPALAM - 52",
+    "candidate_name": "SASI P.K S/O KRISHNANKUTTY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1062,
+    "margin": "-74300"
+  },
+  {
+    "constituency": "OTTAPPALAM - 52",
+    "candidate_name": "K.P RAJEESH",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 1025,
+    "margin": "-74337"
+  },
+  {
+    "constituency": "OTTAPPALAM - 52",
+    "candidate_name": "MUHAMMED ASHARAF V.H",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 459,
+    "margin": "-74903"
+  },
+  {
+    "constituency": "PALA - 93",
+    "candidate_name": "MANI C KAPPEN",
+    "party_name": "Independent",
+    "status": "Won",
+    "total_votes": 50799,
+    "margin": "2991"
+  },
+  {
+    "constituency": "PALA - 93",
+    "candidate_name": "JOSE K MANI",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 47808,
+    "margin": "-2991"
+  },
+  {
+    "constituency": "PALA - 93",
+    "candidate_name": "SHONE GEORGE",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 35304,
+    "margin": "-15495"
+  },
+  {
+    "constituency": "PALA - 93",
+    "candidate_name": "ADV.RONY NEDUMPALLIL",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 506,
+    "margin": "-50293"
+  },
+  {
+    "constituency": "PALA - 93",
+    "candidate_name": "C G BABU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 325,
+    "margin": "-50474"
+  },
+  {
+    "constituency": "PALA - 93",
+    "candidate_name": "SANTHOSH PULICKAL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 272,
+    "margin": "-50527"
+  },
+  {
+    "constituency": "PALA - 93",
+    "candidate_name": "SANTHOSH NADOOPPARAMPIL",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 254,
+    "margin": "-50545"
+  },
+  {
+    "constituency": "PALAKKAD - 56",
+    "candidate_name": "RAMESH PISHARODY",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 62199,
+    "margin": "13147"
+  },
+  {
+    "constituency": "PALAKKAD - 56",
+    "candidate_name": "SOBHA SURENDRAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 49052,
+    "margin": "-13147"
+  },
+  {
+    "constituency": "PALAKKAD - 56",
+    "candidate_name": "N.M.R. RAZACK",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 33931,
+    "margin": "-28268"
+  },
+  {
+    "constituency": "PALAKKAD - 56",
+    "candidate_name": "UDAYAN SUKUMARAN",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 437,
+    "margin": "-61762"
+  },
+  {
+    "constituency": "PALAKKAD - 56",
+    "candidate_name": "KRISHNANKUTTY K",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 348,
+    "margin": "-61851"
+  },
+  {
+    "constituency": "PALAKKAD - 56",
+    "candidate_name": "SHAMSUDHEEN B.",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 193,
+    "margin": "-62006"
+  },
+  {
+    "constituency": "PALAKKAD - 56",
+    "candidate_name": "REGHU M",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 191,
+    "margin": "-62008"
+  },
+  {
+    "constituency": "PARASSALA - 137",
+    "candidate_name": "C K HAREENDRAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 69149,
+    "margin": "15013"
+  },
+  {
+    "constituency": "PARASSALA - 137",
+    "candidate_name": "NEYYATTINKARA SANAL",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 54136,
+    "margin": "-15013"
+  },
+  {
+    "constituency": "PARASSALA - 137",
+    "candidate_name": "ADV. GIREESH NEYYAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 29919,
+    "margin": "-39230"
+  },
+  {
+    "constituency": "PARASSALA - 137",
+    "candidate_name": "ADV. DHANUVACHAPURAM THANKACHAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 340,
+    "margin": "-68809"
+  },
+  {
+    "constituency": "PARASSALA - 137",
+    "candidate_name": "SHAJU PALIYODU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 318,
+    "margin": "-68831"
+  },
+  {
+    "constituency": "PARASSALA - 137",
+    "candidate_name": "DEEPUMON PARASSALA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 298,
+    "margin": "-68851"
+  },
+  {
+    "constituency": "PARASSALA - 137",
+    "candidate_name": "S ROBINSON E NADAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 148,
+    "margin": "-69001"
+  },
+  {
+    "constituency": "PARASSALA - 137",
+    "candidate_name": "SIMIYON L P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 68,
+    "margin": "-69081"
+  },
+  {
+    "constituency": "PARAVUR - 78",
+    "candidate_name": "ADV.V.D.SATHEESAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 78658,
+    "margin": "20600"
+  },
+  {
+    "constituency": "PARAVUR - 78",
+    "candidate_name": "E.T.TAISON MASTER",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 58058,
+    "margin": "-20600"
+  },
+  {
+    "constituency": "PARAVUR - 78",
+    "candidate_name": "VALSALA PRASANNAKUMAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 20377,
+    "margin": "-58281"
+  },
+  {
+    "constituency": "PARAVUR - 78",
+    "candidate_name": "V.M.FAISAL",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 828,
+    "margin": "-77830"
+  },
+  {
+    "constituency": "PARAVUR - 78",
+    "candidate_name": "P.K.RAJESH",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 328,
+    "margin": "-78330"
+  },
+  {
+    "constituency": "PARAVUR - 78",
+    "candidate_name": "K.B.SATHEESAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 200,
+    "margin": "-78458"
+  },
+  {
+    "constituency": "PARAVUR - 78",
+    "candidate_name": "G.GOKULDEV",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 171,
+    "margin": "-78487"
+  },
+  {
+    "constituency": "PATHANAPURAM - 120",
+    "candidate_name": "JYOTHI KUMAR CHAMAKKALA",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 68275,
+    "margin": "8310"
+  },
+  {
+    "constituency": "PATHANAPURAM - 120",
+    "candidate_name": "K B GANESH KUMAR",
+    "party_name": "Kerala Congress (B)",
+    "status": "Lost",
+    "total_votes": 59965,
+    "margin": "-8310"
+  },
+  {
+    "constituency": "PATHANAPURAM - 120",
+    "candidate_name": "ANIL PILLAI",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 7031,
+    "margin": "-61244"
+  },
+  {
+    "constituency": "PATHANAPURAM - 120",
+    "candidate_name": "VIPIN KANIKONATHU",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 629,
+    "margin": "-67646"
+  },
+  {
+    "constituency": "PATHANAPURAM - 120",
+    "candidate_name": "N P GENASH KUMAR S/O PARAMU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 547,
+    "margin": "-67728"
+  },
+  {
+    "constituency": "PATHANAPURAM - 120",
+    "candidate_name": "ANEESH KILIMANOOR",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 297,
+    "margin": "-67978"
+  },
+  {
+    "constituency": "PATHANAPURAM - 120",
+    "candidate_name": "JYOTHISH KUMAR M",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 266,
+    "margin": "-68009"
+  },
+  {
+    "constituency": "PATTAMBI - 50",
+    "candidate_name": "MUHAMMED MUHASSIN",
+    "party_name": "Communist Party of India",
+    "status": "Won",
+    "total_votes": 80062,
+    "margin": "9442"
+  },
+  {
+    "constituency": "PATTAMBI - 50",
+    "candidate_name": "T. P. SHAJI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 70620,
+    "margin": "-9442"
+  },
+  {
+    "constituency": "PATTAMBI - 50",
+    "candidate_name": "ADV. P. MANOJ",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 15282,
+    "margin": "-64780"
+  },
+  {
+    "constituency": "PATTAMBI - 50",
+    "candidate_name": "S. P. AMEER ALI",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 2582,
+    "margin": "-77480"
+  },
+  {
+    "constituency": "PATTAMBI - 50",
+    "candidate_name": "MUHAMMED MUHSIN. M. K MANJERIKUNNATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 152,
+    "margin": "-79910"
+  },
+  {
+    "constituency": "PATTAMBI - 50",
+    "candidate_name": "HARIS BABU PAILIPPURAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 104,
+    "margin": "-79958"
+  },
+  {
+    "constituency": "PATTAMBI - 50",
+    "candidate_name": "SHAJIMON",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 86,
+    "margin": "-79976"
+  },
+  {
+    "constituency": "PAYYANNUR - 6",
+    "candidate_name": "V. KUNHIKRISHNAN",
+    "party_name": "Independent",
+    "status": "Won",
+    "total_votes": 76640,
+    "margin": "7487"
+  },
+  {
+    "constituency": "PAYYANNUR - 6",
+    "candidate_name": "T. I. MADHUSOODANAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 69153,
+    "margin": "-7487"
+  },
+  {
+    "constituency": "PAYYANNUR - 6",
+    "candidate_name": "A. P. GANGADHARAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 8432,
+    "margin": "-68208"
+  },
+  {
+    "constituency": "PAYYANNUR - 6",
+    "candidate_name": "SANDEEP V. K.",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 552,
+    "margin": "-76088"
+  },
+  {
+    "constituency": "PEERUMADE - 92",
+    "candidate_name": "ADV.CYRIAC THOMAS",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 69672,
+    "margin": "27634"
+  },
+  {
+    "constituency": "PEERUMADE - 92",
+    "candidate_name": "K SALIMKUMAR",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 42038,
+    "margin": "-27634"
+  },
+  {
+    "constituency": "PEERUMADE - 92",
+    "candidate_name": "RATHEESH VARAKUMALA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 9218,
+    "margin": "-60454"
+  },
+  {
+    "constituency": "PEERUMADE - 92",
+    "candidate_name": "JOSEPH JACOB",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 508,
+    "margin": "-69164"
+  },
+  {
+    "constituency": "PEERUMADE - 92",
+    "candidate_name": "K MURALI",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 425,
+    "margin": "-69247"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "ADV. FATHIMA THAHILIYA",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 81429,
+    "margin": "5087"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "T. P. RAMAKRISHNAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 76342,
+    "margin": "-5087"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "M. MOHANAN MASTER",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 13042,
+    "margin": "-68387"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "AKHIL KUMAR .A.M",
+    "party_name": "Communist Party of India (Marxist-Leninist) Red Star",
+    "status": "Lost",
+    "total_votes": 151,
+    "margin": "-81278"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "FATHIMATHU RUKSANA. P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 151,
+    "margin": "-81278"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "FATHIMA NASRI. V",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 140,
+    "margin": "-81289"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "RENJITH MALAYIL",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 124,
+    "margin": "-81305"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "T.M. RAMAKRISHNAN S/O NARAYANAN NAIR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 72,
+    "margin": "-81357"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "P.K. BIJU MASTER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 66,
+    "margin": "-81363"
+  },
+  {
+    "constituency": "PERAMBRA - 24",
+    "candidate_name": "K. RAMAKRISHNAN S/O GOVINDAN NAIR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 62,
+    "margin": "-81367"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "ADV. SUNNY JOSEPH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 76140,
+    "margin": "14453"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "K K SHAILAJA TEACHER",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 61687,
+    "margin": "-14453"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "PAILY VATHIYATTU",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 8020,
+    "margin": "-68120"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "ADV. HENSTION GEORGE",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 431,
+    "margin": "-75709"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "SUNNY JOSEPH MUTHUKULATHEL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 191,
+    "margin": "-75949"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "SAILAJA. A. V",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 109,
+    "margin": "-76031"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "ARUVIKKAL KRISHNAN",
+    "party_name": "Communist Party of India (Marxist-Leninist) (Liberation)",
+    "status": "Lost",
+    "total_votes": 86,
+    "margin": "-76054"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "C. SHYLAJA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 68,
+    "margin": "-76072"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "SUNNY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 66,
+    "margin": "-76074"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "NARAYANA KUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 45,
+    "margin": "-76095"
+  },
+  {
+    "constituency": "PERAVOOR - 16",
+    "candidate_name": "VENUGOPALAN. C",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 26,
+    "margin": "-76114"
+  },
+  {
+    "constituency": "PERINTHALMANNA - 38",
+    "candidate_name": "NAJEEB KANTHAPURAM",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 104888,
+    "margin": "32431"
+  },
+  {
+    "constituency": "PERINTHALMANNA - 38",
+    "candidate_name": "V.P MOHAMMED HANEEFA",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 72457,
+    "margin": "-32431"
+  },
+  {
+    "constituency": "PERINTHALMANNA - 38",
+    "candidate_name": "ADV. K.P BABURAJ",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 7240,
+    "margin": "-97648"
+  },
+  {
+    "constituency": "PERINTHALMANNA - 38",
+    "candidate_name": "ABDUL NAJEEB S/O MOHAMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 239,
+    "margin": "-104649"
+  },
+  {
+    "constituency": "PERINTHALMANNA - 38",
+    "candidate_name": "MOHAMMED HANEEFA P S/O ALAVI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 228,
+    "margin": "-104660"
+  },
+  {
+    "constituency": "PERINTHALMANNA - 38",
+    "candidate_name": "HANEEFA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 205,
+    "margin": "-104683"
+  },
+  {
+    "constituency": "PERINTHALMANNA - 38",
+    "candidate_name": "NAJEEB",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 113,
+    "margin": "-104775"
+  },
+  {
+    "constituency": "PERINTHALMANNA - 38",
+    "candidate_name": "ABDUL NAJEEB S/O VEERAPPU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 54,
+    "margin": "-104834"
+  },
+  {
+    "constituency": "PERUMBAVOOR - 74",
+    "candidate_name": "MANOJ MOOTHEDAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 75088,
+    "margin": "28434"
+  },
+  {
+    "constituency": "PERUMBAVOOR - 74",
+    "candidate_name": "BASIL PAUL",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 46654,
+    "margin": "-28434"
+  },
+  {
+    "constituency": "PERUMBAVOOR - 74",
+    "candidate_name": "JIBI PATHICKAL",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 22497,
+    "margin": "-52591"
+  },
+  {
+    "constituency": "PERUMBAVOOR - 74",
+    "candidate_name": "ELDHO GEORGE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1562,
+    "margin": "-73526"
+  },
+  {
+    "constituency": "PERUMBAVOOR - 74",
+    "candidate_name": "ADV. PRASANTH",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 657,
+    "margin": "-74431"
+  },
+  {
+    "constituency": "PERUMBAVOOR - 74",
+    "candidate_name": "MOHANAN M A",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 226,
+    "margin": "-74862"
+  },
+  {
+    "constituency": "PIRAVOM - 85",
+    "candidate_name": "ANOOP JACOB",
+    "party_name": "Kerala Congress (Jacob)",
+    "status": "Won",
+    "total_votes": 89551,
+    "margin": "44681"
+  },
+  {
+    "constituency": "PIRAVOM - 85",
+    "candidate_name": "SABU K JACOB",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 44870,
+    "margin": "-44681"
+  },
+  {
+    "constituency": "PIRAVOM - 85",
+    "candidate_name": "JIBI ABRAHAM",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 14861,
+    "margin": "-74690"
+  },
+  {
+    "constituency": "PIRAVOM - 85",
+    "candidate_name": "ELDHO ABRAHAM THALIYACHIRA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1004,
+    "margin": "-88547"
+  },
+  {
+    "constituency": "PIRAVOM - 85",
+    "candidate_name": "T C RAMANAN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 397,
+    "margin": "-89154"
+  },
+  {
+    "constituency": "PIRAVOM - 85",
+    "candidate_name": "SABU K ERAMATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 333,
+    "margin": "-89218"
+  },
+  {
+    "constituency": "PIRAVOM - 85",
+    "candidate_name": "RENNY MATHEW",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 265,
+    "margin": "-89286"
+  },
+  {
+    "constituency": "PONNANI - 48",
+    "candidate_name": "K.P NOUSHAD ALI",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 80674,
+    "margin": "13267"
+  },
+  {
+    "constituency": "PONNANI - 48",
+    "candidate_name": "ADV.M.K SAKKEER",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 67407,
+    "margin": "-13267"
+  },
+  {
+    "constituency": "PONNANI - 48",
+    "candidate_name": "MANEESH JANAKEEYAM",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 10210,
+    "margin": "-70464"
+  },
+  {
+    "constituency": "PONNANI - 48",
+    "candidate_name": "ANWAR PAZHANJI",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1971,
+    "margin": "-78703"
+  },
+  {
+    "constituency": "PONNANI - 48",
+    "candidate_name": "NOUSHADALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 324,
+    "margin": "-80350"
+  },
+  {
+    "constituency": "PONNANI - 48",
+    "candidate_name": "SAKKEER S/O MUHAMMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 279,
+    "margin": "-80395"
+  },
+  {
+    "constituency": "PONNANI - 48",
+    "candidate_name": "SAGEER M.K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 197,
+    "margin": "-80477"
+  },
+  {
+    "constituency": "PONNANI - 48",
+    "candidate_name": "SAKKEER S/O ILLYAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 149,
+    "margin": "-80525"
+  },
+  {
+    "constituency": "POONJAR - 101",
+    "candidate_name": "ADV.SEBASTIAN M.J",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 56900,
+    "margin": "6693"
+  },
+  {
+    "constituency": "POONJAR - 101",
+    "candidate_name": "ADV. SEBASTIAN KULATHUNKAL",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 50207,
+    "margin": "-6693"
+  },
+  {
+    "constituency": "POONJAR - 101",
+    "candidate_name": "P.C. GEORGE",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 36172,
+    "margin": "-20728"
+  },
+  {
+    "constituency": "POONJAR - 101",
+    "candidate_name": "SHINY A C",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 603,
+    "margin": "-56297"
+  },
+  {
+    "constituency": "POONJAR - 101",
+    "candidate_name": "ABHIRAM BABU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 205,
+    "margin": "-56695"
+  },
+  {
+    "constituency": "POONJAR - 101",
+    "candidate_name": "MAYAMOL K P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 136,
+    "margin": "-56764"
+  },
+  {
+    "constituency": "POONJAR - 101",
+    "candidate_name": "SANTHOSH JOSEPH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 73,
+    "margin": "-56827"
+  },
+  {
+    "constituency": "PUDUKKAD - 71",
+    "candidate_name": "K K RAMACHANDRAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 63136,
+    "margin": "2853"
+  },
+  {
+    "constituency": "PUDUKKAD - 71",
+    "candidate_name": "K M BABURAJAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 60283,
+    "margin": "-2853"
+  },
+  {
+    "constituency": "PUDUKKAD - 71",
+    "candidate_name": "PARAMESWARAN A (NAGESH)",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 28018,
+    "margin": "-35118"
+  },
+  {
+    "constituency": "PUDUKKAD - 71",
+    "candidate_name": "JAYAKRISHNAN P N",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 863,
+    "margin": "-62273"
+  },
+  {
+    "constituency": "PUDUKKAD - 71",
+    "candidate_name": "P C PUSHPAKARAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 359,
+    "margin": "-62777"
+  },
+  {
+    "constituency": "PUDUKKAD - 71",
+    "candidate_name": "ANIFA V K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 271,
+    "margin": "-62865"
+  },
+  {
+    "constituency": "PUNALUR - 121",
+    "candidate_name": "C. AJAYAPRASAD",
+    "party_name": "Communist Party of India",
+    "status": "Won",
+    "total_votes": 71944,
+    "margin": "21529"
+  },
+  {
+    "constituency": "PUNALUR - 121",
+    "candidate_name": "NOUSHAD YOUNUS",
+    "party_name": "Indian Union Muslim League",
+    "status": "Lost",
+    "total_votes": 50415,
+    "margin": "-21529"
+  },
+  {
+    "constituency": "PUNALUR - 121",
+    "candidate_name": "ADV. REGHUNADH KAMUKUMCHERY",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 15393,
+    "margin": "-56551"
+  },
+  {
+    "constituency": "PUNALUR - 121",
+    "candidate_name": "NEDUMONCAVU GOPALAKRISHNAN",
+    "party_name": "Equality Party of India",
+    "status": "Lost",
+    "total_votes": 1538,
+    "margin": "-70406"
+  },
+  {
+    "constituency": "PUNALUR - 121",
+    "candidate_name": "JOSE SARANATH",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 1425,
+    "margin": "-70519"
+  },
+  {
+    "constituency": "PUNALUR - 121",
+    "candidate_name": "K. MAHESH",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 560,
+    "margin": "-71384"
+  },
+  {
+    "constituency": "PUTHUPPALLY - 98",
+    "candidate_name": "ADV. CHANDY OOMMEN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 84031,
+    "margin": "52907"
+  },
+  {
+    "constituency": "PUTHUPPALLY - 98",
+    "candidate_name": "K. M. RADHAKRISHNAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 31124,
+    "margin": "-52907"
+  },
+  {
+    "constituency": "PUTHUPPALLY - 98",
+    "candidate_name": "RAVEENDRANATH VAKATHANAM",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 11544,
+    "margin": "-72487"
+  },
+  {
+    "constituency": "PUTHUPPALLY - 98",
+    "candidate_name": "PAUL P CHACKO (SHAJI KADAYIL)",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 663,
+    "margin": "-83368"
+  },
+  {
+    "constituency": "PUTHUPPALLY - 98",
+    "candidate_name": "SABU MYLAKKADAN",
+    "party_name": "Janam Rashtriya Party",
+    "status": "Lost",
+    "total_votes": 122,
+    "margin": "-83909"
+  },
+  {
+    "constituency": "PUTHUPPALLY - 98",
+    "candidate_name": "RIJOMON MATHEW",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 83,
+    "margin": "-83948"
+  },
+  {
+    "constituency": "QUILANDY - 23",
+    "candidate_name": "ADV. K. PRAVEEN KUMAR",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 79913,
+    "margin": "12070"
+  },
+  {
+    "constituency": "QUILANDY - 23",
+    "candidate_name": "K. DASAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 67843,
+    "margin": "-12070"
+  },
+  {
+    "constituency": "QUILANDY - 23",
+    "candidate_name": "PRAFUL KRISHNAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 23545,
+    "margin": "-56368"
+  },
+  {
+    "constituency": "QUILANDY - 23",
+    "candidate_name": "ADV. PRAVEEN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 198,
+    "margin": "-79715"
+  },
+  {
+    "constituency": "QUILANDY - 23",
+    "candidate_name": "MUSTHAFA P K (PADINJARE KUNIYOTH)",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 193,
+    "margin": "-79720"
+  },
+  {
+    "constituency": "QUILANDY - 23",
+    "candidate_name": "PRAVEEN KUMAR S/O SANKARAN NAIR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 192,
+    "margin": "-79721"
+  },
+  {
+    "constituency": "QUILANDY - 23",
+    "candidate_name": "DASAN S/O KUNHIKELU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 99,
+    "margin": "-79814"
+  },
+  {
+    "constituency": "RANNI - 112",
+    "candidate_name": "ADV. PAZHAKULAM MADHU",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 54652,
+    "margin": "4344"
+  },
+  {
+    "constituency": "RANNI - 112",
+    "candidate_name": "ADV. PRAMOD NARAYAN",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 50308,
+    "margin": "-4344"
+  },
+  {
+    "constituency": "RANNI - 112",
+    "candidate_name": "THOMAS K SAMUEL (BLESSON)",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 17993,
+    "margin": "-36659"
+  },
+  {
+    "constituency": "RANNI - 112",
+    "candidate_name": "SREEHARI K P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 333,
+    "margin": "-54319"
+  },
+  {
+    "constituency": "SHORNUR - 51",
+    "candidate_name": "P.MAMMIKUTTY",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 70583,
+    "margin": "16517"
+  },
+  {
+    "constituency": "SHORNUR - 51",
+    "candidate_name": "P.HARIGOVINDAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 54066,
+    "margin": "-16517"
+  },
+  {
+    "constituency": "SHORNUR - 51",
+    "candidate_name": "ADV. SANKU.T.DAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 33264,
+    "margin": "-37319"
+  },
+  {
+    "constituency": "SHORNUR - 51",
+    "candidate_name": "ABOOBACKER",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1263,
+    "margin": "-69320"
+  },
+  {
+    "constituency": "SULTHANBATHERY - 18",
+    "candidate_name": "I C BALAKRISHNAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 78936,
+    "margin": "16597"
+  },
+  {
+    "constituency": "SULTHANBATHERY - 18",
+    "candidate_name": "M S VISWANATHAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 62339,
+    "margin": "-16597"
+  },
+  {
+    "constituency": "SULTHANBATHERY - 18",
+    "candidate_name": "KAVITHA A S",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 31308,
+    "margin": "-47628"
+  },
+  {
+    "constituency": "SULTHANBATHERY - 18",
+    "candidate_name": "PRAKRITHI N V",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1781,
+    "margin": "-77155"
+  },
+  {
+    "constituency": "SULTHANBATHERY - 18",
+    "candidate_name": "BENADICT",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 447,
+    "margin": "-78489"
+  },
+  {
+    "constituency": "SULTHANBATHERY - 18",
+    "candidate_name": "V.A RAMESAN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 275,
+    "margin": "-78661"
+  },
+  {
+    "constituency": "SULTHANBATHERY - 18",
+    "candidate_name": "BALAKRISHNAN EDAKKAL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 212,
+    "margin": "-78724"
+  },
+  {
+    "constituency": "SULTHANBATHERY - 18",
+    "candidate_name": "RAJESH R M",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 198,
+    "margin": "-78738"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "T K GOVINDAN MASTER S/O KUNHIKKANNAN NAMBIAR",
+    "party_name": "Independent",
+    "status": "Won",
+    "total_votes": 91339,
+    "margin": "12551"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "P K SHYAMALA TEACHER",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 78788,
+    "margin": "-12551"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "N HARIDAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 16089,
+    "margin": "-75250"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "KOYYAM JANARDHANAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1202,
+    "margin": "-90137"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "ANAPPALLI GOPALAN",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1083,
+    "margin": "-90256"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "T K GOVINDAN S/O KUNHIRAMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 735,
+    "margin": "-90604"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "ABDUL SALAM K P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 366,
+    "margin": "-90973"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "SHYAMALA P D/O GOVINDAN P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 294,
+    "margin": "-91045"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "KHAMARUDDEEN C V",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 283,
+    "margin": "-91056"
+  },
+  {
+    "constituency": "TALIPARAMBA - 8",
+    "candidate_name": "C BALAKRISHNAN YADAV",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 198,
+    "margin": "-91141"
+  },
+  {
+    "constituency": "TANUR - 44",
+    "candidate_name": "P K NAVAS",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 91992,
+    "margin": "27131"
+  },
+  {
+    "constituency": "TANUR - 44",
+    "candidate_name": "MOHAMED SAMEER T THIRUTHIYIL HOUSE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 64861,
+    "margin": "-27131"
+  },
+  {
+    "constituency": "TANUR - 44",
+    "candidate_name": "DEEPA PUZHAKKAL",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 13642,
+    "margin": "-78350"
+  },
+  {
+    "constituency": "TANUR - 44",
+    "candidate_name": "P P NAVAS S/o KUNHIMUHAMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 502,
+    "margin": "-91490"
+  },
+  {
+    "constituency": "TANUR - 44",
+    "candidate_name": "SAMEER T",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 373,
+    "margin": "-91619"
+  },
+  {
+    "constituency": "TANUR - 44",
+    "candidate_name": "MUHAMMED SAMEER NARUNGEL PARAMBIL HOUSE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 365,
+    "margin": "-91627"
+  },
+  {
+    "constituency": "TARUR - 57",
+    "candidate_name": "SUMOD",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 60557,
+    "margin": "11910"
+  },
+  {
+    "constituency": "TARUR - 57",
+    "candidate_name": "SUBRAMANIAN K C",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 48647,
+    "margin": "-11910"
+  },
+  {
+    "constituency": "TARUR - 57",
+    "candidate_name": "SURESHBABU M",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 21162,
+    "margin": "-39395"
+  },
+  {
+    "constituency": "TARUR - 57",
+    "candidate_name": "NARAYANANKUTTY K T",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 866,
+    "margin": "-59691"
+  },
+  {
+    "constituency": "THALASSERY - 13",
+    "candidate_name": "KARAYI RAJAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 69743,
+    "margin": "20523"
+  },
+  {
+    "constituency": "THALASSERY - 13",
+    "candidate_name": "SAJU K P",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 49220,
+    "margin": "-20523"
+  },
+  {
+    "constituency": "THALASSERY - 13",
+    "candidate_name": "O NIDHEESH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 22754,
+    "margin": "-46989"
+  },
+  {
+    "constituency": "THALASSERY - 13",
+    "candidate_name": "A C JALALUDDHEEN",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1444,
+    "margin": "-68299"
+  },
+  {
+    "constituency": "THALASSERY - 13",
+    "candidate_name": "SAJU V P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 240,
+    "margin": "-69503"
+  },
+  {
+    "constituency": "THALASSERY - 13",
+    "candidate_name": "RAJAN O P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 89,
+    "margin": "-69654"
+  },
+  {
+    "constituency": "THALASSERY - 13",
+    "candidate_name": "RAJAN V P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 69,
+    "margin": "-69674"
+  },
+  {
+    "constituency": "THAVANUR - 47",
+    "candidate_name": "ADV. V S JOY",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 79661,
+    "margin": "14647"
+  },
+  {
+    "constituency": "THAVANUR - 47",
+    "candidate_name": "DR. K T JALEEL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 65014,
+    "margin": "-14647"
+  },
+  {
+    "constituency": "THAVANUR - 47",
+    "candidate_name": "RAVI THELATH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 16039,
+    "margin": "-63622"
+  },
+  {
+    "constituency": "THAVANUR - 47",
+    "candidate_name": "ABDUL JALEEL S/O KADHEEJA",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 2021,
+    "margin": "-77640"
+  },
+  {
+    "constituency": "THAVANUR - 47",
+    "candidate_name": "ABDUL JALEEL K T S/O MOIDEEN K T",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 349,
+    "margin": "-79312"
+  },
+  {
+    "constituency": "THIRUVALLA - 111",
+    "candidate_name": "ADV.VARGHESE MAMMEN",
+    "party_name": "Kerala Congress",
+    "status": "Won",
+    "total_votes": 53224,
+    "margin": "10146"
+  },
+  {
+    "constituency": "THIRUVALLA - 111",
+    "candidate_name": "ANOOP ANTONY",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 43078,
+    "margin": "-10146"
+  },
+  {
+    "constituency": "THIRUVALLA - 111",
+    "candidate_name": "ADV. MATHEW T THOMAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 42023,
+    "margin": "-11201"
+  },
+  {
+    "constituency": "THIRUVALLA - 111",
+    "candidate_name": "RAMESH CHATHENKARY",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 999,
+    "margin": "-52225"
+  },
+  {
+    "constituency": "THIRUVALLA - 111",
+    "candidate_name": "THOMAS MAMMEN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 553,
+    "margin": "-52671"
+  },
+  {
+    "constituency": "THIRUVALLA - 111",
+    "candidate_name": "AJU ALEX",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 220,
+    "margin": "-53004"
+  },
+  {
+    "constituency": "THIRUVALLA - 111",
+    "candidate_name": "ZEEN THOMAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 144,
+    "margin": "-53080"
+  },
+  {
+    "constituency": "THIRUVAMBADI - 32",
+    "candidate_name": "C K KASIM",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 77140,
+    "margin": "6741"
+  },
+  {
+    "constituency": "THIRUVAMBADI - 32",
+    "candidate_name": "LINTO JOSEPH",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 70399,
+    "margin": "-6741"
+  },
+  {
+    "constituency": "THIRUVAMBADI - 32",
+    "candidate_name": "SUNNY THOMAS",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 7380,
+    "margin": "-69760"
+  },
+  {
+    "constituency": "THIRUVAMBADI - 32",
+    "candidate_name": "SUNNY V JOSEPH",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 812,
+    "margin": "-76328"
+  },
+  {
+    "constituency": "THIRUVAMBADI - 32",
+    "candidate_name": "MUHAMMED KASIM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 186,
+    "margin": "-76954"
+  },
+  {
+    "constituency": "THIRUVAMBADI - 32",
+    "candidate_name": "DR. WILSON ROCKEY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 164,
+    "margin": "-76976"
+  },
+  {
+    "constituency": "THIRUVAMBADI - 32",
+    "candidate_name": "P K KASIM S/O ABDULLAKKUTTY HAJI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 141,
+    "margin": "-76999"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "C P JOHN",
+    "party_name": "Communist Marxist Party Kerala State Committee",
+    "status": "Won",
+    "total_votes": 45586,
+    "margin": "9863"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "SUDHIR KARAMANA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 35723,
+    "margin": "-9863"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "KARAMANA JAYAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 35125,
+    "margin": "-10461"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "SURESH KUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 769,
+    "margin": "-44817"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "SAMIN SATHYADAS",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 556,
+    "margin": "-45030"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "PRADEEP KUMAR P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 506,
+    "margin": "-45080"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "ADV. SEN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 463,
+    "margin": "-45123"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "MANOMOHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 237,
+    "margin": "-45349"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "A SABOORA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 227,
+    "margin": "-45359"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "KARTHIKA DEVI M",
+    "party_name": "Janam Rashtriya Party",
+    "status": "Lost",
+    "total_votes": 210,
+    "margin": "-45376"
+  },
+  {
+    "constituency": "THIRUVANANTHAPURAM - 134",
+    "candidate_name": "BINDHU MENON L R",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 177,
+    "margin": "-45409"
+  },
+  {
+    "constituency": "THODUPUZHA - 90",
+    "candidate_name": "APU JOHN JOSEPH",
+    "party_name": "Kerala Congress",
+    "status": "Won",
+    "total_votes": 84796,
+    "margin": "44291"
+  },
+  {
+    "constituency": "THODUPUZHA - 90",
+    "candidate_name": "CYRIAC CHAZHIKADAN",
+    "party_name": "Kerala Congress (M)",
+    "status": "Lost",
+    "total_votes": 40505,
+    "margin": "-44291"
+  },
+  {
+    "constituency": "THODUPUZHA - 90",
+    "candidate_name": "ADV. ROY VARICATTU",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 12679,
+    "margin": "-72117"
+  },
+  {
+    "constituency": "THODUPUZHA - 90",
+    "candidate_name": "ADV. BASIL JOHN",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 2603,
+    "margin": "-82193"
+  },
+  {
+    "constituency": "THODUPUZHA - 90",
+    "candidate_name": "AJAY V MARAR (AJAY UNNI)",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2580,
+    "margin": "-82216"
+  },
+  {
+    "constituency": "THODUPUZHA - 90",
+    "candidate_name": "AFSAL M B",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1626,
+    "margin": "-83170"
+  },
+  {
+    "constituency": "THODUPUZHA - 90",
+    "candidate_name": "JOMON JOHN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 267,
+    "margin": "-84529"
+  },
+  {
+    "constituency": "THODUPUZHA - 90",
+    "candidate_name": "P T VARGHESE",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 234,
+    "margin": "-84562"
+  },
+  {
+    "constituency": "THRIKKAKARA - 83",
+    "candidate_name": "UMA THOMAS",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 83375,
+    "margin": "50211"
+  },
+  {
+    "constituency": "THRIKKAKARA - 83",
+    "candidate_name": "ADV. PUSHPA DAS",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 33164,
+    "margin": "-50211"
+  },
+  {
+    "constituency": "THRIKKAKARA - 83",
+    "candidate_name": "AKHIL RAJ (AKHIL MARAR)",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 21424,
+    "margin": "-61951"
+  },
+  {
+    "constituency": "THRIKKAKARA - 83",
+    "candidate_name": "JOSE GEORGE",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 605,
+    "margin": "-82770"
+  },
+  {
+    "constituency": "THRIKKAKARA - 83",
+    "candidate_name": "JOSEPH ALOSIUS",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 551,
+    "margin": "-82824"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "DEEPAK JOY",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 70256,
+    "margin": "18468"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "K N UNNIKRISHNAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 51788,
+    "margin": "-18468"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "ANJALI .P. V",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 29471,
+    "margin": "-40785"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "UNNIKRISHNAN K N",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 544,
+    "margin": "-69712"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "KARTHIKEYAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 424,
+    "margin": "-69832"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "SANDEEP RAJENDRAPRASAD",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 376,
+    "margin": "-69880"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "THOMAS PAUL KOMAROTH",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 272,
+    "margin": "-69984"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "SATHEESAN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 148,
+    "margin": "-70108"
+  },
+  {
+    "constituency": "THRIPUNITHURA - 81",
+    "candidate_name": "RAJKUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 77,
+    "margin": "-70179"
+  },
+  {
+    "constituency": "THRISSUR - 67",
+    "candidate_name": "RAJAN. J. PALLAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 60290,
+    "margin": "26803"
+  },
+  {
+    "constituency": "THRISSUR - 67",
+    "candidate_name": "ALANKODE LEELAKRISHNAN",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 33487,
+    "margin": "-26803"
+  },
+  {
+    "constituency": "THRISSUR - 67",
+    "candidate_name": "PADMAJA VENUGOPAL",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 28662,
+    "margin": "-31628"
+  },
+  {
+    "constituency": "THRISSUR - 67",
+    "candidate_name": "RANI ANTO",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 299,
+    "margin": "-59991"
+  },
+  {
+    "constituency": "THRISSUR - 67",
+    "candidate_name": "RAJAN. M",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 153,
+    "margin": "-60137"
+  },
+  {
+    "constituency": "THRISSUR - 67",
+    "candidate_name": "ROSILIN CHACKO",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 138,
+    "margin": "-60152"
+  },
+  {
+    "constituency": "THRISSUR - 67",
+    "candidate_name": "ARSHED AZIZ",
+    "party_name": "Communist Party of India (Marxist-Leninist) (Liberation)",
+    "status": "Lost",
+    "total_votes": 110,
+    "margin": "-60180"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "V T BALRAM",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 76427,
+    "margin": "8385"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "M B RAJESH",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 68042,
+    "margin": "-8385"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "V UNNIKRISHNAN MASTER",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 15051,
+    "margin": "-61376"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "SHAHEER CHALIPRAM",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 1746,
+    "margin": "-74681"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "ADV KEERTHI JAYANANDHAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 188,
+    "margin": "-76239"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "T T BALARAMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 91,
+    "margin": "-76336"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "BALARAMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 81,
+    "margin": "-76346"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "ABBAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 77,
+    "margin": "-76350"
+  },
+  {
+    "constituency": "THRITHALA - 49",
+    "candidate_name": "RAJESH S/O RAMANKUTTY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 74,
+    "margin": "-76353"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "KURUKKOLI MOIDEEN",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 106108,
+    "margin": "24137"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "V.ABDURAHIMAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 81971,
+    "margin": "-24137"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "K.NARAYANAN MASTER",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 8634,
+    "margin": "-97474"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "KABEER ALIAS SHAMEER KUTTUR",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 340,
+    "margin": "-105768"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "MOIDEEN KOOMULLI PARAMBIL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 312,
+    "margin": "-105796"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "DR.S.ALEENA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 224,
+    "margin": "-105884"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "ABDURAHIMAN S/O KUNJEEN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 130,
+    "margin": "-105978"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "SIYAD KOODIYATH",
+    "party_name": "Socialist Party (India)",
+    "status": "Lost",
+    "total_votes": 125,
+    "margin": "-105983"
+  },
+  {
+    "constituency": "TIRUR - 45",
+    "candidate_name": "ABDURAHIMAN S/O KUNJAVA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 57,
+    "margin": "-106051"
+  },
+  {
+    "constituency": "TIRURANGADI - 43",
+    "candidate_name": "P M A SAMEER",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 111869,
+    "margin": "63387"
+  },
+  {
+    "constituency": "TIRURANGADI - 43",
+    "candidate_name": "AJITH KOLADI",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 48482,
+    "margin": "-63387"
+  },
+  {
+    "constituency": "TIRURANGADI - 43",
+    "candidate_name": "RIJU C RAGHAV",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 11497,
+    "margin": "-100372"
+  },
+  {
+    "constituency": "TIRURANGADI - 43",
+    "candidate_name": "HAMEED V",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 2650,
+    "margin": "-109219"
+  },
+  {
+    "constituency": "TIRURANGADI - 43",
+    "candidate_name": "MOOSA JARATHINGAL",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 843,
+    "margin": "-111026"
+  },
+  {
+    "constituency": "TRIKARIPUR - 5",
+    "candidate_name": "SANDEEP VARIER",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 83109,
+    "margin": "4431"
+  },
+  {
+    "constituency": "TRIKARIPUR - 5",
+    "candidate_name": "DR. V P P MUSTAFA",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 78678,
+    "margin": "-4431"
+  },
+  {
+    "constituency": "TRIKARIPUR - 5",
+    "candidate_name": "RAVI KULANGARA",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 7837,
+    "margin": "-75272"
+  },
+  {
+    "constituency": "TRIKARIPUR - 5",
+    "candidate_name": "SANDEEP ELATT",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 258,
+    "margin": "-82851"
+  },
+  {
+    "constituency": "TRIKARIPUR - 5",
+    "candidate_name": "MUSTHAFA P P S/O NAFEESA P P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 169,
+    "margin": "-82940"
+  },
+  {
+    "constituency": "TRIKARIPUR - 5",
+    "candidate_name": "MUSTHAFA V P S/O MUHAMMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 143,
+    "margin": "-82966"
+  },
+  {
+    "constituency": "UDMA - 3",
+    "candidate_name": "NEELAKANDAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 78910,
+    "margin": "4847"
+  },
+  {
+    "constituency": "UDMA - 3",
+    "candidate_name": "C H KUNHAMBU",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 74063,
+    "margin": "-4847"
+  },
+  {
+    "constituency": "UDMA - 3",
+    "candidate_name": "MANULAL M",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 26899,
+    "margin": "-52011"
+  },
+  {
+    "constituency": "UDMA - 3",
+    "candidate_name": "KUNHAMPU P P S/O RAMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 191,
+    "margin": "-78719"
+  },
+  {
+    "constituency": "UDMA - 3",
+    "candidate_name": "KUNHIRAMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 138,
+    "margin": "-78772"
+  },
+  {
+    "constituency": "UDMA - 3",
+    "candidate_name": "NASEER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 111,
+    "margin": "-78799"
+  },
+  {
+    "constituency": "UDUMBANCHOLA - 89",
+    "candidate_name": "ADV. SENAPATHY VENU",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 64916,
+    "margin": "20021"
+  },
+  {
+    "constituency": "UDUMBANCHOLA - 89",
+    "candidate_name": "K.K. JAYACHANDRAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 44895,
+    "margin": "-20021"
+  },
+  {
+    "constituency": "UDUMBANCHOLA - 89",
+    "candidate_name": "ADV. SANGEETHA VISWANADHAN",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 10157,
+    "margin": "-54759"
+  },
+  {
+    "constituency": "UDUMBANCHOLA - 89",
+    "candidate_name": "P.K. SAJEEVAN",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 702,
+    "margin": "-64214"
+  },
+  {
+    "constituency": "VADAKARA - 20",
+    "candidate_name": "K K REMA",
+    "party_name": "Revolutionary Marxist Party of India",
+    "status": "Won",
+    "total_votes": 70117,
+    "margin": "14862"
+  },
+  {
+    "constituency": "VADAKARA - 20",
+    "candidate_name": "M K BHASKARAN",
+    "party_name": "Rashtriya Janata Dal",
+    "status": "Lost",
+    "total_votes": 55255,
+    "margin": "-14862"
+  },
+  {
+    "constituency": "VADAKARA - 20",
+    "candidate_name": "ADV. K DILEEP",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 14295,
+    "margin": "-55822"
+  },
+  {
+    "constituency": "VADAKARA - 20",
+    "candidate_name": "SHAMSEER CHOMBALA",
+    "party_name": "Social Democratic Party Of India",
+    "status": "Lost",
+    "total_votes": 2477,
+    "margin": "-67640"
+  },
+  {
+    "constituency": "VADAKARA - 20",
+    "candidate_name": "RAMA T P W/O ASHOKAN P K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 200,
+    "margin": "-69917"
+  },
+  {
+    "constituency": "VADAKARA - 20",
+    "candidate_name": "BHASKARAN K K S/O KELAPPAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 185,
+    "margin": "-69932"
+  },
+  {
+    "constituency": "VADAKARA - 20",
+    "candidate_name": "RAMA W/O VIJAYAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 162,
+    "margin": "-69955"
+  },
+  {
+    "constituency": "VADAKARA - 20",
+    "candidate_name": "RAMAKRISHNAN VATTAKANDI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 94,
+    "margin": "-70023"
+  },
+  {
+    "constituency": "VAIKOM - 95",
+    "candidate_name": "K BINIMON",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 52944,
+    "margin": "1360"
+  },
+  {
+    "constituency": "VAIKOM - 95",
+    "candidate_name": "P PRADEEP",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 51584,
+    "margin": "-1360"
+  },
+  {
+    "constituency": "VAIKOM - 95",
+    "candidate_name": "K AJITH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 20297,
+    "margin": "-32647"
+  },
+  {
+    "constituency": "VAIKOM - 95",
+    "candidate_name": "SUMAM P S",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 280,
+    "margin": "-52664"
+  },
+  {
+    "constituency": "VAIKOM - 95",
+    "candidate_name": "ADV. P I JAYAKUMAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 158,
+    "margin": "-52786"
+  },
+  {
+    "constituency": "VAIKOM - 95",
+    "candidate_name": "PRADEEP S/O KUTTAPPAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 123,
+    "margin": "-52821"
+  },
+  {
+    "constituency": "VAIKOM - 95",
+    "candidate_name": "T M BOSE",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 115,
+    "margin": "-52829"
+  },
+  {
+    "constituency": "VALLIKUNNU - 42",
+    "candidate_name": "T V IBRAHIM",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 100718,
+    "margin": "51289"
+  },
+  {
+    "constituency": "VALLIKUNNU - 42",
+    "candidate_name": "ADV. MUSTHAFA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 49429,
+    "margin": "-51289"
+  },
+  {
+    "constituency": "VALLIKUNNU - 42",
+    "candidate_name": "PREMKUMAR (PREMAN MASTER)",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 23283,
+    "margin": "-77435"
+  },
+  {
+    "constituency": "VALLIKUNNU - 42",
+    "candidate_name": "MUHAMED MUSTHAFA PAMANGADAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 3698,
+    "margin": "-97020"
+  },
+  {
+    "constituency": "VALLIKUNNU - 42",
+    "candidate_name": "ABDUL AZEEZ KADALUNDI",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1575,
+    "margin": "-99143"
+  },
+  {
+    "constituency": "VALLIKUNNU - 42",
+    "candidate_name": "MUHAMMED ASLAM V P",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1058,
+    "margin": "-99660"
+  },
+  {
+    "constituency": "VAMANAPURAM - 131",
+    "candidate_name": "MUHAMMED SUDHEERSHA S",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 73590,
+    "margin": "12185"
+  },
+  {
+    "constituency": "VAMANAPURAM - 131",
+    "candidate_name": "MURALEEDHARAN NAIR D K",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 61405,
+    "margin": "-12185"
+  },
+  {
+    "constituency": "VAMANAPURAM - 131",
+    "candidate_name": "VENU",
+    "party_name": "Bharath Dharma Jana Sena",
+    "status": "Lost",
+    "total_votes": 12093,
+    "margin": "-61497"
+  },
+  {
+    "constituency": "VAMANAPURAM - 131",
+    "candidate_name": "VIPINLAL V A",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 734,
+    "margin": "-72856"
+  },
+  {
+    "constituency": "VAMANAPURAM - 131",
+    "candidate_name": "RATHEESH R",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 275,
+    "margin": "-73315"
+  },
+  {
+    "constituency": "VAMANAPURAM - 131",
+    "candidate_name": "MURALEEDHARAN NAIR G",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 173,
+    "margin": "-73417"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "ADV.V JOY",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 55365,
+    "margin": "2050"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "VARKALA KAHAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 53315,
+    "margin": "-2050"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "ADV.SMITHA SUNDARESAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 27400,
+    "margin": "-27965"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "RAJU S KOTTARAKONAM",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 949,
+    "margin": "-54416"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "VINOD ELAKAMON",
+    "party_name": "Democratic Human Rights Movement Party",
+    "status": "Lost",
+    "total_votes": 290,
+    "margin": "-55075"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "HARIKRISHNAN S G",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 97,
+    "margin": "-55268"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "VIVEKANANDAN K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 59,
+    "margin": "-55306"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "SAJU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 57,
+    "margin": "-55308"
+  },
+  {
+    "constituency": "VARKALA - 127",
+    "candidate_name": "KANNAN M K",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 47,
+    "margin": "-55318"
+  },
+  {
+    "constituency": "VATTIYOORKAVU - 133",
+    "candidate_name": "K. MURALEEDHARAN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 48338,
+    "margin": "5425"
+  },
+  {
+    "constituency": "VATTIYOORKAVU - 133",
+    "candidate_name": "ADV. V.K PRASANTH",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 42913,
+    "margin": "-5425"
+  },
+  {
+    "constituency": "VATTIYOORKAVU - 133",
+    "candidate_name": "R. SREELEKHA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 37213,
+    "margin": "-11125"
+  },
+  {
+    "constituency": "VATTIYOORKAVU - 133",
+    "candidate_name": "N. MURALI",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 299,
+    "margin": "-48039"
+  },
+  {
+    "constituency": "VATTIYOORKAVU - 133",
+    "candidate_name": "PRASANTH. K S/O. KARUNAKARAN.C",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 143,
+    "margin": "-48195"
+  },
+  {
+    "constituency": "VATTIYOORKAVU - 133",
+    "candidate_name": "EMIL B.S",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 131,
+    "margin": "-48207"
+  },
+  {
+    "constituency": "VATTIYOORKAVU - 133",
+    "candidate_name": "SREEKANTAN NAIR V",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 66,
+    "margin": "-48272"
+  },
+  {
+    "constituency": "VATTIYOORKAVU - 133",
+    "candidate_name": "MURALIDHARAN. P S/O. K. PONNAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 62,
+    "margin": "-48276"
+  },
+  {
+    "constituency": "VENGARA - 41",
+    "candidate_name": "K.M. SHAJI",
+    "party_name": "Indian Union Muslim League",
+    "status": "Won",
+    "total_votes": 95863,
+    "margin": "30325"
+  },
+  {
+    "constituency": "VENGARA - 41",
+    "candidate_name": "SABAH KUNDUPUZHAKKAL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 65538,
+    "margin": "-30325"
+  },
+  {
+    "constituency": "VENGARA - 41",
+    "candidate_name": "JAYAKRISHNAN. V.N",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 6126,
+    "margin": "-89737"
+  },
+  {
+    "constituency": "VENGARA - 41",
+    "candidate_name": "ABDUL RAFEEQ CHEMBAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1145,
+    "margin": "-94718"
+  },
+  {
+    "constituency": "VENGARA - 41",
+    "candidate_name": "K.M. SHAJI SHAIMALAYAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 305,
+    "margin": "-95558"
+  },
+  {
+    "constituency": "VENGARA - 41",
+    "candidate_name": "U.P. SHAJI ULLATTU PARAMBIL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 141,
+    "margin": "-95722"
+  },
+  {
+    "constituency": "VYPEN - 79",
+    "candidate_name": "TONY CHAMMANY",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 66112,
+    "margin": "15648"
+  },
+  {
+    "constituency": "VYPEN - 79",
+    "candidate_name": "ADV. M. B. SHYNI",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 50464,
+    "margin": "-15648"
+  },
+  {
+    "constituency": "VYPEN - 79",
+    "candidate_name": "ANITHA THOMAS",
+    "party_name": "Twenty 20 Party",
+    "status": "Lost",
+    "total_votes": 13637,
+    "margin": "-52475"
+  },
+  {
+    "constituency": "VYPEN - 79",
+    "candidate_name": "MOHANDAS",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 342,
+    "margin": "-65770"
+  },
+  {
+    "constituency": "VYPEN - 79",
+    "candidate_name": "T. C. SUBRAHMANYAN",
+    "party_name": "Communist Party of India (Marxist-Leninist) Red Star",
+    "status": "Lost",
+    "total_votes": 262,
+    "margin": "-65850"
+  },
+  {
+    "constituency": "VYPEN - 79",
+    "candidate_name": "SADASIVAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 163,
+    "margin": "-65949"
+  },
+  {
+    "constituency": "WADAKKANCHERY - 65",
+    "candidate_name": "XAVIER CHITTILAPPILLY",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Won",
+    "total_votes": 70725,
+    "margin": "5690"
+  },
+  {
+    "constituency": "WADAKKANCHERY - 65",
+    "candidate_name": "P.N. VAISAKH",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 65035,
+    "margin": "-5690"
+  },
+  {
+    "constituency": "WADAKKANCHERY - 65",
+    "candidate_name": "ADV. T.S ULLAS BABU",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 25844,
+    "margin": "-44881"
+  },
+  {
+    "constituency": "WADAKKANCHERY - 65",
+    "candidate_name": "JITHIN SADANANDHAN",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 478,
+    "margin": "-70247"
+  },
+  {
+    "constituency": "WADAKKANCHERY - 65",
+    "candidate_name": "SUBRAMANIAN PENAKAM",
+    "party_name": "Bahujan Samaj Party",
+    "status": "Lost",
+    "total_votes": 368,
+    "margin": "-70357"
+  },
+  {
+    "constituency": "WANDOOR - 36",
+    "candidate_name": "A.P ANILKUMAR",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 121074,
+    "margin": "47939"
+  },
+  {
+    "constituency": "WANDOOR - 36",
+    "candidate_name": "DR.K.K DAMODARAN",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 73135,
+    "margin": "-47939"
+  },
+  {
+    "constituency": "WANDOOR - 36",
+    "candidate_name": "KUMARADAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 6018,
+    "margin": "-115056"
+  },
+  {
+    "constituency": "WANDOOR - 36",
+    "candidate_name": "ANILKUMAR S/O KUTTAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1267,
+    "margin": "-119807"
+  }
+]

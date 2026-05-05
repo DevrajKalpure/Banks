@@ -1,0 +1,5778 @@
+[
+  {
+    "constituency": "ABHAYAPURI - 16",
+    "candidate_name": "BHUPEN ROY",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 111154,
+    "margin": "58926"
+  },
+  {
+    "constituency": "ABHAYAPURI - 16",
+    "candidate_name": "PRADIP SARKAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 52228,
+    "margin": "-58926"
+  },
+  {
+    "constituency": "ABHAYAPURI - 16",
+    "candidate_name": "KAUSHIK RANJAN DAS",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 1497,
+    "margin": "-109657"
+  },
+  {
+    "constituency": "ABHAYAPURI - 16",
+    "candidate_name": "JAHIDUL ISLAM",
+    "party_name": "Vikas India Party",
+    "status": "Lost",
+    "total_votes": 977,
+    "margin": "-110177"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "ZUBAIR ANAM MAZUMDER",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 145661,
+    "margin": "105448"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "ZAKIR HUSSAIN LASKAR",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 40213,
+    "margin": "-105448"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "SUZAM UDDIN LASKAR S/O LT. TAZAMUL ALI LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 29230,
+    "margin": "-116431"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "NIJAM UDDIN CHOUDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 3391,
+    "margin": "-142270"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "HAYDAR HUSSAIN LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1954,
+    "margin": "-143707"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "IKBAL BAHAR MOZUMDER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1153,
+    "margin": "-144508"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "SUJAM UDDIN LASKAR S/O MANIR UDDIN LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 986,
+    "margin": "-144675"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "SIRAJUL ISLAM LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 566,
+    "margin": "-145095"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "MUZAKKIR HASAN LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 486,
+    "margin": "-145175"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "SAMIN AHMED CHOUDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 378,
+    "margin": "-145283"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "JAMIL AHMED CHOUDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 339,
+    "margin": "-145322"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "SABBIR AHMED CHOUDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 307,
+    "margin": "-145354"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "SIRAJUL ISLAM BARBHUIYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 299,
+    "margin": "-145362"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "FORIZ ZAMAN MAZUMDER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 289,
+    "margin": "-145372"
+  },
+  {
+    "constituency": "ALGAPUR-KATLICHERRA - 122",
+    "candidate_name": "MUSTAK HUSSAIN BARBHUIYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 249,
+    "margin": "-145412"
+  },
+  {
+    "constituency": "AMRI  - 112",
+    "candidate_name": "HABBEY TERON",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 50273,
+    "margin": "23910"
+  },
+  {
+    "constituency": "AMRI  - 112",
+    "candidate_name": "BIKRAM HANSE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 26363,
+    "margin": "-23910"
+  },
+  {
+    "constituency": "AMRI  - 112",
+    "candidate_name": "WILSON TERANG",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 972,
+    "margin": "-49301"
+  },
+  {
+    "constituency": "BAJALI - 26",
+    "candidate_name": "DHARMESWAR ROY",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 80130,
+    "margin": "24446"
+  },
+  {
+    "constituency": "BAJALI - 26",
+    "candidate_name": "DILIP BARUAH",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 55684,
+    "margin": "-24446"
+  },
+  {
+    "constituency": "BAJALI - 26",
+    "candidate_name": "KALYANI KALITA",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 3617,
+    "margin": "-76513"
+  },
+  {
+    "constituency": "BAKSA  - 42",
+    "candidate_name": "MANESWAR BRAHMA",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 88820,
+    "margin": "49050"
+  },
+  {
+    "constituency": "BAKSA  - 42",
+    "candidate_name": "RAKESH BRAHMA",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 39770,
+    "margin": "-49050"
+  },
+  {
+    "constituency": "BAKSA  - 42",
+    "candidate_name": "JAGADISH MADAHI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 10623,
+    "margin": "-78197"
+  },
+  {
+    "constituency": "BAKSA  - 42",
+    "candidate_name": "RAMESH CHANDRA DAS",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 8118,
+    "margin": "-80702"
+  },
+  {
+    "constituency": "BAKSA  - 42",
+    "candidate_name": "HITESH BASUMATARY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 5794,
+    "margin": "-83026"
+  },
+  {
+    "constituency": "BAKSA  - 42",
+    "candidate_name": "RAMCHANDRA DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 3469,
+    "margin": "-85351"
+  },
+  {
+    "constituency": "BAKSA  - 42",
+    "candidate_name": "RAJKUMAR BARO",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1790,
+    "margin": "-87030"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "RUPAM CHANDRA ROY",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 62677,
+    "margin": "23710"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "SAPALI MARAK",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 38967,
+    "margin": "-23710"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "PRATIBHA BRAHMA",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 21245,
+    "margin": "-41432"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "RAJIB BRAHMA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 13037,
+    "margin": "-49640"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "RAAJKAR BECK",
+    "party_name": "Gondvana Gantantra Party",
+    "status": "Lost",
+    "total_votes": 4393,
+    "margin": "-58284"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "UDANGSRI NARZARY",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2565,
+    "margin": "-60112"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "PRITHVIRAJ NARAYAN DEV MECH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1510,
+    "margin": "-61167"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "SUJIT DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1239,
+    "margin": "-61438"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "PRANAB BAROI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 702,
+    "margin": "-61975"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "MD ABED ALI MONDAL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 529,
+    "margin": "-62148"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "RANJIT SARKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 494,
+    "margin": "-62183"
+  },
+  {
+    "constituency": "BAOKHUNGRI - 4",
+    "candidate_name": "SHIBAM CHAKROBORTY",
+    "party_name": "Bharatiya Gana Parishad",
+    "status": "Lost",
+    "total_votes": 396,
+    "margin": "-62281"
+  },
+  {
+    "constituency": "BARCHALLA - 66",
+    "candidate_name": "RITU BARAN SARMAH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 84495,
+    "margin": "24562"
+  },
+  {
+    "constituency": "BARCHALLA - 66",
+    "candidate_name": "RIPUN BORA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 59933,
+    "margin": "-24562"
+  },
+  {
+    "constituency": "BARCHALLA - 66",
+    "candidate_name": "ABUL MAJAN",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 8558,
+    "margin": "-75937"
+  },
+  {
+    "constituency": "BARCHALLA - 66",
+    "candidate_name": "BABURAM BASUMATARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 1714,
+    "margin": "-82781"
+  },
+  {
+    "constituency": "BARCHALLA - 66",
+    "candidate_name": "MAHENDRA ORANG",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 885,
+    "margin": "-83610"
+  },
+  {
+    "constituency": "BARCHALLA - 66",
+    "candidate_name": "MANOJ BORAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 719,
+    "margin": "-83776"
+  },
+  {
+    "constituency": "BARCHALLA - 66",
+    "candidate_name": "CHAMPA KURMI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 422,
+    "margin": "-84073"
+  },
+  {
+    "constituency": "BARCHALLA - 66",
+    "candidate_name": "JASUA BARJO",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 401,
+    "margin": "-84094"
+  },
+  {
+    "constituency": "BARHAMPUR - 59",
+    "candidate_name": "JITU GOSWAMI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 117127,
+    "margin": "56141"
+  },
+  {
+    "constituency": "BARHAMPUR - 59",
+    "candidate_name": "RAJEN GOHAIN",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 60986,
+    "margin": "-56141"
+  },
+  {
+    "constituency": "BARHAMPUR - 59",
+    "candidate_name": "MAZIBUR RAHMAN",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 6522,
+    "margin": "-110605"
+  },
+  {
+    "constituency": "BARHAMPUR - 59",
+    "candidate_name": "NAZRUL ISLAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 6176,
+    "margin": "-110951"
+  },
+  {
+    "constituency": "BARHAMPUR - 59",
+    "candidate_name": "RANUMAI TERONPI",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 3158,
+    "margin": "-113969"
+  },
+  {
+    "constituency": "BARKHETRI - 38",
+    "candidate_name": "NARAYAN DEKA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 113001,
+    "margin": "28844"
+  },
+  {
+    "constituency": "BARKHETRI - 38",
+    "candidate_name": "DIGANTA BARMAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 84157,
+    "margin": "-28844"
+  },
+  {
+    "constituency": "BARKHETRI - 38",
+    "candidate_name": "AMIRUL ISLAM",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 1418,
+    "margin": "-111583"
+  },
+  {
+    "constituency": "BARKHETRI - 38",
+    "candidate_name": "MUNINDRA DOLEY",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 959,
+    "margin": "-112042"
+  },
+  {
+    "constituency": "BARPETA  - 24",
+    "candidate_name": "DIPAK KUMAR DAS",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 94086,
+    "margin": "47402"
+  },
+  {
+    "constituency": "BARPETA  - 24",
+    "candidate_name": "GAGAN CHANDRA HALOI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 46684,
+    "margin": "-47402"
+  },
+  {
+    "constituency": "BARPETA  - 24",
+    "candidate_name": "UDDHAB CHANDRA DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 3670,
+    "margin": "-90416"
+  },
+  {
+    "constituency": "BEHALI  - 71",
+    "candidate_name": "MUNINDRA DAS (BAPTI)",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 87224,
+    "margin": "60703"
+  },
+  {
+    "constituency": "BEHALI  - 71",
+    "candidate_name": "GYANENDRA SARKAR",
+    "party_name": "Communist Party of India (Marxist-Leninist) (Liberation)",
+    "status": "Lost",
+    "total_votes": 26521,
+    "margin": "-60703"
+  },
+  {
+    "constituency": "BEHALI  - 71",
+    "candidate_name": "AJOY KUMAR SINGHA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 13294,
+    "margin": "-73930"
+  },
+  {
+    "constituency": "BEHALI  - 71",
+    "candidate_name": "PABAN PRAN RABIDAS",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 1999,
+    "margin": "-85225"
+  },
+  {
+    "constituency": "BHERGAON - 45",
+    "candidate_name": "MAHESWAR BARO",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 67105,
+    "margin": "37797"
+  },
+  {
+    "constituency": "BHERGAON - 45",
+    "candidate_name": "NERSWN BORO",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 29308,
+    "margin": "-37797"
+  },
+  {
+    "constituency": "BHERGAON - 45",
+    "candidate_name": "PRABHAT DAS PANIKA",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 21997,
+    "margin": "-45108"
+  },
+  {
+    "constituency": "BHERGAON - 45",
+    "candidate_name": "ANCHULA GWRA DAIMARY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 8267,
+    "margin": "-58838"
+  },
+  {
+    "constituency": "BHERGAON - 45",
+    "candidate_name": "DIPAK RAJBONGSHI",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 1476,
+    "margin": "-65629"
+  },
+  {
+    "constituency": "BHERGAON - 45",
+    "candidate_name": "BINOY KUMAR BASUMATARY",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1353,
+    "margin": "-65752"
+  },
+  {
+    "constituency": "BHERGAON - 45",
+    "candidate_name": "SUBRATA SHILL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1164,
+    "margin": "-65941"
+  },
+  {
+    "constituency": "BHERGAON - 45",
+    "candidate_name": "SWARNALATA CHALIHA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1018,
+    "margin": "-66087"
+  },
+  {
+    "constituency": "BHOWANIPUR-SORBHOG - 21",
+    "candidate_name": "RANJEET KUMAR DASS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 113069,
+    "margin": "39152"
+  },
+  {
+    "constituency": "BHOWANIPUR-SORBHOG - 21",
+    "candidate_name": "MANORANJAN TALUKDAR",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 73917,
+    "margin": "-39152"
+  },
+  {
+    "constituency": "BHOWANIPUR-SORBHOG - 21",
+    "candidate_name": "FARHAD ALI",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 3253,
+    "margin": "-109816"
+  },
+  {
+    "constituency": "BHOWANIPUR-SORBHOG - 21",
+    "candidate_name": "FARUQUE ABDULLAH AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1741,
+    "margin": "-111328"
+  },
+  {
+    "constituency": "BHOWANIPUR-SORBHOG - 21",
+    "candidate_name": "SHUKUR ALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 758,
+    "margin": "-112311"
+  },
+  {
+    "constituency": "BIHPURIA - 73",
+    "candidate_name": "BHUPEN KUMAR BORAH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 73050,
+    "margin": "8236"
+  },
+  {
+    "constituency": "BIHPURIA - 73",
+    "candidate_name": "NARAYAN BHUYAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 64814,
+    "margin": "-8236"
+  },
+  {
+    "constituency": "BIHPURIA - 73",
+    "candidate_name": "DR. DIGANTA GOGOI",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 854,
+    "margin": "-72196"
+  },
+  {
+    "constituency": "BIHPURIA - 73",
+    "candidate_name": "HEMEN GOGOI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 532,
+    "margin": "-72518"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "ARUP KUMAR DEY",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 71708,
+    "margin": "33927"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "KAMAL SING NARZARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 37781,
+    "margin": "-33927"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "KHALILUR RAHMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 26758,
+    "margin": "-44950"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "RAJAT KANTI SAHA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 9456,
+    "margin": "-62252"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "DIMBESWAR BORO",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 6338,
+    "margin": "-65370"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "MUSUKHA BASUMATARY",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 2987,
+    "margin": "-68721"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "NASHIR UDDIN KHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2780,
+    "margin": "-68928"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "KANDARPA RAY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1469,
+    "margin": "-70239"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "NABA KUMAR SARANIA",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 958,
+    "margin": "-70750"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "MANARANJAN BARMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 795,
+    "margin": "-70913"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "NILANJANA CHAKRABORTY",
+    "party_name": "Bharatiya Gana Parishad",
+    "status": "Lost",
+    "total_votes": 785,
+    "margin": "-70923"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "PRABHAT BASUMATARY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 575,
+    "margin": "-71133"
+  },
+  {
+    "constituency": "BIJNI - 20",
+    "candidate_name": "ABDUL HAI NAGARI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 535,
+    "margin": "-71173"
+  },
+  {
+    "constituency": "BILASIPARA - 10",
+    "candidate_name": "JIBESH ROY",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 85937,
+    "margin": "2694"
+  },
+  {
+    "constituency": "BILASIPARA - 10",
+    "candidate_name": "AMRIT BADSHA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 83243,
+    "margin": "-2694"
+  },
+  {
+    "constituency": "BILASIPARA - 10",
+    "candidate_name": "SABANA AKTAR",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 4350,
+    "margin": "-81587"
+  },
+  {
+    "constituency": "BILASIPARA - 10",
+    "candidate_name": "SHEIKH HEDAYETULLAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2134,
+    "margin": "-83803"
+  },
+  {
+    "constituency": "BILASIPARA - 10",
+    "candidate_name": "MOMINUR ISLAM",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 1241,
+    "margin": "-84696"
+  },
+  {
+    "constituency": "BILASIPARA - 10",
+    "candidate_name": "HAKIMUL ISLAM",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 618,
+    "margin": "-85319"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "MOHAMMED BADRUDDIN AJMAL",
+    "party_name": "All India United Democratic Front",
+    "status": "Won",
+    "total_votes": 119721,
+    "margin": "35380"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "REJAUL KARIM CHOWDHURY",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 84341,
+    "margin": "-35380"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "SHAHAB UDDIN MAJUMDAR",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 20955,
+    "margin": "-98766"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "MOHAMMED KABIR AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2264,
+    "margin": "-117457"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "FORIJ UDDIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1543,
+    "margin": "-118178"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "SHAMSUL HAQUE LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1514,
+    "margin": "-118207"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "ABDUL HANNAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1369,
+    "margin": "-118352"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "FAJLUL KARIM CHOWDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1197,
+    "margin": "-118524"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "PRAFULLA BAGLARI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 828,
+    "margin": "-118893"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "NAZMUL ALAM LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 539,
+    "margin": "-119182"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "IMDADUR RAHMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 309,
+    "margin": "-119412"
+  },
+  {
+    "constituency": "BINNAKANDI - 62",
+    "candidate_name": "ZAKARIA HUSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 287,
+    "margin": "-119434"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "WAZED ALI CHOUDHURY",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 113901,
+    "margin": "35885"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "ALI AKBAR MIAH",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 78016,
+    "margin": "-35885"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "REZA AMIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 68556,
+    "margin": "-45345"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "MADHABI DAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 8083,
+    "margin": "-105818"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "AKBAR ALI MONDAL",
+    "party_name": "The National Road Map Party of India",
+    "status": "Lost",
+    "total_votes": 1384,
+    "margin": "-112517"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "RAFIQUL ISLAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 775,
+    "margin": "-113126"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "ABDUS SOBUR MIAH",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 541,
+    "margin": "-113360"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "SHAHINOOR ISLAM",
+    "party_name": "Apni Janta Party",
+    "status": "Lost",
+    "total_votes": 468,
+    "margin": "-113433"
+  },
+  {
+    "constituency": "BIRSING JARUA - 9",
+    "candidate_name": "MOHAR UDDIN MONDAL",
+    "party_name": "Vikas India Party",
+    "status": "Lost",
+    "total_votes": 314,
+    "margin": "-113587"
+  },
+  {
+    "constituency": "BISWANATH - 70",
+    "candidate_name": "PALLAB LOCHAN DAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 84862,
+    "margin": "25770"
+  },
+  {
+    "constituency": "BISWANATH - 70",
+    "candidate_name": "JAYANTA BORAH",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 59092,
+    "margin": "-25770"
+  },
+  {
+    "constituency": "BISWANATH - 70",
+    "candidate_name": "TEHARU GOUR",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 12501,
+    "margin": "-72361"
+  },
+  {
+    "constituency": "BISWANATH - 70",
+    "candidate_name": "ANANTA GOGOI",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1471,
+    "margin": "-83391"
+  },
+  {
+    "constituency": "BISWANATH - 70",
+    "candidate_name": "SAHIDUL ALAM",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 1153,
+    "margin": "-83709"
+  },
+  {
+    "constituency": "BOKAJAN  - 108",
+    "candidate_name": "SURJYA RONGPHAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 69851,
+    "margin": "17466"
+  },
+  {
+    "constituency": "BOKAJAN  - 108",
+    "candidate_name": "RATON ENGTI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 52385,
+    "margin": "-17466"
+  },
+  {
+    "constituency": "BOKAJAN  - 108",
+    "candidate_name": "RAJU RONGPI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1521,
+    "margin": "-68330"
+  },
+  {
+    "constituency": "BOKAJAN  - 108",
+    "candidate_name": "RENUKA TIMUNGPI",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1500,
+    "margin": "-68351"
+  },
+  {
+    "constituency": "BOKAJAN  - 108",
+    "candidate_name": "SAMUEL RONGPI EJANG",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1076,
+    "margin": "-68775"
+  },
+  {
+    "constituency": "BOKAKHAT - 105",
+    "candidate_name": "ATUL BORA",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 80987,
+    "margin": "60537"
+  },
+  {
+    "constituency": "BOKAKHAT - 105",
+    "candidate_name": "HARI PRASAD SAIKIA",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 20450,
+    "margin": "-60537"
+  },
+  {
+    "constituency": "BOKAKHAT - 105",
+    "candidate_name": "PRANAB DOLEY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 14250,
+    "margin": "-66737"
+  },
+  {
+    "constituency": "BOKAKHAT - 105",
+    "candidate_name": "JITEN GOGOI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 13231,
+    "margin": "-67756"
+  },
+  {
+    "constituency": "BOKAKHAT - 105",
+    "candidate_name": "BIBEKANANDA RAJOWAR",
+    "party_name": "Gondvana Gantantra Party",
+    "status": "Lost",
+    "total_votes": 2882,
+    "margin": "-78105"
+  },
+  {
+    "constituency": "BOKAKHAT - 105",
+    "candidate_name": "HEMANTA DOLOI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1130,
+    "margin": "-79857"
+  },
+  {
+    "constituency": "BOKO-CHAYGAON  - 28",
+    "candidate_name": "RAJU MESH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 107113,
+    "margin": "59554"
+  },
+  {
+    "constituency": "BOKO-CHAYGAON  - 28",
+    "candidate_name": "RAMEN SINGH RABHA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 47559,
+    "margin": "-59554"
+  },
+  {
+    "constituency": "BOKO-CHAYGAON  - 28",
+    "candidate_name": "GANSENG B. SANGMA",
+    "party_name": "National People's Party",
+    "status": "Lost",
+    "total_votes": 7092,
+    "margin": "-100021"
+  },
+  {
+    "constituency": "BOKO-CHAYGAON  - 28",
+    "candidate_name": "JAMUNA RABHA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1432,
+    "margin": "-105681"
+  },
+  {
+    "constituency": "BOKO-CHAYGAON  - 28",
+    "candidate_name": "BHOGLAL RABHA",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 1178,
+    "margin": "-105935"
+  },
+  {
+    "constituency": "BOKO-CHAYGAON  - 28",
+    "candidate_name": "MANOJ BASUMATARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 978,
+    "margin": "-106135"
+  },
+  {
+    "constituency": "BOKO-CHAYGAON  - 28",
+    "candidate_name": "LABANYA BORO",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 976,
+    "margin": "-106137"
+  },
+  {
+    "constituency": "BONGAIGAON - 18",
+    "candidate_name": "DIPTIMAYEE CHOUDHURY",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 72247,
+    "margin": "24998"
+  },
+  {
+    "constituency": "BONGAIGAON - 18",
+    "candidate_name": "GIRISH BARUAH",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 47249,
+    "margin": "-24998"
+  },
+  {
+    "constituency": "BONGAIGAON - 18",
+    "candidate_name": "CHAKRADHAR DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 32093,
+    "margin": "-40154"
+  },
+  {
+    "constituency": "BONGAIGAON - 18",
+    "candidate_name": "SUBRATA SARKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1012,
+    "margin": "-71235"
+  },
+  {
+    "constituency": "BONGAIGAON - 18",
+    "candidate_name": "RAJAN GUPTA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 964,
+    "margin": "-71283"
+  },
+  {
+    "constituency": "BONGAIGAON - 18",
+    "candidate_name": "PRANITA BARMAN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 817,
+    "margin": "-71430"
+  },
+  {
+    "constituency": "BORKHOLA - 117",
+    "candidate_name": "KISHOR NATH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 102775,
+    "margin": "36613"
+  },
+  {
+    "constituency": "BORKHOLA - 117",
+    "candidate_name": "AMIT KUMAR KALWAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 66162,
+    "margin": "-36613"
+  },
+  {
+    "constituency": "BORKHOLA - 117",
+    "candidate_name": "AMALENDU DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 3713,
+    "margin": "-99062"
+  },
+  {
+    "constituency": "BORKHOLA - 117",
+    "candidate_name": "JAHURUL ISLAM BARBHUIYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1366,
+    "margin": "-101409"
+  },
+  {
+    "constituency": "BORKHOLA - 117",
+    "candidate_name": "HIFZUR RAHMAN LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 891,
+    "margin": "-101884"
+  },
+  {
+    "constituency": "BORKHOLA - 117",
+    "candidate_name": "SOMPA DEY",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 795,
+    "margin": "-101980"
+  },
+  {
+    "constituency": "CHABUA-LAHOWAL - 87",
+    "candidate_name": "BINOD HAZARIKA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 89202,
+    "margin": "50914"
+  },
+  {
+    "constituency": "CHABUA-LAHOWAL - 87",
+    "candidate_name": "PRANJAL GHATOWAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 38288,
+    "margin": "-50914"
+  },
+  {
+    "constituency": "CHABUA-LAHOWAL - 87",
+    "candidate_name": "BHUPEN SINGH MURARI",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 13265,
+    "margin": "-75937"
+  },
+  {
+    "constituency": "CHABUA-LAHOWAL - 87",
+    "candidate_name": "INUS KUMAR KANDAPAN",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2259,
+    "margin": "-86943"
+  },
+  {
+    "constituency": "CHAMARIA - 27",
+    "candidate_name": "REKIBUDDIN AHMED",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 149720,
+    "margin": "78696"
+  },
+  {
+    "constituency": "CHAMARIA - 27",
+    "candidate_name": "IMDAD HUSSAIN",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 71024,
+    "margin": "-78696"
+  },
+  {
+    "constituency": "CHAMARIA - 27",
+    "candidate_name": "MD. NURUL ISLAM",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 9570,
+    "margin": "-140150"
+  },
+  {
+    "constituency": "CHAMARIA - 27",
+    "candidate_name": "DELOWARA HUSSAIN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1331,
+    "margin": "-148389"
+  },
+  {
+    "constituency": "CHAMARIA - 27",
+    "candidate_name": "MOHAMMAD SUMAIR LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 973,
+    "margin": "-148747"
+  },
+  {
+    "constituency": "CHAMARIA - 27",
+    "candidate_name": "NURUL ISLAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 618,
+    "margin": "-149102"
+  },
+  {
+    "constituency": "CHENGA - 23",
+    "candidate_name": "ABDUR RAHIM AHMED",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 139167,
+    "margin": "87349"
+  },
+  {
+    "constituency": "CHENGA - 23",
+    "candidate_name": "ASHRAFUL HUSSAIN",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 51818,
+    "margin": "-87349"
+  },
+  {
+    "constituency": "CHENGA - 23",
+    "candidate_name": "AFTADUR ALI KHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 44021,
+    "margin": "-95146"
+  },
+  {
+    "constituency": "CHENGA - 23",
+    "candidate_name": "SADDAM HUSSAIN",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 5879,
+    "margin": "-133288"
+  },
+  {
+    "constituency": "CHENGA - 23",
+    "candidate_name": "ABDUL RAHMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1440,
+    "margin": "-137727"
+  },
+  {
+    "constituency": "CHENGA - 23",
+    "candidate_name": "JOHIRUL ISLAM",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 637,
+    "margin": "-138530"
+  },
+  {
+    "constituency": "DALGAON - 51",
+    "candidate_name": "MAZIBUR RAHMAN",
+    "party_name": "All India United Democratic Front",
+    "status": "Won",
+    "total_votes": 147555,
+    "margin": "28880"
+  },
+  {
+    "constituency": "DALGAON - 51",
+    "candidate_name": "MD AYNUL HOQUE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 118675,
+    "margin": "-28880"
+  },
+  {
+    "constituency": "DALGAON - 51",
+    "candidate_name": "AZIZUR RAHMAN",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 17613,
+    "margin": "-129942"
+  },
+  {
+    "constituency": "DALGAON - 51",
+    "candidate_name": "KRISHNA SAHA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 17079,
+    "margin": "-130476"
+  },
+  {
+    "constituency": "DEMOW - 95",
+    "candidate_name": "SUSANTA BORGOHAIN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 89681,
+    "margin": "33528"
+  },
+  {
+    "constituency": "DEMOW - 95",
+    "candidate_name": "AJOY KUMAR GOGOI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 56153,
+    "margin": "-33528"
+  },
+  {
+    "constituency": "DEMOW - 95",
+    "candidate_name": "AJOY BORA",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 2575,
+    "margin": "-87106"
+  },
+  {
+    "constituency": "DERGAON - 104",
+    "candidate_name": "MRIDUL KUMAR DUTTA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 90049,
+    "margin": "36953"
+  },
+  {
+    "constituency": "DERGAON - 104",
+    "candidate_name": "SAGORIKA BORA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 53096,
+    "margin": "-36953"
+  },
+  {
+    "constituency": "DERGAON - 104",
+    "candidate_name": "PULIN GOGOI",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 2902,
+    "margin": "-87147"
+  },
+  {
+    "constituency": "DHAKUAKHANA  - 77",
+    "candidate_name": "SHRI NABA KUMAR DOLEY",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 92123,
+    "margin": "50072"
+  },
+  {
+    "constituency": "DHAKUAKHANA  - 77",
+    "candidate_name": "ANANDA NARAH",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 42051,
+    "margin": "-50072"
+  },
+  {
+    "constituency": "DHAKUAKHANA  - 77",
+    "candidate_name": "JUTIKA DOLEY",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1179,
+    "margin": "-90944"
+  },
+  {
+    "constituency": "DHEKIAJULI - 65",
+    "candidate_name": "ASHOK SINGHAL",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 111880,
+    "margin": "48169"
+  },
+  {
+    "constituency": "DHEKIAJULI - 65",
+    "candidate_name": "BATASH ORANG",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 63711,
+    "margin": "-48169"
+  },
+  {
+    "constituency": "DHEKIAJULI - 65",
+    "candidate_name": "ANSUMA BASUMATARY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 4983,
+    "margin": "-106897"
+  },
+  {
+    "constituency": "DHEKIAJULI - 65",
+    "candidate_name": "RANJOY BASUMATARY",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1957,
+    "margin": "-109923"
+  },
+  {
+    "constituency": "DHEKIAJULI - 65",
+    "candidate_name": "TARCIUS TOPNO",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1178,
+    "margin": "-110702"
+  },
+  {
+    "constituency": "DHEKIAJULI - 65",
+    "candidate_name": "LADILAS INDWAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1079,
+    "margin": "-110801"
+  },
+  {
+    "constituency": "DHEKIAJULI - 65",
+    "candidate_name": "SAMSUL HAQUE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 553,
+    "margin": "-111327"
+  },
+  {
+    "constituency": "DHEMAJI  - 78",
+    "candidate_name": "DR. RANOJ PEGU",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 83649,
+    "margin": "32229"
+  },
+  {
+    "constituency": "DHEMAJI  - 78",
+    "candidate_name": "SRI SAILEN SONOWAL",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 51420,
+    "margin": "-32229"
+  },
+  {
+    "constituency": "DHEMAJI  - 78",
+    "candidate_name": "SRI NARENDRA KUMAR PAW",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 3550,
+    "margin": "-80099"
+  },
+  {
+    "constituency": "DHEMAJI  - 78",
+    "candidate_name": "SRI BABUL SONOWAL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1675,
+    "margin": "-81974"
+  },
+  {
+    "constituency": "DHEMAJI  - 78",
+    "candidate_name": "SRI LALIT PEGU",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1091,
+    "margin": "-82558"
+  },
+  {
+    "constituency": "DHEMAJI  - 78",
+    "candidate_name": "SMTI. LILIMAI DOLEY",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 394,
+    "margin": "-83255"
+  },
+  {
+    "constituency": "DHING - 55",
+    "candidate_name": "MEHBOOB MUKTAR",
+    "party_name": "Raijor Dal",
+    "status": "Won",
+    "total_votes": 131182,
+    "margin": "71494"
+  },
+  {
+    "constituency": "DHING - 55",
+    "candidate_name": "MATIUR RAHMAN",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 59688,
+    "margin": "-71494"
+  },
+  {
+    "constituency": "DHING - 55",
+    "candidate_name": "MUKUT KUMAR DEBNATH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 19572,
+    "margin": "-111610"
+  },
+  {
+    "constituency": "DHING - 55",
+    "candidate_name": "HIRAK JYOTI BORA",
+    "party_name": "Republican Party of India (Athawale)",
+    "status": "Lost",
+    "total_votes": 3185,
+    "margin": "-127997"
+  },
+  {
+    "constituency": "DHING - 55",
+    "candidate_name": "ZAKIR ISLAM",
+    "party_name": "Revolutionary Communist Party of India (Rasik Bhatt)",
+    "status": "Lost",
+    "total_votes": 3088,
+    "margin": "-128094"
+  },
+  {
+    "constituency": "DHING - 55",
+    "candidate_name": "CHITA RANJAN NATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1711,
+    "margin": "-129471"
+  },
+  {
+    "constituency": "DHOLAI  - 120",
+    "candidate_name": "AMIYA KANTI DAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 100634,
+    "margin": "44462"
+  },
+  {
+    "constituency": "DHOLAI  - 120",
+    "candidate_name": "DHRUBAJYOTI PURKAYASTHA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 56172,
+    "margin": "-44462"
+  },
+  {
+    "constituency": "DHOLAI  - 120",
+    "candidate_name": "GOUR CHANDRA DAS",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1020,
+    "margin": "-99614"
+  },
+  {
+    "constituency": "DHOLAI  - 120",
+    "candidate_name": "PARIMAL DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 615,
+    "margin": "-100019"
+  },
+  {
+    "constituency": "DHUBRI - 8",
+    "candidate_name": "BABY BEGUM",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 118362,
+    "margin": "68661"
+  },
+  {
+    "constituency": "DHUBRI - 8",
+    "candidate_name": "NAZRUL HOQUE",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 49701,
+    "margin": "-68661"
+  },
+  {
+    "constituency": "DHUBRI - 8",
+    "candidate_name": "UTTAM PRASAD",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 49654,
+    "margin": "-68708"
+  },
+  {
+    "constituency": "DHUBRI - 8",
+    "candidate_name": "OMAR ALI SK.",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 970,
+    "margin": "-117392"
+  },
+  {
+    "constituency": "DHUBRI - 8",
+    "candidate_name": "SHAHANA AKTAR",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 577,
+    "margin": "-117785"
+  },
+  {
+    "constituency": "DIBRUGARH - 88",
+    "candidate_name": "PRASANTA PHUKAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 106803,
+    "margin": "72043"
+  },
+  {
+    "constituency": "DIBRUGARH - 88",
+    "candidate_name": "MAINAK PATRA",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 34760,
+    "margin": "-72043"
+  },
+  {
+    "constituency": "DIBRUGARH - 88",
+    "candidate_name": "KAMAL HAZARIKA",
+    "party_name": "Vikas India Party",
+    "status": "Lost",
+    "total_votes": 11699,
+    "margin": "-95104"
+  },
+  {
+    "constituency": "DIGBOI - 84",
+    "candidate_name": "SUREN PHUKAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 65690,
+    "margin": "41073"
+  },
+  {
+    "constituency": "DIGBOI - 84",
+    "candidate_name": "DULAL MORAN",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 24617,
+    "margin": "-41073"
+  },
+  {
+    "constituency": "DIGBOI - 84",
+    "candidate_name": "BHARAT NAYAK",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 19638,
+    "margin": "-46052"
+  },
+  {
+    "constituency": "DIGBOI - 84",
+    "candidate_name": "JITEN NAG",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2441,
+    "margin": "-63249"
+  },
+  {
+    "constituency": "DIGBOI - 84",
+    "candidate_name": "LAKHESWAR MORAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1666,
+    "margin": "-64024"
+  },
+  {
+    "constituency": "DIMORIA  - 34",
+    "candidate_name": "DR. TAPAN DAS",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 116058,
+    "margin": "65385"
+  },
+  {
+    "constituency": "DIMORIA  - 34",
+    "candidate_name": "SHRI KISHOR KUMAR BARUAH",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 50673,
+    "margin": "-65385"
+  },
+  {
+    "constituency": "DIMORIA  - 34",
+    "candidate_name": "KABERI DAS TERAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 5853,
+    "margin": "-110205"
+  },
+  {
+    "constituency": "DIMORIA  - 34",
+    "candidate_name": "NITUL DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1865,
+    "margin": "-114193"
+  },
+  {
+    "constituency": "DIMORIA  - 34",
+    "candidate_name": "BHASKAR JYOTI PATHAK",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1593,
+    "margin": "-114465"
+  },
+  {
+    "constituency": "DIPHU  - 110",
+    "candidate_name": "NISO TERANGPI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 90866,
+    "margin": "49740"
+  },
+  {
+    "constituency": "DIPHU  - 110",
+    "candidate_name": "J. I KATHAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 41126,
+    "margin": "-49740"
+  },
+  {
+    "constituency": "DIPHU  - 110",
+    "candidate_name": "RAJEN TIMUNG S/O LT. KANGBURA TIMUNG",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 4072,
+    "margin": "-86794"
+  },
+  {
+    "constituency": "DIPHU  - 110",
+    "candidate_name": "BIRESH DIFOESA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 3187,
+    "margin": "-87679"
+  },
+  {
+    "constituency": "DIPHU  - 110",
+    "candidate_name": "RABINDRA RONGPI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1152,
+    "margin": "-89714"
+  },
+  {
+    "constituency": "DIPHU  - 110",
+    "candidate_name": "RAJEN TIMUNG S/O LT. SARTHE TIMUNG",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1026,
+    "margin": "-89840"
+  },
+  {
+    "constituency": "DISPUR - 33",
+    "candidate_name": "PRADYUT BORDOLOI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 103337,
+    "margin": "49667"
+  },
+  {
+    "constituency": "DISPUR - 33",
+    "candidate_name": "MIRA BORTHAKUR GOSWAMI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 53670,
+    "margin": "-49667"
+  },
+  {
+    "constituency": "DISPUR - 33",
+    "candidate_name": "JAYANTA KUMAR DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 22802,
+    "margin": "-80535"
+  },
+  {
+    "constituency": "DISPUR - 33",
+    "candidate_name": "BALLAV PATRA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1323,
+    "margin": "-102014"
+  },
+  {
+    "constituency": "DISPUR - 33",
+    "candidate_name": "AYUSH KUMAR SINGH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 817,
+    "margin": "-102520"
+  },
+  {
+    "constituency": "DOOMDOOMA - 82",
+    "candidate_name": "RUPESH GOWALA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 86009,
+    "margin": "55382"
+  },
+  {
+    "constituency": "DOOMDOOMA - 82",
+    "candidate_name": "DURGA BHUMIJ",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 30627,
+    "margin": "-55382"
+  },
+  {
+    "constituency": "DOTMA  - 2",
+    "candidate_name": "RABIRAM NARZARY",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 48775,
+    "margin": "24283"
+  },
+  {
+    "constituency": "DOTMA  - 2",
+    "candidate_name": "RAJU KUMAR NARZARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 24492,
+    "margin": "-24283"
+  },
+  {
+    "constituency": "DOTMA  - 2",
+    "candidate_name": "BIRKHANG BORO",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 15410,
+    "margin": "-33365"
+  },
+  {
+    "constituency": "DOTMA  - 2",
+    "candidate_name": "FUNGKHA BRAHMA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 3740,
+    "margin": "-45035"
+  },
+  {
+    "constituency": "DOTMA  - 2",
+    "candidate_name": "RANANJAY NARZARY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 719,
+    "margin": "-48056"
+  },
+  {
+    "constituency": "DUDHNAI - 15",
+    "candidate_name": "TANKESWAR RABHA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 100353,
+    "margin": "47637"
+  },
+  {
+    "constituency": "DUDHNAI - 15",
+    "candidate_name": "KISHORE KUMAR BRAHMA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 52716,
+    "margin": "-47637"
+  },
+  {
+    "constituency": "DUDHNAI - 15",
+    "candidate_name": "MANORANJAN BASUMATARI",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1757,
+    "margin": "-98596"
+  },
+  {
+    "constituency": "DUDHNAI - 15",
+    "candidate_name": "ROHIT KACHARI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 781,
+    "margin": "-99572"
+  },
+  {
+    "constituency": "DUDHNAI - 15",
+    "candidate_name": "RANDEEPSING MARAK",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 650,
+    "margin": "-99703"
+  },
+  {
+    "constituency": "DULIAJAN - 90",
+    "candidate_name": "RAMESWAR TELI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 71467,
+    "margin": "10459"
+  },
+  {
+    "constituency": "DULIAJAN - 90",
+    "candidate_name": "DHRUBA GOGOI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 61008,
+    "margin": "-10459"
+  },
+  {
+    "constituency": "DULIAJAN - 90",
+    "candidate_name": "PETER MINJ",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 8389,
+    "margin": "-63078"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "ABDUS SOBAHAN ALI SARKAR",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 182971,
+    "margin": "119097"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "NIZANUR RAHMAN",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 63874,
+    "margin": "-119097"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "MEHETABUL HAQUE",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 33142,
+    "margin": "-149829"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "ABUL MIAH",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 12467,
+    "margin": "-170504"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "SHEIKH MONSHUR RAHMAN",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 2352,
+    "margin": "-180619"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "AFZAL HOSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1222,
+    "margin": "-181749"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "JABBAR ALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 601,
+    "margin": "-182370"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "SAIDUR RAHMAN SARKAR",
+    "party_name": "Republican Party of India (Athawale)",
+    "status": "Lost",
+    "total_votes": 447,
+    "margin": "-182524"
+  },
+  {
+    "constituency": "GAURIPUR - 7",
+    "candidate_name": "FIRUZUL ISLAM",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 432,
+    "margin": "-182539"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "ABUL KALAM RASHEED ALAM",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 102205,
+    "margin": "51261"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "ABDUR RAHIM ZIBRAN",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 50944,
+    "margin": "-51261"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "ABDUR RASHID MANDAL",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 37520,
+    "margin": "-64685"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "ABUL KALAM HUSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 10196,
+    "margin": "-92009"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "HAFIZ BASHIR AHMED",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 7838,
+    "margin": "-94367"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "INDIRA MEDHI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2142,
+    "margin": "-100063"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "DHANJEEP PRASAD RABHA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1000,
+    "margin": "-101205"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "AYUB ALI MOLLAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 956,
+    "margin": "-101249"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "JINNA AMIR HUSSAIN",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 735,
+    "margin": "-101470"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "RANJAN SARKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 665,
+    "margin": "-101540"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "JAMIL HUSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 657,
+    "margin": "-101548"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "ANIMUL HOQUE CHOUDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 385,
+    "margin": "-101820"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "SHEIKH MD JIAUL HAQUE",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 380,
+    "margin": "-101825"
+  },
+  {
+    "constituency": "GOALPARA EAST - 14",
+    "candidate_name": "MOHIBUL ISLAM",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 310,
+    "margin": "-101895"
+  },
+  {
+    "constituency": "GOALPARA WEST - 13",
+    "candidate_name": "PABITRA RABHA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 92216,
+    "margin": "39917"
+  },
+  {
+    "constituency": "GOALPARA WEST - 13",
+    "candidate_name": "MARKLINE MARAK",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 52299,
+    "margin": "-39917"
+  },
+  {
+    "constituency": "GOALPARA WEST - 13",
+    "candidate_name": "DHANJEEP PRASAD RABHA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 961,
+    "margin": "-91255"
+  },
+  {
+    "constituency": "GOALPARA WEST - 13",
+    "candidate_name": "SURESH CHANDRA RABHA",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 598,
+    "margin": "-91618"
+  },
+  {
+    "constituency": "GOALPARA WEST - 13",
+    "candidate_name": "MRITUNJAY RABHA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 543,
+    "margin": "-91673"
+  },
+  {
+    "constituency": "GOHPUR - 72",
+    "candidate_name": "UTPAL BORAH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 96582,
+    "margin": "52722"
+  },
+  {
+    "constituency": "GOHPUR - 72",
+    "candidate_name": "SANKAR JYOTI KUTUM",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 43860,
+    "margin": "-52722"
+  },
+  {
+    "constituency": "GOHPUR - 72",
+    "candidate_name": "NITYANANDA BASUMATARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 3204,
+    "margin": "-93378"
+  },
+  {
+    "constituency": "GOHPUR - 72",
+    "candidate_name": "HEMANTA BIJOY MAHANTA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1435,
+    "margin": "-95147"
+  },
+  {
+    "constituency": "GOLAGHAT - 103",
+    "candidate_name": "AJANTA NEOG",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 102212,
+    "margin": "43759"
+  },
+  {
+    "constituency": "GOLAGHAT - 103",
+    "candidate_name": "Bitupan Saikia",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 58453,
+    "margin": "-43759"
+  },
+  {
+    "constituency": "GOLAGHAT - 103",
+    "candidate_name": "RUBUL BORAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2277,
+    "margin": "-99935"
+  },
+  {
+    "constituency": "GOLAKGANJ - 6",
+    "candidate_name": "ASHWINI RAY SARKAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 110533,
+    "margin": "30782"
+  },
+  {
+    "constituency": "GOLAKGANJ - 6",
+    "candidate_name": "KARTIK CHANDRA RAY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 79751,
+    "margin": "-30782"
+  },
+  {
+    "constituency": "GOLAKGANJ - 6",
+    "candidate_name": "JAMSHER TALUKDAR",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 2485,
+    "margin": "-108048"
+  },
+  {
+    "constituency": "GOLAKGANJ - 6",
+    "candidate_name": "JAKIR HUSSAIN",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 423,
+    "margin": "-110110"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "VICTOR KUMAR DAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 98108,
+    "margin": "69249"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "PABITRA KUMAR BARO",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 28859,
+    "margin": "-69249"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "BAPURAM BORO",
+    "party_name": "Communist Party of India (Marxist)",
+    "status": "Lost",
+    "total_votes": 28273,
+    "margin": "-69835"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "YASWANTA CHAUHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2557,
+    "margin": "-95551"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "RAJAN CHAUHAN",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2278,
+    "margin": "-95830"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "RAJAT CH. SWARGIARY",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1356,
+    "margin": "-96752"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "KABIN BARO",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1318,
+    "margin": "-96790"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "RABINDRA BISWAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1220,
+    "margin": "-96888"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "SUJAN PAUL",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1146,
+    "margin": "-96962"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "MD. JAMIRUDDIN AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 832,
+    "margin": "-97276"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "MRINAL BISWAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 754,
+    "margin": "-97354"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "SURUJ ALI",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 675,
+    "margin": "-97433"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "PRANJIT KUMAR BISWAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 600,
+    "margin": "-97508"
+  },
+  {
+    "constituency": "GORESWAR - 44",
+    "candidate_name": "ARUN BAISHYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 500,
+    "margin": "-97608"
+  },
+  {
+    "constituency": "GOSSAIGAON - 1",
+    "candidate_name": "SABHARAM BASUMATARY",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 44394,
+    "margin": "22977"
+  },
+  {
+    "constituency": "GOSSAIGAON - 1",
+    "candidate_name": "PHEDRICSON HANSDAK",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 21417,
+    "margin": "-22977"
+  },
+  {
+    "constituency": "GOSSAIGAON - 1",
+    "candidate_name": "ANINDA BASUMATARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 17431,
+    "margin": "-26963"
+  },
+  {
+    "constituency": "GOSSAIGAON - 1",
+    "candidate_name": "JOSEPH HASDA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 15128,
+    "margin": "-29266"
+  },
+  {
+    "constituency": "GOSSAIGAON - 1",
+    "candidate_name": "HELEN MURMU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 600,
+    "margin": "-43794"
+  },
+  {
+    "constituency": "GUWAHATI CENTRAL - 36",
+    "candidate_name": "VIJAY KUMAR GUPTA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 101297,
+    "margin": "61921"
+  },
+  {
+    "constituency": "GUWAHATI CENTRAL - 36",
+    "candidate_name": "KUNKI CHOWDHURY",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 39376,
+    "margin": "-61921"
+  },
+  {
+    "constituency": "GUWAHATI CENTRAL - 36",
+    "candidate_name": "ANURUPA DEKARAJA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1939,
+    "margin": "-99358"
+  },
+  {
+    "constituency": "GUWAHATI CENTRAL - 36",
+    "candidate_name": "AVIJIT MAZUMDAR",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 1061,
+    "margin": "-100236"
+  },
+  {
+    "constituency": "GUWAHATI CENTRAL - 36",
+    "candidate_name": "ACHYUT KALITA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 535,
+    "margin": "-100762"
+  },
+  {
+    "constituency": "GUWAHATI CENTRAL - 36",
+    "candidate_name": "PRABIN JYOTI KALITA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 509,
+    "margin": "-100788"
+  },
+  {
+    "constituency": "GUWAHATI CENTRAL - 36",
+    "candidate_name": "BIPUL DEBNATH",
+    "party_name": "All India Forward Bloc",
+    "status": "Lost",
+    "total_votes": 479,
+    "margin": "-100818"
+  },
+  {
+    "constituency": "HAFLONG  - 113",
+    "candidate_name": "RUPALI LANGTHASA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 78674,
+    "margin": "50306"
+  },
+  {
+    "constituency": "HAFLONG  - 113",
+    "candidate_name": "DANIEL LANGTHASA",
+    "party_name": "National People's Party",
+    "status": "Lost",
+    "total_votes": 28368,
+    "margin": "-50306"
+  },
+  {
+    "constituency": "HAFLONG  - 113",
+    "candidate_name": "NANDITA GORLOSA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 24084,
+    "margin": "-54590"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "MILON DAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 119591,
+    "margin": "55817"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "RAHUL ROY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 63774,
+    "margin": "-55817"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "SUBASH GOON",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 699,
+    "margin": "-118892"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "MAYUKH BHATTACHARJEE",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 631,
+    "margin": "-118960"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "BISHAL SINGHA MALAKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 400,
+    "margin": "-119191"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "TINKU BHUSHAN NATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 263,
+    "margin": "-119328"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "BINOD REE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 244,
+    "margin": "-119347"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "DHRUBO CHAKRABORTY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 212,
+    "margin": "-119379"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "JIBON ROY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 161,
+    "margin": "-119430"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "GAUTAM NATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 156,
+    "margin": "-119435"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "AJIT NUNIA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 145,
+    "margin": "-119446"
+  },
+  {
+    "constituency": "HAILAKANDI - 121",
+    "candidate_name": "GAUTAM KANTI DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 140,
+    "margin": "-119451"
+  },
+  {
+    "constituency": "HAJO-SUALKUCHI - 30",
+    "candidate_name": "PRAKASH CHANDRA DAS",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 81699,
+    "margin": "724"
+  },
+  {
+    "constituency": "HAJO-SUALKUCHI - 30",
+    "candidate_name": "NANDITA DAS",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 80975,
+    "margin": "-724"
+  },
+  {
+    "constituency": "HAJO-SUALKUCHI - 30",
+    "candidate_name": "ROJY AHMED",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2768,
+    "margin": "-78931"
+  },
+  {
+    "constituency": "HAJO-SUALKUCHI - 30",
+    "candidate_name": "RAJU PATOWARY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2025,
+    "margin": "-79674"
+  },
+  {
+    "constituency": "HAJO-SUALKUCHI - 30",
+    "candidate_name": "SIDDHARTHA DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 929,
+    "margin": "-80770"
+  },
+  {
+    "constituency": "HOJAI - 63",
+    "candidate_name": "SHILADITYA DEV",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 144361,
+    "margin": "66701"
+  },
+  {
+    "constituency": "HOJAI - 63",
+    "candidate_name": "JHILLI CHOWDHURY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 77660,
+    "margin": "-66701"
+  },
+  {
+    "constituency": "HOWRAGHAT  - 109",
+    "candidate_name": "LUNSING TERON",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 106229,
+    "margin": "78106"
+  },
+  {
+    "constituency": "HOWRAGHAT  - 109",
+    "candidate_name": "SANJEEB TERON",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 28123,
+    "margin": "-78106"
+  },
+  {
+    "constituency": "HOWRAGHAT  - 109",
+    "candidate_name": "SARKIRI RONGPHAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 14659,
+    "margin": "-91570"
+  },
+  {
+    "constituency": "HOWRAGHAT  - 109",
+    "candidate_name": "RAJEN TIMUNG",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1943,
+    "margin": "-104286"
+  },
+  {
+    "constituency": "HOWRAGHAT  - 109",
+    "candidate_name": "RABI KUMAR PHANGCHO",
+    "party_name": "Communist Party of India (Marxist-Leninist) (Liberation)",
+    "status": "Lost",
+    "total_votes": 1414,
+    "margin": "-104815"
+  },
+  {
+    "constituency": "HOWRAGHAT  - 109",
+    "candidate_name": "RABINDRA RONGPI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1000,
+    "margin": "-105229"
+  },
+  {
+    "constituency": "JAGIROAD  - 52",
+    "candidate_name": "PIJUSH HAZARIKA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 155129,
+    "margin": "93584"
+  },
+  {
+    "constituency": "JAGIROAD  - 52",
+    "candidate_name": "SRI BUBUL DAS",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 61545,
+    "margin": "-93584"
+  },
+  {
+    "constituency": "JALESHWAR - 12",
+    "candidate_name": "AFTAB UDDIN MOLLAH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 162174,
+    "margin": "109688"
+  },
+  {
+    "constituency": "JALESHWAR - 12",
+    "candidate_name": "SHEIKH SHAH ALAM",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 52486,
+    "margin": "-109688"
+  },
+  {
+    "constituency": "JALESHWAR - 12",
+    "candidate_name": "ABU SHA SHADI HOSSAIN",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 12954,
+    "margin": "-149220"
+  },
+  {
+    "constituency": "JALESHWAR - 12",
+    "candidate_name": "SAHAB UDDIN AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1839,
+    "margin": "-160335"
+  },
+  {
+    "constituency": "JALESHWAR - 12",
+    "candidate_name": "ARIF AKHTAR AHMED",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 1776,
+    "margin": "-160398"
+  },
+  {
+    "constituency": "JALESHWAR - 12",
+    "candidate_name": "SAIFUL ISLAM",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1296,
+    "margin": "-160878"
+  },
+  {
+    "constituency": "JALESHWAR - 12",
+    "candidate_name": "DELOWAR HUSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 568,
+    "margin": "-161606"
+  },
+  {
+    "constituency": "JALUKBARI - 37",
+    "candidate_name": "HIMANTA BISWA SARMA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 127151,
+    "margin": "89434"
+  },
+  {
+    "constituency": "JALUKBARI - 37",
+    "candidate_name": "BIDISHA NEOG",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 37717,
+    "margin": "-89434"
+  },
+  {
+    "constituency": "JALUKBARI - 37",
+    "candidate_name": "DIPIKA DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2546,
+    "margin": "-124605"
+  },
+  {
+    "constituency": "JONAI  - 80",
+    "candidate_name": "BHUBON PEGU",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 128940,
+    "margin": "80124"
+  },
+  {
+    "constituency": "JONAI  - 80",
+    "candidate_name": "RAJU KUMAR MEDOK",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 48816,
+    "margin": "-80124"
+  },
+  {
+    "constituency": "JORHAT - 100",
+    "candidate_name": "HITENDRA NATH GOSWAMI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 69439,
+    "margin": "23182"
+  },
+  {
+    "constituency": "JORHAT - 100",
+    "candidate_name": "GAURAV GOGOI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 46257,
+    "margin": "-23182"
+  },
+  {
+    "constituency": "JORHAT - 100",
+    "candidate_name": "PRANAB PRIYANKUSH DUTTA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 701,
+    "margin": "-68738"
+  },
+  {
+    "constituency": "JORHAT - 100",
+    "candidate_name": "HEMANTA KUMAR PEGU",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 581,
+    "margin": "-68858"
+  },
+  {
+    "constituency": "KALIABOR - 57",
+    "candidate_name": "KESHAB MAHANTA",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 74029,
+    "margin": "17890"
+  },
+  {
+    "constituency": "KALIABOR - 57",
+    "candidate_name": "JITEN GOUR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 56139,
+    "margin": "-17890"
+  },
+  {
+    "constituency": "KALIABOR - 57",
+    "candidate_name": "PRADIP KUMAR BARUAH",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 30375,
+    "margin": "-43654"
+  },
+  {
+    "constituency": "KALIABOR - 57",
+    "candidate_name": "JYOTISKA RANJAN GOSWAMI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1562,
+    "margin": "-72467"
+  },
+  {
+    "constituency": "KAMALPUR - 32",
+    "candidate_name": "DIGANTA KALITA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 74455,
+    "margin": "19449"
+  },
+  {
+    "constituency": "KAMALPUR - 32",
+    "candidate_name": "SATYABRAT KALITA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 55006,
+    "margin": "-19449"
+  },
+  {
+    "constituency": "KAMALPUR - 32",
+    "candidate_name": "ANKUR DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 31940,
+    "margin": "-42515"
+  },
+  {
+    "constituency": "KAMALPUR - 32",
+    "candidate_name": "SISIR KUMAR KAKATI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 721,
+    "margin": "-73734"
+  },
+  {
+    "constituency": "KAMALPUR - 32",
+    "candidate_name": "NABA KUMAR NATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 682,
+    "margin": "-73773"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "JAKARIA AHMED",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 122356,
+    "margin": "26003"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "SUBRATA BHATTACHARJEE",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 96353,
+    "margin": "-26003"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "CHOUDHURY HIBBUR RASUL USAMA MABRUR",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 2038,
+    "margin": "-120318"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "SAMRAJ BANIK",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 856,
+    "margin": "-121500"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "SAYED SAHAB UDDIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 773,
+    "margin": "-121583"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "ARUNANGSHU BHATTACHARJEE",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 582,
+    "margin": "-121774"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "PARIMAL RANJAN ROY",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 486,
+    "margin": "-121870"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "SAMADUL HOQUE CHOUDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 279,
+    "margin": "-122077"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "BINAY KRISHNA ROY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 196,
+    "margin": "-122160"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "AHAD UDDIN",
+    "party_name": "Apni Janta Party",
+    "status": "Lost",
+    "total_votes": 167,
+    "margin": "-122189"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "MOKBUL ALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 142,
+    "margin": "-122214"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "FAKRUL ISLAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 132,
+    "margin": "-122224"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "ABUL KHAIR ZAKARIA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 131,
+    "margin": "-122225"
+  },
+  {
+    "constituency": "KARIMGANJ NORTH - 123",
+    "candidate_name": "ABDUL MUKTADIR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 104,
+    "margin": "-122252"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "AMINUR RASHID CHOUDHURY",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 137257,
+    "margin": "86632"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "EKBAL HUSSAIN",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 50625,
+    "margin": "-86632"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "AZIZ AHMED KHAN",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 40016,
+    "margin": "-97241"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "SHIHAB UDDIN",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 2543,
+    "margin": "-134714"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "MD RIZWAN AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1396,
+    "margin": "-135861"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "BIPLAB DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 737,
+    "margin": "-136520"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "RUHAN DUTTA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 723,
+    "margin": "-136534"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "BAHARUL ISLAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 606,
+    "margin": "-136651"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "PRANAB KUMAR NATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 456,
+    "margin": "-136801"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "RUPOSRI GOSWAMI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 435,
+    "margin": "-136822"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "ABU NOSOR MD ILIAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 279,
+    "margin": "-136978"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "ABDUR RAHIM CHOUDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 273,
+    "margin": "-136984"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "MOHAMMED ALTAF HUSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 228,
+    "margin": "-137029"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "FOYAZ AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 220,
+    "margin": "-137037"
+  },
+  {
+    "constituency": "KARIMGANJ SOUTH - 124",
+    "candidate_name": "ASAD UDDIN AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 118,
+    "margin": "-137139"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "KAMALAKHYA DEY PURKAYASTHA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 110758,
+    "margin": "37680"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "AMAR CHAND JAIN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 73078,
+    "margin": "-37680"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "MD. FAZLUR RAHMAN LASKAR",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 1989,
+    "margin": "-108769"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "SANJU MUNDA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 903,
+    "margin": "-109855"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "SANDIP DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 844,
+    "margin": "-109914"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "SHIB NARAYAN SINGH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 302,
+    "margin": "-110456"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "RAJU DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 264,
+    "margin": "-110494"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "NASIR UDDIN BARBHUIYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 178,
+    "margin": "-110580"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "NURUL ALOM BARBHUIYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 178,
+    "margin": "-110580"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "HILLOL BHATTACHARJEE",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 161,
+    "margin": "-110597"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "SALEH AHMED MAZUMDER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 119,
+    "margin": "-110639"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "KAUSHIK DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 101,
+    "margin": "-110657"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "ABDUL ODUD CHOUDHURY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 99,
+    "margin": "-110659"
+  },
+  {
+    "constituency": "KATIGORAH - 116",
+    "candidate_name": "IBAJUL HOQUE LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 89,
+    "margin": "-110669"
+  },
+  {
+    "constituency": "KHOWANG - 89",
+    "candidate_name": "CHAKRADHAR GOGOI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 67038,
+    "margin": "9984"
+  },
+  {
+    "constituency": "KHOWANG - 89",
+    "candidate_name": "LURINJYOTI GOGOI",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 57054,
+    "margin": "-9984"
+  },
+  {
+    "constituency": "KHOWANG - 89",
+    "candidate_name": "BIJU DOWARAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 4361,
+    "margin": "-62677"
+  },
+  {
+    "constituency": "KHOWANG - 89",
+    "candidate_name": "DR. PRABHAKAR DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1761,
+    "margin": "-65277"
+  },
+  {
+    "constituency": "KHUMTAI - 106",
+    "candidate_name": "MRINAL SAIKIA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 91127,
+    "margin": "58412"
+  },
+  {
+    "constituency": "KHUMTAI - 106",
+    "candidate_name": "ROSELINA TIRKEY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 32715,
+    "margin": "-58412"
+  },
+  {
+    "constituency": "KHUMTAI - 106",
+    "candidate_name": "AMIT NAG",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 17090,
+    "margin": "-74037"
+  },
+  {
+    "constituency": "KHUMTAI - 106",
+    "candidate_name": "ASHIS HAZARIKA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1833,
+    "margin": "-89294"
+  },
+  {
+    "constituency": "KHUMTAI - 106",
+    "candidate_name": "BHOBESWAR DUSAD",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1065,
+    "margin": "-90062"
+  },
+  {
+    "constituency": "KOKRAJHAR - 3",
+    "candidate_name": "SEWLI MOHILARY",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 74816,
+    "margin": "39633"
+  },
+  {
+    "constituency": "KOKRAJHAR - 3",
+    "candidate_name": "LAWRENCE ISLARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 35183,
+    "margin": "-39633"
+  },
+  {
+    "constituency": "KOKRAJHAR - 3",
+    "candidate_name": "MANIK CHANDRA BRAHMA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 7011,
+    "margin": "-67805"
+  },
+  {
+    "constituency": "KOKRAJHAR - 3",
+    "candidate_name": "TONON DAIMARY",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1446,
+    "margin": "-73370"
+  },
+  {
+    "constituency": "KOKRAJHAR - 3",
+    "candidate_name": "RANJOY KR. BRAHMA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1437,
+    "margin": "-73379"
+  },
+  {
+    "constituency": "KOKRAJHAR - 3",
+    "candidate_name": "LOBO NARZARY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1211,
+    "margin": "-73605"
+  },
+  {
+    "constituency": "LAHARIGHAT - 53",
+    "candidate_name": "DR ASIF MOHAMMAD NAZAR",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 169212,
+    "margin": "66295"
+  },
+  {
+    "constituency": "LAHARIGHAT - 53",
+    "candidate_name": "SIDDIQUE AHMED",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 102917,
+    "margin": "-66295"
+  },
+  {
+    "constituency": "LAHARIGHAT - 53",
+    "candidate_name": "MD KHALILUR RAHMAN",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 16342,
+    "margin": "-152870"
+  },
+  {
+    "constituency": "LAHARIGHAT - 53",
+    "candidate_name": "HARESHA KHANAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1699,
+    "margin": "-167513"
+  },
+  {
+    "constituency": "LAHARIGHAT - 53",
+    "candidate_name": "OMAR FARUQUE",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 1014,
+    "margin": "-168198"
+  },
+  {
+    "constituency": "LAKHIMPUR - 76",
+    "candidate_name": "MANAB DEKA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 85726,
+    "margin": "32220"
+  },
+  {
+    "constituency": "LAKHIMPUR - 76",
+    "candidate_name": "GHANA BURAGOHAIN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 53506,
+    "margin": "-32220"
+  },
+  {
+    "constituency": "LAKHIMPUR - 76",
+    "candidate_name": "HEMANTA BORUAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 809,
+    "margin": "-84917"
+  },
+  {
+    "constituency": "LAKHIMPUR - 76",
+    "candidate_name": "NURUL ALI",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 781,
+    "margin": "-84945"
+  },
+  {
+    "constituency": "LAKHIMPUR - 76",
+    "candidate_name": "BIRINCHI PEGU",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 530,
+    "margin": "-85196"
+  },
+  {
+    "constituency": "LAKHIPUR - 114",
+    "candidate_name": "KAUSHIK RAI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 125302,
+    "margin": "99401"
+  },
+  {
+    "constituency": "LAKHIPUR - 114",
+    "candidate_name": "M. SANTI KUMAR SINGHA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 25901,
+    "margin": "-99401"
+  },
+  {
+    "constituency": "LUMDING - 64",
+    "candidate_name": "SIBU MISRA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 115330,
+    "margin": "22114"
+  },
+  {
+    "constituency": "LUMDING - 64",
+    "candidate_name": "SWAPAN KAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 93216,
+    "margin": "-22114"
+  },
+  {
+    "constituency": "LUMDING - 64",
+    "candidate_name": "JASHADA DULAL RAKSHIT",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 5444,
+    "margin": "-109886"
+  },
+  {
+    "constituency": "LUMDING - 64",
+    "candidate_name": "UJJAL DEB",
+    "party_name": "Bharatiya Gana Parishad",
+    "status": "Lost",
+    "total_votes": 1740,
+    "margin": "-113590"
+  },
+  {
+    "constituency": "MAHMORA - 94",
+    "candidate_name": "SURUJ DEHINGIA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 69530,
+    "margin": "16021"
+  },
+  {
+    "constituency": "MAHMORA - 94",
+    "candidate_name": "JNYANDIP MOHAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 53509,
+    "margin": "-16021"
+  },
+  {
+    "constituency": "MAJULI  - 98",
+    "candidate_name": "BHUBAN GAM",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 78324,
+    "margin": "35300"
+  },
+  {
+    "constituency": "MAJULI  - 98",
+    "candidate_name": "DR. INDRANEEL PEGU",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 43024,
+    "margin": "-35300"
+  },
+  {
+    "constituency": "MAJULI  - 98",
+    "candidate_name": "BHAITY RICHONG",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1019,
+    "margin": "-77305"
+  },
+  {
+    "constituency": "MAKUM - 85",
+    "candidate_name": "SANJOY KISHAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 74694,
+    "margin": "28276"
+  },
+  {
+    "constituency": "MAKUM - 85",
+    "candidate_name": "SIBANATH CHETIA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 46418,
+    "margin": "-28276"
+  },
+  {
+    "constituency": "MAKUM - 85",
+    "candidate_name": "DILIP MORAN",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2186,
+    "margin": "-72508"
+  },
+  {
+    "constituency": "MAKUM - 85",
+    "candidate_name": "LAKHAY JOTI RAJKHOWA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1836,
+    "margin": "-72858"
+  },
+  {
+    "constituency": "MAKUM - 85",
+    "candidate_name": "PADMA KANTA CHUTIA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1440,
+    "margin": "-73254"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "THANESWAR BASUMATARY",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 90060,
+    "margin": "47410"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "ANJAN TALUKDAR",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 42650,
+    "margin": "-47410"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "JWNGSRANG BRAHMA",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 27674,
+    "margin": "-62386"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "MD. BILAL AHMED",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 7560,
+    "margin": "-82500"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "NIKUNJA DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1855,
+    "margin": "-88205"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "NABA KUMAR SARANIA",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 1591,
+    "margin": "-88469"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "LAKSHAN GOYARI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1461,
+    "margin": "-88599"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "KHANDAKAR ABDUL KADDUS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1186,
+    "margin": "-88874"
+  },
+  {
+    "constituency": "MANAS - 41",
+    "candidate_name": "PINTU GHOSH",
+    "party_name": "Bharatiya Gana Parishad",
+    "status": "Lost",
+    "total_votes": 690,
+    "margin": "-89370"
+  },
+  {
+    "constituency": "MANDIA - 22",
+    "candidate_name": "SHERMAN ALI AHMED",
+    "party_name": "All India Trinamool Congress",
+    "status": "Won",
+    "total_votes": 113480,
+    "margin": "27561"
+  },
+  {
+    "constituency": "MANDIA - 22",
+    "candidate_name": "ABDUL KHALEQUE",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 85919,
+    "margin": "-27561"
+  },
+  {
+    "constituency": "MANDIA - 22",
+    "candidate_name": "RAFIQUL ISLAM",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 49174,
+    "margin": "-64306"
+  },
+  {
+    "constituency": "MANDIA - 22",
+    "candidate_name": "BADAL CHANDRA ARJYA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 9801,
+    "margin": "-103679"
+  },
+  {
+    "constituency": "MANDIA - 22",
+    "candidate_name": "SALIM KHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1575,
+    "margin": "-111905"
+  },
+  {
+    "constituency": "MANDIA - 22",
+    "candidate_name": "FARUK KHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1418,
+    "margin": "-112062"
+  },
+  {
+    "constituency": "MANDIA - 22",
+    "candidate_name": "SANTANU MUKHERJEE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 864,
+    "margin": "-112616"
+  },
+  {
+    "constituency": "MANGALDAI - 50",
+    "candidate_name": "NILIMA DEVI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 100078,
+    "margin": "23936"
+  },
+  {
+    "constituency": "MANGALDAI - 50",
+    "candidate_name": "RIJUMONI TALUKDAR",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 76142,
+    "margin": "-23936"
+  },
+  {
+    "constituency": "MANGALDAI - 50",
+    "candidate_name": "AZIZUR RAHMAN",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 1961,
+    "margin": "-98117"
+  },
+  {
+    "constituency": "MANGALDAI - 50",
+    "candidate_name": "PRABIN KR. DEKA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 979,
+    "margin": "-99099"
+  },
+  {
+    "constituency": "MANGALDAI - 50",
+    "candidate_name": "HAREKRISHNA DEKA",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 907,
+    "margin": "-99171"
+  },
+  {
+    "constituency": "MANGALDAI - 50",
+    "candidate_name": "AJIT ACHARJYA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 796,
+    "margin": "-99282"
+  },
+  {
+    "constituency": "MANKACHAR - 11",
+    "candidate_name": "Mohibur Rohman (Bappy)",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 169036,
+    "margin": "53146"
+  },
+  {
+    "constituency": "MANKACHAR - 11",
+    "candidate_name": "ZABED ISLAM",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 115890,
+    "margin": "-53146"
+  },
+  {
+    "constituency": "MANKACHAR - 11",
+    "candidate_name": "ABDUL SALAM SHAH",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 9974,
+    "margin": "-159062"
+  },
+  {
+    "constituency": "MANKACHAR - 11",
+    "candidate_name": "SHAHIDUR ALAM",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1428,
+    "margin": "-167608"
+  },
+  {
+    "constituency": "MANKACHAR - 11",
+    "candidate_name": "MD. MURAD HUSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 797,
+    "margin": "-168239"
+  },
+  {
+    "constituency": "MANKACHAR - 11",
+    "candidate_name": "ZAMER ALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 621,
+    "margin": "-168415"
+  },
+  {
+    "constituency": "MARGHERITA - 83",
+    "candidate_name": "BHASKAR SHARMA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 86349,
+    "margin": "55317"
+  },
+  {
+    "constituency": "MARGHERITA - 83",
+    "candidate_name": "RAHUL CHETRY",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 31032,
+    "margin": "-55317"
+  },
+  {
+    "constituency": "MARGHERITA - 83",
+    "candidate_name": "GARNEL MINZE",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 19228,
+    "margin": "-67121"
+  },
+  {
+    "constituency": "MARIANI - 101",
+    "candidate_name": "RUPJYOTI KURMI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 79632,
+    "margin": "26840"
+  },
+  {
+    "constituency": "MARIANI - 101",
+    "candidate_name": "GYANASHREE BORA",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 52792,
+    "margin": "-26840"
+  },
+  {
+    "constituency": "MARIANI - 101",
+    "candidate_name": "BIJAY MANJANI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1188,
+    "margin": "-78444"
+  },
+  {
+    "constituency": "MARIANI - 101",
+    "candidate_name": "SIDDHARTHA BORA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1045,
+    "margin": "-78587"
+  },
+  {
+    "constituency": "MAZBAT - 47",
+    "candidate_name": "CHARAN BORO",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 84718,
+    "margin": "55546"
+  },
+  {
+    "constituency": "MAZBAT - 47",
+    "candidate_name": "PRITI REKHA BARLA",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 29172,
+    "margin": "-55546"
+  },
+  {
+    "constituency": "MAZBAT - 47",
+    "candidate_name": "NARAYAN ADHIKARI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 23558,
+    "margin": "-61160"
+  },
+  {
+    "constituency": "MAZBAT - 47",
+    "candidate_name": "RABINDRA BASUMATARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 16903,
+    "margin": "-67815"
+  },
+  {
+    "constituency": "MAZBAT - 47",
+    "candidate_name": "ASHOK GAYARI",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1533,
+    "margin": "-83185"
+  },
+  {
+    "constituency": "MORIGAON - 54",
+    "candidate_name": "RAMA KANTA DEWRI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 117942,
+    "margin": "65489"
+  },
+  {
+    "constituency": "MORIGAON - 54",
+    "candidate_name": "BANI KANTA DAS",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 52453,
+    "margin": "-65489"
+  },
+  {
+    "constituency": "MORIGAON - 54",
+    "candidate_name": "CHENIRAM KONWAR",
+    "party_name": "Republican Party of India (Athawale)",
+    "status": "Lost",
+    "total_votes": 2171,
+    "margin": "-115771"
+  },
+  {
+    "constituency": "MORIGAON - 54",
+    "candidate_name": "AMLESH MEDHI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1248,
+    "margin": "-116694"
+  },
+  {
+    "constituency": "MORIGAON - 54",
+    "candidate_name": "PRADIP BARUAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 773,
+    "margin": "-117169"
+  },
+  {
+    "constituency": "MORIGAON - 54",
+    "candidate_name": "NIKHIL DEKARAJA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 669,
+    "margin": "-117273"
+  },
+  {
+    "constituency": "NADUAR - 69",
+    "candidate_name": "PADMA HAZARIKA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 111125,
+    "margin": "52916"
+  },
+  {
+    "constituency": "NADUAR - 69",
+    "candidate_name": "SUNIL KUMAR CHHETRI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 58209,
+    "margin": "-52916"
+  },
+  {
+    "constituency": "NAGAON-BATADRABA - 60",
+    "candidate_name": "RUPAK SARMAH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 113958,
+    "margin": "61984"
+  },
+  {
+    "constituency": "NAGAON-BATADRABA - 60",
+    "candidate_name": "DURLAV CHAMUA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 51974,
+    "margin": "-61984"
+  },
+  {
+    "constituency": "NAGAON-BATADRABA - 60",
+    "candidate_name": "BARNALI SARMA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1073,
+    "margin": "-112885"
+  },
+  {
+    "constituency": "NAHARKATIA - 92",
+    "candidate_name": "TARANGA GOGOI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 87768,
+    "margin": "62282"
+  },
+  {
+    "constituency": "NAHARKATIA - 92",
+    "candidate_name": "PRANATEE PHUKAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 25486,
+    "margin": "-62282"
+  },
+  {
+    "constituency": "NAHARKATIA - 92",
+    "candidate_name": "SANJOY BAGH",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 7560,
+    "margin": "-80208"
+  },
+  {
+    "constituency": "NAHARKATIA - 92",
+    "candidate_name": "MOHENDRA DHADUMIA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 987,
+    "margin": "-86781"
+  },
+  {
+    "constituency": "NAHARKATIA - 92",
+    "candidate_name": "MICHAEL KUJUR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 691,
+    "margin": "-87077"
+  },
+  {
+    "constituency": "NALBARI - 39",
+    "candidate_name": "JAYANTA MALLABARUAH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 118611,
+    "margin": "60101"
+  },
+  {
+    "constituency": "NALBARI - 39",
+    "candidate_name": "ASHOK KUMAR SARMA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 58510,
+    "margin": "-60101"
+  },
+  {
+    "constituency": "NALBARI - 39",
+    "candidate_name": "KENEDI PEGU",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 995,
+    "margin": "-117616"
+  },
+  {
+    "constituency": "NALBARI - 39",
+    "candidate_name": "MUKTAR HUSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 954,
+    "margin": "-117657"
+  },
+  {
+    "constituency": "NALBARI - 39",
+    "candidate_name": "SAMSUL HAQUE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 472,
+    "margin": "-118139"
+  },
+  {
+    "constituency": "NALBARI - 39",
+    "candidate_name": "SAFAR ALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 354,
+    "margin": "-118257"
+  },
+  {
+    "constituency": "NAZIRA - 97",
+    "candidate_name": "MAYUR BORGOHAIN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 98198,
+    "margin": "46701"
+  },
+  {
+    "constituency": "NAZIRA - 97",
+    "candidate_name": "DEBABRATA SAIKIA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 51497,
+    "margin": "-46701"
+  },
+  {
+    "constituency": "NAZIRA - 97",
+    "candidate_name": "KANAK GOGOI",
+    "party_name": "Communist Party of India",
+    "status": "Lost",
+    "total_votes": 2691,
+    "margin": "-95507"
+  },
+  {
+    "constituency": "NAZIRA - 97",
+    "candidate_name": "PANKAJ MAHANTA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1028,
+    "margin": "-97170"
+  },
+  {
+    "constituency": "NAZIRA - 97",
+    "candidate_name": "DILWAR HUSSAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 543,
+    "margin": "-97655"
+  },
+  {
+    "constituency": "NAZIRA - 97",
+    "candidate_name": "JOYRAM CHARAIMURIA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 392,
+    "margin": "-97806"
+  },
+  {
+    "constituency": "NAZIRA - 97",
+    "candidate_name": "GUFRANUR ROHMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 371,
+    "margin": "-97827"
+  },
+  {
+    "constituency": "NAZIRA - 97",
+    "candidate_name": "DILIP SAHU",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 313,
+    "margin": "-97885"
+  },
+  {
+    "constituency": "NEW GUWAHATI - 35",
+    "candidate_name": "DIPLU RANJAN SARMAH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 89636,
+    "margin": "47668"
+  },
+  {
+    "constituency": "NEW GUWAHATI - 35",
+    "candidate_name": "SANTANU BORA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 41968,
+    "margin": "-47668"
+  },
+  {
+    "constituency": "NEW GUWAHATI - 35",
+    "candidate_name": "ADITYA GOGOI",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1791,
+    "margin": "-87845"
+  },
+  {
+    "constituency": "NEW GUWAHATI - 35",
+    "candidate_name": "KUSHAL KUMAR SARMAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1680,
+    "margin": "-87956"
+  },
+  {
+    "constituency": "NEW GUWAHATI - 35",
+    "candidate_name": "CHINMOYEE BHUYAN BARDOLOI",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 1115,
+    "margin": "-88521"
+  },
+  {
+    "constituency": "NOWBOICHA  - 75",
+    "candidate_name": "DR. JOY PRAKASH DAS",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 86981,
+    "margin": "23751"
+  },
+  {
+    "constituency": "NOWBOICHA  - 75",
+    "candidate_name": "BASANTA DAS",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 63230,
+    "margin": "-23751"
+  },
+  {
+    "constituency": "NOWBOICHA  - 75",
+    "candidate_name": "BIKROM DAS",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1176,
+    "margin": "-85805"
+  },
+  {
+    "constituency": "NOWBOICHA  - 75",
+    "candidate_name": "ACHYUT DAS",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1158,
+    "margin": "-85823"
+  },
+  {
+    "constituency": "PAKABETBARI - 25",
+    "candidate_name": "JAKIR HUSSAIN SIKDAR",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 157748,
+    "margin": "65267"
+  },
+  {
+    "constituency": "PAKABETBARI - 25",
+    "candidate_name": "MINAKSHI RAHMAN",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 92481,
+    "margin": "-65267"
+  },
+  {
+    "constituency": "PAKABETBARI - 25",
+    "candidate_name": "DR. TARA PRASAD DAS",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 9246,
+    "margin": "-148502"
+  },
+  {
+    "constituency": "PAKABETBARI - 25",
+    "candidate_name": "SABBIR HUSSAIN PORAMANIK",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 950,
+    "margin": "-156798"
+  },
+  {
+    "constituency": "PAKABETBARI - 25",
+    "candidate_name": "HALIMA KHATUN",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 752,
+    "margin": "-156996"
+  },
+  {
+    "constituency": "PALASBARI - 29",
+    "candidate_name": "HIMANGSHU SHEKHAR BAISHYA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 109301,
+    "margin": "43953"
+  },
+  {
+    "constituency": "PALASBARI - 29",
+    "candidate_name": "PANKAJ LOCHAN GOSWAMI",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 65348,
+    "margin": "-43953"
+  },
+  {
+    "constituency": "PALASBARI - 29",
+    "candidate_name": "JAYANTA MAHANTA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 3111,
+    "margin": "-106190"
+  },
+  {
+    "constituency": "PALASBARI - 29",
+    "candidate_name": "ELVIN BARUAH",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 2317,
+    "margin": "-106984"
+  },
+  {
+    "constituency": "PALASBARI - 29",
+    "candidate_name": "JATIN MALI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2250,
+    "margin": "-107051"
+  },
+  {
+    "constituency": "PALASBARI - 29",
+    "candidate_name": "BIKASH NATH",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2081,
+    "margin": "-107220"
+  },
+  {
+    "constituency": "PARBATJHORA - 5",
+    "candidate_name": "MD ASHRAFUL ISLAM SHEIKH",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 77128,
+    "margin": "9022"
+  },
+  {
+    "constituency": "PARBATJHORA - 5",
+    "candidate_name": "REZAUL KARIM",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Lost",
+    "total_votes": 68106,
+    "margin": "-9022"
+  },
+  {
+    "constituency": "PARBATJHORA - 5",
+    "candidate_name": "AYUB HUSSAIN MONDAL",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 8920,
+    "margin": "-68208"
+  },
+  {
+    "constituency": "PARBATJHORA - 5",
+    "candidate_name": "ABU TAHER BEPARI",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 5641,
+    "margin": "-71487"
+  },
+  {
+    "constituency": "PARBATJHORA - 5",
+    "candidate_name": "AJGAR ALI MONDAL",
+    "party_name": "The National Road Map Party of India",
+    "status": "Lost",
+    "total_votes": 835,
+    "margin": "-76293"
+  },
+  {
+    "constituency": "PARBATJHORA - 5",
+    "candidate_name": "DILIP KUMAR BARMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 775,
+    "margin": "-76353"
+  },
+  {
+    "constituency": "PARBATJHORA - 5",
+    "candidate_name": "RAJESH KUMAR BRAHMA",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 769,
+    "margin": "-76359"
+  },
+  {
+    "constituency": "PARBATJHORA - 5",
+    "candidate_name": "MIR HUSSAIN SARKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 730,
+    "margin": "-76398"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "KRISHNENDU PAUL",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 98101,
+    "margin": "46764"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "KARTIK SENA SINHA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 51337,
+    "margin": "-46764"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "MD. FAZAL AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 666,
+    "margin": "-97435"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "SAYNUL HAQUE",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 543,
+    "margin": "-97558"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "NURUL HASSAN TALUKDAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 259,
+    "margin": "-97842"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "TUTIUR RAHMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 156,
+    "margin": "-97945"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "BIJU PAUL",
+    "party_name": "All India Forward Bloc",
+    "status": "Lost",
+    "total_votes": 147,
+    "margin": "-97954"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "BIJIT KUMAR SINHA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 131,
+    "margin": "-97970"
+  },
+  {
+    "constituency": "PATHARKANDI - 125",
+    "candidate_name": "CHANDAN GOWALA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 110,
+    "margin": "-97991"
+  },
+  {
+    "constituency": "RAHA  - 61",
+    "candidate_name": "SASHI KANTA DAS",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 111360,
+    "margin": "20594"
+  },
+  {
+    "constituency": "RAHA  - 61",
+    "candidate_name": "UTPAL BANIA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 90766,
+    "margin": "-20594"
+  },
+  {
+    "constituency": "RAHA  - 61",
+    "candidate_name": "MUKUT DAS",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 2595,
+    "margin": "-108765"
+  },
+  {
+    "constituency": "RAHA  - 61",
+    "candidate_name": "BARUN BIKASH DAS",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1729,
+    "margin": "-109631"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "BIJOY MALAKAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 134013,
+    "margin": "83765"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "SURUCHI ROY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 50248,
+    "margin": "-83765"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "ANUP KUMAR DAS TALUKDAR",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 1302,
+    "margin": "-132711"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "SOURAV ROY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 647,
+    "margin": "-133366"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "UTTAM DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 590,
+    "margin": "-133423"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "SANCHITA SUKLA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 580,
+    "margin": "-133433"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "SASHANKA SEKHAR DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 480,
+    "margin": "-133533"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "BIKASH LAL DHUBI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 240,
+    "margin": "-133773"
+  },
+  {
+    "constituency": "RAM KRISHNA NAGAR  - 126",
+    "candidate_name": "YOGESH DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 199,
+    "margin": "-133814"
+  },
+  {
+    "constituency": "RANGAPARA - 68",
+    "candidate_name": "KRISHNA KAMAL TANTI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 81022,
+    "margin": "43315"
+  },
+  {
+    "constituency": "RANGAPARA - 68",
+    "candidate_name": "KARTIK CHANDRA KURMI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 37707,
+    "margin": "-43315"
+  },
+  {
+    "constituency": "RANGAPARA - 68",
+    "candidate_name": "MATHEW TOPNO",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 20067,
+    "margin": "-60955"
+  },
+  {
+    "constituency": "RANGAPARA - 68",
+    "candidate_name": "GIRINDRA KUMAR BHUYAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1701,
+    "margin": "-79321"
+  },
+  {
+    "constituency": "RANGAPARA - 68",
+    "candidate_name": "MAHENDRA ORANG",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1472,
+    "margin": "-79550"
+  },
+  {
+    "constituency": "RANGIA - 31",
+    "candidate_name": "BHABESH KALITA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 107929,
+    "margin": "34029"
+  },
+  {
+    "constituency": "RANGIA - 31",
+    "candidate_name": "PRANJIT CHOUDHURY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 73900,
+    "margin": "-34029"
+  },
+  {
+    "constituency": "RONGKHANG  - 111",
+    "candidate_name": "TULIRAM RONGHANG",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 83248,
+    "margin": "60243"
+  },
+  {
+    "constituency": "RONGKHANG  - 111",
+    "candidate_name": "AUGUSTINE ENGHEE",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 23005,
+    "margin": "-60243"
+  },
+  {
+    "constituency": "RONGKHANG  - 111",
+    "candidate_name": "WILSON TERANG",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1239,
+    "margin": "-82009"
+  },
+  {
+    "constituency": "RONGKHANG  - 111",
+    "candidate_name": "PRATIMA ENGHEEPI",
+    "party_name": "Communist Party of India (Marxist-Leninist) (Liberation)",
+    "status": "Lost",
+    "total_votes": 1227,
+    "margin": "-82021"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "RISHIRAJ HAZARIKA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 82493,
+    "margin": "19652"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "JAYANTA KHAUND",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 62841,
+    "margin": "-19652"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "PAWAN SAUTAL",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 11832,
+    "margin": "-70661"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "KAMAL BARLA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 599,
+    "margin": "-81894"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "TIKENDRA THAPA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 589,
+    "margin": "-81904"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "SWAPAN PUDDAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 415,
+    "margin": "-82078"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "HEMKANTA MIRI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 305,
+    "margin": "-82188"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "ABDUL GOFFUR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 268,
+    "margin": "-82225"
+  },
+  {
+    "constituency": "RONGONADI - 74",
+    "candidate_name": "JAKIR HUSSAIN",
+    "party_name": "Rashtriya Ulama Council",
+    "status": "Lost",
+    "total_votes": 246,
+    "margin": "-82247"
+  },
+  {
+    "constituency": "RUPAHIHAT - 56",
+    "candidate_name": "NURUL HUDA",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 135682,
+    "margin": "69766"
+  },
+  {
+    "constituency": "RUPAHIHAT - 56",
+    "candidate_name": "AMINUL ISLAM",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 65916,
+    "margin": "-69766"
+  },
+  {
+    "constituency": "RUPAHIHAT - 56",
+    "candidate_name": "JAKIR HUSSAIN FARAJI",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 14946,
+    "margin": "-120736"
+  },
+  {
+    "constituency": "RUPAHIHAT - 56",
+    "candidate_name": "AKIBUR RAHMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1087,
+    "margin": "-134595"
+  },
+  {
+    "constituency": "RUPAHIHAT - 56",
+    "candidate_name": "HABIBUR RAHMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 585,
+    "margin": "-135097"
+  },
+  {
+    "constituency": "RUPAHIHAT - 56",
+    "candidate_name": "MAINUL ISLAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 496,
+    "margin": "-135186"
+  },
+  {
+    "constituency": "RUPAHIHAT - 56",
+    "candidate_name": "ANARUL HOQUE",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 459,
+    "margin": "-135223"
+  },
+  {
+    "constituency": "RUPAHIHAT - 56",
+    "candidate_name": "WAKIBUR ISLAM",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 416,
+    "margin": "-135266"
+  },
+  {
+    "constituency": "SADIYA - 81",
+    "candidate_name": "BOLIN CHETIA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 97087,
+    "margin": "41749"
+  },
+  {
+    "constituency": "SADIYA - 81",
+    "candidate_name": "JAGADISH BHUYAN",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 55338,
+    "margin": "-41749"
+  },
+  {
+    "constituency": "SADIYA - 81",
+    "candidate_name": "ABRAHAM TIRKEY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2006,
+    "margin": "-95081"
+  },
+  {
+    "constituency": "SADIYA - 81",
+    "candidate_name": "LALIT DEORI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1410,
+    "margin": "-95677"
+  },
+  {
+    "constituency": "SADIYA - 81",
+    "candidate_name": "DILIP BURA GOHAIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1344,
+    "margin": "-95743"
+  },
+  {
+    "constituency": "SAMAGURI - 58",
+    "candidate_name": "TANZIL HUSSAIN",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 145212,
+    "margin": "108310"
+  },
+  {
+    "constituency": "SAMAGURI - 58",
+    "candidate_name": "ANIL SAIKIA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 36902,
+    "margin": "-108310"
+  },
+  {
+    "constituency": "SAMAGURI - 58",
+    "candidate_name": "ABDUL AZIZ",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 27904,
+    "margin": "-117308"
+  },
+  {
+    "constituency": "SAMAGURI - 58",
+    "candidate_name": "AYUB KHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1063,
+    "margin": "-144149"
+  },
+  {
+    "constituency": "SAMAGURI - 58",
+    "candidate_name": "SABINA EACHAMIN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 472,
+    "margin": "-144740"
+  },
+  {
+    "constituency": "SAMAGURI - 58",
+    "candidate_name": "PRABHAT CHANDRA RAY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 415,
+    "margin": "-144797"
+  },
+  {
+    "constituency": "SAMAGURI - 58",
+    "candidate_name": "SALIM AHMED",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 312,
+    "margin": "-144900"
+  },
+  {
+    "constituency": "SARUPATHAR - 107",
+    "candidate_name": "BISWAJIT PHUKAN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 96341,
+    "margin": "56080"
+  },
+  {
+    "constituency": "SARUPATHAR - 107",
+    "candidate_name": "JIBAN CHUTIA",
+    "party_name": "Assam Jatiya Parishad",
+    "status": "Lost",
+    "total_votes": 40261,
+    "margin": "-56080"
+  },
+  {
+    "constituency": "SARUPATHAR - 107",
+    "candidate_name": "SAHIL MUNDA",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 11852,
+    "margin": "-84489"
+  },
+  {
+    "constituency": "SIBSAGAR - 96",
+    "candidate_name": "AKHIL GOGOI",
+    "party_name": "Raijor Dal",
+    "status": "Won",
+    "total_votes": 86521,
+    "margin": "17272"
+  },
+  {
+    "constituency": "SIBSAGAR - 96",
+    "candidate_name": "KUSHAL DOWARI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Lost",
+    "total_votes": 69249,
+    "margin": "-17272"
+  },
+  {
+    "constituency": "SIBSAGAR - 96",
+    "candidate_name": "PRODIP HAZARIKA",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 14757,
+    "margin": "-71764"
+  },
+  {
+    "constituency": "SIBSAGAR - 96",
+    "candidate_name": "BHABENDRA NATH MOHAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 804,
+    "margin": "-85717"
+  },
+  {
+    "constituency": "SIBSAGAR - 96",
+    "candidate_name": "TAPAN GOGOI",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 721,
+    "margin": "-85800"
+  },
+  {
+    "constituency": "SIBSAGAR - 96",
+    "candidate_name": "RUPAK BHUYAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 529,
+    "margin": "-85992"
+  },
+  {
+    "constituency": "SIBSAGAR - 96",
+    "candidate_name": "RAJKUMAR DUWARA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 506,
+    "margin": "-86015"
+  },
+  {
+    "constituency": "SIBSAGAR - 96",
+    "candidate_name": "HEMANTA BORUAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 403,
+    "margin": "-86118"
+  },
+  {
+    "constituency": "SIDLI CHIRANG  - 19",
+    "candidate_name": "PANIRAM BRAHMA",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 101275,
+    "margin": "38601"
+  },
+  {
+    "constituency": "SIDLI CHIRANG  - 19",
+    "candidate_name": "RANJIT BASUMATARY",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 62674,
+    "margin": "-38601"
+  },
+  {
+    "constituency": "SIDLI CHIRANG  - 19",
+    "candidate_name": "MATILAL NARZARY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 18975,
+    "margin": "-82300"
+  },
+  {
+    "constituency": "SIDLI CHIRANG  - 19",
+    "candidate_name": "BANIMA BRAHMA",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 2697,
+    "margin": "-98578"
+  },
+  {
+    "constituency": "SILCHAR - 118",
+    "candidate_name": "DR. RAJDEEP ROY",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 110758,
+    "margin": "53997"
+  },
+  {
+    "constituency": "SILCHAR - 118",
+    "candidate_name": "ABHIJIT PAUL",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 56761,
+    "margin": "-53997"
+  },
+  {
+    "constituency": "SILCHAR - 118",
+    "candidate_name": "BHABOTOSH CHAKRABORTY",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 707,
+    "margin": "-110051"
+  },
+  {
+    "constituency": "SILCHAR - 118",
+    "candidate_name": "SUBRATA KR. CHANDA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 681,
+    "margin": "-110077"
+  },
+  {
+    "constituency": "SILCHAR - 118",
+    "candidate_name": "RANU DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 367,
+    "margin": "-110391"
+  },
+  {
+    "constituency": "SILCHAR - 118",
+    "candidate_name": "GAUTAM DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 275,
+    "margin": "-110483"
+  },
+  {
+    "constituency": "SILCHAR - 118",
+    "candidate_name": "PAPLU NATH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 257,
+    "margin": "-110501"
+  },
+  {
+    "constituency": "SIPAJHAR - 49",
+    "candidate_name": "PARAMANANDA RAJBONGSHI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 99720,
+    "margin": "25245"
+  },
+  {
+    "constituency": "SIPAJHAR - 49",
+    "candidate_name": "BINANDA KUMAR SAIKIA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 74475,
+    "margin": "-25245"
+  },
+  {
+    "constituency": "SIPAJHAR - 49",
+    "candidate_name": "MUN KUMAR DEKA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1085,
+    "margin": "-98635"
+  },
+  {
+    "constituency": "SIPAJHAR - 49",
+    "candidate_name": "HARJYOTI BUDDHA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 946,
+    "margin": "-98774"
+  },
+  {
+    "constituency": "SISSIBARGAON - 79",
+    "candidate_name": "JIBAN GOGOI",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 75758,
+    "margin": "40593"
+  },
+  {
+    "constituency": "SISSIBARGAON - 79",
+    "candidate_name": "DULAL CHANDRA BORUAH",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 35165,
+    "margin": "-40593"
+  },
+  {
+    "constituency": "SISSIBARGAON - 79",
+    "candidate_name": "NANDIGIRI BHUYAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 26890,
+    "margin": "-48868"
+  },
+  {
+    "constituency": "SISSIBARGAON - 79",
+    "candidate_name": "PRANJAL BORAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2512,
+    "margin": "-73246"
+  },
+  {
+    "constituency": "SISSIBARGAON - 79",
+    "candidate_name": "RANJIT KUMAR ROY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2209,
+    "margin": "-73549"
+  },
+  {
+    "constituency": "SISSIBARGAON - 79",
+    "candidate_name": "LANKESWAR DAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1184,
+    "margin": "-74574"
+  },
+  {
+    "constituency": "SISSIBARGAON - 79",
+    "candidate_name": "HAREN CHANGMAI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 735,
+    "margin": "-75023"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "AMINUL HAQUE LASKAR",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 89957,
+    "margin": "27170"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "KARIM UDDIN BARBHUIYA",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 62787,
+    "margin": "-27170"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "SHAHAJAHAN LASKAR",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2280,
+    "margin": "-87677"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "MINAR HUSSAIN MAZARBHUIYA",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 1178,
+    "margin": "-88779"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "HASSAN AHMED BARBHUIYA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 676,
+    "margin": "-89281"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "ALAM HUSSAIN LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 529,
+    "margin": "-89428"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "NAZRUL ISLAM LASKAR",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 339,
+    "margin": "-89618"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "POTON LAL RABIDAS",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 319,
+    "margin": "-89638"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "JAINUL HOQUE MAZUMDER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 256,
+    "margin": "-89701"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "ANJAN KUMAR CHANDA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 239,
+    "margin": "-89718"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "M M MUZAHIDUL ISLAM MAZUMDER",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 221,
+    "margin": "-89736"
+  },
+  {
+    "constituency": "SONAI - 119",
+    "candidate_name": "ABDUL MATLIB LASKAR",
+    "party_name": "Vikas India Party",
+    "status": "Lost",
+    "total_votes": 148,
+    "margin": "-89809"
+  },
+  {
+    "constituency": "SONARI - 93",
+    "candidate_name": "DHORMESWAR KONWAR",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 74833,
+    "margin": "24134"
+  },
+  {
+    "constituency": "SONARI - 93",
+    "candidate_name": "UTPAL GOGOI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 50699,
+    "margin": "-24134"
+  },
+  {
+    "constituency": "SONARI - 93",
+    "candidate_name": "BALDEV TELI",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 14579,
+    "margin": "-60254"
+  },
+  {
+    "constituency": "SONARI - 93",
+    "candidate_name": "RAJU KARUWA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1510,
+    "margin": "-73323"
+  },
+  {
+    "constituency": "SRIJANGRAM - 17",
+    "candidate_name": "MD. NURUL ISLAM",
+    "party_name": "Indian National Congress",
+    "status": "Won",
+    "total_votes": 106716,
+    "margin": "18305"
+  },
+  {
+    "constituency": "SRIJANGRAM - 17",
+    "candidate_name": "REJAUL KARIM SARKAR",
+    "party_name": "All India United Democratic Front",
+    "status": "Lost",
+    "total_votes": 88411,
+    "margin": "-18305"
+  },
+  {
+    "constituency": "SRIJANGRAM - 17",
+    "candidate_name": "SHAHIDUL HOQUE",
+    "party_name": "Asom Gana Parishad",
+    "status": "Lost",
+    "total_votes": 26671,
+    "margin": "-80045"
+  },
+  {
+    "constituency": "SRIJANGRAM - 17",
+    "candidate_name": "NURUL AMIN KHAN",
+    "party_name": "Vikas India Party",
+    "status": "Lost",
+    "total_votes": 1138,
+    "margin": "-105578"
+  },
+  {
+    "constituency": "SRIJANGRAM - 17",
+    "candidate_name": "BHADRESWAR BARMAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 479,
+    "margin": "-106237"
+  },
+  {
+    "constituency": "SRIJANGRAM - 17",
+    "candidate_name": "HANIF ALI SK.",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 390,
+    "margin": "-106326"
+  },
+  {
+    "constituency": "TAMULPUR - 43",
+    "candidate_name": "BISWAJIT DAIMARY",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 89308,
+    "margin": "26743"
+  },
+  {
+    "constituency": "TAMULPUR - 43",
+    "candidate_name": "PRAMOD BORO",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 62565,
+    "margin": "-26743"
+  },
+  {
+    "constituency": "TAMULPUR - 43",
+    "candidate_name": "RAFEL DAIMARY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 16777,
+    "margin": "-72531"
+  },
+  {
+    "constituency": "TAMULPUR - 43",
+    "candidate_name": "NABAJIT SARANIA",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 2731,
+    "margin": "-86577"
+  },
+  {
+    "constituency": "TAMULPUR - 43",
+    "candidate_name": "HARESWAR SWARGIARY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1667,
+    "margin": "-87641"
+  },
+  {
+    "constituency": "TAMULPUR - 43",
+    "candidate_name": "MAHESWAR RABHA",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 1554,
+    "margin": "-87754"
+  },
+  {
+    "constituency": "TAMULPUR - 43",
+    "candidate_name": "BADAN CHANDRA SWARGIARY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1488,
+    "margin": "-87820"
+  },
+  {
+    "constituency": "TANGLA - 48",
+    "candidate_name": "BIKAN CHANDRA DEKA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 84309,
+    "margin": "54601"
+  },
+  {
+    "constituency": "TANGLA - 48",
+    "candidate_name": "ROHIT PARIGA",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 29708,
+    "margin": "-54601"
+  },
+  {
+    "constituency": "TANGLA - 48",
+    "candidate_name": "JAYANTA KUMAR RABHA",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 28357,
+    "margin": "-55952"
+  },
+  {
+    "constituency": "TANGLA - 48",
+    "candidate_name": "PHULAN KACHARI",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 3873,
+    "margin": "-80436"
+  },
+  {
+    "constituency": "TANGLA - 48",
+    "candidate_name": "BISHWADUTTA TATI",
+    "party_name": "Gondvana Gantantra Party",
+    "status": "Lost",
+    "total_votes": 3087,
+    "margin": "-81222"
+  },
+  {
+    "constituency": "TANGLA - 48",
+    "candidate_name": "JITENDRA CHALIHA",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1221,
+    "margin": "-83088"
+  },
+  {
+    "constituency": "TANGLA - 48",
+    "candidate_name": "NAGEN CHANDRA DEKA",
+    "party_name": "Gana Suraksha Party",
+    "status": "Lost",
+    "total_votes": 645,
+    "margin": "-83664"
+  },
+  {
+    "constituency": "TEOK - 99",
+    "candidate_name": "BIKASH SAIKIA",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 90368,
+    "margin": "22672"
+  },
+  {
+    "constituency": "TEOK - 99",
+    "candidate_name": "PALLABI SAIKIA GOGOI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 67696,
+    "margin": "-22672"
+  },
+  {
+    "constituency": "TEZPUR - 67",
+    "candidate_name": "PRITHIRAJ RAVA",
+    "party_name": "Asom Gana Parishad",
+    "status": "Won",
+    "total_votes": 79140,
+    "margin": "19950"
+  },
+  {
+    "constituency": "TEZPUR - 67",
+    "candidate_name": "ALOK NATH",
+    "party_name": "Raijor Dal",
+    "status": "Lost",
+    "total_votes": 59190,
+    "margin": "-19950"
+  },
+  {
+    "constituency": "TEZPUR - 67",
+    "candidate_name": "PALLABI SAIKIA",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 5698,
+    "margin": "-73442"
+  },
+  {
+    "constituency": "TEZPUR - 67",
+    "candidate_name": "NAYAN MONI CHOUDHURY",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1485,
+    "margin": "-77655"
+  },
+  {
+    "constituency": "TIHU - 40",
+    "candidate_name": "CHANDRAMOHAN PATOWARY",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 100855,
+    "margin": "26496"
+  },
+  {
+    "constituency": "TIHU - 40",
+    "candidate_name": "RATUL PATOWARY",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 74359,
+    "margin": "-26496"
+  },
+  {
+    "constituency": "TIHU - 40",
+    "candidate_name": "NARAYAN DUTTA BHUYAN",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 977,
+    "margin": "-99878"
+  },
+  {
+    "constituency": "TIHU - 40",
+    "candidate_name": "SRI PRAMOD CHANDRA BHAGABATI",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 914,
+    "margin": "-99941"
+  },
+  {
+    "constituency": "TINGKHONG - 91",
+    "candidate_name": "BIMAL BORAH",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 88912,
+    "margin": "49026"
+  },
+  {
+    "constituency": "TINGKHONG - 91",
+    "candidate_name": "BIPUL GOGOI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 39886,
+    "margin": "-49026"
+  },
+  {
+    "constituency": "TINGKHONG - 91",
+    "candidate_name": "MAHABIR BASKE",
+    "party_name": "Jharkhand Mukti Morcha",
+    "status": "Lost",
+    "total_votes": 14205,
+    "margin": "-74707"
+  },
+  {
+    "constituency": "TINSUKIA - 86",
+    "candidate_name": "PULOK GOHAIN",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 85184,
+    "margin": "48497"
+  },
+  {
+    "constituency": "TINSUKIA - 86",
+    "candidate_name": "DEVID PHUKAN",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 36687,
+    "margin": "-48497"
+  },
+  {
+    "constituency": "TINSUKIA - 86",
+    "candidate_name": "JHONY KIRON NAYAK",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 5120,
+    "margin": "-80064"
+  },
+  {
+    "constituency": "TINSUKIA - 86",
+    "candidate_name": "LALAN SAHANI",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 2313,
+    "margin": "-82871"
+  },
+  {
+    "constituency": "TINSUKIA - 86",
+    "candidate_name": "GOBINDA JOISHY",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 1336,
+    "margin": "-83848"
+  },
+  {
+    "constituency": "TINSUKIA - 86",
+    "candidate_name": "ISRAIL NANDA",
+    "party_name": "Republican Party of India (A)",
+    "status": "Lost",
+    "total_votes": 1191,
+    "margin": "-83993"
+  },
+  {
+    "constituency": "TINSUKIA - 86",
+    "candidate_name": "BHAIRAW BHAGAT",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 866,
+    "margin": "-84318"
+  },
+  {
+    "constituency": "TINSUKIA - 86",
+    "candidate_name": "CHINTU BARUAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 714,
+    "margin": "-84470"
+  },
+  {
+    "constituency": "TITABOR - 102",
+    "candidate_name": "DHIRAJ GOWALA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 78743,
+    "margin": "23315"
+  },
+  {
+    "constituency": "TITABOR - 102",
+    "candidate_name": "PRAN KURMI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 55428,
+    "margin": "-23315"
+  },
+  {
+    "constituency": "TITABOR - 102",
+    "candidate_name": "BHASKAR JYOTI BARUAH",
+    "party_name": "Independent",
+    "status": "Lost",
+    "total_votes": 27203,
+    "margin": "-51540"
+  },
+  {
+    "constituency": "TITABOR - 102",
+    "candidate_name": "PALLAV SAIKIA",
+    "party_name": "Aam Aadmi Party",
+    "status": "Lost",
+    "total_votes": 1876,
+    "margin": "-76867"
+  },
+  {
+    "constituency": "UDALGURI - 46",
+    "candidate_name": "RIHON DAIMARI",
+    "party_name": "Bodoland Peoples Front",
+    "status": "Won",
+    "total_votes": 76800,
+    "margin": "27554"
+  },
+  {
+    "constituency": "UDALGURI - 46",
+    "candidate_name": "DIPEN BORO",
+    "party_name": "United People's Party, Liberal",
+    "status": "Lost",
+    "total_votes": 49246,
+    "margin": "-27554"
+  },
+  {
+    "constituency": "UDALGURI - 46",
+    "candidate_name": "SUREN DAIMARI",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 9429,
+    "margin": "-67371"
+  },
+  {
+    "constituency": "UDALGURI - 46",
+    "candidate_name": "UNIKE BASUMATARY",
+    "party_name": "Voters Party International",
+    "status": "Lost",
+    "total_votes": 2583,
+    "margin": "-74217"
+  },
+  {
+    "constituency": "UDHARBOND - 115",
+    "candidate_name": "RAJDEEP GOALA",
+    "party_name": "Bharatiya Janata Party",
+    "status": "Won",
+    "total_votes": 103331,
+    "margin": "55464"
+  },
+  {
+    "constituency": "UDHARBOND - 115",
+    "candidate_name": "AJIT SINGH",
+    "party_name": "Indian National Congress",
+    "status": "Lost",
+    "total_votes": 47867,
+    "margin": "-55464"
+  },
+  {
+    "constituency": "UDHARBOND - 115",
+    "candidate_name": "TAPAS DAS",
+    "party_name": "All India Trinamool Congress",
+    "status": "Lost",
+    "total_votes": 2291,
+    "margin": "-101040"
+  },
+  {
+    "constituency": "UDHARBOND - 115",
+    "candidate_name": "DILIP KUMAR REE",
+    "party_name": "Socialist Unity Centre Of India (COMMUNIST)",
+    "status": "Lost",
+    "total_votes": 1046,
+    "margin": "-102285"
+  }
+]
