@@ -1170,7 +1170,7 @@
     "lastUpdated": "2026-05-05",
     "votes": 68727,
     "rank": 2,
-    "isWinner": false
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -1650,7 +1650,7 @@
     "lastUpdated": "2026-05-05",
     "votes": 113,
     "rank": 7,
-    "isWinner": false
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -2649,7 +2649,7 @@
     "lastUpdated": "2026-05-05",
     "votes": 64071,
     "rank": 2,
-    "isWinner": false
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -5349,7 +5349,7 @@
     "lastUpdated": "2026-05-05",
     "votes": 66367,
     "rank": 2,
-    "isWinner": false
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -6093,7 +6093,7 @@
     "lastUpdated": "2026-05-05",
     "votes": 58058,
     "rank": 2,
-    "isWinner": false
+    "isWinner": true
   },
   {
     "office": "mla",
@@ -9012,7 +9012,7 @@
     "result": "lost",
     "rank": 2,
     "votes": 60795,
-    "isWinner": false,
+    "isWinner": true,
     "lastUpdated": "2026-05-05"
   },
   {
@@ -10612,7 +10612,7 @@
     "result": "lost",
     "rank": 2,
     "votes": 70620,
-    "isWinner": false,
+    "isWinner": true,
     "lastUpdated": "2026-05-05"
   },
   {
@@ -11392,7 +11392,7 @@
     "result": "won",
     "rank": 1,
     "votes": 70117,
-    "isWinner": true,
+    "isWinner": false,
     "lastUpdated": "2026-05-05"
   },
   {
@@ -11762,26 +11762,6 @@
     "stateSlug": "kerala",
     "constituencyName": "KOTTAKKAL",
     "constituencySlug": "kottakkal",
-    "candidateName": "Prof. K. K. Abid Hussain Thangal",
-    "candidateSlug": "prof-k-k-abid-hussain-thangal",
-    "partyName": "Indian Union Muslim League",
-    "partySlug": "indian-union-muslim-league",
-    "education": "N/A",
-    "assets": "0",
-    "criminalCases": 0,
-    "result": "won",
-    "rank": 1,
-    "votes": 118111,
-    "isWinner": true,
-    "lastUpdated": "2026-05-05"
-  },
-  {
-    "office": "mla",
-    "electionYear": 2026,
-    "state": "Kerala",
-    "stateSlug": "kerala",
-    "constituencyName": "KOTTAKKAL",
-    "constituencySlug": "kottakkal",
     "candidateName": "K. Preethi",
     "candidateSlug": "k-preethi",
     "partyName": "Communist Party of India (Marxist)",
@@ -12002,26 +11982,6 @@
     "stateSlug": "kerala",
     "constituencyName": "KUNNAMKULAM",
     "constituencySlug": "kunnamkulam",
-    "candidateName": "A. C. Moytheen",
-    "candidateSlug": "a-c-moytheen",
-    "partyName": "Communist Party of India (Marxist)",
-    "partySlug": "communist-party-of-india-marxist",
-    "education": "N/A",
-    "assets": "0",
-    "criminalCases": 0,
-    "result": "won",
-    "rank": 1,
-    "votes": 69522,
-    "isWinner": true,
-    "lastUpdated": "2026-05-05"
-  },
-  {
-    "office": "mla",
-    "electionYear": 2026,
-    "state": "Kerala",
-    "stateSlug": "kerala",
-    "constituencyName": "KUNNAMKULAM",
-    "constituencySlug": "kunnamkulam",
     "candidateName": "Rijil K. R.",
     "candidateSlug": "rijil-k-r",
     "partyName": "Bharath Dharma Jana Sena",
@@ -12033,46 +11993,6 @@
     "rank": 3,
     "votes": 17104,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
-  },
-  {
-    "office": "mla",
-    "electionYear": 2026,
-    "state": "Kerala",
-    "stateSlug": "kerala",
-    "constituencyName": "WADAKKANCHERY",
-    "constituencySlug": "wadakkanchery",
-    "candidateName": "Xeviyar Chittilappally",
-    "candidateSlug": "xeviyar-chittilappally",
-    "partyName": "Communist Party of India (Marxist)",
-    "partySlug": "communist-party-of-india-marxist",
-    "education": "N/A",
-    "assets": "0",
-    "criminalCases": 0,
-    "result": "won",
-    "rank": 1,
-    "votes": 70725,
-    "isWinner": true,
-    "lastUpdated": "2026-05-05"
-  },
-  {
-    "office": "mla",
-    "electionYear": 2026,
-    "state": "Kerala",
-    "stateSlug": "kerala",
-    "constituencyName": "THRISSUR",
-    "constituencySlug": "thrissur",
-    "candidateName": "Rajan Pallan",
-    "candidateSlug": "rajan-pallan",
-    "partyName": "Indian National Congress",
-    "partySlug": "indian-national-congress",
-    "education": "N/A",
-    "assets": "0",
-    "criminalCases": 0,
-    "result": "won",
-    "rank": 1,
-    "votes": 60290,
-    "isWinner": true,
     "lastUpdated": "2026-05-05"
   },
   {
@@ -12422,26 +12342,6 @@
     "stateSlug": "kerala",
     "constituencyName": "PEERUMADE",
     "constituencySlug": "peerumade",
-    "candidateName": "Adv. Syriac Thomas",
-    "candidateSlug": "syriac-thomas",
-    "partyName": "Indian National Congress",
-    "partySlug": "indian-national-congress",
-    "education": "N/A",
-    "assets": "0",
-    "criminalCases": 0,
-    "result": "won",
-    "rank": 1,
-    "votes": 69672,
-    "isWinner": true,
-    "lastUpdated": "2026-05-05"
-  },
-  {
-    "office": "mla",
-    "electionYear": 2026,
-    "state": "Kerala",
-    "stateSlug": "kerala",
-    "constituencyName": "PEERUMADE",
-    "constituencySlug": "peerumade",
     "candidateName": "V. Ratheesh",
     "candidateSlug": "v-ratheesh",
     "partyName": "Bharatiya Janata Party",
@@ -12742,26 +12642,6 @@
     "stateSlug": "kerala",
     "constituencyName": "VAMANAPURAM",
     "constituencySlug": "vamanapuram",
-    "candidateName": "Sudheer Sha Palode",
-    "candidateSlug": "sudheer-sha-palode",
-    "partyName": "Indian National Congress",
-    "partySlug": "indian-national-congress",
-    "education": "N/A",
-    "assets": "0",
-    "criminalCases": 0,
-    "result": "won",
-    "rank": 1,
-    "votes": 73590,
-    "isWinner": true,
-    "lastUpdated": "2026-05-05"
-  },
-  {
-    "office": "mla",
-    "electionYear": 2026,
-    "state": "Kerala",
-    "stateSlug": "kerala",
-    "constituencyName": "VAMANAPURAM",
-    "constituencySlug": "vamanapuram",
     "candidateName": "D. K. Murali",
     "candidateSlug": "d-k-murali",
     "partyName": "Communist Party of India (Marxist)",
@@ -12833,26 +12713,6 @@
     "rank": 3,
     "votes": 29730,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
-  },
-  {
-    "office": "mla",
-    "electionYear": 2026,
-    "state": "Kerala",
-    "stateSlug": "kerala",
-    "constituencyName": "NEYYATTINKARA",
-    "constituencySlug": "neyyattinkara",
-    "candidateName": "N. Sakthan",
-    "candidateSlug": "n-sakthan",
-    "partyName": "Indian National Congress",
-    "partySlug": "indian-national-congress",
-    "education": "N/A",
-    "assets": "0",
-    "criminalCases": 0,
-    "result": "won",
-    "rank": 1,
-    "votes": 58760,
-    "isWinner": true,
     "lastUpdated": "2026-05-05"
   },
   {
