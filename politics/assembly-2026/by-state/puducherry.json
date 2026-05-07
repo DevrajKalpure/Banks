@@ -18,7 +18,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 326,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.4"
   },
   {
     "office": "mla",
@@ -39,7 +41,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 9099,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "39.8"
   },
   {
     "office": "mla",
@@ -60,7 +64,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8073,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "35.3"
   },
   {
     "office": "mla",
@@ -81,7 +87,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6969,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "29.5"
   },
   {
     "office": "mla",
@@ -102,7 +110,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 800,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.4"
   },
   {
     "office": "mla",
@@ -123,7 +133,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 45,
-    "position": 2
+    "position": 7,
+    "rank": 7,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -207,7 +219,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8123,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "29.7"
   },
   {
     "office": "mla",
@@ -228,7 +242,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 265,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.0"
   },
   {
     "office": "mla",
@@ -249,7 +265,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 10520,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "38.5"
   },
   {
     "office": "mla",
@@ -270,7 +288,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 730,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.4"
   },
   {
     "office": "mla",
@@ -291,7 +311,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 12945,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "41.9"
   },
   {
     "office": "mla",
@@ -311,8 +333,10 @@
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=38",
     "lastUpdated": "2026-04-26",
     "isWinner": false,
-    "votes": 178,
-    "position": 2
+    "votes": 76,
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -333,7 +357,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 184,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.9"
   },
   {
     "office": "mla",
@@ -354,7 +380,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8759,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "45.1"
   },
   {
     "office": "mla",
@@ -375,7 +403,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 55,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "0.3"
   },
   {
     "office": "mla",
@@ -396,7 +426,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 392,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.6"
   },
   {
     "office": "mla",
@@ -417,7 +449,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 7376,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "30.1"
   },
   {
     "office": "mla",
@@ -438,7 +472,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 3311,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "13.5"
   },
   {
     "office": "mla",
@@ -459,7 +495,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 260,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.9"
   },
   {
     "office": "mla",
@@ -480,7 +518,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 9808,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "33.4"
   },
   {
     "office": "mla",
@@ -501,7 +541,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 3032,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "10.3"
   },
   {
     "office": "mla",
@@ -512,14 +554,19 @@
     "constituencySlug": "kadirgamam",
     "candidateName": "K.S.P Alias S. Ramesh",
     "candidateSlug": "k-s-p-alias-s-ramesh",
-    "partyName": "All India N.R. Congress",
+    "partyName": "IND",
     "partySlug": "all-india-n-r-congress",
     "education": "Post Graduate",
     "assets": "101480596",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=127",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 31,
+    "position": 8,
+    "rank": 8,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -540,7 +587,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 427,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.5"
   },
   {
     "office": "mla",
@@ -561,7 +610,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2417,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "8.5"
   },
   {
     "office": "mla",
@@ -600,7 +651,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 462,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.3"
   },
   {
     "office": "mla",
@@ -621,7 +674,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 13607,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "39.7"
   },
   {
     "office": "mla",
@@ -642,7 +697,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 281,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.0"
   },
   {
     "office": "mla",
@@ -663,7 +720,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 16829,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "60.5"
   },
   {
     "office": "mla",
@@ -684,7 +743,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 15,
-    "position": 2
+    "position": 9,
+    "rank": 9,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -705,7 +766,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 12731,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "43.9"
   },
   {
     "office": "mla",
@@ -726,7 +789,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 480,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.7"
   },
   {
     "office": "mla",
@@ -747,7 +812,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 10078,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "34.7"
   },
   {
     "office": "mla",
@@ -831,7 +898,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 283,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.1"
   },
   {
     "office": "mla",
@@ -852,7 +921,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6681,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "26.3"
   },
   {
     "office": "mla",
@@ -873,7 +944,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1354,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "5.3"
   },
   {
     "office": "mla",
@@ -926,7 +999,7 @@
     "constituencySlug": "thirubhuvanai-sc",
     "candidateName": "Ak. Sai J Saravanan Kumar",
     "candidateSlug": "ak-sai-j-saravanan-kumar",
-    "partyName": "Tamilaga Vettri Kazhagam",
+    "partyName": "TVK",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Graduate Professional",
     "assets": "52951341",
@@ -957,7 +1030,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 693,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.3"
   },
   {
     "office": "mla",
@@ -978,7 +1053,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 16592,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "53.9"
   },
   {
     "office": "mla",
@@ -999,7 +1076,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6387,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "20.7"
   },
   {
     "office": "mla",
@@ -1019,8 +1098,10 @@
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=54",
     "lastUpdated": "2026-04-26",
     "isWinner": true,
-    "votes": 17917,
-    "position": 1
+    "votes": 10024,
+    "position": 1,
+    "rank": 1,
+    "voteShare": "42.9"
   },
   {
     "office": "mla",
@@ -1041,7 +1122,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 534,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "2.3"
   },
   {
     "office": "mla",
@@ -1062,7 +1145,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2990,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "12.8"
   },
   {
     "office": "mla",
@@ -1083,7 +1168,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 589,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.8"
   },
   {
     "office": "mla",
@@ -1104,7 +1191,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5932,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "18.5"
   },
   {
     "office": "mla",
@@ -1143,7 +1232,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 16970,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "43.4"
   },
   {
     "office": "mla",
@@ -1164,7 +1255,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 518,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.3"
   },
   {
     "office": "mla",
@@ -1185,7 +1278,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 35,
-    "position": 2
+    "position": 9,
+    "rank": 9,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -1206,7 +1301,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 8382,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "35.8"
   },
   {
     "office": "mla",
@@ -1227,7 +1324,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 315,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.3"
   },
   {
     "office": "mla",
@@ -1248,7 +1347,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 3285,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "14.0"
   },
   {
     "office": "mla",
@@ -1287,7 +1388,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 7017,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "37.9"
   },
   {
     "office": "mla",
@@ -1308,7 +1411,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1538,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "8.3"
   },
   {
     "office": "mla",
@@ -1329,7 +1434,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 10578,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "39.9"
   },
   {
     "office": "mla",
@@ -1350,7 +1457,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 433,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.6"
   },
   {
     "office": "mla",
@@ -1371,7 +1480,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5647,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "21.3"
   },
   {
     "office": "mla",
@@ -1392,7 +1503,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 639,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "2.0"
   },
   {
     "office": "mla",
@@ -1413,7 +1526,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 11622,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "37.2"
   },
   {
     "office": "mla",
@@ -1434,7 +1549,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 96,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.3"
   },
   {
     "office": "mla",
@@ -1455,7 +1572,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 17917,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "50.9"
   },
   {
     "office": "mla",
@@ -1476,7 +1595,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 447,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.3"
   },
   {
     "office": "mla",
@@ -1497,7 +1618,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 62,
-    "position": 2
+    "position": 9,
+    "rank": 9,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -1613,7 +1736,7 @@
     "constituencySlug": "oussudu-sc",
     "candidateName": "S. Saraganabava",
     "candidateSlug": "s-saraganabava",
-    "partyName": "Tamilaga Vettri Kazhagam",
+    "partyName": "TVK",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "8th Pass",
     "assets": "1517000",
@@ -1662,7 +1785,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 675,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "2.3"
   },
   {
     "office": "mla",
@@ -1683,7 +1808,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1946,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "6.6"
   },
   {
     "office": "mla",
@@ -1704,7 +1831,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 334,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.3"
   },
   {
     "office": "mla",
@@ -1725,7 +1854,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 10818,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "41.0"
   },
   {
     "office": "mla",
@@ -1746,7 +1877,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 73,
-    "position": 2
+    "position": 7,
+    "rank": 7,
+    "voteShare": "0.3"
   },
   {
     "office": "mla",
@@ -1767,7 +1900,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 19863,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "55.7"
   },
   {
     "office": "mla",
@@ -1788,7 +1923,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 167,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "0.5"
   },
   {
     "office": "mla",
@@ -1809,7 +1946,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 9,
-    "position": 2
+    "position": 12,
+    "rank": 12,
+    "voteShare": "0.0"
   },
   {
     "office": "mla",
@@ -1830,7 +1969,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 12635,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "35.5"
   },
   {
     "office": "mla",
@@ -1851,7 +1992,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 418,
-    "position": 2
+    "position": 7,
+    "rank": 7,
+    "voteShare": "1.2"
   },
   {
     "office": "mla",
@@ -1872,6 +2015,800 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8401,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "23.6"
+  },
+  {
+    "candidateName": "C. AIYAPPAN @ MOUTTAYAPPAN",
+    "candidateSlug": "c-aiyappan-mouttayappan",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "ARIANKUPPAM - 19",
+    "constituencySlug": "ariankuppam-19",
+    "isWinner": true,
+    "votes": 14210,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "41.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "P.V. AROUMOUGAME @ AKD",
+    "candidateSlug": "p-v-aroumougame-akd",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "INDIRA NAGAR - 8",
+    "constituencySlug": "indira-nagar-8",
+    "isWinner": true,
+    "votes": 12640,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "42.6",
+    "rank": 1
+  },
+  {
+    "candidateName": "AZHAGU @ AZHAGANANTHAM",
+    "candidateSlug": "azhagu-azhaganantham",
+    "partyName": "IND",
+    "partySlug": "ind",
+    "constituencyName": "KADIRGAMAM - 7",
+    "constituencySlug": "kadirgamam-7",
+    "isWinner": true,
+    "votes": 14633,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "51.8",
+    "rank": 1
+  },
+  {
+    "candidateName": "SENTHIL @ RAMESH",
+    "candidateSlug": "senthil-ramesh",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "KALAPET - 12",
+    "constituencySlug": "kalapet-12",
+    "isWinner": true,
+    "votes": 12069,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "38.6",
+    "rank": 1
+  },
+  {
+    "candidateName": "A.M.H. NAZEEM",
+    "candidateSlug": "a-m-h-nazeem",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "KARAIKAL SOUTH - 27",
+    "constituencySlug": "karaikal-south-27",
+    "isWinner": true,
+    "votes": 12543,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "49.4",
+    "rank": 1
+  },
+  {
+    "candidateName": "ADV. T. ASHOK KUMAR",
+    "candidateSlug": "adv-t-ashok-kumar",
+    "partyName": "IND",
+    "partySlug": "ind",
+    "constituencyName": "MAHE - 29",
+    "constituencySlug": "mahe-29",
+    "isWinner": true,
+    "votes": 8375,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "35.4",
+    "rank": 1
+  },
+  {
+    "candidateName": "B.RAMU",
+    "candidateSlug": "b-ramu",
+    "partyName": "Tamilaga Vettri Kazhagam",
+    "partySlug": "tvk",
+    "constituencyName": "MANAVELY - 20",
+    "constituencySlug": "manavely-20",
+    "isWinner": true,
+    "votes": 13822,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "43.0",
+    "rank": 1
+  },
+  {
+    "candidateName": "A. NAMASSIVAYAM",
+    "candidateSlug": "a-namassivayam",
+    "partyName": "BJP",
+    "partySlug": "bjp",
+    "constituencyName": "MANNADIPET - 1",
+    "constituencySlug": "mannadipet-1",
+    "isWinner": true,
+    "votes": 15918,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "54.3",
+    "rank": 1
+  },
+  {
+    "candidateName": "DR. V. VIGNESWARAN",
+    "candidateSlug": "dr-v-vigneswaran",
+    "partyName": "IND",
+    "partySlug": "ind",
+    "constituencyName": "NEDUNGADU - 24",
+    "constituencySlug": "nedungadu-24",
+    "isWinner": true,
+    "votes": 14368,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "51.1",
+    "rank": 1
+  },
+  {
+    "candidateName": "V. CARTIGUEYANE",
+    "candidateSlug": "v-cartigueyane",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "NELLITHOPE - 17",
+    "constituencySlug": "nellithope-17",
+    "isWinner": true,
+    "votes": 8226,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "33.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "G. NEHRU ALIAS COUPPOUSSAMY",
+    "candidateSlug": "g-nehru-alias-couppoussamy",
+    "partyName": "Neyam Makkal Kazhagam",
+    "partySlug": "neyam-makkal-kazhagam",
+    "constituencyName": "ORLEAMPETH - 16",
+    "constituencySlug": "orleampeth-16",
+    "isWinner": true,
+    "votes": 9960,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "51.2",
+    "rank": 1
+  },
+  {
+    "candidateName": "VIGNESH KANNAN",
+    "candidateSlug": "vignesh-kannan",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "RAJ BHAVAN - 14",
+    "constituencySlug": "raj-bhavan-14",
+    "isWinner": true,
+    "votes": 7304,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "position": 1,
+    "voteShare": "39.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "C. AIYAPPAN @ MOUTTAYAPPAN",
+    "candidateSlug": "c-aiyappan-mouttayappan",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "ARIANKUPPAM - 19",
+    "constituencySlug": "ariankuppam-19",
+    "isWinner": true,
+    "votes": 14210,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "41.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "R. SENTHIL KUMAR",
+    "candidateSlug": "r-senthil-kumar",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "BAHOUR - 23",
+    "constituencySlug": "bahour-23",
+    "isWinner": true,
+    "votes": 10520,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "38.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "E. MOHANDOSS",
+    "candidateSlug": "e-mohandoss",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "EMBALAM - 21",
+    "constituencySlug": "embalam-21",
+    "isWinner": true,
+    "votes": 16017,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "51.1",
+    "rank": 1
+  },
+  {
+    "candidateName": "P.V. AROUMOUGAME @ AKD",
+    "candidateSlug": "p-v-aroumougame-akd",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "INDIRA NAGAR - 8",
+    "constituencySlug": "indira-nagar-8",
+    "isWinner": true,
+    "votes": 12640,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "42.6",
+    "rank": 1
+  },
+  {
+    "candidateName": "AZHAGU @ AZHAGANANTHAM",
+    "candidateSlug": "azhagu-azhaganantham",
+    "partyName": "IND",
+    "partySlug": "ind",
+    "constituencyName": "KADIRGAMAM - 7",
+    "constituencySlug": "kadirgamam-7",
+    "isWinner": true,
+    "votes": 14633,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "51.8",
+    "rank": 1
+  },
+  {
+    "candidateName": "SENTHIL @ RAMESH",
+    "candidateSlug": "senthil-ramesh",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "KALAPET - 12",
+    "constituencySlug": "kalapet-12",
+    "isWinner": true,
+    "votes": 12069,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "38.6",
+    "rank": 1
+  },
+  {
+    "candidateName": "JOSE CHARLES MARTIN",
+    "candidateSlug": "jose-charles-martin",
+    "partyName": "Latchiya Jananayaka Katchi (LJK)",
+    "partySlug": "latchiya-jananayaka-katchi-ljk",
+    "constituencyName": "KAMARAJ NAGAR - 10",
+    "constituencySlug": "kamaraj-nagar-10",
+    "isWinner": true,
+    "votes": 16592,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "53.9",
+    "rank": 1
+  },
+  {
+    "candidateName": "P.R.N. THIRUMURUGAN",
+    "candidateSlug": "p-r-n-thirumurugan",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "KARAIKAL NORTH - 26",
+    "constituencySlug": "karaikal-north-26",
+    "isWinner": true,
+    "votes": 12731,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "43.9",
+    "rank": 1
+  },
+  {
+    "candidateName": "A.M.H. NAZEEM",
+    "candidateSlug": "a-m-h-nazeem",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "KARAIKAL SOUTH - 27",
+    "constituencySlug": "karaikal-south-27",
+    "isWinner": true,
+    "votes": 12543,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "49.4",
+    "rank": 1
+  },
+  {
+    "candidateName": "V.P. SIVAKOLUNDHU",
+    "candidateSlug": "v-p-sivakolundhu",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "LAWSPET - 11",
+    "constituencySlug": "lawspet-11",
+    "isWinner": true,
+    "votes": 10578,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "39.9",
+    "rank": 1
+  },
+  {
+    "candidateName": "ADV. T. ASHOK KUMAR",
+    "candidateSlug": "adv-t-ashok-kumar",
+    "partyName": "IND",
+    "partySlug": "ind",
+    "constituencyName": "MAHE - 29",
+    "constituencySlug": "mahe-29",
+    "isWinner": true,
+    "votes": 8375,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "35.4",
+    "rank": 1
+  },
+  {
+    "candidateName": "B.RAMU",
+    "candidateSlug": "b-ramu",
+    "partyName": "Tamilaga Vettri Kazhagam",
+    "partySlug": "tvk",
+    "constituencyName": "MANAVELY - 20",
+    "constituencySlug": "manavely-20",
+    "isWinner": true,
+    "votes": 13822,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "43.0",
+    "rank": 1
+  },
+  {
+    "candidateName": "N. RANGASAMY",
+    "candidateSlug": "n-rangasamy",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "MANGALAM - 4",
+    "constituencySlug": "mangalam-4",
+    "isWinner": true,
+    "votes": 17917,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "50.9",
+    "rank": 1
+  },
+  {
+    "candidateName": "A. NAMASSIVAYAM",
+    "candidateSlug": "a-namassivayam",
+    "partyName": "BJP",
+    "partySlug": "bjp",
+    "constituencyName": "MANNADIPET - 1",
+    "constituencySlug": "mannadipet-1",
+    "isWinner": true,
+    "votes": 15918,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "54.3",
+    "rank": 1
+  },
+  {
+    "candidateName": "A. JOHNKUMAR",
+    "candidateSlug": "a-johnkumar",
+    "partyName": "BJP",
+    "partySlug": "bjp",
+    "constituencyName": "MUDALIARPET - 18",
+    "constituencySlug": "mudaliarpet-18",
+    "isWinner": true,
+    "votes": 12945,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "41.9",
+    "rank": 1
+  },
+  {
+    "candidateName": "VAIYAPURI MANIKANDAN",
+    "candidateSlug": "vaiyapuri-manikandan",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "MUTHIALPET - 13",
+    "constituencySlug": "muthialpet-13",
+    "isWinner": true,
+    "votes": 8382,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "35.8",
+    "rank": 1
+  },
+  {
+    "candidateName": "DR. V. VIGNESWARAN",
+    "candidateSlug": "dr-v-vigneswaran",
+    "partyName": "IND",
+    "partySlug": "ind",
+    "constituencyName": "NEDUNGADU - 24",
+    "constituencySlug": "nedungadu-24",
+    "isWinner": true,
+    "votes": 14368,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "51.1",
+    "rank": 1
+  },
+  {
+    "candidateName": "V. CARTIGUEYANE",
+    "candidateSlug": "v-cartigueyane",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "NELLITHOPE - 17",
+    "constituencySlug": "nellithope-17",
+    "isWinner": true,
+    "votes": 8226,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "33.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "TKSM MEENATCHISUNDARAM",
+    "candidateSlug": "tksm-meenatchisundaram",
+    "partyName": "BJP",
+    "partySlug": "bjp",
+    "constituencyName": "NERAVY-T.R.PATTINAM - 28",
+    "constituencySlug": "neravy-t-r-pattinam-28",
+    "isWinner": true,
+    "votes": 10818,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "41.0",
+    "rank": 1
+  },
+  {
+    "candidateName": "P. RAJAVELU",
+    "candidateSlug": "p-rajavelu",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "NETTAPAKKAM - 22",
+    "constituencySlug": "nettapakkam-22",
+    "isWinner": true,
+    "votes": 13665,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "47.9",
+    "rank": 1
+  },
+  {
+    "candidateName": "G. NEHRU ALIAS COUPPOUSSAMY",
+    "candidateSlug": "g-nehru-alias-couppoussamy",
+    "partyName": "Neyam Makkal Kazhagam",
+    "partySlug": "neyam-makkal-kazhagam",
+    "constituencyName": "ORLEAMPETH - 16",
+    "constituencySlug": "orleampeth-16",
+    "isWinner": true,
+    "votes": 9960,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "51.2",
+    "rank": 1
+  },
+  {
+    "candidateName": "A ANBALAGAN",
+    "candidateSlug": "a-anbalagan",
+    "partyName": "AIADMK",
+    "partySlug": "aiadmk",
+    "constituencyName": "OUPALAM - 15",
+    "constituencySlug": "oupalam-15",
+    "isWinner": true,
+    "votes": 9099,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "39.8",
+    "rank": 1
+  },
+  {
+    "candidateName": "P. KARTHIKEYAN",
+    "candidateSlug": "p-karthikeyan",
+    "partyName": "INC",
+    "partySlug": "inc",
+    "constituencyName": "OUSSUDU - 3",
+    "constituencySlug": "oussudu-3",
+    "isWinner": true,
+    "votes": 15400,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "49.6",
+    "rank": 1
+  },
+  {
+    "candidateName": "K.NARAYANASAMY ALIAS NITHYANANDAM",
+    "candidateSlug": "k-narayanasamy-alias-nithyanandam",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "OZHUKARAI - 6",
+    "constituencySlug": "ozhukarai-6",
+    "isWinner": true,
+    "votes": 12635,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "35.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "VIGNESH KANNAN",
+    "candidateSlug": "vignesh-kannan",
+    "partyName": "DMK",
+    "partySlug": "dmk",
+    "constituencyName": "RAJ BHAVAN - 14",
+    "constituencySlug": "raj-bhavan-14",
+    "isWinner": true,
+    "votes": 7304,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "39.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "N. RANGASAMY",
+    "candidateSlug": "n-rangasamy",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "THATTANCHAVADY - 9",
+    "constituencySlug": "thattanchavady-9",
+    "isWinner": true,
+    "votes": 10024,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "42.9",
+    "rank": 1
+  },
+  {
+    "candidateName": "AK. SAI J SARAVANAN KUMAR",
+    "candidateSlug": "ak-sai-j-saravanan-kumar",
+    "partyName": "Tamilaga Vettri Kazhagam",
+    "partySlug": "tvk",
+    "constituencyName": "THIRUBHUVANAI - 2",
+    "constituencySlug": "thirubhuvanai-2",
+    "isWinner": true,
+    "votes": 9740,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "32.4",
+    "rank": 1
+  },
+  {
+    "candidateName": "G.N.S. RAJASEKARAN",
+    "candidateSlug": "g-n-s-rajasekaran",
+    "partyName": "BJP",
+    "partySlug": "bjp",
+    "constituencyName": "THIRUNALLAR - 25",
+    "constituencySlug": "thirunallar-25",
+    "isWinner": true,
+    "votes": 16829,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "60.5",
+    "rank": 1
+  },
+  {
+    "candidateName": "B.RAVICOUMAR",
+    "candidateSlug": "b-ravicoumar",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "VILLIANUR - 5",
+    "constituencySlug": "villianur-5",
+    "isWinner": true,
+    "votes": 16970,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "43.4",
+    "rank": 1
+  },
+  {
+    "candidateName": "MALLADI KRISHNA RAO",
+    "candidateSlug": "malladi-krishna-rao",
+    "partyName": "All India N.R. Congress",
+    "partySlug": "all-india-n-r-congress",
+    "constituencyName": "YANAM - 30",
+    "constituencySlug": "yanam-30",
+    "isWinner": true,
+    "votes": 19863,
+    "result": "won",
+    "state": "Puducherry",
+    "stateSlug": "puducherry",
+    "criminalCases": "0",
+    "assets": "0",
+    "education": "N/A",
+    "age": "N/A",
+    "position": 1,
+    "voteShare": "55.7",
+    "rank": 1
   }
 ]
