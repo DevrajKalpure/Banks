@@ -13,9 +13,12 @@
     "education": "Graduate Professional",
     "assets": "2106687",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2803",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 649,
+    "position": 2
   },
   {
     "office": "mla",
@@ -31,9 +34,12 @@
     "education": "Graduate",
     "assets": "560000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2796",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1056,
+    "position": 2
   },
   {
     "office": "mla",
@@ -49,9 +55,12 @@
     "education": "Literate",
     "assets": "96725",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2797",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 100207,
+    "position": 1
   },
   {
     "office": "mla",
@@ -67,9 +76,12 @@
     "education": "Illiterate",
     "assets": "43943093",
     "criminalCases": 18,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=415",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1599,
+    "position": 2
   },
   {
     "office": "mla",
@@ -85,9 +97,12 @@
     "education": "Post Graduate",
     "assets": "12303000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=414",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 711,
+    "position": 2
   },
   {
     "office": "mla",
@@ -103,9 +118,12 @@
     "education": "8th Pass",
     "assets": "10088765",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1472",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 39414,
+    "position": 2
   },
   {
     "office": "mla",
@@ -121,9 +139,12 @@
     "education": "12th Pass",
     "assets": "6605210",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1245",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1345,
+    "position": 2
   },
   {
     "office": "mla",
@@ -139,9 +160,12 @@
     "education": "10th Pass",
     "assets": "3945351",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=626",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 82701,
+    "position": 2
   },
   {
     "office": "mla",
@@ -157,9 +181,12 @@
     "education": "Post Graduate",
     "assets": "3879734",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=318",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 8316,
+    "position": 2
   },
   {
     "office": "mla",
@@ -175,9 +202,12 @@
     "education": "8th Pass",
     "assets": "12253500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=313",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 6371,
+    "position": 2
   },
   {
     "office": "mla",
@@ -193,9 +223,12 @@
     "education": "Graduate",
     "assets": "7390629",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1244",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 625,
+    "position": 2
   },
   {
     "office": "mla",
@@ -211,9 +244,12 @@
     "education": "Graduate Professional",
     "assets": "5714000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=316",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1460,
+    "position": 2
   },
   {
     "office": "mla",
@@ -229,9 +265,12 @@
     "education": "Graduate",
     "assets": "3741072",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2971",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2209,
+    "position": 2
   },
   {
     "office": "mla",
@@ -247,9 +286,12 @@
     "education": "12th Pass",
     "assets": "32618817",
     "criminalCases": 12,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2970",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 93596,
+    "position": 2
   },
   {
     "office": "mla",
@@ -265,9 +307,12 @@
     "education": "Graduate Professional",
     "assets": "4160264",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2969",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1587,
+    "position": 2
   },
   {
     "office": "mla",
@@ -283,9 +328,12 @@
     "education": "12th Pass",
     "assets": "15243604",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2853",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 21943,
+    "position": 2
   },
   {
     "office": "mla",
@@ -301,9 +349,12 @@
     "education": "Post Graduate",
     "assets": "5210000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2851",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 587,
+    "position": 2
   },
   {
     "office": "mla",
@@ -319,9 +370,12 @@
     "education": "10th Pass",
     "assets": "4149459",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2849",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 93686,
+    "position": 1
   },
   {
     "office": "mla",
@@ -337,9 +391,12 @@
     "education": "Graduate",
     "assets": "27538222",
     "criminalCases": 16,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=309",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 111920,
+    "position": 1
   },
   {
     "office": "mla",
@@ -355,9 +412,12 @@
     "education": "Doctorate",
     "assets": "24723407",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=310",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 87687,
+    "position": 2
   },
   {
     "office": "mla",
@@ -373,9 +433,12 @@
     "education": "12th Pass",
     "assets": "6504132",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=616",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1311,
+    "position": 2
   },
   {
     "office": "mla",
@@ -391,9 +454,12 @@
     "education": "Graduate",
     "assets": "53809140",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1596",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 87399,
+    "position": 2
   },
   {
     "office": "mla",
@@ -409,9 +475,12 @@
     "education": "Graduate",
     "assets": "10085521",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1592",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 78743,
+    "position": 2
   },
   {
     "office": "mla",
@@ -427,9 +496,12 @@
     "education": "10th Pass",
     "assets": "6352000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1595",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 658,
+    "position": 2
   },
   {
     "office": "mla",
@@ -445,9 +517,12 @@
     "education": "Graduate",
     "assets": "2208828",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=324",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 10685,
+    "position": 2
   },
   {
     "office": "mla",
@@ -463,9 +538,12 @@
     "education": "5th Pass",
     "assets": "696806",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=326",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 127628,
+    "position": 1
   },
   {
     "office": "mla",
@@ -481,9 +559,12 @@
     "education": "8th Pass",
     "assets": "582800",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=323",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1205,
+    "position": 2
   },
   {
     "office": "mla",
@@ -499,9 +580,12 @@
     "education": "10th Pass",
     "assets": "35491067",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1911",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 73639,
+    "position": 2
   },
   {
     "office": "mla",
@@ -517,9 +601,12 @@
     "education": "Graduate",
     "assets": "24816768",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1913",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9003,
+    "position": 2
   },
   {
     "office": "mla",
@@ -535,9 +622,12 @@
     "education": "Graduate",
     "assets": "12114345",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1915",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 415,
+    "position": 2
   },
   {
     "office": "mla",
@@ -553,9 +643,12 @@
     "education": "10th Pass",
     "assets": "8190783",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1324",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4415,
+    "position": 2
   },
   {
     "office": "mla",
@@ -571,9 +664,12 @@
     "education": "10th Pass",
     "assets": "61318327",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=358",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 74298,
+    "position": 2
   },
   {
     "office": "mla",
@@ -589,9 +685,12 @@
     "education": "8th Pass",
     "assets": "20355345",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=359",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 87744,
+    "position": 1
   },
   {
     "office": "mla",
@@ -607,9 +706,12 @@
     "education": "12th Pass",
     "assets": "25968838",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2583",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 586,
+    "position": 2
   },
   {
     "office": "mla",
@@ -625,9 +727,12 @@
     "education": "Graduate Professional",
     "assets": "16514765",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2579",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1085,
+    "position": 2
   },
   {
     "office": "mla",
@@ -643,9 +748,12 @@
     "education": "Graduate",
     "assets": "15884196",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2578",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 523,
+    "position": 2
   },
   {
     "office": "mla",
@@ -661,9 +769,12 @@
     "education": "8th Pass",
     "assets": "1436880",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=3",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5805,
+    "position": 2
   },
   {
     "office": "mla",
@@ -679,9 +790,12 @@
     "education": "Graduate",
     "assets": "7620374",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=402",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 23263,
+    "position": 2
   },
   {
     "office": "mla",
@@ -697,9 +811,12 @@
     "education": "Graduate Professional",
     "assets": "2412534",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1497",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1185,
+    "position": 2
   },
   {
     "office": "mla",
@@ -715,9 +832,12 @@
     "education": "10th Pass",
     "assets": "289863958",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2363",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 102414,
+    "position": 1
   },
   {
     "office": "mla",
@@ -733,9 +853,12 @@
     "education": "Graduate",
     "assets": "28347945",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2361",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 79125,
+    "position": 2
   },
   {
     "office": "mla",
@@ -751,9 +874,12 @@
     "education": "12th Pass",
     "assets": "3144245",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2362",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1691,
+    "position": 2
   },
   {
     "office": "mla",
@@ -769,9 +895,12 @@
     "education": "Graduate",
     "assets": "2312608",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2340",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 7356,
+    "position": 2
   },
   {
     "office": "mla",
@@ -787,9 +916,12 @@
     "education": "Graduate Professional",
     "assets": "77376584",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2343",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 45615,
+    "position": 2
   },
   {
     "office": "mla",
@@ -805,9 +937,12 @@
     "education": "Graduate",
     "assets": "15747623",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2341",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1136,
+    "position": 2
   },
   {
     "office": "mla",
@@ -823,9 +958,12 @@
     "education": "Others",
     "assets": "1066246",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=404",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2405,
+    "position": 2
   },
   {
     "office": "mla",
@@ -841,9 +979,12 @@
     "education": "Post Graduate",
     "assets": "5458166",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=403",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 76916,
+    "position": 2
   },
   {
     "office": "mla",
@@ -859,9 +1000,12 @@
     "education": "10th Pass",
     "assets": "3894677",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=648",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3186,
+    "position": 2
   },
   {
     "office": "mla",
@@ -877,9 +1021,12 @@
     "education": "Post Graduate",
     "assets": "4846794",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=482",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 12142,
+    "position": 2
   },
   {
     "office": "mla",
@@ -895,9 +1042,12 @@
     "education": "8th Pass",
     "assets": "177048",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=515",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2500,
+    "position": 2
   },
   {
     "office": "mla",
@@ -913,9 +1063,12 @@
     "education": "Graduate",
     "assets": "6738326",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=69",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 700,
+    "position": 2
   },
   {
     "office": "mla",
@@ -931,9 +1084,12 @@
     "education": "10th Pass",
     "assets": "18530621",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=503",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5965,
+    "position": 2
   },
   {
     "office": "mla",
@@ -949,9 +1105,12 @@
     "education": "Graduate",
     "assets": "17142232",
     "criminalCases": 6,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=222",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 105997,
+    "position": 1
   },
   {
     "office": "mla",
@@ -967,9 +1126,12 @@
     "education": "8th Pass",
     "assets": "15376385",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=502",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 29440,
+    "position": 2
   },
   {
     "office": "mla",
@@ -985,9 +1147,12 @@
     "education": "Graduate",
     "assets": "76920652",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1632",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 125,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1003,9 +1168,12 @@
     "education": "12th Pass",
     "assets": "16329069",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1635",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 47071,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1021,9 +1189,12 @@
     "education": "Graduate",
     "assets": "15314395",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1628",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 248,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1039,9 +1210,12 @@
     "education": "Post Graduate",
     "assets": "9170189",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2391",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 119921,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1057,9 +1231,12 @@
     "education": "Post Graduate",
     "assets": "3968016",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2392",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 127802,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1075,9 +1252,12 @@
     "education": "Graduate",
     "assets": "2159654",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2394",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 586,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1111,9 +1291,12 @@
     "education": "Graduate",
     "assets": "4983476",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1566",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 306,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1129,9 +1312,12 @@
     "education": "12th Pass",
     "assets": "183585",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1560",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1257,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1147,9 +1333,12 @@
     "education": "Post Graduate",
     "assets": "3167719",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2545",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 104183,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1165,9 +1354,12 @@
     "education": "12th Pass",
     "assets": "776983",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2542",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 117437,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1183,9 +1375,12 @@
     "education": "10th Pass",
     "assets": "749625",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2546",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 17535,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1201,9 +1396,12 @@
     "education": "10th Pass",
     "assets": "1839098",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=880",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5028,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1219,9 +1417,12 @@
     "education": "Post Graduate",
     "assets": "12235873",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=239",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 89790,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1237,9 +1438,12 @@
     "education": "Post Graduate",
     "assets": "8214309",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=881",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2911,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1255,9 +1459,12 @@
     "education": "10th Pass",
     "assets": "2088551",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=913",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 107833,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1273,9 +1480,12 @@
     "education": "Post Graduate",
     "assets": "1049835",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=385",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 108733,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1291,9 +1501,12 @@
     "education": "5th Pass",
     "assets": "73030",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=110",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 7027,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1309,9 +1522,12 @@
     "education": "Graduate Professional",
     "assets": "68648101",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1658",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 79677,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1327,9 +1543,12 @@
     "education": "Literate",
     "assets": "12998469",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1656",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 114469,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1345,9 +1564,12 @@
     "education": "Graduate",
     "assets": "4930136",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1649",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 338,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1363,9 +1585,12 @@
     "education": "12th Pass",
     "assets": "26453743",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2507",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2114,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1381,9 +1606,12 @@
     "education": "Post Graduate",
     "assets": "18433520",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2505",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 81761,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1399,9 +1627,12 @@
     "education": "Post Graduate",
     "assets": "4462694",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2506",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 96559,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1417,9 +1648,12 @@
     "education": "10th Pass",
     "assets": "23396135",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2008",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 108937,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1435,9 +1669,12 @@
     "education": "10th Pass",
     "assets": "6183270",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2005",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1805,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1453,9 +1690,12 @@
     "education": "Graduate",
     "assets": "6087669",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2006",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 115608,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1471,9 +1711,12 @@
     "education": "Graduate",
     "assets": "202478722",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=321",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 46920,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1489,9 +1732,12 @@
     "education": "Graduate",
     "assets": "13038348",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=320",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4386,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1507,9 +1753,12 @@
     "education": "10th Pass",
     "assets": "12288598",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=322",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 151,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1525,9 +1774,12 @@
     "education": "Post Graduate",
     "assets": "11150464",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2415",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 396,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1543,9 +1795,12 @@
     "education": "Post Graduate",
     "assets": "5116224",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2411",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 665,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1561,9 +1816,12 @@
     "education": "Graduate",
     "assets": "4023280",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2409",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1610,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1579,9 +1837,12 @@
     "education": "Graduate Professional",
     "assets": "30401833",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2787",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 73183,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1597,9 +1858,12 @@
     "education": "Literate",
     "assets": "15153734",
     "criminalCases": 13,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2788",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 104645,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1615,9 +1879,12 @@
     "education": "Graduate",
     "assets": "9862000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2786",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 540,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1633,9 +1900,12 @@
     "education": "12th Pass",
     "assets": "4957411",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2056",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 446,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1651,9 +1921,12 @@
     "education": "Graduate",
     "assets": "1119000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2054",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2307,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1669,9 +1942,12 @@
     "education": "Graduate",
     "assets": "752140",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2051",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4233,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1687,9 +1963,12 @@
     "education": "10th Pass",
     "assets": "13442435",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2247",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 91297,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1705,9 +1984,12 @@
     "education": "Graduate Professional",
     "assets": "12000000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2252",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1733,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1723,9 +2005,12 @@
     "education": "10th Pass",
     "assets": "8254295",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2251",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 104020,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1741,9 +2026,12 @@
     "education": "12th Pass",
     "assets": "37224490",
     "criminalCases": 91,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2569",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 45146,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1759,9 +2047,12 @@
     "education": "8th Pass",
     "assets": "6504613",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2571",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 133,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1777,9 +2068,12 @@
     "education": "12th Pass",
     "assets": "2284835",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2562",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 786,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1795,9 +2089,12 @@
     "education": "12th Pass",
     "assets": "20635016",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1950",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 123462,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1813,9 +2110,12 @@
     "education": "Post Graduate",
     "assets": "3652184",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1948",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 110405,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1831,9 +2131,12 @@
     "education": "Graduate",
     "assets": "569098",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1946",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 843,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1849,9 +2152,12 @@
     "education": "Graduate",
     "assets": "27227815",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2285",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2383,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1867,9 +2173,12 @@
     "education": "Literate",
     "assets": "11850020",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2289",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5134,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1885,9 +2194,12 @@
     "education": "Graduate",
     "assets": "9874309",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2288",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 112138,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1903,9 +2215,12 @@
     "education": "Post Graduate",
     "assets": "35129000",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2886",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 28593,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1921,9 +2236,12 @@
     "education": "Graduate",
     "assets": "18668941",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2887",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 148687,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1939,9 +2257,12 @@
     "education": "8th Pass",
     "assets": "2835660",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2890",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1014,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1957,9 +2278,12 @@
     "education": "Graduate",
     "assets": "48122377",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2041",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 66717,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1975,9 +2299,12 @@
     "education": "Graduate",
     "assets": "12711198",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2044",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 68368,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1993,9 +2320,12 @@
     "education": "8th Pass",
     "assets": "12613896",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2038",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1340,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2011,9 +2341,12 @@
     "education": "8th Pass",
     "assets": "4466448",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=292",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1129,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2029,9 +2362,12 @@
     "education": "10th Pass",
     "assets": "1315816",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=596",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9478,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2047,9 +2383,12 @@
     "education": "8th Pass",
     "assets": "681472",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=597",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4174,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2065,9 +2404,12 @@
     "education": "Graduate",
     "assets": "93331829",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2760",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 78488,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2083,9 +2425,12 @@
     "education": "Graduate Professional",
     "assets": "10716744",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2762",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 289,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2101,9 +2446,12 @@
     "education": "8th Pass",
     "assets": "5403596",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2764",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 191,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2119,9 +2467,12 @@
     "education": "Graduate",
     "assets": "10247608",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2089",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 249,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2137,9 +2488,12 @@
     "education": "Post Graduate",
     "assets": "10236654",
     "criminalCases": 6,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2084",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 99181,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2155,9 +2509,12 @@
     "education": "Others",
     "assets": "8777522",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2090",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 123,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2173,9 +2530,12 @@
     "education": "Post Graduate",
     "assets": "36182656",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1991",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 75546,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2191,9 +2551,12 @@
     "education": "12th Pass",
     "assets": "6442037",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1988",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1181,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2209,9 +2572,12 @@
     "education": "Graduate",
     "assets": "2028",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1984",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 768,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2227,9 +2593,12 @@
     "education": "12th Pass",
     "assets": "102407757",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1954",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1975,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2245,9 +2614,12 @@
     "education": "Graduate",
     "assets": "24188353",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1958",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 90678,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2263,9 +2635,12 @@
     "education": "Post Graduate",
     "assets": "7321190",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1953",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 316,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2281,9 +2656,12 @@
     "education": "Post Graduate",
     "assets": "2830196",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=271",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5940,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2299,9 +2677,12 @@
     "education": "Graduate Professional",
     "assets": "8669715",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=270",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 105780,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2317,9 +2698,12 @@
     "education": "10th Pass",
     "assets": "3770000",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=667",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 265,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2335,9 +2719,12 @@
     "education": "Post Graduate",
     "assets": "12804528",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=128",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 8593,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2353,9 +2740,12 @@
     "education": "Graduate Professional",
     "assets": "15887870",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=217",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 95697,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2371,9 +2761,12 @@
     "education": "Graduate",
     "assets": "12249776",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=216",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 48121,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2389,9 +2782,12 @@
     "education": "Post Graduate",
     "assets": "148559626",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=67",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 82815,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2407,9 +2803,12 @@
     "education": "Graduate",
     "assets": "12875747",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=180",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9702,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2425,9 +2824,12 @@
     "education": "Graduate Professional",
     "assets": "6880814",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=496",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2213,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2443,9 +2845,12 @@
     "education": "Post Graduate",
     "assets": "64861255",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=187",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 114915,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2461,9 +2866,12 @@
     "education": "Post Graduate",
     "assets": "10958204",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=799",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2411,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2479,9 +2887,12 @@
     "education": "Graduate Professional",
     "assets": "5298340",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=188",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 101727,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2497,9 +2908,12 @@
     "education": "Graduate",
     "assets": "32622774",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2013",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 99936,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2515,9 +2929,12 @@
     "education": "10th Pass",
     "assets": "2114637",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2015",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 18732,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2533,9 +2950,12 @@
     "education": "12th Pass",
     "assets": "315554",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2016",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 502,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2551,9 +2971,12 @@
     "education": "Graduate",
     "assets": "14918750",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=581",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2105,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2569,9 +2992,12 @@
     "education": "12th Pass",
     "assets": "7745825",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1212",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 128188,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2587,9 +3013,12 @@
     "education": "Graduate",
     "assets": "4587772",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=584",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 125467,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2605,9 +3034,12 @@
     "education": "8th Pass",
     "assets": "7800962",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1600",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 575,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2623,9 +3055,12 @@
     "education": "Graduate",
     "assets": "3650714",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1606",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 77,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2641,9 +3076,12 @@
     "education": "12th Pass",
     "assets": "3154405",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1602",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1408,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2659,9 +3097,12 @@
     "education": "Graduate",
     "assets": "93954158",
     "criminalCases": 5,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1700",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 128970,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2677,9 +3118,12 @@
     "education": "Graduate",
     "assets": "41473707",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1697",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 93188,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2695,9 +3139,12 @@
     "education": "Post Graduate",
     "assets": "9621906",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1698",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 270,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2713,9 +3160,12 @@
     "education": "Graduate",
     "assets": "13955240",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1667",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 20203,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2731,9 +3181,12 @@
     "education": "Graduate Professional",
     "assets": "11250952",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1663",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 114,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2749,9 +3202,12 @@
     "education": "Post Graduate",
     "assets": "6732988",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1666",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 276,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2767,9 +3223,12 @@
     "education": "Others",
     "assets": "121000158",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1536",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 91570,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2785,9 +3244,12 @@
     "education": "Graduate",
     "assets": "10129631",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1538",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1015,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2803,9 +3265,12 @@
     "education": "Graduate",
     "assets": "909108",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1533",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 251,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2821,9 +3286,12 @@
     "education": "Graduate",
     "assets": "17715067",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=595",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2697,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2839,9 +3307,12 @@
     "education": "Post Graduate",
     "assets": "927005",
     "criminalCases": 6,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=593",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 132856,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2857,9 +3328,12 @@
     "education": "8th Pass",
     "assets": "804000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=594",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 995,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2875,9 +3349,12 @@
     "education": "Graduate",
     "assets": "40327819",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=374",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 74925,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2893,9 +3370,12 @@
     "education": "Graduate",
     "assets": "32887798",
     "criminalCases": 6,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=373",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 103223,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2911,9 +3391,12 @@
     "education": "Graduate Professional",
     "assets": "5600807",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=960",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 687,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2929,9 +3412,12 @@
     "education": "8th Pass",
     "assets": "13453928",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1877",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 343,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2947,9 +3433,12 @@
     "education": "Graduate",
     "assets": "5398513",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1875",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 55211,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2965,9 +3454,12 @@
     "education": "Graduate",
     "assets": "3835060",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1878",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 58233,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2983,9 +3475,12 @@
     "education": "12th Pass",
     "assets": "120604529",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2000",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 74492,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3001,9 +3496,12 @@
     "education": "10th Pass",
     "assets": "11205250",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1996",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 976,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3019,9 +3517,12 @@
     "education": "Graduate",
     "assets": "10134000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1997",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 962,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3037,9 +3538,12 @@
     "education": "12th Pass",
     "assets": "5030056",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=39",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 438,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3055,9 +3559,12 @@
     "education": "12th Pass",
     "assets": "458300",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=852",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 878,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3073,9 +3580,12 @@
     "education": "Graduate",
     "assets": "10124903",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=201",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 100937,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3091,9 +3601,12 @@
     "education": "Doctorate",
     "assets": "19821500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1167",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 11009,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3109,9 +3622,12 @@
     "education": "12th Pass",
     "assets": "10584519",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1169",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 68415,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3127,9 +3643,12 @@
     "education": "Graduate",
     "assets": "6590602",
     "criminalCases": 8,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1168",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 41944,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3145,9 +3664,12 @@
     "education": "12th Pass",
     "assets": "107984586",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2895",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 72832,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3163,9 +3685,12 @@
     "education": "Post Graduate",
     "assets": "25060976",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2897",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 22760,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3181,9 +3706,12 @@
     "education": "Graduate",
     "assets": "19800000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2902",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 156,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3199,9 +3727,12 @@
     "education": "Post Graduate",
     "assets": "2483787",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1613",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 125624,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3217,9 +3748,12 @@
     "education": "10th Pass",
     "assets": "1385000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1610",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1487,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3235,9 +3769,12 @@
     "education": "Post Graduate",
     "assets": "35455",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1615",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1372,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3253,9 +3790,12 @@
     "education": "5th Pass",
     "assets": "1070500",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2114",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 14720,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3271,9 +3811,12 @@
     "education": "5th Pass",
     "assets": "1007000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2120",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1258,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3289,9 +3832,12 @@
     "education": "8th Pass",
     "assets": "236597",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2121",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 988,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3307,9 +3853,12 @@
     "education": "Graduate Professional",
     "assets": "4696469",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1972",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 127091,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3325,9 +3874,12 @@
     "education": "12th Pass",
     "assets": "2895000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1971",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5323,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3343,9 +3895,12 @@
     "education": "10th Pass",
     "assets": "2702695",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1975",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 452,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3361,9 +3916,12 @@
     "education": "Post Graduate",
     "assets": "79318908",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2398",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 53258,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3379,9 +3937,12 @@
     "education": "Post Graduate",
     "assets": "42684605",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2396",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2427,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3397,9 +3958,12 @@
     "education": "Doctorate",
     "assets": "25055652",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2400",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5618,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3415,9 +3979,12 @@
     "education": "8th Pass",
     "assets": "2525702",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2279",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 38437,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3433,9 +4000,12 @@
     "education": "12th Pass",
     "assets": "973003",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2282",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 639,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3451,9 +4021,12 @@
     "education": "Graduate Professional",
     "assets": "452120",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2275",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2015,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3469,9 +4042,12 @@
     "education": "Graduate Professional",
     "assets": "4062660",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1867",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2099,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3487,9 +4063,12 @@
     "education": "Post Graduate",
     "assets": "18501777",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1862",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 25924,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3505,9 +4084,12 @@
     "education": "12th Pass",
     "assets": "10600607",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1864",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1186,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3523,9 +4105,12 @@
     "education": "10th Pass",
     "assets": "1044756390",
     "criminalCases": 5,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2329",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 113034,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3541,9 +4126,12 @@
     "education": "Graduate",
     "assets": "31145226",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2327",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1089,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3559,9 +4147,12 @@
     "education": "Graduate",
     "assets": "15683134",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2330",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 19160,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3577,9 +4168,12 @@
     "education": "Post Graduate",
     "assets": "53089264",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2608",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 6197,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3595,9 +4189,12 @@
     "education": "12th Pass",
     "assets": "31495370",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2609",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 81585,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3613,9 +4210,12 @@
     "education": "Graduate",
     "assets": "5463000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2610",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 820,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3631,9 +4231,12 @@
     "education": "12th Pass",
     "assets": "6034000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2430",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1119,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3649,9 +4252,12 @@
     "education": "Graduate",
     "assets": "1984261",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2425",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 112291,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3667,9 +4273,12 @@
     "education": "12th Pass",
     "assets": "1568511",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2428",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 11491,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3685,9 +4294,12 @@
     "education": "Graduate",
     "assets": "232362924",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1159",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 97185,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3703,9 +4315,12 @@
     "education": "Graduate Professional",
     "assets": "3331914",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=150",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 348,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3721,9 +4336,12 @@
     "education": "Post Graduate",
     "assets": "3022635",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1160",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 547,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3739,9 +4357,12 @@
     "education": "Post Graduate",
     "assets": "6316629",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2862",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 108412,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3757,9 +4378,12 @@
     "education": "Post Graduate",
     "assets": "925348",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2861",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 29188,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3775,9 +4399,12 @@
     "education": "8th Pass",
     "assets": "668323",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2865",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 427,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3793,9 +4420,12 @@
     "education": "12th Pass",
     "assets": "1352199",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2214",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 18700,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3811,9 +4441,12 @@
     "education": "Graduate Professional",
     "assets": "102874561",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2213",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 87613,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3829,9 +4462,12 @@
     "education": "12th Pass",
     "assets": "2326000",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2216",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 613,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3847,9 +4483,12 @@
     "education": "Graduate",
     "assets": "727411882",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=242",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 77131,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3865,9 +4504,12 @@
     "education": "10th Pass",
     "assets": "5788227",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=948",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3019,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3883,9 +4525,12 @@
     "education": "Others",
     "assets": "5410000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=942",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 177,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3901,9 +4546,12 @@
     "education": "Post Graduate",
     "assets": "35214800",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=237",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 107882,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3919,9 +4567,12 @@
     "education": "Graduate",
     "assets": "7425248",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=874",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 500,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3937,9 +4588,12 @@
     "education": "5th Pass",
     "assets": "6927038",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=531",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 13180,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3955,9 +4609,12 @@
     "education": "Others",
     "assets": "121000158",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2747",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 109844,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3973,9 +4630,12 @@
     "education": "12th Pass",
     "assets": "11347728",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2748",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 113332,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3991,9 +4651,12 @@
     "education": "10th Pass",
     "assets": "10959749",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2750",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 498,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4009,9 +4672,12 @@
     "education": "12th Pass",
     "assets": "4807400",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=29",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 806,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4027,9 +4693,12 @@
     "education": "Doctorate",
     "assets": "4139750",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1104",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2879,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4045,9 +4714,12 @@
     "education": "10th Pass",
     "assets": "2571180",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=428",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 775,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4063,9 +4735,12 @@
     "education": "8th Pass",
     "assets": "78688",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=451",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3129,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4081,9 +4756,12 @@
     "education": "Graduate",
     "assets": "11547010",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=450",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 61578,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4099,9 +4777,12 @@
     "education": "Graduate",
     "assets": "10266407",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1124",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1226,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4117,9 +4798,12 @@
     "education": "Graduate",
     "assets": "1524311",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1132",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 6861,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4135,9 +4819,12 @@
     "education": "10th Pass",
     "assets": "2356869",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=441",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 88374,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4153,9 +4840,12 @@
     "education": "8th Pass",
     "assets": "53200",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1127",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1167,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4171,9 +4861,12 @@
     "education": "Doctorate",
     "assets": "15803341",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=614",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 78876,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4189,9 +4882,12 @@
     "education": "Post Graduate",
     "assets": "11621148",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=612",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 283,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4207,9 +4903,12 @@
     "education": "8th Pass",
     "assets": "2350000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1233",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1809,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4225,9 +4924,12 @@
     "education": "Graduate Professional",
     "assets": "10845742",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1587",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 11414,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4243,9 +4945,12 @@
     "education": "12th Pass",
     "assets": "2337599",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1588",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 123000,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4261,9 +4966,12 @@
     "education": "8th Pass",
     "assets": "1435555",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1586",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 94041,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4279,9 +4987,12 @@
     "education": "12th Pass",
     "assets": "132553972",
     "criminalCases": 8,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2917",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 40936,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4297,9 +5008,12 @@
     "education": "Graduate Professional",
     "assets": "16380126",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2916",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2602,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4315,9 +5029,12 @@
     "education": "Illiterate",
     "assets": "1201766",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2920",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 34,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4333,9 +5050,12 @@
     "education": "Graduate",
     "assets": "20040923",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2642",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 559,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4351,9 +5071,12 @@
     "education": "12th Pass",
     "assets": "10060500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2643",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 971,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4369,9 +5092,12 @@
     "education": "Post Graduate",
     "assets": "2743000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2647",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 885,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4387,9 +5113,12 @@
     "education": "Post Graduate",
     "assets": "7339360",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2496",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 15612,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4405,9 +5134,12 @@
     "education": "8th Pass",
     "assets": "2489754",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2497",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 349,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4423,9 +5155,12 @@
     "education": "Literate",
     "assets": "1507119",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2498",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 224,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4441,9 +5176,12 @@
     "education": "Graduate",
     "assets": "3539527",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2383",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 352,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4459,9 +5197,12 @@
     "education": "10th Pass",
     "assets": "1123300",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2385",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 200,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4477,9 +5218,12 @@
     "education": "8th Pass",
     "assets": "367271",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2388",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 546,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4495,9 +5239,12 @@
     "education": "Post Graduate",
     "assets": "9877488",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1333",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 72820,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4513,9 +5260,12 @@
     "education": "Graduate",
     "assets": "1714226",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=367",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 13057,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4531,9 +5281,12 @@
     "education": "Post Graduate",
     "assets": "2996426",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=366",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1375,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4549,9 +5302,12 @@
     "education": "Post Graduate",
     "assets": "83033203",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2700",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 99322,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4567,9 +5323,12 @@
     "education": "Graduate",
     "assets": "22432823",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2699",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 106428,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4585,9 +5344,12 @@
     "education": "10th Pass",
     "assets": "2437660",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2701",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 887,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4603,9 +5365,12 @@
     "education": "Graduate",
     "assets": "85380238",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=486",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 73528,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4621,9 +5386,12 @@
     "education": "Post Graduate",
     "assets": "35595744",
     "criminalCases": 11,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1404",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1955,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4639,9 +5407,12 @@
     "education": "10th Pass",
     "assets": "10831000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=460",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 852,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4657,9 +5428,12 @@
     "education": "Post Graduate",
     "assets": "10318474",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=419",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 10818,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4675,9 +5449,12 @@
     "education": "Post Graduate",
     "assets": "6462974",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=420",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 106571,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4693,9 +5470,12 @@
     "education": "Graduate",
     "assets": "2739755",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=104",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1476,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4711,9 +5491,12 @@
     "education": "Others",
     "assets": "5918000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=550",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 515,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4729,9 +5512,12 @@
     "education": "Doctorate",
     "assets": "5768737",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=694",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 748,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4747,9 +5533,12 @@
     "education": "Graduate",
     "assets": "2467131",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=551",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 56521,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4765,9 +5554,12 @@
     "education": "Post Graduate",
     "assets": "6031227",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=424",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 97826,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4783,9 +5575,12 @@
     "education": "Graduate Professional",
     "assets": "4826749",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1107",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 391,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4801,9 +5596,12 @@
     "education": "Post Graduate",
     "assets": "4338373",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1110",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 113713,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4819,9 +5617,12 @@
     "education": "Post Graduate",
     "assets": "9962718",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=501",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2859,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4837,9 +5638,12 @@
     "education": "Graduate",
     "assets": "108931440",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=219",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 72872,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4855,9 +5659,12 @@
     "education": "10th Pass",
     "assets": "49662390",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=773",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 39962,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4873,9 +5680,12 @@
     "education": "Graduate Professional",
     "assets": "43827952",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2178",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 950,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4891,9 +5701,12 @@
     "education": "Graduate",
     "assets": "14397276",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2180",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 85644,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4909,9 +5722,12 @@
     "education": "12th Pass",
     "assets": "7832708",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2184",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 156,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4927,9 +5743,12 @@
     "education": "Graduate Professional",
     "assets": "219585917",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1814",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 41148,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4945,9 +5764,12 @@
     "education": "Graduate Professional",
     "assets": "31518175",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1811",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 78483,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4963,9 +5785,12 @@
     "education": "Graduate",
     "assets": "19974563",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1812",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1502,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4981,9 +5806,12 @@
     "education": "Graduate",
     "assets": "7812146",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=504",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2040,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4999,9 +5827,12 @@
     "education": "Graduate",
     "assets": "3772790",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=68",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 84261,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5017,9 +5848,12 @@
     "education": "12th Pass",
     "assets": "3566000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=930",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1908,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5035,9 +5869,12 @@
     "education": "10th Pass",
     "assets": "21837040",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=267",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 96068,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5053,9 +5890,12 @@
     "education": "Graduate",
     "assets": "10757668",
     "criminalCases": 12,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=170",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 122525,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5071,9 +5911,12 @@
     "education": "Others",
     "assets": "2449215",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=266",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4863,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5089,9 +5932,12 @@
     "education": "8th Pass",
     "assets": "1057566527",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=500",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 84109,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5107,9 +5953,12 @@
     "education": "Graduate",
     "assets": "3983204",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=183",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 14868,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5125,9 +5974,12 @@
     "education": "Graduate Professional",
     "assets": "2965619",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=182",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 125419,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5143,9 +5995,12 @@
     "education": "8th Pass",
     "assets": "256819938",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=380",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 113104,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5161,9 +6016,12 @@
     "education": "12th Pass",
     "assets": "8742374",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=381",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 64140,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5179,9 +6037,12 @@
     "education": "Doctorate",
     "assets": "8239000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1045",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 354,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5197,9 +6058,12 @@
     "education": "Graduate",
     "assets": "105229491",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1532",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 146435,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5215,9 +6079,12 @@
     "education": "Graduate",
     "assets": "6771000",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1527",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 331,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5233,9 +6100,12 @@
     "education": "12th Pass",
     "assets": "295101",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1525",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 629,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5251,9 +6121,12 @@
     "education": "8th Pass",
     "assets": "113479650",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=88",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 128454,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5269,9 +6142,12 @@
     "education": "Graduate",
     "assets": "84415638",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=331",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4367,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5287,9 +6163,12 @@
     "education": "Post Graduate",
     "assets": "4806475",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1437",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 521,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5305,9 +6184,12 @@
     "education": "Graduate",
     "assets": "39397424",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2296",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 94813,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5323,9 +6205,12 @@
     "education": "Post Graduate",
     "assets": "1520965",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2299",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 261,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5341,9 +6226,12 @@
     "education": "Graduate",
     "assets": "604074",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2298",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 347,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5359,9 +6247,12 @@
     "education": "12th Pass",
     "assets": "3248000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=178",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1895,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5377,9 +6268,12 @@
     "education": "Post Graduate",
     "assets": "2997967",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=758",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1154,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5395,9 +6289,12 @@
     "education": "8th Pass",
     "assets": "239668",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=762",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 15474,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5413,9 +6310,12 @@
     "education": "Post Graduate",
     "assets": "4125866",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1042",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5050,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5431,9 +6331,12 @@
     "education": "Illiterate",
     "assets": "2331000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1037",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 508,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5449,9 +6352,12 @@
     "education": "Post Graduate",
     "assets": "2256000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=256",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 93349,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5467,9 +6373,12 @@
     "education": "Doctorate",
     "assets": "11956715",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1447",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1168,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5485,9 +6394,12 @@
     "education": "10th Pass",
     "assets": "9295849",
     "criminalCases": 16,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=468",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 143340,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5503,9 +6415,12 @@
     "education": "8th Pass",
     "assets": "3661500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=467",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 192,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5521,9 +6436,12 @@
     "education": "12th Pass",
     "assets": "6486014",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2537",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1553,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5539,9 +6457,12 @@
     "education": "Graduate Professional",
     "assets": "16528510",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2534",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 92246,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5557,9 +6478,12 @@
     "education": "10th Pass",
     "assets": "10555885",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2535",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1933,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5575,9 +6499,12 @@
     "education": "12th Pass",
     "assets": "73005919",
     "criminalCases": 6,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1838",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 17594,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5593,9 +6520,12 @@
     "education": "Graduate Professional",
     "assets": "66771155",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1840",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 119320,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5611,9 +6541,12 @@
     "education": "Graduate",
     "assets": "12186463",
     "criminalCases": 5,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1837",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 88054,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5629,9 +6562,12 @@
     "education": "Graduate",
     "assets": "19458428",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2270",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 13703,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5647,9 +6583,12 @@
     "education": "12th Pass",
     "assets": "10333070",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2269",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 100600,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5665,9 +6604,12 @@
     "education": "12th Pass",
     "assets": "8204612",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2271",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1276,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5683,9 +6625,12 @@
     "education": "Graduate",
     "assets": "224743165",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1648",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 109373,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5701,9 +6646,12 @@
     "education": "Post Graduate",
     "assets": "3121053",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1646",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 610,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5737,9 +6685,12 @@
     "education": "10th Pass",
     "assets": "20185420",
     "criminalCases": 5,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2420",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1099,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5755,9 +6706,12 @@
     "education": "Graduate",
     "assets": "8984132",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2419",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 8772,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5773,9 +6727,12 @@
     "education": "5th Pass",
     "assets": "4159436",
     "criminalCases": 18,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2417",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 85368,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5791,9 +6748,12 @@
     "education": "Graduate",
     "assets": "23196900",
     "criminalCases": 9,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=435",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 76106,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5809,9 +6769,12 @@
     "education": "Post Graduate",
     "assets": "12639213",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=101",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 10149,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5827,9 +6790,12 @@
     "education": "8th Pass",
     "assets": "275600",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=102",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 724,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5845,9 +6811,12 @@
     "education": "10th Pass",
     "assets": "4384584",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=779",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3665,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5863,9 +6832,12 @@
     "education": "Post Graduate",
     "assets": "8306728",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=44",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 961,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5881,9 +6853,12 @@
     "education": "Post Graduate",
     "assets": "577000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=778",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1020,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5899,9 +6874,12 @@
     "education": "Post Graduate",
     "assets": "12423000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=542",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9352,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5917,9 +6895,12 @@
     "education": "10th Pass",
     "assets": "4816170",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=22",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 462,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5935,9 +6916,12 @@
     "education": "Post Graduate",
     "assets": "3737636",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=259",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 93893,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5953,9 +6937,12 @@
     "education": "Post Graduate",
     "assets": "19896277",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1753",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1647,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5971,9 +6958,12 @@
     "education": "12th Pass",
     "assets": "5914631",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1755",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 12839,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5989,9 +6979,12 @@
     "education": "12th Pass",
     "assets": "2777000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1749",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 934,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6007,9 +7000,12 @@
     "education": "Post Graduate",
     "assets": "46779526",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2072",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9062,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6025,9 +7021,12 @@
     "education": "Graduate",
     "assets": "347240611",
     "criminalCases": 10,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2075",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 73442,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6043,9 +7042,12 @@
     "education": "Graduate Professional",
     "assets": "56321422",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2077",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 219,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6061,9 +7063,12 @@
     "education": "12th Pass",
     "assets": "7170993",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=455",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 112095,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6079,9 +7084,12 @@
     "education": "Graduate",
     "assets": "85001",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1170",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 600,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6097,9 +7105,12 @@
     "education": "Graduate",
     "assets": "41461",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=456",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5831,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6115,9 +7126,12 @@
     "education": "Post Graduate",
     "assets": "7309374",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=103",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 13380,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6133,9 +7147,12 @@
     "education": "Graduate Professional",
     "assets": "5419909",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=423",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 126241,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6151,9 +7168,12 @@
     "education": "Graduate",
     "assets": "1472039",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1114",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2890,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6169,9 +7189,12 @@
     "education": "Graduate Professional",
     "assets": "6441819",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1742",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 95157,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6187,9 +7210,12 @@
     "education": "Graduate",
     "assets": "1559014",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1743",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 914,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6205,9 +7231,12 @@
     "education": "Literate",
     "assets": "490309",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1744",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 107692,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6223,9 +7252,12 @@
     "education": "12th Pass",
     "assets": "63819886",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2945",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 56289,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6241,9 +7273,12 @@
     "education": "8th Pass",
     "assets": "13684540",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2950",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 56,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6259,9 +7294,12 @@
     "education": "Graduate",
     "assets": "7617624",
     "criminalCases": 19,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2943",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 67539,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6277,9 +7315,12 @@
     "education": "Graduate",
     "assets": "18116562",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=120",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 18999,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6295,9 +7336,12 @@
     "education": "Graduate",
     "assets": "16607644",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=534",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2883,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6313,9 +7357,12 @@
     "education": "Graduate",
     "assets": "2427862",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=952",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 563,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6331,9 +7378,12 @@
     "education": "Graduate",
     "assets": "5050957",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2939",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 325,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6349,9 +7399,12 @@
     "education": "5th Pass",
     "assets": "1642308",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2942",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 356,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6367,9 +7420,12 @@
     "education": "Doctorate",
     "assets": "718421",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2935",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 38428,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6385,9 +7441,12 @@
     "education": "12th Pass",
     "assets": "15811000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1285",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1273,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6403,9 +7462,12 @@
     "education": "Graduate Professional",
     "assets": "10038212",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=161",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 80501,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6421,9 +7483,12 @@
     "education": "12th Pass",
     "assets": "9105496",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=91",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 8048,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6439,9 +7504,12 @@
     "education": "8th Pass",
     "assets": "23758335",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2189",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 92079,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6457,9 +7525,12 @@
     "education": "Graduate Professional",
     "assets": "11217514",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2191",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1171,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6475,9 +7546,12 @@
     "education": "Graduate",
     "assets": "1950120",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2190",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 59787,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6493,9 +7567,12 @@
     "education": "Graduate",
     "assets": "15813807",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2487",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 7727,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6511,9 +7588,12 @@
     "education": "10th Pass",
     "assets": "2548799",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2491",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 337,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6529,9 +7609,12 @@
     "education": "12th Pass",
     "assets": "1935700",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2484",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1505,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6547,9 +7630,12 @@
     "education": "12th Pass",
     "assets": "44045813",
     "criminalCases": 15,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1189",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 110033,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6565,9 +7651,12 @@
     "education": "12th Pass",
     "assets": "14305785",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1190",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 983,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6583,9 +7672,12 @@
     "education": "Post Graduate",
     "assets": "12497904",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1191",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4645,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6601,9 +7693,12 @@
     "education": "Graduate",
     "assets": "148301217",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2149",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 58456,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6619,9 +7714,12 @@
     "education": "12th Pass",
     "assets": "8221064",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2147",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 867,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6637,9 +7735,12 @@
     "education": "5th Pass",
     "assets": "4571504",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2157",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 252,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6655,9 +7756,12 @@
     "education": "Graduate",
     "assets": "7103969",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=560",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1532,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6673,9 +7777,12 @@
     "education": "10th Pass",
     "assets": "1816148",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=273",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 124537,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6691,9 +7798,12 @@
     "education": "12th Pass",
     "assets": "104750",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1199",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 950,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6709,9 +7819,12 @@
     "education": "Graduate",
     "assets": "47948020",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2030",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 95049,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6727,9 +7840,12 @@
     "education": "Graduate",
     "assets": "6445113",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2029",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 19334,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6745,9 +7861,12 @@
     "education": "Post Graduate",
     "assets": "603269",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2028",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 10854,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6763,9 +7882,12 @@
     "education": "12th Pass",
     "assets": "54957820",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=658",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 77620,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6781,9 +7903,12 @@
     "education": "10th Pass",
     "assets": "5304684",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=369",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 103478,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6799,9 +7924,12 @@
     "education": "Graduate",
     "assets": "2251768",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=370",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9708,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6817,9 +7945,12 @@
     "education": "Graduate",
     "assets": "10395662",
     "criminalCases": 9,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2878",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 120548,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6835,9 +7966,12 @@
     "education": "Post Graduate",
     "assets": "3859249",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2879",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 79883,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6853,9 +7987,12 @@
     "education": "Graduate",
     "assets": "3651865",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2880",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1058,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6871,9 +8008,12 @@
     "education": "10th Pass",
     "assets": "315520",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2831",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 876,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6889,9 +8029,12 @@
     "education": "Literate",
     "assets": "96659",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2833",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1028,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6907,9 +8050,12 @@
     "education": "Graduate",
     "assets": "2000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2829",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1914,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6925,9 +8071,12 @@
     "education": "Post Graduate",
     "assets": "79923582",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1847",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 70197,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6943,9 +8092,12 @@
     "education": "Graduate",
     "assets": "21621377",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1846",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 80612,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6961,9 +8113,12 @@
     "education": "Graduate",
     "assets": "4033624",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1845",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1764,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6979,9 +8134,12 @@
     "education": "Graduate",
     "assets": "2664860",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1921",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9185,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6997,9 +8155,12 @@
     "education": "Post Graduate",
     "assets": "23607896",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1919",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 84916,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7015,9 +8176,12 @@
     "education": "Graduate",
     "assets": "10440525",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1922",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 134498,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7033,9 +8197,12 @@
     "education": "Post Graduate",
     "assets": "7518621",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2525",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4700,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7051,9 +8218,12 @@
     "education": "Post Graduate",
     "assets": "27896788",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2527",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 121307,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7069,9 +8239,12 @@
     "education": "Graduate",
     "assets": "5552311",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2526",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 86691,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7087,9 +8260,12 @@
     "education": "Graduate",
     "assets": "124854118",
     "criminalCases": 8,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2638",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 448,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7105,9 +8281,12 @@
     "education": "Post Graduate",
     "assets": "9086501",
     "criminalCases": 8,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2633",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 18689,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7123,9 +8302,12 @@
     "education": "Graduate",
     "assets": "4187431",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2634",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 64774,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7141,9 +8323,12 @@
     "education": "10th Pass",
     "assets": "128816090",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2232",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 111004,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7159,9 +8344,12 @@
     "education": "Post Graduate",
     "assets": "10668397",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2235",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 94342,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7177,9 +8365,12 @@
     "education": "5th Pass",
     "assets": "6758500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2238",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1288,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7195,9 +8386,12 @@
     "education": "Graduate",
     "assets": "2039914",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2453",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 20644,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7213,9 +8407,12 @@
     "education": "Graduate",
     "assets": "22372685",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2454",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 85647,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7231,9 +8428,12 @@
     "education": "Graduate",
     "assets": "4036410",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2457",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 537,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7249,9 +8449,12 @@
     "education": "Post Graduate",
     "assets": "16603295",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=283",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 119089,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7267,9 +8470,12 @@
     "education": "Doctorate",
     "assets": "11956715",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=579",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 752,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7285,9 +8491,12 @@
     "education": "12th Pass",
     "assets": "4502094",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=282",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 144367,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7303,9 +8512,12 @@
     "education": "Graduate",
     "assets": "66200535",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1030",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 113752,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7321,9 +8533,12 @@
     "education": "Post Graduate",
     "assets": "50421733",
     "criminalCases": 11,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1028",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 14238,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7339,9 +8554,12 @@
     "education": "Graduate",
     "assets": "24711051",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=255",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 87527,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7357,9 +8575,12 @@
     "education": "10th Pass",
     "assets": "33371335",
     "criminalCases": 9,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2816",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 77284,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7375,9 +8596,12 @@
     "education": "Graduate",
     "assets": "13620247",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2824",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 375,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7393,9 +8617,12 @@
     "education": "Post Graduate",
     "assets": "10631744",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2822",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 746,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7411,9 +8638,12 @@
     "education": "Post Graduate",
     "assets": "5607945",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=793",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3646,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7429,9 +8659,12 @@
     "education": "Graduate",
     "assets": "525103",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=226",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 111082,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7447,9 +8680,12 @@
     "education": "5th Pass",
     "assets": "385934",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=794",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1668,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7465,9 +8701,12 @@
     "education": "Post Graduate",
     "assets": "8788651",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1712",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 107189,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7483,9 +8722,12 @@
     "education": "Post Graduate",
     "assets": "5812808",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1710",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 12921,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7501,9 +8743,12 @@
     "education": "8th Pass",
     "assets": "2242000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1714",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1162,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7519,9 +8764,12 @@
     "education": "Graduate",
     "assets": "16195750",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1981",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 102653,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7537,9 +8785,12 @@
     "education": "8th Pass",
     "assets": "7548064",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1976",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 605,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7555,9 +8806,12 @@
     "education": "Post Graduate",
     "assets": "145885",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1983",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 19674,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7573,9 +8827,12 @@
     "education": "Others",
     "assets": "69168067",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 121584,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7591,9 +8848,12 @@
     "education": "12th Pass",
     "assets": "3812271",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=99",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 327,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7609,9 +8869,12 @@
     "education": "Post Graduate",
     "assets": "3414361",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=453",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 11490,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7627,9 +8890,12 @@
     "education": "Post Graduate",
     "assets": "28759994",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=477",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 94294,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7645,9 +8911,12 @@
     "education": "Doctorate",
     "assets": "19186080",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1367",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1105,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7663,9 +8932,12 @@
     "education": "10th Pass",
     "assets": "11378832",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=476",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1017,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7681,9 +8953,12 @@
     "education": "Post Graduate",
     "assets": "7176695",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=37",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4782,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7699,9 +8974,12 @@
     "education": "Post Graduate",
     "assets": "8129072",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=175",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 31686,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7717,9 +8995,12 @@
     "education": "Post Graduate",
     "assets": "4120748",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=732",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 71846,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7735,9 +9016,12 @@
     "education": "8th Pass",
     "assets": "4626024",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=998",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 679,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7753,9 +9037,12 @@
     "education": "10th Pass",
     "assets": "5075100",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=996",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 545,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7771,9 +9058,12 @@
     "education": "Graduate",
     "assets": "4100000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=999",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2966,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7789,9 +9079,12 @@
     "education": "12th Pass",
     "assets": "99362319",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2838",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 60726,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7807,9 +9100,12 @@
     "education": "Graduate Professional",
     "assets": "40189113",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2840",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 279,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7825,9 +9121,12 @@
     "education": "Graduate",
     "assets": "35484208",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2841",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 184,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7843,9 +9142,12 @@
     "education": "8th Pass",
     "assets": "20524682",
     "criminalCases": 9,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=229",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 155327,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7861,9 +9163,12 @@
     "education": "Graduate",
     "assets": "9403905",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=643",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1939,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7879,9 +9184,12 @@
     "education": "Post Graduate",
     "assets": "8050000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=1467",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 403,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7897,9 +9205,12 @@
     "education": "Post Graduate",
     "assets": "157226453",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2723",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 97979,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7915,9 +9226,12 @@
     "education": "10th Pass",
     "assets": "80636990",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2725",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 246,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7933,8 +9247,11 @@
     "education": "Post Graduate",
     "assets": "21724410",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2724",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 13956,
+    "position": 2
   }
 ]
