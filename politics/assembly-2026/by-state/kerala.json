@@ -18,7 +18,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 50874,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -39,7 +40,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 26984,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -60,7 +62,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 56646,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -81,7 +84,8 @@
     "votes": 63926,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=133",
     "lastUpdated": "2026-05-05",
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -102,7 +106,8 @@
     "votes": 386,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=518",
     "lastUpdated": "2026-05-05",
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -123,7 +128,8 @@
     "votes": 62914,
     "isWinner": false,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=11",
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -142,9 +148,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=405",
     "lastUpdated": "2026-05-05",
-    "votes": 318,
+    "votes": 448,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -165,7 +172,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 26543,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -183,7 +191,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=406",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 538,
+    "position": 2
   },
   {
     "office": "mla",
@@ -204,7 +215,8 @@
     "votes": 57192,
     "isWinner": true,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=188",
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -225,7 +237,8 @@
     "votes": 52214,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=189",
     "lastUpdated": "2026-05-05",
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -246,7 +259,8 @@
     "votes": 29730,
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=731",
     "lastUpdated": "2026-05-05",
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -267,7 +281,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 49220,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -288,7 +303,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 69743,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -309,7 +325,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1444,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -330,7 +347,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64959,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -351,7 +369,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1035,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -372,7 +391,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 69522,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -393,7 +413,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 48046,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -414,7 +435,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 71202,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -435,7 +457,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 228,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -456,7 +479,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 96948,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -477,7 +501,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 21212,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -498,7 +523,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 79,
     "rank": 8,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -519,7 +545,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 48908,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -540,7 +567,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 42262,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -561,7 +589,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 197,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -582,7 +611,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 80606,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -603,7 +633,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64294,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -624,7 +655,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1578,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -645,7 +677,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 35723,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -666,7 +699,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 237,
     "rank": 8,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -687,7 +721,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 463,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -708,7 +743,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 49153,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -750,7 +786,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55,
     "rank": 10,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -771,7 +808,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 76640,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -792,7 +830,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 69153,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -813,7 +852,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 8432,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -834,7 +874,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 18107,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -855,7 +896,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 66521,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -876,7 +918,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 289,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -897,7 +940,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 60050,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -918,7 +962,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 98,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -939,7 +984,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 163,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -960,7 +1006,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 65500,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -981,7 +1028,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 31510,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1002,7 +1050,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 692,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1023,7 +1072,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 65448,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1044,7 +1094,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 653,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1065,7 +1116,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 335,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1086,7 +1138,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 6018,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1107,7 +1160,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 121074,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1128,7 +1182,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1267,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1149,7 +1204,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 190,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1170,7 +1226,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 68727,
     "rank": 2,
-    "isWinner": true
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1186,12 +1243,13 @@
     "education": "Graduate",
     "assets": "2610582",
     "criminalCases": 1,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=60",
     "lastUpdated": "2026-05-05",
-    "votes": 366,
+    "votes": 83216,
     "rank": 5,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1212,7 +1270,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 15051,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1233,7 +1292,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 68042,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1254,7 +1314,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 77,
     "rank": 8,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1275,7 +1336,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 91598,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1294,9 +1356,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=146",
     "lastUpdated": "2026-05-05",
-    "votes": 2110,
+    "votes": 78285,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1317,7 +1380,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 227,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1338,7 +1402,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 100718,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1357,9 +1422,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=471",
     "lastUpdated": "2026-05-05",
-    "votes": 3698,
+    "votes": 49429,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1377,7 +1443,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=472",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3698,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1398,7 +1467,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 131632,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1419,7 +1489,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 712,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1440,7 +1511,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 2060,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1461,7 +1533,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 79661,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1482,7 +1555,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 16039,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1503,7 +1577,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 65014,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1522,9 +1597,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=398",
     "lastUpdated": "2026-05-05",
-    "votes": 115,
+    "votes": 64602,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1545,7 +1621,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 17476,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1566,7 +1643,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64951,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1587,7 +1665,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 114997,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1608,7 +1687,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 58980,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1629,7 +1709,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 441,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1645,12 +1726,13 @@
     "education": "Graduate Professional",
     "assets": "29972619",
     "criminalCases": 10,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=1",
     "lastUpdated": "2026-05-05",
-    "votes": 113,
+    "votes": 104888,
     "rank": 7,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1671,7 +1753,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 7240,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1690,9 +1773,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=218",
     "lastUpdated": "2026-05-05",
-    "votes": 205,
+    "votes": 72457,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1708,12 +1792,13 @@
     "education": "12th Pass",
     "assets": "38193491",
     "criminalCases": 5,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=326",
     "lastUpdated": "2026-05-05",
-    "votes": 305,
+    "votes": 95863,
     "rank": 5,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1734,7 +1819,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1145,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1755,7 +1841,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 141,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1797,7 +1884,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 198,
     "rank": 10,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1818,7 +1906,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 16089,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1839,7 +1928,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 95164,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1858,9 +1948,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=127",
     "lastUpdated": "2026-05-05",
-    "votes": 121,
+    "votes": 58482,
     "rank": 11,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1881,7 +1972,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 88,
     "rank": 13,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1897,12 +1989,13 @@
     "education": "8th Pass",
     "assets": "74519741",
     "criminalCases": 7,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=779",
     "lastUpdated": "2026-05-05",
-    "votes": 95,
+    "votes": 88197,
     "rank": 5,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1923,7 +2016,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 12035,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1941,7 +2035,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=780",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 95,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1962,7 +2059,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 106108,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1983,7 +2081,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 8634,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2002,9 +2101,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=344",
     "lastUpdated": "2026-05-05",
-    "votes": 130,
+    "votes": 57,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2025,7 +2125,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 77824,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2046,7 +2147,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 272,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2067,7 +2169,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 230,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2086,9 +2189,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=183",
     "lastUpdated": "2026-05-05",
-    "votes": 314,
+    "votes": 76163,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2109,7 +2213,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 11506,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2125,12 +2230,13 @@
     "education": "Post Graduate",
     "assets": "11032300",
     "criminalCases": 61,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=182",
     "lastUpdated": "2026-05-05",
-    "votes": 207,
+    "votes": 99763,
     "rank": 7,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2151,7 +2257,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 50207,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2167,9 +2274,12 @@
     "education": "Post Graduate",
     "assets": "113082802",
     "criminalCases": 2,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=846",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 56900,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2190,7 +2300,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 36172,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2211,7 +2322,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 34983,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2232,7 +2344,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 95,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2253,7 +2366,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 347,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2274,7 +2388,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 54066,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2295,7 +2410,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 33264,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2316,7 +2432,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1263,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2337,7 +2454,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 90606,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2358,7 +2476,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 10671,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2379,7 +2498,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64703,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2400,7 +2520,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 58542,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2421,7 +2542,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 60380,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2442,7 +2564,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 400,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2463,7 +2586,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 50590,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2484,7 +2608,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 15032,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2505,7 +2630,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 45357,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2526,7 +2652,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 118111,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2547,7 +2674,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 10558,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2565,7 +2693,10 @@
     "criminalCases": 3,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=511",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 4557,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2586,7 +2717,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 429,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2607,7 +2739,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 47567,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2628,7 +2761,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 30942,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2649,7 +2783,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64071,
     "rank": 2,
-    "isWinner": true
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2670,7 +2805,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 28947,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2688,7 +2824,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=81",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 466,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2709,7 +2848,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 40505,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2730,7 +2870,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 84796,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2751,7 +2892,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 12679,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2772,7 +2914,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 18537,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2793,7 +2936,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 63416,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2814,7 +2958,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 46586,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2835,7 +2980,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 122,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2856,7 +3002,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 84031,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2877,7 +3024,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 83,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2898,7 +3046,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 29919,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2919,7 +3068,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 318,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2940,7 +3090,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 340,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -2956,12 +3107,13 @@
     "education": "Post Graduate",
     "assets": "3344996",
     "criminalCases": 3,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=817",
     "lastUpdated": "2026-05-05",
-    "votes": 140,
+    "votes": 81429,
     "rank": 6,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -2982,7 +3134,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 76342,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3003,7 +3156,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 13042,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3024,7 +3178,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 52680,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3045,7 +3200,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 41885,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3066,7 +3222,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 32463,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3087,7 +3244,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 23760,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3108,7 +3266,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 61907,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3129,7 +3288,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 118,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3150,7 +3310,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 8020,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3187,12 +3348,13 @@
     "education": "Graduate Professional",
     "assets": "16405823",
     "criminalCases": 1,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=215",
     "lastUpdated": "2026-05-05",
-    "votes": 66,
+    "votes": 76140,
     "rank": 9,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3213,7 +3375,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 49710,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3234,7 +3397,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 262,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3255,7 +3419,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 38231,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3276,7 +3441,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 47623,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3297,7 +3463,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 57,
     "rank": 9,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3318,7 +3485,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55991,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3339,7 +3507,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 14295,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3357,7 +3526,10 @@
     "criminalCases": 2,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=479",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2477,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3375,7 +3547,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=478",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 94,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3393,7 +3568,10 @@
     "criminalCases": 3,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=859",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 193,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3411,7 +3589,10 @@
     "criminalCases": 8,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=858",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 23545,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3427,9 +3608,12 @@
     "education": "Graduate Professional",
     "assets": "12249395",
     "criminalCases": 56,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=236",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 79913,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3450,7 +3634,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 48585,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3471,7 +3656,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 42476,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3492,7 +3678,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1025,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3513,7 +3700,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 859,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3534,7 +3722,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 59028,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3555,7 +3744,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 24925,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3574,9 +3764,10 @@
     "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=330",
     "lastUpdated": "2026-05-05",
-    "votes": 64112,
+    "votes": 66112,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3597,7 +3788,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 50464,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3618,7 +3810,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 13637,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3639,7 +3832,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 113622,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3660,7 +3854,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 2222,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3681,7 +3876,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55735,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3702,7 +3898,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 25380,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3723,7 +3920,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 677,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3744,7 +3942,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 79661,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3765,7 +3964,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 48469,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3783,7 +3983,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=740",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1151,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3804,7 +4007,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 417,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3825,7 +4029,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 43078,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3846,7 +4051,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 53224,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3867,7 +4073,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 144,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3888,7 +4095,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 67180,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3909,7 +4117,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 23200,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3930,7 +4139,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 51444,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3951,7 +4161,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 23933,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -3972,7 +4183,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 65162,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -3993,7 +4205,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 488,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4014,7 +4227,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 20297,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4035,7 +4249,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 158,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4054,9 +4269,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=285",
     "lastUpdated": "2026-05-05",
-    "votes": 123,
+    "votes": 51584,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4077,7 +4293,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 59163,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4098,7 +4315,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 41372,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4119,7 +4337,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 905,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4140,7 +4359,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 15282,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4161,7 +4381,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 104,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4182,7 +4403,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 152,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4203,7 +4425,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 70292,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4224,7 +4447,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 380,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4245,7 +4469,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 212,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4266,7 +4491,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 20334,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4287,7 +4513,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 74469,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4308,7 +4535,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 65145,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4329,7 +4557,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 66153,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4350,7 +4579,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 26337,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4371,7 +4601,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55821,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4392,7 +4623,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 50308,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4413,7 +4645,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 17993,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4434,7 +4667,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 54652,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4455,7 +4689,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 46654,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4476,7 +4711,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 657,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4497,7 +4733,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1562,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4518,7 +4755,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 46740,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4539,7 +4777,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 70562,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4560,7 +4799,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 9410,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4581,7 +4821,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 21424,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4602,7 +4843,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 33164,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4620,7 +4862,10 @@
     "criminalCases": 1,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=721",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 551,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4639,9 +4884,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=616",
     "lastUpdated": "2026-05-05",
-    "votes": 160,
+    "votes": 62995,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4662,7 +4908,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 13110,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4683,7 +4930,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 81428,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4704,7 +4952,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1538,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4725,7 +4974,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 71944,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4746,7 +4996,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 560,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4767,7 +5018,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 10157,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4788,7 +5040,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64916,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4809,7 +5062,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 44895,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4830,7 +5084,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 69703,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4851,7 +5106,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 60819,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4872,7 +5128,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 19737,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4891,9 +5148,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=645",
     "lastUpdated": "2026-05-05",
-    "votes": 671,
+    "votes": 69162,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4914,7 +5172,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 560,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4932,7 +5191,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=648",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 671,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4948,12 +5210,13 @@
     "education": "Graduate Professional",
     "assets": "50697027",
     "criminalCases": 16,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=65",
     "lastUpdated": "2026-05-05",
-    "votes": 261,
+    "votes": 65325,
     "rank": 6,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -4974,7 +5237,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 58815,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -4992,7 +5256,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=438",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 261,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5013,7 +5280,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 58979,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5034,7 +5302,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 45216,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5055,7 +5324,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 51886,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5076,7 +5346,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 97379,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5097,7 +5368,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 19175,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5118,7 +5390,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 446,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5139,7 +5412,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 65035,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5160,7 +5434,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 368,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5181,7 +5456,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 25844,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5202,7 +5478,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 579,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5223,7 +5500,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 66282,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5244,7 +5522,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 56070,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5265,7 +5544,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 48338,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5286,7 +5566,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 37213,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5307,7 +5588,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 299,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5328,7 +5610,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 18555,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5349,7 +5632,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 66367,
     "rank": 2,
-    "isWinner": true
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5370,7 +5654,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 117,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5391,7 +5676,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 11854,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5412,7 +5698,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64318,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5433,7 +5720,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 56130,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5454,7 +5742,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 32907,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5475,7 +5764,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 137,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5496,7 +5786,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 171,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5514,7 +5805,10 @@
     "criminalCases": 2,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=656",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1971,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5532,7 +5826,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=224",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 67407,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5553,7 +5850,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 324,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5574,7 +5872,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 16973,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5595,7 +5894,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 61079,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5616,7 +5916,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 76651,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5637,7 +5938,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 32121,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5658,7 +5960,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55975,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5679,7 +5982,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 82593,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5700,7 +6004,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 39053,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5721,7 +6026,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 628,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5742,7 +6048,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 70353,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5763,7 +6070,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 98547,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5784,7 +6092,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 467,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5805,7 +6114,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 166,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5826,7 +6136,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 47525,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5844,7 +6155,10 @@
     "criminalCases": 3,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=423",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 627,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5865,7 +6179,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 428,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5886,7 +6201,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 47808,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5907,7 +6223,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 50799,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -5925,7 +6242,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=532",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 506,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5946,7 +6266,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 53315,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5967,7 +6288,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 27400,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -5988,7 +6310,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55365,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6009,7 +6332,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 255,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6028,9 +6352,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=110",
     "lastUpdated": "2026-05-05",
-    "votes": 216,
+    "votes": 52069,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6051,7 +6376,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 281,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6072,7 +6398,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 78658,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6093,7 +6420,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 58058,
     "rank": 2,
-    "isWinner": true
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6114,7 +6442,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 171,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6135,7 +6464,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 10469,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6156,7 +6486,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 597,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6177,7 +6508,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64383,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6198,7 +6530,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 403,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6219,7 +6552,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 54756,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6240,7 +6574,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 18732,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6261,7 +6596,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 68281,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6282,7 +6618,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 381,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6303,7 +6640,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 277,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6324,7 +6662,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 73479,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6345,7 +6684,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 7046,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6366,7 +6706,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 56620,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6387,7 +6728,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 111869,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6408,7 +6750,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 2650,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6429,7 +6772,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 48482,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6450,7 +6794,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 28662,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6471,7 +6816,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 33487,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6492,7 +6838,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 60290,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6513,7 +6860,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 59965,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6529,12 +6877,13 @@
     "education": "Graduate Professional",
     "assets": "51226966",
     "criminalCases": 11,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=207",
     "lastUpdated": "2026-05-05",
-    "votes": 266,
+    "votes": 68275,
     "rank": 7,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6555,7 +6904,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 7031,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6576,7 +6926,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 118,
     "rank": 8,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6636,7 +6987,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 60283,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6657,7 +7009,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 63136,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6678,7 +7031,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 359,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6699,7 +7053,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 70256,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6720,7 +7075,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 544,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6741,7 +7097,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 424,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6762,7 +7119,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 56833,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6783,7 +7141,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55411,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6804,7 +7163,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 617,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6825,7 +7185,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 44870,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6846,7 +7207,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 14861,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6867,7 +7229,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1004,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6888,7 +7251,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 69206,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6907,9 +7271,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=724",
     "lastUpdated": "2026-05-05",
-    "votes": 93,
+    "votes": 47623,
     "rank": 9,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6930,7 +7295,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 38999,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6951,7 +7317,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 75184,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -6972,7 +7339,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1020,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -6993,7 +7361,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 16348,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7014,7 +7383,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 113586,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7035,7 +7405,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 58735,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7056,7 +7427,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1942,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7077,7 +7449,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 44325,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7098,7 +7471,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 64077,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7119,7 +7493,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 455,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7137,7 +7512,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=597",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 783,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7158,7 +7536,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 61296,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7179,7 +7558,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 25133,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7200,7 +7580,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 76396,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7219,9 +7600,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=641",
     "lastUpdated": "2026-05-05",
-    "votes": 893,
+    "votes": 36678,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7239,7 +7621,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=640",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 893,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7260,7 +7645,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 61564,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7281,7 +7667,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 17347,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7302,7 +7689,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 585,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7323,7 +7711,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 89914,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7344,7 +7733,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 9840,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7365,7 +7755,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 47085,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7386,7 +7777,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 62339,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7407,7 +7799,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 275,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7428,7 +7821,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 1781,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7444,12 +7838,13 @@
     "education": "Post Graduate",
     "assets": "12360866",
     "criminalCases": 1,
-    "result": "lost",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=178",
     "lastUpdated": "2026-05-05",
-    "votes": 210,
+    "votes": 81456,
     "rank": 5,
-    "isWinner": false
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7468,9 +7863,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=363",
     "lastUpdated": "2026-05-05",
-    "votes": 147,
+    "votes": 67288,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7491,7 +7887,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 2171,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7512,7 +7909,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 21858,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7533,7 +7931,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 157,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7554,7 +7953,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 51794,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7575,7 +7975,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 74063,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7596,7 +7997,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 78910,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7617,7 +8019,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 26899,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7638,7 +8041,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 77140,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7659,7 +8063,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 164,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7680,7 +8085,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 812,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7701,7 +8107,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 298,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7722,7 +8129,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 260,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7743,7 +8151,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 97,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7764,7 +8173,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 91992,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7783,9 +8193,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=351",
     "lastUpdated": "2026-05-05",
-    "votes": 373,
+    "votes": 64861,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7806,7 +8217,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 13642,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7827,7 +8239,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 18996,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7848,7 +8261,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55298,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7866,7 +8280,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=773",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 722,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7887,7 +8304,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 83109,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7905,7 +8323,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=912",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 169,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7923,7 +8344,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=914",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 258,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7944,7 +8368,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 74308,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -7965,7 +8390,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 55735,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -7986,7 +8412,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 11012,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8046,7 +8473,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=548",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3132,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8067,7 +8497,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 35994,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8088,7 +8519,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 231,
     "rank": 8,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8109,7 +8541,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 471,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8130,7 +8563,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 41323,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8151,7 +8585,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 9893,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8172,7 +8607,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 78331,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -8193,7 +8629,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 9218,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8214,7 +8651,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 42038,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8235,7 +8673,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 425,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8256,7 +8695,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 46687,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8277,7 +8717,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 37286,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8295,7 +8736,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=429",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 669,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8316,7 +8760,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 24841,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8337,7 +8782,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 56174,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8358,7 +8804,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 81488,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -8379,7 +8826,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 49052,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8400,7 +8848,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 191,
     "rank": 7,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8421,7 +8870,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 193,
     "rank": 6,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8442,7 +8892,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 110692,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -8463,7 +8914,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 9933,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8482,9 +8934,10 @@
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=175",
     "lastUpdated": "2026-05-05",
-    "votes": 663,
+    "votes": 65083,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8505,7 +8958,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 73590,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -8526,7 +8980,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 734,
     "rank": 4,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8547,7 +9002,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 275,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8565,7 +9021,10 @@
     "criminalCases": 0,
     "result": "lost",
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=247",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 48647,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8586,7 +9045,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 60557,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -8607,7 +9067,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 21162,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8628,7 +9089,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 66882,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8649,7 +9111,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 19681,
     "rank": 3,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8670,7 +9133,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 77425,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -8691,7 +9155,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 68184,
     "rank": 1,
-    "isWinner": true
+    "isWinner": true,
+    "position": 1
   },
   {
     "office": "mla",
@@ -8712,7 +9177,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 44807,
     "rank": 2,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8733,7 +9199,8 @@
     "lastUpdated": "2026-05-05",
     "votes": 69,
     "rank": 5,
-    "isWinner": false
+    "isWinner": false,
+    "position": 2
   },
   {
     "office": "mla",
@@ -8753,7 +9220,8 @@
     "rank": 1,
     "votes": 81065,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -8773,7 +9241,8 @@
     "rank": 3,
     "votes": 15373,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -8793,7 +9262,8 @@
     "rank": 2,
     "votes": 53011,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -8813,7 +9283,8 @@
     "rank": 1,
     "votes": 83899,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -8833,7 +9304,8 @@
     "rank": 2,
     "votes": 47249,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -8853,7 +9325,8 @@
     "rank": 1,
     "votes": 70083,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -8873,7 +9346,8 @@
     "rank": 2,
     "votes": 51098,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -8891,9 +9365,10 @@
     "criminalCases": 0,
     "result": "lost",
     "rank": 5,
-    "votes": 303,
+    "votes": 59064,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -8913,7 +9388,8 @@
     "rank": 2,
     "votes": 45788,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -8933,7 +9409,8 @@
     "rank": 1,
     "votes": 94804,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -8953,7 +9430,8 @@
     "rank": 3,
     "votes": 17669,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -8973,7 +9451,8 @@
     "rank": 1,
     "votes": 81849,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9012,8 +9491,9 @@
     "result": "lost",
     "rank": 2,
     "votes": 60795,
-    "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "isWinner": false,
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9033,7 +9513,8 @@
     "rank": 3,
     "votes": 20971,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9053,7 +9534,8 @@
     "rank": 3,
     "votes": 16030,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9073,7 +9555,8 @@
     "rank": 3,
     "votes": 14803,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9093,7 +9576,8 @@
     "rank": 1,
     "votes": 51923,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9113,7 +9597,8 @@
     "rank": 3,
     "votes": 35276,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9133,7 +9618,8 @@
     "rank": 1,
     "votes": 76073,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9153,7 +9639,8 @@
     "rank": 1,
     "votes": 57859,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9173,7 +9660,8 @@
     "rank": 3,
     "votes": 17997,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9193,7 +9681,8 @@
     "rank": 3,
     "votes": 32920,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9213,7 +9702,8 @@
     "rank": 3,
     "votes": 14697,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9233,7 +9723,8 @@
     "rank": 1,
     "votes": 85614,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9253,7 +9744,8 @@
     "rank": 1,
     "votes": 77662,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9273,7 +9765,8 @@
     "rank": 3,
     "votes": 19154,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9293,7 +9786,8 @@
     "rank": 2,
     "votes": 55580,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9313,7 +9807,8 @@
     "rank": 1,
     "votes": 98547,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9333,7 +9828,8 @@
     "rank": 2,
     "votes": 57258,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9353,7 +9849,8 @@
     "rank": 3,
     "votes": 8728,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9373,7 +9870,8 @@
     "rank": 3,
     "votes": 12975,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9393,7 +9891,8 @@
     "rank": 1,
     "votes": 66069,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9413,7 +9912,8 @@
     "rank": 3,
     "votes": 31022,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9433,7 +9933,8 @@
     "rank": 1,
     "votes": 90895,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9453,7 +9954,8 @@
     "rank": 3,
     "votes": 9617,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9473,7 +9975,8 @@
     "rank": 3,
     "votes": 27167,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9493,7 +9996,8 @@
     "rank": 3,
     "votes": 12228,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9513,7 +10017,8 @@
     "rank": 2,
     "votes": 55504,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9533,7 +10038,8 @@
     "rank": 3,
     "votes": 19688,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9553,7 +10059,8 @@
     "rank": 3,
     "votes": 14130,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9571,9 +10078,10 @@
     "criminalCases": 0,
     "result": "lost",
     "rank": 8,
-    "votes": 347,
+    "votes": 52348,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9593,7 +10101,8 @@
     "rank": 3,
     "votes": 27063,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9613,7 +10122,8 @@
     "rank": 1,
     "votes": 70620,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9633,7 +10143,8 @@
     "rank": 3,
     "votes": 16144,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9653,7 +10164,8 @@
     "rank": 2,
     "votes": 53698,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9673,7 +10185,8 @@
     "rank": 1,
     "votes": 56846,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9693,7 +10206,8 @@
     "rank": 1,
     "votes": 46564,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9713,7 +10227,8 @@
     "rank": 2,
     "votes": 46136,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9733,7 +10248,8 @@
     "rank": 3,
     "votes": 37183,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9753,7 +10269,8 @@
     "rank": 2,
     "votes": 56854,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9773,7 +10290,8 @@
     "rank": 3,
     "votes": 9832,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9793,7 +10311,8 @@
     "rank": 3,
     "votes": 13994,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9813,7 +10332,8 @@
     "rank": 1,
     "votes": 62734,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9833,7 +10353,8 @@
     "rank": 3,
     "votes": 15278,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9851,9 +10372,10 @@
     "criminalCases": 0,
     "result": "lost",
     "rank": 5,
-    "votes": 674,
+    "votes": 55473,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9873,7 +10395,8 @@
     "rank": 3,
     "votes": 20664,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9893,7 +10416,8 @@
     "rank": 1,
     "votes": 68893,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9913,7 +10437,8 @@
     "rank": 3,
     "votes": 9726,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9933,7 +10458,8 @@
     "rank": 2,
     "votes": 46952,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9953,7 +10479,8 @@
     "rank": 1,
     "votes": 50636,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -9973,7 +10500,8 @@
     "rank": 3,
     "votes": 39899,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -9993,7 +10521,8 @@
     "rank": 1,
     "votes": 87862,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10013,7 +10542,8 @@
     "rank": 3,
     "votes": 34435,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10033,7 +10563,8 @@
     "rank": 3,
     "votes": 17104,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10053,7 +10584,8 @@
     "rank": 2,
     "votes": 49009,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10073,7 +10605,8 @@
     "rank": 3,
     "votes": 40221,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10093,7 +10626,8 @@
     "rank": 1,
     "votes": 70448,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10113,7 +10647,8 @@
     "rank": 3,
     "votes": 22195,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10133,7 +10668,8 @@
     "rank": 1,
     "votes": 56594,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10153,7 +10689,8 @@
     "rank": 3,
     "votes": 16932,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10173,7 +10710,8 @@
     "rank": 2,
     "votes": 77275,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10193,7 +10731,8 @@
     "rank": 1,
     "votes": 68629,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10213,7 +10752,8 @@
     "rank": 2,
     "votes": 46305,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10233,7 +10773,8 @@
     "rank": 3,
     "votes": 9127,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10253,7 +10794,8 @@
     "rank": 1,
     "votes": 65337,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10273,7 +10815,8 @@
     "rank": 2,
     "votes": 65211,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10293,7 +10836,8 @@
     "rank": 3,
     "votes": 38125,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10313,7 +10857,8 @@
     "rank": 3,
     "votes": 13423,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10331,9 +10876,10 @@
     "criminalCases": 0,
     "result": "lost",
     "rank": 2,
-    "votes": 67696,
+    "votes": 97,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10353,7 +10899,8 @@
     "rank": 3,
     "votes": 17815,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10373,7 +10920,8 @@
     "rank": 1,
     "votes": 66521,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10393,7 +10941,8 @@
     "rank": 2,
     "votes": 63216,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10413,7 +10962,8 @@
     "rank": 3,
     "votes": 18107,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10433,7 +10983,8 @@
     "rank": 1,
     "votes": 58760,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10453,7 +11004,8 @@
     "rank": 3,
     "votes": 12660,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10473,7 +11025,8 @@
     "rank": 1,
     "votes": 75362,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10493,7 +11046,8 @@
     "rank": 3,
     "votes": 35304,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10513,7 +11067,8 @@
     "rank": 1,
     "votes": 62199,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10533,7 +11088,8 @@
     "rank": 3,
     "votes": 33931,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10553,7 +11109,8 @@
     "rank": 1,
     "votes": 69149,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10573,7 +11130,8 @@
     "rank": 2,
     "votes": 54136,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10593,7 +11151,8 @@
     "rank": 3,
     "votes": 20377,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10612,8 +11171,9 @@
     "result": "lost",
     "rank": 2,
     "votes": 70620,
-    "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "isWinner": false,
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10633,7 +11193,8 @@
     "rank": 1,
     "votes": 69672,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10653,7 +11214,8 @@
     "rank": 3,
     "votes": 22754,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10673,7 +11235,8 @@
     "rank": 3,
     "votes": 42023,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10693,7 +11256,8 @@
     "rank": 2,
     "votes": 70399,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10713,7 +11277,8 @@
     "rank": 3,
     "votes": 7380,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10733,7 +11298,8 @@
     "rank": 1,
     "votes": 45586,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10753,7 +11319,8 @@
     "rank": 3,
     "votes": 35125,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10773,7 +11340,8 @@
     "rank": 1,
     "votes": 83375,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10793,7 +11361,8 @@
     "rank": 2,
     "votes": 51788,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10813,7 +11382,8 @@
     "rank": 3,
     "votes": 29471,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10833,7 +11403,8 @@
     "rank": 1,
     "votes": 76427,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10851,9 +11422,10 @@
     "criminalCases": 0,
     "result": "lost",
     "rank": 9,
-    "votes": 57,
+    "votes": 81971,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10873,7 +11445,8 @@
     "rank": 3,
     "votes": 11497,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10893,7 +11466,8 @@
     "rank": 2,
     "votes": 78678,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10913,7 +11487,8 @@
     "rank": 3,
     "votes": 7837,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10933,7 +11508,8 @@
     "rank": 1,
     "votes": 70117,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -10953,7 +11529,8 @@
     "rank": 2,
     "votes": 55255,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -10973,7 +11550,8 @@
     "rank": 1,
     "votes": 52944,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -11011,9 +11589,10 @@
     "criminalCases": 0,
     "result": "lost",
     "rank": 6,
-    "votes": 173,
+    "votes": 61405,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11033,7 +11612,8 @@
     "rank": 3,
     "votes": 12093,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11053,7 +11633,8 @@
     "rank": 2,
     "votes": 42913,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11073,7 +11654,8 @@
     "rank": 2,
     "votes": 65538,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11093,7 +11675,8 @@
     "rank": 3,
     "votes": 6126,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11113,7 +11696,8 @@
     "rank": 1,
     "votes": 70725,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -11133,7 +11717,8 @@
     "rank": 2,
     "votes": 73135,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11169,11 +11754,12 @@
     "education": "N/A",
     "assets": "0",
     "criminalCases": 0,
-    "result": "lost",
+    "result": "won",
     "rank": 4,
-    "votes": 258,
-    "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "votes": 83109,
+    "isWinner": true,
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -11193,7 +11779,8 @@
     "rank": 2,
     "votes": 78678,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11213,7 +11800,8 @@
     "rank": 3,
     "votes": 7837,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11353,7 +11941,8 @@
     "rank": 1,
     "votes": 78936,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -11392,8 +11981,9 @@
     "result": "won",
     "rank": 1,
     "votes": 70117,
-    "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "isWinner": true,
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -11413,7 +12003,8 @@
     "rank": 2,
     "votes": 55255,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11433,7 +12024,8 @@
     "rank": 3,
     "votes": 14295,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11471,9 +12063,10 @@
     "criminalCases": 0,
     "result": "lost",
     "rank": 7,
-    "votes": 99,
+    "votes": 67843,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11593,7 +12186,8 @@
     "rank": 2,
     "votes": 57258,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11613,7 +12207,8 @@
     "rank": 3,
     "votes": 8728,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -11953,7 +12548,8 @@
     "rank": 2,
     "votes": 63216,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -12073,7 +12669,8 @@
     "rank": 1,
     "votes": 75088,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -12133,7 +12730,8 @@
     "rank": 1,
     "votes": 66112,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -12153,7 +12751,8 @@
     "rank": 2,
     "votes": 50464,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -12173,7 +12772,8 @@
     "rank": 3,
     "votes": 13637,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -12213,7 +12813,8 @@
     "rank": 1,
     "votes": 61296,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -12233,7 +12834,8 @@
     "rank": 2,
     "votes": 25133,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -12253,7 +12855,8 @@
     "rank": 3,
     "votes": 19154,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -12273,7 +12876,8 @@
     "rank": 1,
     "votes": 89551,
     "isWinner": true,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 1
   },
   {
     "office": "mla",
@@ -12373,7 +12977,8 @@
     "rank": 2,
     "votes": 31124,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",
@@ -12393,7 +12998,8 @@
     "rank": 3,
     "votes": 11544,
     "isWinner": false,
-    "lastUpdated": "2026-05-05"
+    "lastUpdated": "2026-05-05",
+    "position": 2
   },
   {
     "office": "mla",

@@ -13,9 +13,12 @@
     "education": "10th Pass",
     "assets": "1481000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=51",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 326,
+    "position": 2
   },
   {
     "office": "mla",
@@ -31,9 +34,12 @@
     "education": "10th Pass",
     "assets": "71290900",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=118",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 9099,
+    "position": 1
   },
   {
     "office": "mla",
@@ -49,9 +55,12 @@
     "education": "Graduate Professional",
     "assets": "44418278",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=134",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 8073,
+    "position": 2
   },
   {
     "office": "mla",
@@ -67,9 +76,12 @@
     "education": "Others",
     "assets": "20923156",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=98",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 6969,
+    "position": 2
   },
   {
     "office": "mla",
@@ -85,9 +97,12 @@
     "education": "12th Pass",
     "assets": "3933296",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=95",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 800,
+    "position": 2
   },
   {
     "office": "mla",
@@ -103,9 +118,12 @@
     "education": "Graduate",
     "assets": "1739864",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=96",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 45,
+    "position": 2
   },
   {
     "office": "mla",
@@ -121,9 +139,12 @@
     "education": "12th Pass",
     "assets": "35899797",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=114",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 13665,
+    "position": 1
   },
   {
     "office": "mla",
@@ -139,9 +160,12 @@
     "education": "Post Graduate",
     "assets": "2933000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=48",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 309,
+    "position": 2
   },
   {
     "office": "mla",
@@ -157,9 +181,12 @@
     "education": "Others",
     "assets": "51038687",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=176",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 6976,
+    "position": 2
   },
   {
     "office": "mla",
@@ -175,9 +202,12 @@
     "education": "10th Pass",
     "assets": "70697700",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=65",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 8123,
+    "position": 2
   },
   {
     "office": "mla",
@@ -193,9 +223,12 @@
     "education": "Graduate",
     "assets": "1659000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=64",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 265,
+    "position": 2
   },
   {
     "office": "mla",
@@ -211,9 +244,12 @@
     "education": "Post Graduate",
     "assets": "277608000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=5",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 10520,
+    "position": 1
   },
   {
     "office": "mla",
@@ -229,9 +265,12 @@
     "education": "Others",
     "assets": "3690000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=37",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 730,
+    "position": 2
   },
   {
     "office": "mla",
@@ -247,9 +286,12 @@
     "education": "Illiterate",
     "assets": "597813050",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=36",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 12945,
+    "position": 1
   },
   {
     "office": "mla",
@@ -265,9 +307,12 @@
     "education": "12th Pass",
     "assets": "209426307",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=38",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 178,
+    "position": 2
   },
   {
     "office": "mla",
@@ -283,9 +328,12 @@
     "education": "Others",
     "assets": "321600",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=196",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 184,
+    "position": 2
   },
   {
     "office": "mla",
@@ -301,9 +349,12 @@
     "education": "8th Pass",
     "assets": "330055195",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=117",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 8759,
+    "position": 2
   },
   {
     "office": "mla",
@@ -319,9 +370,12 @@
     "education": "Graduate Professional",
     "assets": "10734700",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=189",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 55,
+    "position": 2
   },
   {
     "office": "mla",
@@ -337,9 +391,12 @@
     "education": "10th Pass",
     "assets": "2598000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=45",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 392,
+    "position": 2
   },
   {
     "office": "mla",
@@ -355,9 +412,12 @@
     "education": "Post Graduate",
     "assets": "444638294",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=277",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 7376,
+    "position": 2
   },
   {
     "office": "mla",
@@ -373,9 +433,12 @@
     "education": "12th Pass",
     "assets": "289505120",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=278",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3311,
+    "position": 2
   },
   {
     "office": "mla",
@@ -391,9 +454,12 @@
     "education": "8th Pass",
     "assets": "4227000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=145",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 260,
+    "position": 2
   },
   {
     "office": "mla",
@@ -409,9 +475,12 @@
     "education": "10th Pass",
     "assets": "7807000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=139",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9808,
+    "position": 2
   },
   {
     "office": "mla",
@@ -427,9 +496,12 @@
     "education": "Graduate Professional",
     "assets": "5900500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=143",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3032,
+    "position": 2
   },
   {
     "office": "mla",
@@ -463,9 +535,12 @@
     "education": "Post Graduate",
     "assets": "7424800",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=13",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 427,
+    "position": 2
   },
   {
     "office": "mla",
@@ -481,9 +556,12 @@
     "education": "10th Pass",
     "assets": "171144276",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=264",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2417,
+    "position": 2
   },
   {
     "office": "mla",
@@ -517,9 +595,12 @@
     "education": "Others",
     "assets": "2209500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=203",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 462,
+    "position": 2
   },
   {
     "office": "mla",
@@ -535,9 +616,12 @@
     "education": "Post Graduate",
     "assets": "29141207",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=202",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 13607,
+    "position": 2
   },
   {
     "office": "mla",
@@ -553,9 +637,12 @@
     "education": "Graduate Professional",
     "assets": "375103",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=60",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 281,
+    "position": 2
   },
   {
     "office": "mla",
@@ -571,9 +658,12 @@
     "education": "Graduate",
     "assets": "683378507",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=113",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 16829,
+    "position": 1
   },
   {
     "office": "mla",
@@ -589,9 +679,12 @@
     "education": "Graduate Professional",
     "assets": "147459606",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=330",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 15,
+    "position": 2
   },
   {
     "office": "mla",
@@ -607,9 +700,12 @@
     "education": "Graduate",
     "assets": "372253000",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=112",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 12731,
+    "position": 1
   },
   {
     "office": "mla",
@@ -625,9 +721,12 @@
     "education": "Graduate",
     "assets": "4931300",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=273",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 480,
+    "position": 2
   },
   {
     "office": "mla",
@@ -643,9 +742,12 @@
     "education": "Graduate Professional",
     "assets": "24925608",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=268",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 10078,
+    "position": 2
   },
   {
     "office": "mla",
@@ -661,9 +763,12 @@
     "education": "10th Pass",
     "assets": "52230870",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=40",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9869,
+    "position": 2
   },
   {
     "office": "mla",
@@ -679,9 +784,12 @@
     "education": "10th Pass",
     "assets": "562000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=105",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 510,
+    "position": 2
   },
   {
     "office": "mla",
@@ -697,9 +805,12 @@
     "education": "Post Graduate",
     "assets": "5078119",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=274",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1354,
+    "position": 2
   },
   {
     "office": "mla",
@@ -715,9 +826,12 @@
     "education": "12th Pass",
     "assets": "25474983",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=90",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 283,
+    "position": 2
   },
   {
     "office": "mla",
@@ -733,9 +847,12 @@
     "education": "Graduate Professional",
     "assets": "54730520",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=85",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 6681,
+    "position": 2
   },
   {
     "office": "mla",
@@ -751,9 +868,12 @@
     "education": "Post Graduate",
     "assets": "34960236",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=88",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1354,
+    "position": 2
   },
   {
     "office": "mla",
@@ -769,9 +889,12 @@
     "education": "10th Pass",
     "assets": "12057147",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=59",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9039,
+    "position": 2
   },
   {
     "office": "mla",
@@ -787,9 +910,12 @@
     "education": "Others",
     "assets": "1549000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=323",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 335,
+    "position": 2
   },
   {
     "office": "mla",
@@ -805,9 +931,12 @@
     "education": "Graduate Professional",
     "assets": "52951341",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=75",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 9740,
+    "position": 1
   },
   {
     "office": "mla",
@@ -823,9 +952,12 @@
     "education": "Others",
     "assets": "2087000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=16",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 693,
+    "position": 2
   },
   {
     "office": "mla",
@@ -841,9 +973,12 @@
     "education": "12th Pass",
     "assets": "6090925584",
     "criminalCases": 5,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=358",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 16592,
+    "position": 1
   },
   {
     "office": "mla",
@@ -859,9 +994,12 @@
     "education": "12th Pass",
     "assets": "136603211",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=213",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 6387,
+    "position": 2
   },
   {
     "office": "mla",
@@ -877,9 +1015,12 @@
     "education": "Graduate Professional",
     "assets": "279925752",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=54",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 17917,
+    "position": 1
   },
   {
     "office": "mla",
@@ -895,9 +1036,12 @@
     "education": "12th Pass",
     "assets": "4481000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=55",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 534,
+    "position": 2
   },
   {
     "office": "mla",
@@ -913,9 +1057,12 @@
     "education": "Graduate",
     "assets": "210986272",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=124",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 2990,
+    "position": 2
   },
   {
     "office": "mla",
@@ -931,9 +1078,12 @@
     "education": "Post Graduate",
     "assets": "4258292",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=27",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 589,
+    "position": 2
   },
   {
     "office": "mla",
@@ -949,9 +1099,12 @@
     "education": "Graduate Professional",
     "assets": "277632683",
     "criminalCases": 4,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=29",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5932,
+    "position": 2
   },
   {
     "office": "mla",
@@ -985,9 +1138,12 @@
     "education": "Graduate",
     "assets": "216446153",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=130",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 16970,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1003,9 +1159,12 @@
     "education": "Others",
     "assets": "36500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=363",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 518,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1021,9 +1180,12 @@
     "education": "Others",
     "assets": "58145100",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=337",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 35,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1039,9 +1201,12 @@
     "education": "Graduate",
     "assets": "44692890",
     "criminalCases": 1,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=121",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 8382,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1057,9 +1222,12 @@
     "education": "10th Pass",
     "assets": "570000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=244",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 315,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1075,9 +1243,12 @@
     "education": "Graduate Professional",
     "assets": "41439384",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=241",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3285,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1111,9 +1282,12 @@
     "education": "8th Pass",
     "assets": "1156229179",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=120",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 7017,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1129,9 +1303,12 @@
     "education": "Graduate Professional",
     "assets": "110174537",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=309",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1538,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1147,9 +1324,12 @@
     "education": "8th Pass",
     "assets": "499194993",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=19",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 10578,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1165,9 +1345,12 @@
     "education": "Post Graduate",
     "assets": "3332058",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=22",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 433,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1183,9 +1366,12 @@
     "education": "12th Pass",
     "assets": "212358018",
     "criminalCases": 8,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=150",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 5647,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1201,9 +1387,12 @@
     "education": "10th Pass",
     "assets": "2907000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=14",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 639,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1219,9 +1408,12 @@
     "education": "8th Pass",
     "assets": "63667590",
     "criminalCases": 2,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=15",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 11622,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1237,9 +1429,12 @@
     "education": "10th Pass",
     "assets": "3542000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=156",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 96,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1255,9 +1450,12 @@
     "education": "Graduate Professional",
     "assets": "279925752",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=32",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 17917,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1273,9 +1471,12 @@
     "education": "12th Pass",
     "assets": "802500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=31",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 447,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1291,9 +1492,12 @@
     "education": "8th Pass",
     "assets": "19315000",
     "criminalCases": 3,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=33",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 62,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1309,9 +1513,12 @@
     "education": "Post Graduate",
     "assets": "134341307",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=115",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 16017,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1327,9 +1534,12 @@
     "education": "Post Graduate",
     "assets": "95000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=183",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 303,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1345,9 +1555,12 @@
     "education": "Graduate",
     "assets": "4000000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=9",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 23,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1363,9 +1576,12 @@
     "education": "Graduate Professional",
     "assets": "1400000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=53",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 458,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1381,9 +1597,12 @@
     "education": "Others",
     "assets": "56079827",
     "criminalCases": 7,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=52",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 15400,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1399,9 +1618,12 @@
     "education": "8th Pass",
     "assets": "1517000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=78",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3698,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1435,9 +1657,12 @@
     "education": "12th Pass",
     "assets": "3925300",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=11",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 675,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1453,9 +1678,12 @@
     "education": "Graduate Professional",
     "assets": "37063284",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=67",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1946,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1471,9 +1699,12 @@
     "education": "8th Pass",
     "assets": "321948",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=110",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 334,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1489,9 +1720,12 @@
     "education": "Others",
     "assets": "100766534",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=109",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 10818,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1507,9 +1741,12 @@
     "education": "Others",
     "assets": "12240500",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=108",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 73,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1525,9 +1762,12 @@
     "education": "10th Pass",
     "assets": "81780393",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=111",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 19863,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1543,9 +1783,12 @@
     "education": "10th Pass",
     "assets": "120371982",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=351",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 167,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1561,9 +1804,12 @@
     "education": "10th Pass",
     "assets": "81780393",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=349",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 9,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1579,9 +1825,12 @@
     "education": "Post Graduate",
     "assets": "323181661",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=128",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 12635,
+    "position": 1
   },
   {
     "office": "mla",
@@ -1597,9 +1846,12 @@
     "education": "10th Pass",
     "assets": "5758000",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=302",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 418,
+    "position": 2
   },
   {
     "office": "mla",
@@ -1615,8 +1867,11 @@
     "education": "Graduate Professional",
     "assets": "49799704",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=359",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 8401,
+    "position": 2
   }
 ]
