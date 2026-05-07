@@ -156,7 +156,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 13665,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "47.9"
   },
   {
     "office": "mla",
@@ -177,7 +179,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 309,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.1"
   },
   {
     "office": "mla",
@@ -198,7 +202,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6976,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "24.5"
   },
   {
     "office": "mla",
@@ -835,7 +841,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 9869,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "35.1"
   },
   {
     "office": "mla",
@@ -856,7 +864,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 510,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.8"
   },
   {
     "office": "mla",
@@ -877,7 +887,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1354,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "4.8"
   },
   {
     "office": "mla",
@@ -967,7 +979,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 9039,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "30.0"
   },
   {
     "office": "mla",
@@ -988,7 +1002,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 335,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.1"
   },
   {
     "office": "mla",
@@ -999,7 +1015,7 @@
     "constituencySlug": "thirubhuvanai-sc",
     "candidateName": "Ak. Sai J Saravanan Kumar",
     "candidateSlug": "ak-sai-j-saravanan-kumar",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Graduate Professional",
     "assets": "52951341",
@@ -1009,7 +1025,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 9740,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "32.4"
   },
   {
     "office": "mla",
@@ -1641,7 +1659,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 16017,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "51.1"
   },
   {
     "office": "mla",
@@ -1662,7 +1682,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 303,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.0"
   },
   {
     "office": "mla",
@@ -1683,7 +1705,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 23,
-    "position": 2
+    "position": 7,
+    "rank": 7,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -1704,7 +1728,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 458,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.5"
   },
   {
     "office": "mla",
@@ -1725,7 +1751,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 15400,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "49.6"
   },
   {
     "office": "mla",
@@ -1736,7 +1764,7 @@
     "constituencySlug": "oussudu-sc",
     "candidateName": "S. Saraganabava",
     "candidateSlug": "s-saraganabava",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "8th Pass",
     "assets": "1517000",
@@ -1746,7 +1774,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 3698,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "11.9"
   },
   {
     "office": "mla",

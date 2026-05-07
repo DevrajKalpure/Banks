@@ -2210,7 +2210,7 @@
     "constituencySlug": "nanoor-sc",
     "candidateName": "Bidhan Chandra Majhi",
     "candidateSlug": "bidhan-chandra-majhi",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Post Graduate",
     "assets": "12720369",
@@ -2220,7 +2220,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 119910,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "47.7"
   },
   {
     "office": "mla",
@@ -2241,7 +2243,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 3040,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.2"
   },
   {
     "office": "mla",
@@ -2262,7 +2266,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2994,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.2"
   },
   {
     "office": "mla",
@@ -2894,7 +2900,7 @@
     "constituencySlug": "bishnupur-sc",
     "candidateName": "Dilip Mondal",
     "candidateSlug": "dilip-mondal",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "12th Pass",
     "assets": "32884857",
@@ -2904,7 +2910,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 132647,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "29.2"
   },
   {
     "office": "mla",
@@ -2925,7 +2933,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 95722,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "21.1"
   },
   {
     "office": "mla",
@@ -2946,7 +2956,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 493,
-    "position": 2
+    "position": 15,
+    "rank": 15,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -3168,7 +3180,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1617,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.7"
   },
   {
     "office": "mla",
@@ -3189,7 +3203,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 19121,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "8.0"
   },
   {
     "office": "mla",
@@ -3210,7 +3226,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 132183,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "55.5"
   },
   {
     "office": "mla",
@@ -3645,7 +3663,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4111,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "1.7"
   },
   {
     "office": "mla",
@@ -3656,7 +3676,7 @@
     "constituencySlug": "kumargram-st",
     "candidateName": "Rajeev Tirkey",
     "candidateSlug": "rajeev-tirkey",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "41010400",
@@ -3666,7 +3686,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 90167,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "37.0"
   },
   {
     "office": "mla",
@@ -3687,7 +3709,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 279,
-    "position": 2
+    "position": 9,
+    "rank": 9,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -4605,7 +4629,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2386,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "1.1"
   },
   {
     "office": "mla",
@@ -4626,7 +4652,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 119109,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "55.0"
   },
   {
     "office": "mla",
@@ -4647,7 +4675,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1392,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -4668,7 +4698,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2793,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "1.1"
   },
   {
     "office": "mla",
@@ -4689,7 +4721,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 147403,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "59.1"
   },
   {
     "office": "mla",
@@ -4700,7 +4734,7 @@
     "constituencySlug": "maynaguri-sc",
     "candidateName": "Rammohan Ray",
     "candidateSlug": "rammohan-ray",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "13306856",
@@ -4710,7 +4744,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 90900,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "36.5"
   },
   {
     "office": "mla",
@@ -4731,7 +4767,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 10500,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "4.9"
   },
   {
     "office": "mla",
@@ -4752,7 +4790,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1869,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.9"
   },
   {
     "office": "mla",
@@ -4773,7 +4813,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 3103,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.4"
   },
   {
     "office": "mla",
@@ -5001,7 +5043,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4221,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "2.0"
   },
   {
     "office": "mla",
@@ -5012,7 +5056,7 @@
     "constituencySlug": "gosaba-sc",
     "candidateName": "Subrata Mondal",
     "candidateSlug": "subrata-mondal",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "4986490",
@@ -5022,7 +5066,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 92392,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "44.2"
   },
   {
     "office": "mla",
@@ -5043,7 +5089,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 808,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "0.4"
   },
   {
     "office": "mla",
@@ -5064,7 +5112,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 134798,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "54.5"
   },
   {
     "office": "mla",
@@ -5085,7 +5135,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 7625,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "3.1"
   },
   {
     "office": "mla",
@@ -5106,7 +5158,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 287,
-    "position": 2
+    "position": 11,
+    "rank": 11,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -5876,7 +5930,7 @@
     "constituencySlug": "kaliaganj-sc",
     "candidateName": "Nitai Baishya",
     "candidateSlug": "nitai-baishya",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "7852989",
@@ -5886,7 +5940,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 81924,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "32.1"
   },
   {
     "office": "mla",
@@ -5907,7 +5963,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5779,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "2.3"
   },
   {
     "office": "mla",
@@ -5928,7 +5986,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 763,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.3"
   },
   {
     "office": "mla",
@@ -6432,7 +6492,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 480,
-    "position": 2
+    "position": 8,
+    "rank": 8,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -6453,7 +6515,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 10537,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "4.8"
   },
   {
     "office": "mla",
@@ -6474,7 +6538,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1837,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.8"
   },
   {
     "office": "mla",
@@ -6564,7 +6630,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1560,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -6585,7 +6653,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1836,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.7"
   },
   {
     "office": "mla",
@@ -6606,7 +6676,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 93018,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "36.9"
   },
   {
     "office": "mla",
@@ -6962,7 +7034,7 @@
     "constituencySlug": "falakata-sc",
     "candidateName": "Subhash Chandra Roy",
     "candidateSlug": "subhash-chandra-roy",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "10th Pass",
     "assets": "23410246",
@@ -6972,7 +7044,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 88371,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "37.7"
   },
   {
     "office": "mla",
@@ -6993,7 +7067,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6133,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "2.6"
   },
   {
     "office": "mla",
@@ -7014,7 +7090,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1855,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.8"
   },
   {
     "office": "mla",
@@ -7094,7 +7172,7 @@
     "constituencySlug": "hemtabad-sc",
     "candidateName": "Satyajit Barman",
     "candidateSlug": "satyajit-barman",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Post Graduate",
     "assets": "43196475",
@@ -7104,7 +7182,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 103168,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "43.2"
   },
   {
     "office": "mla",
@@ -7125,7 +7205,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 115529,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "48.4"
   },
   {
     "office": "mla",
@@ -7146,7 +7228,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 656,
-    "position": 2
+    "position": 8,
+    "rank": 8,
+    "voteShare": "0.3"
   },
   {
     "office": "mla",
@@ -7788,7 +7872,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2044,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.9"
   },
   {
     "office": "mla",
@@ -7799,7 +7885,7 @@
     "constituencySlug": "galsi-sc",
     "candidateName": "Alok Kumar Majhi",
     "candidateSlug": "alok-kumar-majhi",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "6829060",
@@ -7809,7 +7895,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 100146,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "43.6"
   },
   {
     "office": "mla",
@@ -7830,7 +7918,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 13526,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "5.9"
   },
   {
     "office": "mla",
@@ -8052,7 +8142,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1482,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "0.7"
   },
   {
     "office": "mla",
@@ -8063,7 +8155,7 @@
     "constituencySlug": "para-sc",
     "candidateName": "Manik Chandra Bauri",
     "candidateSlug": "manik-chandra-bauri",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "4507215",
@@ -8073,7 +8165,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 79767,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "37.4"
   },
   {
     "office": "mla",
@@ -8094,7 +8188,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 113488,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "53.2"
   },
   {
     "office": "mla",
@@ -8391,7 +8487,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1245,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -8402,7 +8500,7 @@
     "constituencySlug": "habibpur-st",
     "candidateName": "Amal Kisku",
     "candidateSlug": "amal-kisku",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Post Graduate",
     "assets": "4150332",
@@ -8412,7 +8510,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 63874,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "28.3"
   },
   {
     "office": "mla",
@@ -8433,7 +8533,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8725,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "3.9"
   },
   {
     "office": "mla",
@@ -8661,7 +8763,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 110790,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "52.3"
   },
   {
     "office": "mla",
@@ -8682,7 +8786,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2563,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.2"
   },
   {
     "office": "mla",
@@ -8702,8 +8808,10 @@
     "sourceUrl": "https://myneta.info/WestBengal2026/candidate.php?candidate_id=2020",
     "lastUpdated": "2026-04-26",
     "isWinner": false,
-    "votes": 252,
-    "position": 2
+    "votes": 947,
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.4"
   },
   {
     "office": "mla",
@@ -8793,7 +8901,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 107900,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "51.1"
   },
   {
     "office": "mla",
@@ -8814,7 +8924,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 12370,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "5.9"
   },
   {
     "office": "mla",
@@ -8835,7 +8947,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 226,
-    "position": 2
+    "position": 9,
+    "rank": 9,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -8984,7 +9098,7 @@
     "constituencySlug": "jalpaiguri-sc",
     "candidateName": "Krishna Das",
     "candidateSlug": "krishna-das",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "8th Pass",
     "assets": "75064150",
@@ -8994,7 +9108,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 74182,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.5"
   },
   {
     "office": "mla",
@@ -9015,7 +9131,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 11324,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "4.8"
   },
   {
     "office": "mla",
@@ -9036,7 +9154,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 142987,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "60.8"
   },
   {
     "office": "mla",
@@ -9195,7 +9315,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 118241,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "57.5"
   },
   {
     "office": "mla",
@@ -9216,7 +9338,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4948,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "2.4"
   },
   {
     "office": "mla",
@@ -9237,7 +9361,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1769,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.9"
   },
   {
     "office": "mla",
@@ -9317,7 +9443,7 @@
     "constituencySlug": "matigara-naxalbari-sc",
     "candidateName": "Shankar Malakar",
     "candidateSlug": "shankar-malakar",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "12th Pass",
     "assets": "83060934",
@@ -9327,7 +9453,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 62640,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "25.1"
   },
   {
     "office": "mla",
@@ -9348,7 +9476,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5498,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.2"
   },
   {
     "office": "mla",
@@ -9369,7 +9499,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 166905,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "67.0"
   },
   {
     "office": "mla",
@@ -9390,7 +9522,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5338,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "2.6"
   },
   {
     "office": "mla",
@@ -9411,7 +9545,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 100857,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "49.2"
   },
   {
     "office": "mla",
@@ -9432,7 +9568,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1305,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -9512,7 +9650,7 @@
     "constituencySlug": "gangarampur-sc",
     "candidateName": "Goutam Das",
     "candidateSlug": "goutam-das",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "12143961",
@@ -9522,7 +9660,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 76744,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "40.1"
   },
   {
     "office": "mla",
@@ -9543,7 +9683,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1570,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.8"
   },
   {
     "office": "mla",
@@ -9564,7 +9706,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 530,
-    "position": 2
+    "position": 7,
+    "rank": 7,
+    "voteShare": "0.3"
   },
   {
     "office": "mla",
@@ -9644,7 +9788,7 @@
     "constituencySlug": "manbazar-st",
     "candidateName": "Sandhya Rani Tudu",
     "candidateSlug": "sandhya-rani-tudu",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "10th Pass",
     "assets": "6225995",
@@ -9654,7 +9798,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 93204,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "39.8"
   },
   {
     "office": "mla",
@@ -9675,7 +9821,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 13410,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "5.7"
   },
   {
     "office": "mla",
@@ -9696,7 +9844,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 120487,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "51.4"
   },
   {
     "office": "mla",
@@ -9786,7 +9936,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 119317,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "56.9"
   },
   {
     "office": "mla",
@@ -9797,7 +9949,7 @@
     "constituencySlug": "bangaon-uttar-sc",
     "candidateName": "Biswajit Das",
     "candidateSlug": "biswajit-das",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "10th Pass",
     "assets": "24451789",
@@ -9807,7 +9959,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 78647,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "37.5"
   },
   {
     "office": "mla",
@@ -9828,7 +9982,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8554,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "4.1"
   },
   {
     "office": "mla",
@@ -9849,7 +10005,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2647,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.4"
   },
   {
     "office": "mla",
@@ -9860,7 +10018,7 @@
     "constituencySlug": "burwan-sc",
     "candidateName": "Protima Rajak",
     "candidateSlug": "protima-rajak",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "3047041",
@@ -9870,7 +10028,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 69361,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "37.2"
   },
   {
     "office": "mla",
@@ -9891,7 +10051,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 658,
-    "position": 2
+    "position": 9,
+    "rank": 9,
+    "voteShare": "0.4"
   },
   {
     "office": "mla",
@@ -10529,14 +10691,14 @@
     "partySlug": "bjp",
     "constituencyName": "BISHNUPUR - 255",
     "constituencySlug": "bishnupur-255",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 111082,
-    "result": "won",
+    "result": "lost",
     "state": "West Bengal",
     "stateSlug": "west-bengal",
-    "position": 1,
-    "voteShare": "54.1",
-    "rank": 1
+    "position": 2,
+    "voteShare": "24.5",
+    "rank": 2
   },
   {
     "candidateName": "CHANDRANATH SINHA",
@@ -14443,7 +14605,7 @@
     "education": "N/A",
     "age": "N/A",
     "position": 1,
-    "voteShare": "53.3",
+    "voteShare": "29.2",
     "rank": 1
   },
   {
@@ -14453,18 +14615,18 @@
     "partySlug": "bjp",
     "constituencyName": "BISHNUPUR - 255",
     "constituencySlug": "bishnupur-255",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 111082,
-    "result": "won",
+    "result": "lost",
     "state": "West Bengal",
     "stateSlug": "west-bengal",
     "criminalCases": "0",
     "assets": "0",
     "education": "N/A",
     "age": "N/A",
-    "position": 1,
-    "voteShare": "54.1",
-    "rank": 1
+    "position": 2,
+    "voteShare": "24.5",
+    "rank": 2
   },
   {
     "candidateName": "CHANDRANATH SINHA",

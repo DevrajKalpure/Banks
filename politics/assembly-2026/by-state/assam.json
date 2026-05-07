@@ -685,12 +685,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=754",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 1158,
-    "voteShare": "0.76",
+    "voteShare": "0.8",
     "margin": "-85823",
     "runnerUp": "DR. JOY PRAKASH DAS",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -1043,12 +1044,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=187",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 13294,
-    "voteShare": "10.30",
+    "voteShare": "10.3",
     "margin": "-73930",
     "runnerUp": "MUNINDRA DAS (BAPTI)",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -1428,10 +1430,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 100634,
-    "voteShare": "63.52",
+    "voteShare": "63.5",
     "margin": "44462",
     "runnerUp": "DHRUBAJYOTI PURKAYASTHA",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -1505,10 +1508,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 42051,
-    "voteShare": "31.07",
+    "voteShare": "31.1",
     "margin": "-50072",
     "runnerUp": "SHRI NABA KUMAR DOLEY",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -1788,12 +1792,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=387",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 1302,
-    "voteShare": "0.69",
+    "voteShare": "0.7",
     "margin": "-132711",
     "runnerUp": "BIJOY MALAKAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -2148,10 +2153,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 23005,
-    "voteShare": "21.16",
+    "voteShare": "21.2",
     "margin": "-60243",
     "runnerUp": "TULIRAM RONGHANG",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -2375,9 +2381,14 @@
     "education": "Graduate",
     "assets": "42350541",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=271",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1675,
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.2"
   },
   {
     "office": "mla",
@@ -2475,12 +2486,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=212",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 7,
     "votes": 1488,
-    "voteShare": "0.85",
+    "voteShare": "0.8",
     "margin": "-87820",
     "runnerUp": "BISWAJIT DAIMARY",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 7
   },
   {
     "office": "mla",
@@ -2604,12 +2616,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=349",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 2697,
-    "voteShare": "1.45",
+    "voteShare": "1.5",
     "margin": "-98578",
     "runnerUp": "PANIRAM BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -2678,12 +2691,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=388",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 1729,
-    "voteShare": "0.84",
+    "voteShare": "0.8",
     "margin": "-109631",
     "runnerUp": "SASHI KANTA DAS",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -2705,10 +2719,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 63230,
-    "voteShare": "41.45",
+    "voteShare": "41.5",
     "margin": "-23751",
     "runnerUp": "DR. JOY PRAKASH DAS",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -2884,12 +2899,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=111",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 1019,
-    "voteShare": "0.83",
+    "voteShare": "0.8",
     "margin": "-77305",
     "runnerUp": "BHUBAN GAM",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -2961,12 +2977,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=300",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 1593,
-    "voteShare": "0.90",
+    "voteShare": "0.9",
     "margin": "-114465",
     "runnerUp": "DR. TAPAN DAS",
-    "runnerUpParty": "Asom Gana Parishad"
+    "runnerUpParty": "Asom Gana Parishad",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -3029,7 +3046,7 @@
     "constituencySlug": "boko-chaygaon--st-",
     "candidateName": "Bhoglal Rabha",
     "candidateSlug": "bhoglal-rabha",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "12th Pass",
     "assets": "2781147",
@@ -3039,7 +3056,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1178,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "0.7"
   },
   {
     "office": "mla",
@@ -3061,10 +3080,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 78324,
-    "voteShare": "64.01",
+    "voteShare": "64.0",
     "margin": "35300",
     "runnerUp": "DR. INDRANEEL PEGU",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -3086,10 +3106,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 128940,
-    "voteShare": "72.54",
+    "voteShare": "72.5",
     "margin": "80124",
     "runnerUp": "RAJU KUMAR MEDOK",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -3290,10 +3311,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 134013,
-    "voteShare": "71.17",
+    "voteShare": "71.2",
     "margin": "83765",
     "runnerUp": "SURUCHI ROY",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -3391,12 +3413,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=382",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 8,
     "votes": 240,
-    "voteShare": "0.13",
+    "voteShare": "0.1",
     "margin": "-133773",
     "runnerUp": "BIJOY MALAKAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 8
   },
   {
     "office": "mla",
@@ -3470,10 +3493,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 26363,
-    "voteShare": "33.97",
+    "voteShare": "34.0",
     "margin": "-23910",
     "runnerUp": "HABBEY TERON",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -3493,12 +3517,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=752",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 1176,
-    "voteShare": "0.77",
+    "voteShare": "0.8",
     "margin": "-85805",
     "runnerUp": "DR. JOY PRAKASH DAS",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -3749,12 +3774,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=305",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 3187,
-    "voteShare": "2.25",
+    "voteShare": "2.3",
     "margin": "-87679",
     "runnerUp": "NISO TERANGPI",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -3800,12 +3826,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=315",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 15410,
-    "voteShare": "16.55",
+    "voteShare": "16.5",
     "margin": "-33365",
     "runnerUp": "RABIRAM NARZARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -3879,10 +3906,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 89308,
-    "voteShare": "50.72",
+    "voteShare": "50.7",
     "margin": "26743",
     "runnerUp": "PRAMOD BORO",
-    "runnerUpParty": "United People's Party, Liberal"
+    "runnerUpParty": "United People's Party, Liberal",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -4268,10 +4296,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 28368,
-    "voteShare": "21.63",
+    "voteShare": "21.6",
     "margin": "-50306",
     "runnerUp": "RUPALI LANGTHASA",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -4390,12 +4419,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=716",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
-    "votes": 1000,
-    "voteShare": "0.66",
+    "position": 3,
+    "votes": 961,
+    "voteShare": "0.7",
     "margin": "-91255",
     "runnerUp": "PABITRA RABHA",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -4547,10 +4577,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 56172,
-    "voteShare": "35.45",
+    "voteShare": "35.5",
     "margin": "-44462",
     "runnerUp": "AMIYA KANTI DAS",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -4858,10 +4889,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 94086,
-    "voteShare": "65.14",
+    "voteShare": "65.1",
     "margin": "47402",
     "runnerUp": "GAGAN CHANDRA HALOI",
-    "runnerUpParty": "Independent"
+    "runnerUpParty": "Independent",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -4909,10 +4941,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 49246,
-    "voteShare": "35.67",
+    "voteShare": "35.7",
     "margin": "-27554",
     "runnerUp": "RIHON DAIMARI",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -5064,10 +5097,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 43024,
-    "voteShare": "35.16",
+    "voteShare": "35.2",
     "margin": "-35300",
     "runnerUp": "BHUBAN GAM",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -5089,10 +5123,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 86981,
-    "voteShare": "57.02",
+    "voteShare": "57.0",
     "margin": "23751",
     "runnerUp": "BASANTA DAS",
-    "runnerUpParty": "Asom Gana Parishad"
+    "runnerUpParty": "Asom Gana Parishad",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -5166,10 +5201,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 83649,
-    "voteShare": "59.00",
+    "voteShare": "59.0",
     "margin": "32229",
     "runnerUp": "SRI SAILEN SONOWAL",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -5191,10 +5227,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 116058,
-    "voteShare": "65.93",
+    "voteShare": "65.9",
     "margin": "65385",
     "runnerUp": "SHRI KISHOR KUMAR BARUAH",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -5606,12 +5643,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=317",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 3740,
-    "voteShare": "4.02",
+    "voteShare": "4.0",
     "margin": "-45035",
     "runnerUp": "RABIRAM NARZARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -5633,10 +5671,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 46684,
-    "voteShare": "32.32",
+    "voteShare": "32.3",
     "margin": "-47402",
     "runnerUp": "DIPAK KUMAR DAS",
-    "runnerUpParty": "Asom Gana Parishad"
+    "runnerUpParty": "Asom Gana Parishad",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -5657,7 +5696,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 7092,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "4.3"
   },
   {
     "office": "mla",
@@ -5911,12 +5952,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=23",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 1020,
-    "voteShare": "0.64",
+    "voteShare": "0.6",
     "margin": "-99614",
     "runnerUp": "AMIYA KANTI DAS",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -5990,10 +6032,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 26521,
-    "voteShare": "20.55",
+    "voteShare": "20.6",
     "margin": "-60703",
     "runnerUp": "MUNINDRA DAS (BAPTI)",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -6015,10 +6058,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 50273,
-    "voteShare": "64.78",
+    "voteShare": "64.8",
     "margin": "23910",
     "runnerUp": "BIKRAM HANSE",
-    "runnerUpParty": "Independent"
+    "runnerUpParty": "Independent",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -6241,12 +6285,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=148",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 1667,
-    "voteShare": "0.95",
+    "voteShare": "0.9",
     "margin": "-87641",
     "runnerUp": "BISWAJIT DAIMARY",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -6731,12 +6776,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=171",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 5794,
-    "voteShare": "3.66",
+    "voteShare": "3.7",
     "margin": "-83026",
     "runnerUp": "MANESWAR BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -6934,10 +6980,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 41126,
-    "voteShare": "29.08",
+    "voteShare": "29.1",
     "margin": "-49740",
     "runnerUp": "NISO TERANGPI",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -7009,12 +7056,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=167",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 10623,
-    "voteShare": "6.71",
+    "voteShare": "6.7",
     "margin": "-78197",
     "runnerUp": "MANESWAR BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -7318,7 +7366,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1432,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "0.9"
   },
   {
     "office": "mla",
@@ -7983,12 +8033,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=19",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 1179,
-    "voteShare": "0.87",
+    "voteShare": "0.9",
     "margin": "-90944",
     "runnerUp": "SHRI NABA KUMAR DOLEY",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -8060,12 +8111,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=298",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 5853,
-    "voteShare": "3.32",
+    "voteShare": "3.3",
     "margin": "-110205",
     "runnerUp": "DR. TAPAN DAS",
-    "runnerUpParty": "Asom Gana Parishad"
+    "runnerUpParty": "Asom Gana Parishad",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -8783,7 +8835,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 976,
-    "position": 2
+    "position": 7,
+    "rank": 7,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -8955,9 +9009,14 @@
     "education": "Post Graduate",
     "assets": "5252240",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=273",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 1091,
+    "position": 5,
+    "rank": 5,
+    "voteShare": "0.8"
   },
   {
     "office": "mla",
@@ -9000,10 +9059,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 35183,
-    "voteShare": "29.05",
+    "voteShare": "29.1",
     "margin": "-39633",
     "runnerUp": "SEWLI MOHILARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -9023,12 +9083,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=471",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 6,
     "votes": 1211,
-    "voteShare": "1.00",
+    "voteShare": "1.0",
     "margin": "-73605",
     "runnerUp": "SEWLI MOHILARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 6
   },
   {
     "office": "mla",
@@ -9050,10 +9111,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 106229,
-    "voteShare": "69.26",
+    "voteShare": "69.3",
     "margin": "78106",
     "runnerUp": "SANJEEB TERON",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -9278,12 +9340,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=210",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 6,
     "votes": 1554,
-    "voteShare": "0.88",
+    "voteShare": "0.9",
     "margin": "-87754",
     "runnerUp": "BISWAJIT DAIMARY",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 6
   },
   {
     "office": "mla",
@@ -9409,10 +9472,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 88820,
-    "voteShare": "56.08",
+    "voteShare": "56.1",
     "margin": "49050",
     "runnerUp": "RAKESH BRAHMA",
-    "runnerUpParty": "United People's Party, Liberal"
+    "runnerUpParty": "United People's Party, Liberal",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -9432,12 +9496,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=473",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 7011,
-    "voteShare": "5.79",
+    "voteShare": "5.8",
     "margin": "-67805",
     "runnerUp": "SEWLI MOHILARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -9458,7 +9523,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 978,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -9548,10 +9615,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 52299,
-    "voteShare": "35.67",
+    "voteShare": "35.7",
     "margin": "-39917",
     "runnerUp": "PABITRA RABHA",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -9597,12 +9665,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=151",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 18975,
-    "voteShare": "10.22",
+    "voteShare": "10.2",
     "margin": "-82300",
     "runnerUp": "PANIRAM BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -10607,12 +10676,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=718",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 543,
-    "voteShare": "0.37",
+    "voteShare": "0.4",
     "margin": "-91673",
     "runnerUp": "PABITRA RABHA",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -10658,12 +10728,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=389",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 2595,
-    "voteShare": "1.26",
+    "voteShare": "1.3",
     "margin": "-108765",
     "runnerUp": "SASHI KANTA DAS",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -10731,9 +10802,14 @@
     "education": "10th Pass",
     "assets": "1010481",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "won",
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=8",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": true,
+    "votes": 87224,
+    "position": 1,
+    "rank": 1,
+    "voteShare": "67.6"
   },
   {
     "office": "mla",
@@ -10929,12 +11005,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=213",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 2731,
-    "voteShare": "1.55",
+    "voteShare": "1.6",
     "margin": "-86577",
     "runnerUp": "BISWAJIT DAIMARY",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -11002,7 +11079,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 80975,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "48.1"
   },
   {
     "office": "mla",
@@ -11022,12 +11101,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=336",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 24084,
-    "voteShare": "18.37",
+    "voteShare": "18.4",
     "margin": "-54590",
     "runnerUp": "RUPALI LANGTHASA",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -11142,14 +11222,19 @@
     "constituencySlug": "dhemaji--st-",
     "candidateName": "Narendra Kumar Paw",
     "candidateSlug": "narendra-kumar-paw",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "Graduate",
     "assets": "39580784",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=274",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 3550,
+    "position": 3,
+    "rank": 3,
+    "voteShare": "2.5"
   },
   {
     "office": "mla",
@@ -11506,10 +11591,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 90866,
-    "voteShare": "64.25",
+    "voteShare": "64.2",
     "margin": "49740",
     "runnerUp": "J. I KATHAR",
-    "runnerUpParty": "Independent"
+    "runnerUpParty": "Independent",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -11529,12 +11615,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=301",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 1865,
-    "voteShare": "1.06",
+    "voteShare": "1.1",
     "margin": "-114193",
     "runnerUp": "DR. TAPAN DAS",
-    "runnerUpParty": "Asom Gana Parishad"
+    "runnerUpParty": "Asom Gana Parishad",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -11814,12 +11901,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=185",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 1999,
-    "voteShare": "1.55",
+    "voteShare": "1.5",
     "margin": "-85225",
     "runnerUp": "MUNINDRA DAS (BAPTI)",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -11867,10 +11955,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 92216,
-    "voteShare": "62.90",
+    "voteShare": "62.9",
     "margin": "39917",
     "runnerUp": "MARKLINE MARAK",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -12048,10 +12137,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 101275,
-    "voteShare": "54.56",
+    "voteShare": "54.6",
     "margin": "38601",
     "runnerUp": "RANJIT BASUMATARY",
-    "runnerUpParty": "United People's Party, Liberal"
+    "runnerUpParty": "United People's Party, Liberal",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -12175,12 +12265,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=290",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 615,
-    "voteShare": "0.39",
+    "voteShare": "0.4",
     "margin": "-100019",
     "runnerUp": "AMIYA KANTI DAS",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -12332,10 +12423,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 155129,
-    "voteShare": "71.60",
+    "voteShare": "71.6",
     "margin": "93584",
     "runnerUp": "SRI BUBUL DAS",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -12668,7 +12760,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 81699,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "48.5"
   },
   {
     "office": "mla",
@@ -12690,10 +12784,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 62565,
-    "voteShare": "35.53",
+    "voteShare": "35.5",
     "margin": "-26743",
     "runnerUp": "BISWAJIT DAIMARY",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -13043,12 +13138,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=371",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 1227,
-    "voteShare": "1.13",
+    "voteShare": "1.1",
     "margin": "-82021",
     "runnerUp": "TULIRAM RONGHANG",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -13250,12 +13346,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=109",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 1414,
-    "voteShare": "0.92",
+    "voteShare": "0.9",
     "margin": "-104815",
     "runnerUp": "LUNSING TERON",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -13327,12 +13424,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=307",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 1152,
-    "voteShare": "0.81",
+    "voteShare": "0.8",
     "margin": "-89714",
     "runnerUp": "NISO TERANGPI",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -13352,12 +13450,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=488",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 6,
     "votes": 1000,
-    "voteShare": "0.65",
+    "voteShare": "0.7",
     "margin": "-105229",
     "runnerUp": "LUNSING TERON",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 6
   },
   {
     "office": "mla",
@@ -13379,10 +13478,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 48775,
-    "voteShare": "52.37",
+    "voteShare": "52.4",
     "margin": "24283",
     "runnerUp": "RAJU KUMAR NARZARY",
-    "runnerUpParty": "United People's Party, Liberal"
+    "runnerUpParty": "United People's Party, Liberal",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -13402,12 +13502,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=211",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 16777,
-    "voteShare": "9.53",
+    "voteShare": "9.5",
     "margin": "-72531",
     "runnerUp": "BISWAJIT DAIMARY",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -13684,12 +13785,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=490",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 1943,
-    "voteShare": "1.27",
+    "voteShare": "1.3",
     "margin": "-104286",
     "runnerUp": "LUNSING TERON",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -13709,12 +13811,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=308",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 4072,
-    "voteShare": "2.88",
+    "voteShare": "2.9",
     "margin": "-86794",
     "runnerUp": "NISO TERANGPI",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -13734,12 +13837,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=28",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 6,
     "votes": 1026,
-    "voteShare": "0.73",
+    "voteShare": "0.7",
     "margin": "-89840",
     "runnerUp": "NISO TERANGPI",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 6
   },
   {
     "office": "mla",
@@ -13811,12 +13915,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=170",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 7,
     "votes": 1790,
-    "voteShare": "1.13",
+    "voteShare": "1.1",
     "margin": "-87030",
     "runnerUp": "MANESWAR BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 7
   },
   {
     "office": "mla",
@@ -13916,10 +14021,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 48816,
-    "voteShare": "27.46",
+    "voteShare": "27.5",
     "margin": "-80124",
     "runnerUp": "BHUBON PEGU",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -13941,10 +14047,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 24492,
-    "voteShare": "26.30",
+    "voteShare": "26.3",
     "margin": "-24283",
     "runnerUp": "RABIRAM NARZARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -13965,7 +14072,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 107113,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "64.4"
   },
   {
     "office": "mla",
@@ -13986,7 +14095,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2025,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.2"
   },
   {
     "office": "mla",
@@ -14006,12 +14117,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=692",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 1521,
-    "voteShare": "1.20",
+    "voteShare": "1.2",
     "margin": "-68330",
     "runnerUp": "SURJYA RONGPHAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -14033,10 +14145,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 39770,
-    "voteShare": "25.11",
+    "voteShare": "25.1",
     "margin": "-49050",
     "runnerUp": "MANESWAR BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -14082,12 +14195,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=169",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 6,
     "votes": 3469,
-    "voteShare": "2.19",
+    "voteShare": "2.2",
     "margin": "-85351",
     "runnerUp": "MANESWAR BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 6
   },
   {
     "office": "mla",
@@ -14108,7 +14222,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 47559,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "28.6"
   },
   {
     "office": "mla",
@@ -14128,12 +14244,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=166",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 8118,
-    "voteShare": "5.13",
+    "voteShare": "5.1",
     "margin": "-80702",
     "runnerUp": "MANESWAR BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -14179,12 +14296,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=314",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 719,
-    "voteShare": "0.77",
+    "voteShare": "0.8",
     "margin": "-48056",
     "runnerUp": "RABIRAM NARZARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -14274,10 +14392,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 62674,
-    "voteShare": "33.76",
+    "voteShare": "33.8",
     "margin": "-38601",
     "runnerUp": "PANIRAM BRAHMA",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -14370,12 +14489,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=474",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 1437,
-    "voteShare": "1.19",
+    "voteShare": "1.2",
     "margin": "-73379",
     "runnerUp": "SEWLI MOHILARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -14449,10 +14569,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 52385,
-    "voteShare": "41.47",
+    "voteShare": "41.5",
     "margin": "-17466",
     "runnerUp": "SURJYA RONGPHAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -14576,12 +14697,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=690",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 1500,
-    "voteShare": "1.19",
+    "voteShare": "1.2",
     "margin": "-68351",
     "runnerUp": "SURJYA RONGPHAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -14652,10 +14774,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 76800,
-    "voteShare": "55.63",
+    "voteShare": "55.6",
     "margin": "27554",
     "runnerUp": "DIPEN BORO",
-    "runnerUpParty": "United People's Party, Liberal"
+    "runnerUpParty": "United People's Party, Liberal",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -14817,7 +14940,7 @@
     "constituencySlug": "hajo-sualkuchi--sc-",
     "candidateName": "Rojy Ahmed",
     "candidateSlug": "rojy-ahmed",
-    "partyName": "AITC",
+    "partyName": "All India Trinamool Congress",
     "partySlug": "aitc",
     "education": "8th Pass",
     "assets": "542695480",
@@ -14827,7 +14950,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2768,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "1.6"
   },
   {
     "office": "mla",
@@ -14976,10 +15101,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 78674,
-    "voteShare": "60.00",
+    "voteShare": "60.0",
     "margin": "50306",
     "runnerUp": "DANIEL LANGTHASA",
-    "runnerUpParty": "National People's Party"
+    "runnerUpParty": "National People's Party",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -15421,9 +15547,14 @@
     "education": "Graduate",
     "assets": "186114126",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=21",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 51420,
+    "position": 2,
+    "rank": 2,
+    "voteShare": "36.3"
   },
   {
     "office": "mla",
@@ -15648,12 +15779,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=691",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 1076,
-    "voteShare": "0.85",
+    "voteShare": "0.9",
     "margin": "-68775",
     "runnerUp": "SURJYA RONGPHAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -15673,12 +15805,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=77",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 6,
     "votes": 580,
-    "voteShare": "0.31",
+    "voteShare": "0.3",
     "margin": "-133433",
     "runnerUp": "BIJOY MALAKAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 6
   },
   {
     "office": "mla",
@@ -15726,10 +15859,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 28123,
-    "voteShare": "18.34",
+    "voteShare": "18.3",
     "margin": "-78106",
     "runnerUp": "LUNSING TERON",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -15931,12 +16065,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=110",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 14659,
-    "voteShare": "9.56",
+    "voteShare": "9.6",
     "margin": "-91570",
     "runnerUp": "LUNSING TERON",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -15956,12 +16091,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=384",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 7,
     "votes": 480,
-    "voteShare": "0.25",
+    "voteShare": "0.3",
     "margin": "-133533",
     "runnerUp": "BIJOY MALAKAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 7
   },
   {
     "office": "mla",
@@ -15983,10 +16119,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 111360,
-    "voteShare": "53.94",
+    "voteShare": "53.9",
     "margin": "20594",
     "runnerUp": "UTPAL BANIA",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -16086,10 +16223,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 74816,
-    "voteShare": "61.78",
+    "voteShare": "61.8",
     "margin": "39633",
     "runnerUp": "LAWRENCE ISLARY",
-    "runnerUpParty": "United People's Party, Liberal"
+    "runnerUpParty": "United People's Party, Liberal",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -16519,10 +16657,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 50673,
-    "voteShare": "28.78",
+    "voteShare": "28.8",
     "margin": "-65385",
     "runnerUp": "DR. TAPAN DAS",
-    "runnerUpParty": "Asom Gana Parishad"
+    "runnerUpParty": "Asom Gana Parishad",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -16544,10 +16683,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 92123,
-    "voteShare": "68.06",
+    "voteShare": "68.1",
     "margin": "50072",
     "runnerUp": "ANANDA NARAH",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -16667,7 +16807,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 929,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -16785,12 +16927,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=270",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 6,
     "votes": 394,
-    "voteShare": "0.28",
+    "voteShare": "0.3",
     "margin": "-83255",
     "runnerUp": "DR. RANOJ PEGU",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 6
   },
   {
     "office": "mla",
@@ -16836,12 +16979,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=381",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 647,
-    "voteShare": "0.34",
+    "voteShare": "0.3",
     "margin": "-133366",
     "runnerUp": "BIJOY MALAKAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -16863,10 +17007,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 61545,
-    "voteShare": "28.40",
+    "voteShare": "28.4",
     "margin": "-93584",
     "runnerUp": "PIJUSH HAZARIKA",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -17143,12 +17288,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=146",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 9429,
-    "voteShare": "6.83",
+    "voteShare": "6.8",
     "margin": "-67371",
     "runnerUp": "RIHON DAIMARI",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -17194,12 +17340,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=717",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 598,
-    "voteShare": "0.41",
+    "voteShare": "0.4",
     "margin": "-91618",
     "runnerUp": "PABITRA RABHA",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -17221,10 +17368,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 69851,
-    "voteShare": "55.29",
+    "voteShare": "55.3",
     "margin": "17466",
     "runnerUp": "RATON ENGTI",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -17246,10 +17394,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 50248,
-    "voteShare": "26.69",
+    "voteShare": "26.7",
     "margin": "-83765",
     "runnerUp": "BIJOY MALAKAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -17703,12 +17852,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=470",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 1446,
-    "voteShare": "1.19",
+    "voteShare": "1.2",
     "margin": "-73370",
     "runnerUp": "SEWLI MOHILARY",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -17730,10 +17880,11 @@
     "isWinner": true,
     "position": 1,
     "votes": 83248,
-    "voteShare": "76.57",
+    "voteShare": "76.6",
     "margin": "60243",
     "runnerUp": "AUGUSTINE ENGHEE",
-    "runnerUpParty": "Indian National Congress"
+    "runnerUpParty": "Indian National Congress",
+    "rank": 1
   },
   {
     "office": "mla",
@@ -17805,12 +17956,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=686",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 3670,
-    "voteShare": "2.54",
+    "voteShare": "2.5",
     "margin": "-90416",
     "runnerUp": "DIPAK KUMAR DAS",
-    "runnerUpParty": "Asom Gana Parishad"
+    "runnerUpParty": "Asom Gana Parishad",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -17856,12 +18008,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=145",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 4,
     "votes": 2583,
-    "voteShare": "1.87",
+    "voteShare": "1.9",
     "margin": "-74217",
     "runnerUp": "RIHON DAIMARI",
-    "runnerUpParty": "Bodoland Peoples Front"
+    "runnerUpParty": "Bodoland Peoples Front",
+    "rank": 4
   },
   {
     "office": "mla",
@@ -17883,10 +18036,11 @@
     "isWinner": false,
     "position": 2,
     "votes": 90766,
-    "voteShare": "43.97",
+    "voteShare": "44.0",
     "margin": "-20594",
     "runnerUp": "SASHI KANTA DAS",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 2
   },
   {
     "office": "mla",
@@ -17958,12 +18112,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=386",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 5,
     "votes": 590,
-    "voteShare": "0.31",
+    "voteShare": "0.3",
     "margin": "-133423",
     "runnerUp": "BIJOY MALAKAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 5
   },
   {
     "office": "mla",
@@ -18110,12 +18265,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=173",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 972,
-    "voteShare": "1.25",
+    "voteShare": "1.3",
     "margin": "-49301",
     "runnerUp": "HABBEY TERON",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -18135,12 +18291,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=373",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 3,
     "votes": 1239,
-    "voteShare": "1.14",
+    "voteShare": "1.1",
     "margin": "-82009",
     "runnerUp": "TULIRAM RONGHANG",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 3
   },
   {
     "office": "mla",
@@ -18186,12 +18343,13 @@
     "sourceUrl": "https://myneta.info/Assam2026/candidate.php?candidate_id=383",
     "lastUpdated": "2026-05-06",
     "isWinner": false,
-    "position": 2,
+    "position": 9,
     "votes": 199,
-    "voteShare": "0.11",
+    "voteShare": "0.1",
     "margin": "-133814",
     "runnerUp": "BIJOY MALAKAR",
-    "runnerUpParty": "Bharatiya Janata Party"
+    "runnerUpParty": "Bharatiya Janata Party",
+    "rank": 9
   },
   {
     "office": "mla",

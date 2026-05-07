@@ -150,7 +150,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6478,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.1"
   },
   {
     "office": "mla",
@@ -161,7 +163,7 @@
     "constituencySlug": "senthamangalam-st",
     "candidateName": "C Chandrasekaran",
     "candidateSlug": "c-chandrasekaran",
-    "partyName": "Thamizh Desiya Munnetra Kazhagam",
+    "partyName": "AIADMK",
     "partySlug": "aiadmk",
     "education": "10th Pass",
     "assets": "34296097",
@@ -170,8 +172,10 @@
     "sourceUrl": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1239",
     "lastUpdated": "2026-04-26",
     "isWinner": false,
-    "votes": 524,
-    "position": 2
+    "votes": 66160,
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.7"
   },
   {
     "office": "mla",
@@ -192,7 +196,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 199,
-    "position": 2
+    "position": 9,
+    "rank": 9,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -420,7 +426,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6335,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.6"
   },
   {
     "office": "mla",
@@ -441,7 +449,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 70346,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "29.1"
   },
   {
     "office": "mla",
@@ -462,7 +472,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 87802,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "36.3"
   },
   {
     "office": "mla",
@@ -552,7 +564,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6629,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.2"
   },
   {
     "office": "mla",
@@ -573,7 +587,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 60993,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "29.8"
   },
   {
     "office": "mla",
@@ -584,7 +600,7 @@
     "constituencySlug": "uthangarai-sc",
     "candidateName": "N Elaiyaraja",
     "candidateSlug": "n-elaiyaraja",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Graduate Professional",
     "assets": "24760027",
@@ -594,7 +610,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 70201,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "34.3"
   },
   {
     "office": "mla",
@@ -1029,7 +1047,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 13150,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "4.0"
   },
   {
     "office": "mla",
@@ -1050,7 +1070,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 93365,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "28.3"
   },
   {
     "office": "mla",
@@ -1071,7 +1093,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 73182,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "22.2"
   },
   {
     "office": "mla",
@@ -1161,9 +1185,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 9036,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "4.0"
+    "position": 7,
+    "rank": 7,
+    "voteShare": "2.4"
   },
   {
     "office": "mla",
@@ -1184,9 +1208,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 49722,
-    "position": 3,
-    "rank": 3,
-    "voteShare": "22.1"
+    "position": 5,
+    "rank": 5,
+    "voteShare": "13.1"
   },
   {
     "office": "mla",
@@ -1209,7 +1233,7 @@
     "votes": 92500,
     "position": 1,
     "rank": 1,
-    "voteShare": "41.1"
+    "voteShare": "24.3"
   },
   {
     "office": "mla",
@@ -1299,7 +1323,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 12856,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "6.8"
   },
   {
     "office": "mla",
@@ -1310,7 +1336,7 @@
     "constituencySlug": "vasudevanallur-sc",
     "candidateName": "R. Amutharani",
     "candidateSlug": "r-amutharani",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "12th Pass",
     "assets": "16033814",
@@ -1320,7 +1346,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 45862,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "24.2"
   },
   {
     "office": "mla",
@@ -1341,7 +1369,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4119,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "2.2"
   },
   {
     "office": "mla",
@@ -1776,9 +1806,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8124,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "3.7"
+    "position": 7,
+    "rank": 7,
+    "voteShare": "2.1"
   },
   {
     "office": "mla",
@@ -1799,9 +1829,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 439,
-    "position": 6,
-    "rank": 6,
-    "voteShare": "0.2"
+    "position": 11,
+    "rank": 11,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -1822,8 +1852,8 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 227,
-    "position": 9,
-    "rank": 9,
+    "position": 17,
+    "rank": 17,
     "voteShare": "0.1"
   },
   {
@@ -1977,7 +2007,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2658,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "1.9"
   },
   {
     "office": "mla",
@@ -1998,7 +2030,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 32,
-    "position": 2
+    "position": 17,
+    "rank": 17,
+    "voteShare": "0.0"
   },
   {
     "office": "mla",
@@ -2019,7 +2053,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 23,
-    "position": 2
+    "position": 20,
+    "rank": 20,
+    "voteShare": "0.0"
   },
   {
     "office": "mla",
@@ -2040,7 +2076,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4563,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.4"
   },
   {
     "office": "mla",
@@ -2061,7 +2099,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 52116,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "27.8"
   },
   {
     "office": "mla",
@@ -2082,7 +2122,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 85179,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "45.4"
   },
   {
     "office": "mla",
@@ -2433,7 +2475,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5832,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.7"
   },
   {
     "office": "mla",
@@ -2444,7 +2488,7 @@
     "constituencySlug": "bhavanisagar-sc",
     "candidateName": "V.P.Tamilselvi",
     "candidateSlug": "v-p-tamilselvi",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Post Graduate",
     "assets": "34787852",
@@ -2454,7 +2498,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 72391,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "34.0"
   },
   {
     "office": "mla",
@@ -2475,7 +2521,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 67822,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.9"
   },
   {
     "office": "mla",
@@ -2825,7 +2873,7 @@
     "constituencySlug": "yercaud-st",
     "candidateName": "Palanisamy. M",
     "candidateSlug": "palanisamy-m",
-    "partyName": "IND",
+    "partyName": "Naam Tamilar Katchi",
     "partySlug": "naam-tamilar-katchi",
     "education": "Graduate",
     "assets": "736840",
@@ -2834,8 +2882,10 @@
     "sourceUrl": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=227",
     "lastUpdated": "2026-04-26",
     "isWinner": false,
-    "votes": 174,
-    "position": 2
+    "votes": 7601,
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.0"
   },
   {
     "office": "mla",
@@ -3094,9 +3144,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4987,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "3.1"
+    "position": 8,
+    "rank": 8,
+    "voteShare": "1.3"
   },
   {
     "office": "mla",
@@ -3117,9 +3167,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 45781,
-    "position": 2,
-    "rank": 2,
-    "voteShare": "28.3"
+    "position": 4,
+    "rank": 4,
+    "voteShare": "12.0"
   },
   {
     "office": "mla",
@@ -3140,9 +3190,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 132,
-    "position": 12,
-    "rank": 12,
-    "voteShare": "0.1"
+    "position": 24,
+    "rank": 24,
+    "voteShare": "0.0"
   },
   {
     "office": "mla",
@@ -3496,7 +3546,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5802,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.5"
   },
   {
     "office": "mla",
@@ -3517,7 +3569,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 72761,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.9"
   },
   {
     "office": "mla",
@@ -3538,7 +3592,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 400,
-    "position": 2
+    "position": 7,
+    "rank": 7,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -4036,9 +4092,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 7470,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "3.8"
+    "position": 7,
+    "rank": 7,
+    "voteShare": "2.0"
   },
   {
     "office": "mla",
@@ -4054,14 +4110,14 @@
     "education": "12th Pass",
     "assets": "63249750",
     "criminalCases": 0,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=189",
     "lastUpdated": "2026-04-26",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 88235,
-    "position": 1,
-    "rank": 1,
-    "voteShare": "45.2"
+    "position": 2,
+    "rank": 2,
+    "voteShare": "23.4"
   },
   {
     "office": "mla",
@@ -4082,9 +4138,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 83449,
-    "position": 2,
-    "rank": 2,
-    "voteShare": "42.7"
+    "position": 3,
+    "rank": 3,
+    "voteShare": "22.1"
   },
   {
     "office": "mla",
@@ -4174,7 +4230,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6363,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.1"
   },
   {
     "office": "mla",
@@ -4195,7 +4253,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 139,
-    "position": 2
+    "position": 12,
+    "rank": 12,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -4216,7 +4276,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 1043,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "0.5"
   },
   {
     "office": "mla",
@@ -5128,7 +5190,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6242,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.2"
   },
   {
     "office": "mla",
@@ -5149,7 +5213,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 58763,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "30.0"
   },
   {
     "office": "mla",
@@ -5170,7 +5236,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 73167,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "37.3"
   },
   {
     "office": "mla",
@@ -5260,7 +5328,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2522,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.1"
   },
   {
     "office": "mla",
@@ -5281,7 +5351,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 18191,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "15.3"
   },
   {
     "office": "mla",
@@ -5302,7 +5374,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 43097,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "36.2"
   },
   {
     "office": "mla",
@@ -5392,7 +5466,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 9610,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "4.6"
   },
   {
     "office": "mla",
@@ -5413,7 +5489,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 66335,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.6"
   },
   {
     "office": "mla",
@@ -5434,7 +5512,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 44521,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "21.2"
   },
   {
     "office": "mla",
@@ -5800,7 +5880,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 15363,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "8.1"
   },
   {
     "office": "mla",
@@ -5821,7 +5903,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 54099,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "28.6"
   },
   {
     "office": "mla",
@@ -5832,7 +5916,7 @@
     "constituencySlug": "paramakudi-sc",
     "candidateName": "Gopirajan. G",
     "candidateSlug": "gopirajan-g",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Post Graduate",
     "assets": "25602863",
@@ -5842,7 +5926,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 55613,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "29.4"
   },
   {
     "office": "mla",
@@ -6340,7 +6426,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 10430,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "5.5"
   },
   {
     "office": "mla",
@@ -6361,7 +6449,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 2091,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "1.1"
   },
   {
     "office": "mla",
@@ -6372,7 +6462,7 @@
     "constituencySlug": "sholavandan-sc",
     "candidateName": "Karuppaiah.M.V",
     "candidateSlug": "karuppaiah-m-v",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Post Graduate",
     "assets": "32900000",
@@ -6382,7 +6472,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 63907,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "33.9"
   },
   {
     "office": "mla",
@@ -6673,9 +6765,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6820,
-    "position": 5,
-    "rank": 5,
-    "voteShare": "2.9"
+    "position": 11,
+    "rank": 11,
+    "voteShare": "1.0"
   },
   {
     "office": "mla",
@@ -6696,9 +6788,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 45540,
-    "position": 2,
-    "rank": 2,
-    "voteShare": "19.5"
+    "position": 7,
+    "rank": 7,
+    "voteShare": "7.0"
   },
   {
     "office": "mla",
@@ -6719,9 +6811,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 41522,
-    "position": 3,
-    "rank": 3,
-    "voteShare": "17.8"
+    "position": 9,
+    "rank": 9,
+    "voteShare": "6.4"
   },
   {
     "office": "mla",
@@ -7018,7 +7110,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 13274,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "6.9"
   },
   {
     "office": "mla",
@@ -7039,7 +7133,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 57072,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "29.6"
   },
   {
     "office": "mla",
@@ -7050,7 +7146,7 @@
     "constituencySlug": "srivilliputhur-sc",
     "candidateName": "Karthik.A",
     "candidateSlug": "karthik-a",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Post Graduate",
     "assets": "11655000",
@@ -7060,7 +7156,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 65653,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "34.1"
   },
   {
     "office": "mla",
@@ -7219,9 +7317,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5819,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "2.8"
+    "position": 13,
+    "rank": 13,
+    "voteShare": "0.9"
   },
   {
     "office": "mla",
@@ -7237,14 +7335,14 @@
     "education": "12th Pass",
     "assets": "107822345",
     "criminalCases": 1,
-    "result": "won",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=770",
     "lastUpdated": "2026-04-26",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 91371,
-    "position": 1,
-    "rank": 1,
-    "voteShare": "44.1"
+    "position": 2,
+    "rank": 2,
+    "voteShare": "14.1"
   },
   {
     "office": "mla",
@@ -7265,9 +7363,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 58002,
-    "position": 2,
-    "rank": 2,
-    "voteShare": "28.0"
+    "position": 5,
+    "rank": 5,
+    "voteShare": "8.9"
   },
   {
     "office": "mla",
@@ -7288,7 +7386,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5495,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.9"
   },
   {
     "office": "mla",
@@ -7309,7 +7409,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 63805,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "33.5"
   },
   {
     "office": "mla",
@@ -7320,7 +7422,7 @@
     "constituencySlug": "vandavasi-sc",
     "candidateName": "Rani. P",
     "candidateSlug": "rani-p",
-    "partyName": "DMK",
+    "partyName": "AIADMK",
     "partySlug": "aiadmk",
     "education": "5th Pass",
     "assets": "7303000",
@@ -7329,8 +7431,10 @@
     "sourceUrl": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1082",
     "lastUpdated": "2026-04-26",
     "isWinner": false,
-    "votes": 52808,
-    "position": 2
+    "votes": 60472,
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.8"
   },
   {
     "office": "mla",
@@ -7351,7 +7455,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4853,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.6"
   },
   {
     "office": "mla",
@@ -7372,7 +7478,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 57909,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "31.0"
   },
   {
     "office": "mla",
@@ -7393,7 +7501,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 63809,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "34.2"
   },
   {
     "office": "mla",
@@ -7483,7 +7593,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6415,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.1"
   },
   {
     "office": "mla",
@@ -7494,7 +7606,7 @@
     "constituencySlug": "rasipuram-sc",
     "candidateName": "Logesh Tamilselvan D",
     "candidateSlug": "logesh-tamilselvan-d",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Post Graduate",
     "assets": "79524652",
@@ -7504,7 +7616,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 74808,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "36.7"
   },
   {
     "office": "mla",
@@ -7525,7 +7639,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 57854,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "28.4"
   },
   {
     "office": "mla",
@@ -7546,9 +7662,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6956,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "3.9"
+    "position": 8,
+    "rank": 8,
+    "voteShare": "1.6"
   },
   {
     "office": "mla",
@@ -7569,9 +7685,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 60892,
-    "position": 2,
-    "rank": 2,
-    "voteShare": "34.0"
+    "position": 4,
+    "rank": 4,
+    "voteShare": "13.8"
   },
   {
     "office": "mla",
@@ -7592,9 +7708,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 34617,
-    "position": 3,
-    "rank": 3,
-    "voteShare": "19.3"
+    "position": 6,
+    "rank": 6,
+    "voteShare": "7.8"
   },
   {
     "office": "mla",
@@ -7615,7 +7731,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 12767,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "6.5"
   },
   {
     "office": "mla",
@@ -7636,7 +7754,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 42567,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "21.7"
   },
   {
     "office": "mla",
@@ -7657,7 +7777,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8006,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "4.1"
   },
   {
     "office": "mla",
@@ -7747,9 +7869,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4790,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "2.6"
+    "position": 8,
+    "rank": 8,
+    "voteShare": "1.3"
   },
   {
     "office": "mla",
@@ -7770,9 +7892,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 63965,
-    "position": 2,
-    "rank": 2,
-    "voteShare": "35.1"
+    "position": 4,
+    "rank": 4,
+    "voteShare": "17.0"
   },
   {
     "office": "mla",
@@ -7793,9 +7915,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 132,
-    "position": 11,
-    "rank": 11,
-    "voteShare": "0.1"
+    "position": 21,
+    "rank": 21,
+    "voteShare": "0.0"
   },
   {
     "office": "mla",
@@ -7954,7 +8076,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 9474,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.8"
   },
   {
     "office": "mla",
@@ -7975,7 +8099,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 76489,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "30.3"
   },
   {
     "office": "mla",
@@ -7996,7 +8122,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 72716,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "28.8"
   },
   {
     "office": "mla",
@@ -8017,7 +8145,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4697,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.5"
   },
   {
     "office": "mla",
@@ -8038,7 +8168,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 68873,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "35.9"
   },
   {
     "office": "mla",
@@ -8049,7 +8181,7 @@
     "constituencySlug": "vanur-sc",
     "candidateName": "Murugan P",
     "candidateSlug": "murugan-p",
-    "partyName": "IND",
+    "partyName": "AIADMK",
     "partySlug": "aiadmk",
     "education": "Graduate Professional",
     "assets": "24525387",
@@ -8058,8 +8190,10 @@
     "sourceUrl": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=1309",
     "lastUpdated": "2026-04-26",
     "isWinner": false,
-    "votes": 537,
-    "position": 2
+    "votes": 54193,
+    "position": 3,
+    "rank": 3,
+    "voteShare": "28.3"
   },
   {
     "office": "mla",
@@ -8080,7 +8214,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5183,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.7"
   },
   {
     "office": "mla",
@@ -8101,7 +8237,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 53898,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "28.5"
   },
   {
     "office": "mla",
@@ -8122,7 +8260,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 54050,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "28.6"
   },
   {
     "office": "mla",
@@ -8557,7 +8697,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 7704,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.3"
   },
   {
     "office": "mla",
@@ -8578,7 +8720,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 68836,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "29.9"
   },
   {
     "office": "mla",
@@ -8599,7 +8743,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 235,
-    "position": 2
+    "position": 12,
+    "rank": 12,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -8752,7 +8898,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6026,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.0"
   },
   {
     "office": "mla",
@@ -8773,7 +8921,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 81100,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "40.8"
   },
   {
     "office": "mla",
@@ -8794,7 +8944,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 125,
-    "position": 2
+    "position": 9,
+    "rank": 9,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -9627,7 +9779,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5245,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.4"
   },
   {
     "office": "mla",
@@ -9648,7 +9802,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 72194,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "32.9"
   },
   {
     "office": "mla",
@@ -9669,7 +9825,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 75523,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "34.4"
   },
   {
     "office": "mla",
@@ -10369,7 +10527,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5242,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.7"
   },
   {
     "office": "mla",
@@ -10390,7 +10550,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 63833,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "32.7"
   },
   {
     "office": "mla",
@@ -10411,7 +10573,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 63099,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "32.3"
   },
   {
     "office": "mla",
@@ -10432,7 +10596,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6532,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.2"
   },
   {
     "office": "mla",
@@ -10453,7 +10619,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 256,
-    "position": 2
+    "position": 7,
+    "rank": 7,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -10464,7 +10632,7 @@
     "constituencySlug": "attur-sc",
     "candidateName": "Selvabharathi. R.",
     "candidateSlug": "selvabharathi-r",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Post Graduate",
     "assets": "4128695",
@@ -10474,7 +10642,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 65525,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.6"
   },
   {
     "office": "mla",
@@ -10559,9 +10729,14 @@
     "education": "Post Graduate",
     "assets": "15109092",
     "criminalCases": 0,
-    "result": "participating",
+    "result": "lost",
     "sourceUrl": "https://myneta.info/TamilNadu2026/candidate.php?candidate_id=54",
-    "lastUpdated": "2026-04-26"
+    "lastUpdated": "2026-04-26",
+    "isWinner": false,
+    "votes": 7494,
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.0"
   },
   {
     "office": "mla",
@@ -10582,7 +10757,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 77666,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "31.2"
   },
   {
     "office": "mla",
@@ -10603,7 +10780,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 80334,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "32.3"
   },
   {
     "office": "mla",
@@ -10969,7 +11148,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 10176,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "5.3"
   },
   {
     "office": "mla",
@@ -10980,7 +11161,7 @@
     "constituencySlug": "thiruthuraipoondi-sc",
     "candidateName": "Pandiyan.S",
     "candidateSlug": "pandiyan-s",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "10th Pass",
     "assets": "17237778",
@@ -10990,7 +11171,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 61140,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "32.1"
   },
   {
     "office": "mla",
@@ -11011,7 +11194,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 450,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -11032,7 +11217,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 19676,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "9.5"
   },
   {
     "office": "mla",
@@ -11053,7 +11240,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 42610,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "20.5"
   },
   {
     "office": "mla",
@@ -11074,7 +11263,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 68763,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "33.1"
   },
   {
     "office": "mla",
@@ -11572,7 +11763,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6676,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.0"
   },
   {
     "office": "mla",
@@ -11583,7 +11776,7 @@
     "constituencySlug": "ponneri-sc",
     "candidateName": "Dr.Ravi.M.S",
     "candidateSlug": "dr-ravi-m-s",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Graduate Professional",
     "assets": "195271409",
@@ -11593,7 +11786,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 110439,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "48.9"
   },
   {
     "office": "mla",
@@ -11614,7 +11809,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 51468,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "22.8"
   },
   {
     "office": "mla",
@@ -11980,9 +12177,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5062,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "3.3"
+    "position": 8,
+    "rank": 8,
+    "voteShare": "1.3"
   },
   {
     "office": "mla",
@@ -12003,9 +12200,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 57453,
-    "position": 2,
-    "rank": 2,
-    "voteShare": "36.9"
+    "position": 4,
+    "rank": 4,
+    "voteShare": "15.1"
   },
   {
     "office": "mla",
@@ -12026,8 +12223,8 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 33,
-    "position": 23,
-    "rank": 23,
+    "position": 50,
+    "rank": 50,
     "voteShare": "0.0"
   },
   {
@@ -12526,7 +12723,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 7397,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.7"
   },
   {
     "office": "mla",
@@ -12547,7 +12746,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 71449,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "35.7"
   },
   {
     "office": "mla",
@@ -12568,7 +12769,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 365,
-    "position": 2
+    "position": 6,
+    "rank": 6,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -12589,7 +12792,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6102,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.2"
   },
   {
     "office": "mla",
@@ -12610,7 +12815,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 58875,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.2"
   },
   {
     "office": "mla",
@@ -12631,7 +12838,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 57292,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "30.3"
   },
   {
     "office": "mla",
@@ -13330,7 +13539,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 17279,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "8.9"
   },
   {
     "office": "mla",
@@ -13351,7 +13562,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 25871,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "13.3"
   },
   {
     "office": "mla",
@@ -13362,7 +13575,7 @@
     "constituencySlug": "ottapidaram-sc",
     "candidateName": "P .Mathanraja",
     "candidateSlug": "p-mathanraja",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Graduate Professional",
     "assets": "23194202",
@@ -13372,7 +13585,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 81625,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "41.8"
   },
   {
     "office": "mla",
@@ -14083,7 +14298,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6199,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "4.1"
   },
   {
     "office": "mla",
@@ -14104,7 +14321,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 65590,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "43.6"
   },
   {
     "office": "mla",
@@ -14115,7 +14334,7 @@
     "constituencySlug": "gudalur-sc",
     "candidateName": "Deepak Sai Kishore.A",
     "candidateSlug": "deepak-sai-kishore-a",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Post Graduate",
     "assets": "11251412",
@@ -14125,7 +14344,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 34962,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "23.3"
   },
   {
     "office": "mla",
@@ -14284,7 +14505,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 11697,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.8"
   },
   {
     "office": "mla",
@@ -14305,7 +14528,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 88569,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "28.8"
   },
   {
     "office": "mla",
@@ -14326,7 +14551,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 43280,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "14.1"
   },
   {
     "office": "mla",
@@ -14485,7 +14712,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5256,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.5"
   },
   {
     "office": "mla",
@@ -14496,7 +14725,7 @@
     "constituencySlug": "valparai-sc",
     "candidateName": "Dr. Sridharan. A",
     "candidateSlug": "dr-sridharan-a",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Doctorate",
     "assets": "123922196",
@@ -14506,7 +14735,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 45300,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "30.2"
   },
   {
     "office": "mla",
@@ -14527,7 +14758,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 43728,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "29.2"
   },
   {
     "office": "mla",
@@ -14686,7 +14919,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 8436,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "4.6"
   },
   {
     "office": "mla",
@@ -14707,7 +14942,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 193,
-    "position": 2
+    "position": 12,
+    "rank": 12,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -14728,7 +14965,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 49222,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "26.8"
   },
   {
     "office": "mla",
@@ -15025,7 +15264,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5191,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.9"
   },
   {
     "office": "mla",
@@ -15046,7 +15287,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 50655,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "27.9"
   },
   {
     "office": "mla",
@@ -15067,7 +15310,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 50052,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "27.6"
   },
   {
     "office": "mla",
@@ -15088,7 +15333,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 4950,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "2.5"
   },
   {
     "office": "mla",
@@ -15109,7 +15356,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 59838,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "30.3"
   },
   {
     "office": "mla",
@@ -15120,7 +15369,7 @@
     "constituencySlug": "madurantakam-sc",
     "candidateName": "Ezhil Katharine Ezhilmalai",
     "candidateSlug": "ezhil-katharine-ezhilmalai",
-    "partyName": "TVK",
+    "partyName": "Tamilaga Vettri Kazhagam",
     "partySlug": "tamilaga-vettri-kazhagam",
     "education": "Post Graduate",
     "assets": "49635000",
@@ -15130,7 +15379,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 62090,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "31.4"
   },
   {
     "office": "mla",
@@ -15220,9 +15471,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 13157,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "5.0"
+    "position": 7,
+    "rank": 7,
+    "voteShare": "3.0"
   },
   {
     "office": "mla",
@@ -15243,9 +15494,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 61409,
-    "position": 2,
-    "rank": 2,
-    "voteShare": "23.4"
+    "position": 3,
+    "rank": 3,
+    "voteShare": "13.9"
   },
   {
     "office": "mla",
@@ -15266,9 +15517,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 53964,
-    "position": 3,
-    "rank": 3,
-    "voteShare": "20.6"
+    "position": 5,
+    "rank": 5,
+    "voteShare": "12.2"
   },
   {
     "office": "mla",
@@ -15358,7 +15609,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 5709,
-    "position": 2
+    "position": 4,
+    "rank": 4,
+    "voteShare": "3.3"
   },
   {
     "office": "mla",
@@ -15379,7 +15632,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": true,
     "votes": 63106,
-    "position": 1
+    "position": 1,
+    "rank": 1,
+    "voteShare": "36.0"
   },
   {
     "office": "mla",
@@ -15400,7 +15655,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 42502,
-    "position": 2
+    "position": 3,
+    "rank": 3,
+    "voteShare": "24.3"
   },
   {
     "office": "mla",
@@ -15484,9 +15741,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 6450,
-    "position": 4,
-    "rank": 4,
-    "voteShare": "3.1"
+    "position": 12,
+    "rank": 12,
+    "voteShare": "1.0"
   },
   {
     "office": "mla",
@@ -15507,9 +15764,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 44238,
-    "position": 3,
-    "rank": 3,
-    "voteShare": "21.1"
+    "position": 8,
+    "rank": 8,
+    "voteShare": "6.8"
   },
   {
     "office": "mla",
@@ -15530,8 +15787,8 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 97,
-    "position": 12,
-    "rank": 12,
+    "position": 48,
+    "rank": 48,
     "voteShare": "0.0"
   },
   {
@@ -15924,14 +16181,14 @@
     "partySlug": "dmk",
     "constituencyName": "COIMBATORE (SOUTH) - 120",
     "constituencySlug": "coimbatore-south-120",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 59724,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
-    "position": 1,
-    "voteShare": "38.3",
-    "rank": 1
+    "position": 3,
+    "voteShare": "15.7",
+    "rank": 3
   },
   {
     "candidateName": "THARAHAI CUTHBERT",
@@ -16020,14 +16277,14 @@
     "partySlug": "tvk",
     "constituencyName": "ERODE (EAST) - 98",
     "constituencySlug": "erode-east-98",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 69747,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
-    "position": 1,
-    "voteShare": "43.2",
-    "rank": 1
+    "position": 3,
+    "voteShare": "18.3",
+    "rank": 3
   },
   {
     "candidateName": "ANANTH MOGHAN K.K.",
@@ -16042,7 +16299,7 @@
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "position": 1,
-    "voteShare": "44.0",
+    "voteShare": "25.4",
     "rank": 1
   },
   {
@@ -16996,14 +17253,14 @@
     "partySlug": "tvk",
     "constituencyName": "SALEM (NORTH) - 89",
     "constituencySlug": "salem-north-89",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 85710,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
-    "position": 1,
-    "voteShare": "40.9",
-    "rank": 1
+    "position": 3,
+    "voteShare": "13.2",
+    "rank": 3
   },
   {
     "candidateName": "LAKSHMANAN.S",
@@ -17018,7 +17275,7 @@
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "position": 1,
-    "voteShare": "51.6",
+    "voteShare": "18.5",
     "rank": 1
   },
   {
@@ -17498,7 +17755,7 @@
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "position": 1,
-    "voteShare": "50.2",
+    "voteShare": "24.2",
     "rank": 1
   },
   {
@@ -17540,14 +17797,14 @@
     "partySlug": "tvk",
     "constituencyName": "TIRUPPATTUR - 185",
     "constituencySlug": "tiruppattur-185",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 83375,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
-    "position": 1,
-    "voteShare": "38.8",
-    "rank": 1
+    "position": 2,
+    "voteShare": "20.0",
+    "rank": 2
   },
   {
     "candidateName": "V.SATHYABAMA",
@@ -17562,7 +17819,7 @@
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "position": 1,
-    "voteShare": "50.1",
+    "voteShare": "29.8",
     "rank": 1
   },
   {
@@ -17572,14 +17829,14 @@
     "partySlug": "tvk",
     "constituencyName": "TIRUPPUR (SOUTH) - 114",
     "constituencySlug": "tiruppur-south-114",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 73793,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
-    "position": 1,
-    "voteShare": "41.2",
-    "rank": 1
+    "position": 2,
+    "voteShare": "16.7",
+    "rank": 2
   },
   {
     "candidateName": "G.HARI",
@@ -18558,7 +18815,7 @@
     "education": "N/A",
     "age": "N/A",
     "position": 1,
-    "voteShare": "41.1",
+    "voteShare": "24.3",
     "rank": 1
   },
   {
@@ -18568,18 +18825,18 @@
     "partySlug": "dmk",
     "constituencyName": "COIMBATORE (SOUTH) - 120",
     "constituencySlug": "coimbatore-south-120",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 59724,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "criminalCases": "0",
     "assets": "0",
     "education": "N/A",
     "age": "N/A",
-    "position": 1,
-    "voteShare": "38.3",
-    "rank": 1
+    "position": 3,
+    "voteShare": "15.7",
+    "rank": 3
   },
   {
     "candidateName": "THARAHAI CUTHBERT",
@@ -18788,18 +19045,18 @@
     "partySlug": "tvk",
     "constituencyName": "ERODE (EAST) - 98",
     "constituencySlug": "erode-east-98",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 69747,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "criminalCases": "0",
     "assets": "0",
     "education": "N/A",
     "age": "N/A",
-    "position": 1,
-    "voteShare": "43.2",
-    "rank": 1
+    "position": 3,
+    "voteShare": "18.3",
+    "rank": 3
   },
   {
     "candidateName": "ANANTH MOGHAN K.K.",
@@ -18818,7 +19075,7 @@
     "education": "N/A",
     "age": "N/A",
     "position": 1,
-    "voteShare": "44.0",
+    "voteShare": "25.4",
     "rank": 1
   },
   {
@@ -20908,18 +21165,18 @@
     "partySlug": "tvk",
     "constituencyName": "SALEM (NORTH) - 89",
     "constituencySlug": "salem-north-89",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 85710,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "criminalCases": "0",
     "assets": "0",
     "education": "N/A",
     "age": "N/A",
-    "position": 1,
-    "voteShare": "40.9",
-    "rank": 1
+    "position": 3,
+    "voteShare": "13.2",
+    "rank": 3
   },
   {
     "candidateName": "VIJAY TAMILAN PARTHIBAN. A",
@@ -20928,18 +21185,18 @@
     "partySlug": "tvk",
     "constituencyName": "SALEM (SOUTH) - 90",
     "constituencySlug": "salem-south-90",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 91371,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "criminalCases": "0",
     "assets": "0",
     "education": "N/A",
     "age": "N/A",
-    "position": 1,
-    "voteShare": "44.1",
-    "rank": 1
+    "position": 2,
+    "voteShare": "14.1",
+    "rank": 2
   },
   {
     "candidateName": "LAKSHMANAN.S",
@@ -20958,7 +21215,7 @@
     "education": "N/A",
     "age": "N/A",
     "position": 1,
-    "voteShare": "51.6",
+    "voteShare": "18.5",
     "rank": 1
   },
   {
@@ -21798,7 +22055,7 @@
     "education": "N/A",
     "age": "N/A",
     "position": 1,
-    "voteShare": "50.2",
+    "voteShare": "24.2",
     "rank": 1
   },
   {
@@ -21808,18 +22065,18 @@
     "partySlug": "dmk",
     "constituencyName": "TIRUCHIRAPPALLI (WEST) - 140",
     "constituencySlug": "tiruchirappalli-west-140",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 88235,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "criminalCases": "0",
     "assets": "0",
     "education": "N/A",
     "age": "N/A",
-    "position": 1,
-    "voteShare": "45.2",
-    "rank": 1
+    "position": 2,
+    "voteShare": "23.4",
+    "rank": 2
   },
   {
     "candidateName": "THANGAM THENARASU",
@@ -21898,7 +22155,7 @@
     "education": "N/A",
     "age": "N/A",
     "position": 1,
-    "voteShare": "51.9",
+    "voteShare": "25.2",
     "rank": 1
   },
   {
@@ -21908,18 +22165,18 @@
     "partySlug": "tvk",
     "constituencyName": "TIRUPPATTUR - 185",
     "constituencySlug": "tiruppattur-185",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 83375,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "criminalCases": "0",
     "assets": "0",
     "education": "N/A",
     "age": "N/A",
-    "position": 1,
-    "voteShare": "38.8",
-    "rank": 1
+    "position": 2,
+    "voteShare": "20.0",
+    "rank": 2
   },
   {
     "candidateName": "V.SATHYABAMA",
@@ -21938,7 +22195,7 @@
     "education": "N/A",
     "age": "N/A",
     "position": 1,
-    "voteShare": "50.1",
+    "voteShare": "29.8",
     "rank": 1
   },
   {
@@ -21948,18 +22205,18 @@
     "partySlug": "tvk",
     "constituencyName": "TIRUPPUR (SOUTH) - 114",
     "constituencySlug": "tiruppur-south-114",
-    "isWinner": true,
+    "isWinner": false,
     "votes": 73793,
-    "result": "won",
+    "result": "lost",
     "state": "Tamil Nadu",
     "stateSlug": "tamil-nadu",
     "criminalCases": "0",
     "assets": "0",
     "education": "N/A",
     "age": "N/A",
-    "position": 1,
-    "voteShare": "41.2",
-    "rank": 1
+    "position": 2,
+    "voteShare": "16.7",
+    "rank": 2
   },
   {
     "candidateName": "G.HARI",

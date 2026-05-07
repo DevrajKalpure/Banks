@@ -1186,7 +1186,8 @@
     "votes": 6018,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "3.0"
   },
   {
     "office": "mla",
@@ -1208,7 +1209,8 @@
     "votes": 121074,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "60.1"
   },
   {
     "office": "mla",
@@ -1230,7 +1232,8 @@
     "votes": 1267,
     "rank": 4,
     "isWinner": false,
-    "position": 2
+    "position": 4,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -2214,7 +2217,8 @@
     "votes": 77824,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "40.8"
   },
   {
     "office": "mla",
@@ -2236,7 +2240,8 @@
     "votes": 272,
     "rank": 4,
     "isWinner": false,
-    "position": 2
+    "position": 4,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -2258,7 +2263,8 @@
     "votes": 230,
     "rank": 5,
     "isWinner": false,
-    "position": 2
+    "position": 5,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -2691,7 +2697,8 @@
     "votes": 50590,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "45.4"
   },
   {
     "office": "mla",
@@ -2713,7 +2720,8 @@
     "votes": 15032,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "13.5"
   },
   {
     "office": "mla",
@@ -2735,7 +2743,8 @@
     "votes": 45357,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "40.7"
   },
   {
     "office": "mla",
@@ -3858,7 +3867,8 @@
     "votes": 859,
     "rank": 4,
     "isWinner": false,
-    "position": 2
+    "position": 4,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -3880,7 +3890,8 @@
     "votes": 59028,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "40.0"
   },
   {
     "office": "mla",
@@ -3902,7 +3913,8 @@
     "votes": 24925,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "16.9"
   },
   {
     "office": "mla",
@@ -4404,7 +4416,8 @@
     "votes": 20297,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "16.2"
   },
   {
     "office": "mla",
@@ -4426,7 +4439,8 @@
     "votes": 158,
     "rank": 5,
     "isWinner": false,
-    "position": 2
+    "position": 5,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -4446,9 +4460,10 @@
     "sourceUrl": "https://www.myneta.info/Kerala2026/candidate.php?candidate_id=285",
     "lastUpdated": "2026-05-05",
     "votes": 51584,
-    "rank": 6,
+    "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "41.1"
   },
   {
     "office": "mla",
@@ -4470,7 +4485,8 @@
     "votes": 59163,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "39.8"
   },
   {
     "office": "mla",
@@ -4492,7 +4508,8 @@
     "votes": 41372,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "27.8"
   },
   {
     "office": "mla",
@@ -4514,7 +4531,8 @@
     "votes": 905,
     "rank": 5,
     "isWinner": false,
-    "position": 2
+    "position": 5,
+    "voteShare": "0.6"
   },
   {
     "office": "mla",
@@ -4605,7 +4623,8 @@
     "votes": 70292,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "43.9"
   },
   {
     "office": "mla",
@@ -4627,7 +4646,8 @@
     "votes": 380,
     "rank": 4,
     "isWinner": false,
-    "position": 2
+    "position": 4,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -4649,7 +4669,8 @@
     "votes": 212,
     "rank": 5,
     "isWinner": false,
-    "position": 2
+    "position": 5,
+    "voteShare": "0.1"
   },
   {
     "office": "mla",
@@ -4740,7 +4761,8 @@
     "votes": 66153,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "44.4"
   },
   {
     "office": "mla",
@@ -4762,7 +4784,8 @@
     "votes": 26337,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "17.7"
   },
   {
     "office": "mla",
@@ -4784,7 +4807,8 @@
     "votes": 55821,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "37.5"
   },
   {
     "office": "mla",
@@ -5493,7 +5517,8 @@
     "votes": 58979,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "37.8"
   },
   {
     "office": "mla",
@@ -5515,7 +5540,8 @@
     "votes": 45216,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "29.0"
   },
   {
     "office": "mla",
@@ -5537,7 +5563,8 @@
     "votes": 51886,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "33.2"
   },
   {
     "office": "mla",
@@ -7407,7 +7434,8 @@
     "votes": 56833,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "38.8"
   },
   {
     "office": "mla",
@@ -7429,7 +7457,8 @@
     "votes": 55411,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "37.8"
   },
   {
     "office": "mla",
@@ -7451,7 +7480,8 @@
     "votes": 617,
     "rank": 5,
     "isWinner": false,
-    "position": 2
+    "position": 5,
+    "voteShare": "0.4"
   },
   {
     "office": "mla",
@@ -8091,7 +8121,8 @@
     "votes": 62339,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "35.5"
   },
   {
     "office": "mla",
@@ -8113,7 +8144,8 @@
     "votes": 275,
     "rank": 6,
     "isWinner": false,
-    "position": 2
+    "position": 6,
+    "voteShare": "0.2"
   },
   {
     "office": "mla",
@@ -8135,7 +8167,8 @@
     "votes": 1781,
     "rank": 4,
     "isWinner": false,
-    "position": 2
+    "position": 4,
+    "voteShare": "1.0"
   },
   {
     "office": "mla",
@@ -9048,7 +9081,8 @@
     "votes": 46687,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "28.8"
   },
   {
     "office": "mla",
@@ -9070,7 +9104,8 @@
     "votes": 37286,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "23.0"
   },
   {
     "office": "mla",
@@ -9091,7 +9126,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 669,
-    "position": 2
+    "position": 5,
+    "rank": 5,
+    "voteShare": "0.4"
   },
   {
     "office": "mla",
@@ -9113,7 +9150,8 @@
     "votes": 24841,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "15.2"
   },
   {
     "office": "mla",
@@ -9135,7 +9173,8 @@
     "votes": 56174,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "34.4"
   },
   {
     "office": "mla",
@@ -9157,7 +9196,8 @@
     "votes": 81488,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "49.9"
   },
   {
     "office": "mla",
@@ -9385,7 +9425,9 @@
     "lastUpdated": "2026-04-26",
     "isWinner": false,
     "votes": 48647,
-    "position": 2
+    "position": 2,
+    "rank": 2,
+    "voteShare": "37.1"
   },
   {
     "office": "mla",
@@ -9407,7 +9449,8 @@
     "votes": 60557,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "46.1"
   },
   {
     "office": "mla",
@@ -9429,7 +9472,8 @@
     "votes": 21162,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "16.1"
   },
   {
     "office": "mla",
@@ -9451,7 +9495,8 @@
     "votes": 66882,
     "rank": 2,
     "isWinner": false,
-    "position": 2
+    "position": 2,
+    "voteShare": "40.8"
   },
   {
     "office": "mla",
@@ -9473,7 +9518,8 @@
     "votes": 19681,
     "rank": 3,
     "isWinner": false,
-    "position": 2
+    "position": 3,
+    "voteShare": "12.0"
   },
   {
     "office": "mla",
@@ -9495,7 +9541,8 @@
     "votes": 77425,
     "rank": 1,
     "isWinner": true,
-    "position": 1
+    "position": 1,
+    "voteShare": "47.2"
   },
   {
     "office": "mla",
